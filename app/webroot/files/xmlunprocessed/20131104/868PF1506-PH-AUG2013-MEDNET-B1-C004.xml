@@ -1,0 +1,2775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+
+ <!-- Header: Submission identification information -->
+	<Header>
+		<SenderID>PF1506</SenderID>
+		<ReceiverID>C004</ReceiverID>
+		<TransactionDate>29/09/2013 21:20</TransactionDate>
+		<RecordCount>42</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC599682</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110040038427002</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+		
+		<Gross>66.5</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>66.5</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM246911</PatientID>
+			<Start>31/08/2013 14:37</Start>
+			<End>31/08/2013 15:10</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>626.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1891615-628660</ID>
+				<Start>31/08/2013 15:10</Start>
+
+				<Type>5</Type>
+				<Code>1644-5480-001</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>66.5</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC594317</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110040045135701</MemberID>
+		<PayerID>@Orient Insurance Company</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>94.05</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>94.05</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM255920</PatientID>
+			<Start>25/08/2013 08:35</Start>
+			<End>25/08/2013 10:19</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>709.9</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1870939-623236</ID>
+				<Start>25/08/2013 10:19</Start>
+
+				<Type>5</Type>
+				<Code>1472-1550-004</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>69.35</Net> 
+				<Clinician>GD11439</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1870939-623235</ID>
+				<Start>25/08/2013 10:19</Start>
+
+				<Type>5</Type>
+				<Code>1464-2321-001</Code>
+				<Quantity>2.00</Quantity>
+				 <Net>24.7</Net> 
+				<Clinician>GD11439</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC598646</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050045781401</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>10.92</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>10.92</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM268549</PatientID>
+			<Start>29/08/2013 20:25</Start>
+			<End>29/08/2013 20:50</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>691.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1887207-627689</ID>
+				<Start>29/08/2013 20:50</Start>
+
+				<Type>5</Type>
+				<Code>1472-3019-002</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>10.92</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC597829</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050041775902</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>85.49</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>85.49</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM210156</PatientID>
+			<Start>28/08/2013 20:35</Start>
+			<End>28/08/2013 21:08</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.07</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>460</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1883878-626815</ID>
+				<Start>28/08/2013 21:08</Start>
+
+				<Type>5</Type>
+				<Code>1472-1467-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>19</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1883878-626816</ID>
+				<Start>28/08/2013 21:08</Start>
+
+				<Type>5</Type>
+				<Code>1961-5170-001</Code>
+				<Quantity>12.00</Quantity>
+				 <Net>22.8</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1883878-626813</ID>
+				<Start>28/08/2013 21:08</Start>
+
+				<Type>5</Type>
+				<Code>1829-4834-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>31.82</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1883878-626814</ID>
+				<Start>28/08/2013 21:08</Start>
+
+				<Type>5</Type>
+				<Code>1544-2353-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>11.87</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC590450</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050032875602</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>17.1</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>17.1</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>2</Type>
+			<PatientID>LLM268271</PatientID>
+			<Start>21/08/2013 01:23</Start>
+			<End>21/08/2013 01:37</End>
+			<StartType>2</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>708.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1856776-619665</ID>
+				<Start>21/08/2013 01:37</Start>
+
+				<Type>5</Type>
+				<Code>1592-4208-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>17.1</Net> 
+				<Clinician>GD12117</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC593766</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110040038427002</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+		
+		<Gross>23.75</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>23.75</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM246911</PatientID>
+			<Start>24/08/2013 17:45</Start>
+			<End>24/08/2013 19:16</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>599.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>789.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>616.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>626.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1869221-622864</ID>
+				<Start>24/08/2013 19:16</Start>
+
+				<Type>5</Type>
+				<Code>1747-1499-005</Code>
+				<Quantity>6.00</Quantity>
+				 <Net>23.75</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC584535</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050029774301</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>12.35</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>12.35</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM139783</PatientID>
+			<Start>14/08/2013 10:59</Start>
+			<End>14/08/2013 11:25</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>041.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>701.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1834418-613500</ID>
+				<Start>14/08/2013 11:25</Start>
+
+				<Type>5</Type>
+				<Code>1464-2321-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>12.35</Net> 
+				<Clinician>GD11439</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC594959</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050045306102</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>6.17</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>6.17</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM253467</PatientID>
+			<Start>25/08/2013 20:22</Start>
+			<End>25/08/2013 20:47</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>460</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1873264-624030</ID>
+				<Start>25/08/2013 20:47</Start>
+
+				<Type>5</Type>
+				<Code>1268-1215-002</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>6.17</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC599907</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110330040667402</MemberID>
+		<PayerID>A020</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>70.76</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>70.76</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM170190</PatientID>
+			<Start>31/08/2013 17:34</Start>
+			<End>31/08/2013 18:48</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>372.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>460</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1892590-628910</ID>
+				<Start>31/08/2013 18:48</Start>
+
+				<Type>5</Type>
+				<Code>1472-3100-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>7.12</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1892590-628912</ID>
+				<Start>31/08/2013 18:48</Start>
+
+				<Type>5</Type>
+				<Code>1254-4221-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>19.47</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1892590-628909</ID>
+				<Start>31/08/2013 18:48</Start>
+
+				<Type>5</Type>
+				<Code>1829-4834-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>31.82</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1892590-628911</ID>
+				<Start>31/08/2013 18:48</Start>
+
+				<Type>5</Type>
+				<Code>1592-2225-004</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>12.35</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC593852</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050032975101</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>77.89</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>77.89</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM150806</PatientID>
+			<Start>24/08/2013 19:26</Start>
+			<End>24/08/2013 20:22</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>460</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1869447-622956</ID>
+				<Start>24/08/2013 20:22</Start>
+
+				<Type>5</Type>
+				<Code>1472-3100-001</Code>
+				<Quantity>2.00</Quantity>
+				 <Net>14.25</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1869447-622955</ID>
+				<Start>24/08/2013 20:22</Start>
+
+				<Type>5</Type>
+				<Code>1368-2083-004</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>7.12</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1869447-622953</ID>
+				<Start>24/08/2013 20:22</Start>
+
+				<Type>5</Type>
+				<Code>1472-1058-011</Code>
+				<Quantity>2.00</Quantity>
+				 <Net>12.35</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1869447-622952</ID>
+				<Start>24/08/2013 20:22</Start>
+
+				<Type>5</Type>
+				<Code>1829-4834-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>31.82</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1869447-622954</ID>
+				<Start>24/08/2013 20:22</Start>
+
+				<Type>5</Type>
+				<Code>1592-2225-004</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>12.35</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC594621</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050046051001</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>152.47</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>152.47</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM267428</PatientID>
+			<Start>25/08/2013 12:51</Start>
+			<End>25/08/2013 14:45</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>604.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1872119-623616</ID>
+				<Start>25/08/2013 14:45</Start>
+
+				<Type>5</Type>
+				<Code>1472-3907-002</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>142.5</Net> 
+				<Clinician>GD10272</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1872119-623617</ID>
+				<Start>25/08/2013 14:45</Start>
+
+				<Type>5</Type>
+				<Code>1544-3204-006</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>9.97</Net> 
+				<Clinician>GD10272</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC591951</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110340036596101</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>25.17</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>25.17</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM047315</PatientID>
+			<Start>22/08/2013 13:45</Start>
+			<End>22/08/2013 14:56</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V58.69</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>530.81</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>599.70</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>250.02</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1862436-621210</ID>
+				<Start>22/08/2013 14:56</Start>
+
+				<Type>5</Type>
+				<Code>1431-2069-002</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>25.17</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC595196</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110340036565601</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>23.75</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>23.75</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM052665</PatientID>
+			<Start>26/08/2013 07:47</Start>
+			<End>26/08/2013 09:28</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>698.9</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1874106-624229</ID>
+				<Start>26/08/2013 09:28</Start>
+
+				<Type>5</Type>
+				<Code>1592-2225-002</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>23.75</Net> 
+				<Clinician>GD11439</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC593185</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050035097701</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>175.27</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>175.27</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM220059</PatientID>
+			<Start>24/08/2013 10:07</Start>
+			<End>24/08/2013 11:19</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>473.8</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.2</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1867140-622308</ID>
+				<Start>24/08/2013 11:19</Start>
+
+				<Type>5</Type>
+				<Code>1387-3661-002</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>22.8</Net> 
+				<Clinician>GD12161</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1867140-622307</ID>
+				<Start>24/08/2013 11:19</Start>
+
+				<Type>5</Type>
+				<Code>1635-4157-003</Code>
+				<Quantity>15.00</Quantity>
+				 <Net>25.17</Net> 
+				<Clinician>GD12161</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1867140-622309</ID>
+				<Start>24/08/2013 11:19</Start>
+
+				<Type>5</Type>
+				<Code>1300-1299-003</Code>
+				<Quantity>7.00</Quantity>
+				 <Net>127.3</Net> 
+				<Clinician>GD12161</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC577449</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110330044049701</MemberID>
+		<PayerID>A020</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>19.94</Gross>
+		<PatientShare>4.2</PatientShare>
+		<Net>15.74</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM259905</PatientID>
+			<Start>05/08/2013 20:11</Start>
+			<End>05/08/2013 23:50</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>372.30</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>780.92</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1808153-606799</ID>
+				<Start>05/08/2013 23:50</Start>
+
+				<Type>5</Type>
+				<Code>1464-3408-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>10.12</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1808098-606787</ID>
+				<Start>05/08/2013 23:23</Start>
+
+				<Type>5</Type>
+				<Code>1472-3100-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>5.62</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC590051</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050046083301</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>119.68</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>119.68</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM268174</PatientID>
+			<Start>20/08/2013 11:33</Start>
+			<End>20/08/2013 13:40</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1855143-618936</ID>
+				<Start>20/08/2013 13:40</Start>
+
+				<Type>5</Type>
+				<Code>1472-3100-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>7.12</Net> 
+				<Clinician>GD5751</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1855143-618937</ID>
+				<Start>20/08/2013 13:40</Start>
+
+				<Type>5</Type>
+				<Code>1472-4503-002</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>9.02</Net> 
+				<Clinician>GD5751</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1855143-618934</ID>
+				<Start>20/08/2013 13:40</Start>
+
+				<Type>5</Type>
+				<Code>1431-2063-005</Code>
+				<Quantity>24.00</Quantity>
+				 <Net>3.8</Net> 
+				<Clinician>GD5751</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1855143-618933</ID>
+				<Start>20/08/2013 13:40</Start>
+
+				<Type>5</Type>
+				<Code>1259-2022-002</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>19.47</Net> 
+				<Clinician>GD5751</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1855143-618935</ID>
+				<Start>20/08/2013 13:40</Start>
+
+				<Type>5</Type>
+				<Code>1631-6652-001</Code>
+				<Quantity>7.00</Quantity>
+				 <Net>80.27</Net> 
+				<Clinician>GD5751</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC579041</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110040039951001</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>52.24</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>52.24</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM122126</PatientID>
+			<Start>07/08/2013 21:35</Start>
+			<End>07/08/2013 22:32</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>462</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1813768-608274</ID>
+				<Start>07/08/2013 22:32</Start>
+
+				<Type>5</Type>
+				<Code>1468-2949-006</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>28.5</Net> 
+				<Clinician>GD7994</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1813768-608275</ID>
+				<Start>07/08/2013 22:32</Start>
+
+				<Type>5</Type>
+				<Code>1544-2353-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>11.87</Net> 
+				<Clinician>GD7994</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1813768-608273</ID>
+				<Start>07/08/2013 22:32</Start>
+
+				<Type>5</Type>
+				<Code>1475-1921-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>6.17</Net> 
+				<Clinician>GD7994</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1813768-608272</ID>
+				<Start>07/08/2013 22:32</Start>
+
+				<Type>5</Type>
+				<Code>1544-3199-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>5.7</Net> 
+				<Clinician>GD7994</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC591292</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050029180601</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>32.3</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>32.3</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM268455</PatientID>
+			<Start>21/08/2013 19:50</Start>
+			<End>21/08/2013 20:47</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>424.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>413.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>785.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>786.50</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1859944-620521</ID>
+				<Start>21/08/2013 20:47</Start>
+
+				<Type>5</Type>
+				<Code>1527-1723-001</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>32.3</Net> 
+				<Clinician>GD6712</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC575775</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110330040667302</MemberID>
+		<PayerID>A020</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>120.17</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>120.17</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM253710</PatientID>
+			<Start>03/08/2013 22:19</Start>
+			<End>04/08/2013 00:18</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>616.10</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>646.63</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>643.03</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>V22.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1802421-605364</ID>
+				<Start>04/08/2013 00:18</Start>
+
+				<Type>5</Type>
+				<Code>1471-4483-001</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>7.6</Net> 
+				<Clinician>GD15735</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1802421-605362</ID>
+				<Start>04/08/2013 00:18</Start>
+
+				<Type>5</Type>
+				<Code>1431-2395-002</Code>
+				<Quantity>60.00</Quantity>
+				 <Net>92.62</Net> 
+				<Clinician>GD15735</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1802421-605363</ID>
+				<Start>04/08/2013 00:18</Start>
+
+				<Type>5</Type>
+				<Code>1680-2208-001</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>19.95</Net> 
+				<Clinician>GD15735</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC591004</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050035794502</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>69.35</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>69.35</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM167009</PatientID>
+			<Start>21/08/2013 14:34</Start>
+			<End>21/08/2013 15:28</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>626.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1858783-620202</ID>
+				<Start>21/08/2013 15:28</Start>
+
+				<Type>5</Type>
+				<Code>1710-4508-002</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>69.35</Net> 
+				<Clinician>GD11231</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC574449</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050042199401</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>363.85</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>363.85</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM220263</PatientID>
+			<Start>01/08/2013 22:25</Start>
+			<End>01/08/2013 23:41</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>493.82</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1797230-604119</ID>
+				<Start>01/08/2013 23:41</Start>
+
+				<Type>5</Type>
+				<Code>1531-3976-001</Code>
+				<Quantity>56.00</Quantity>
+				 <Net>363.85</Net> 
+				<Clinician>GD7994</Clinician>
+			<PriorAuthorizationID>270951</PriorAuthorizationID>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC584837</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050032593401</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>34.2</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>34.2</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM101381</PatientID>
+			<Start>11/08/2013 17:41</Start>
+			<End>14/08/2013 17:34</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>009.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>246.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>719.49</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>536.8</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1835982-613839</ID>
+				<Start>14/08/2013 17:34</Start>
+
+				<Type>5</Type>
+				<Code>1828-5283-001</Code>
+				<Quantity>8.00</Quantity>
+				 <Net>34.2</Net> 
+				<Clinician>GD10303</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC597311</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110040020023102</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>94.52</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>94.52</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM130938</PatientID>
+			<Start>28/08/2013 10:47</Start>
+			<End>28/08/2013 11:18</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1881608-626189</ID>
+				<Start>28/08/2013 11:18</Start>
+
+				<Type>5</Type>
+				<Code>1635-4157-003</Code>
+				<Quantity>15.00</Quantity>
+				 <Net>25.17</Net> 
+				<Clinician>GD16342</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1881608-626190</ID>
+				<Start>28/08/2013 11:18</Start>
+
+				<Type>5</Type>
+				<Code>1650-3153-001</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>69.35</Net> 
+				<Clinician>GD16342</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC597773</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050044878702</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>66.5</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>66.5</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM269786</PatientID>
+			<Start>28/08/2013 18:54</Start>
+			<End>28/08/2013 19:59</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>611.6</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>626.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>626.4</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1883709-626728</ID>
+				<Start>28/08/2013 19:59</Start>
+
+				<Type>5</Type>
+				<Code>1644-5480-001</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>66.5</Net> 
+				<Clinician>GD16136</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC599888</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050041775902</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>20.9</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>20.9</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM210156</PatientID>
+			<Start>28/08/2013 20:35</Start>
+			<End>31/08/2013 18:33</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.07</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>460</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1892518-628890</ID>
+				<Start>31/08/2013 18:33</Start>
+
+				<Type>5</Type>
+				<Code>1464-1316-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>20.9</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC598881</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050035618102</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>784-1986-5140579-1</EmiratesIDNumber>
+		
+		<Gross>186.67</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>186.67</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM212134</PatientID>
+			<Start>29/08/2013 13:52</Start>
+			<End>30/08/2013 12:54</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>460</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>626.4</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1888564-627966</ID>
+				<Start>30/08/2013 12:54</Start>
+
+				<Type>5</Type>
+				<Code>1523-6595-001</Code>
+				<Quantity>3.00</Quantity>
+				 <Net>50.35</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1888564-627967</ID>
+				<Start>30/08/2013 12:54</Start>
+
+				<Type>5</Type>
+				<Code>2416-2003-002</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>67.92</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1888564-627968</ID>
+				<Start>30/08/2013 12:54</Start>
+
+				<Type>5</Type>
+				<Code>2314-6386-001</Code>
+				<Quantity>3.00</Quantity>
+				 <Net>68.4</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC591843</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050045781302</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>153.55</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>153.55</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM268546</PatientID>
+			<Start>22/08/2013 10:08</Start>
+			<End>22/08/2013 13:01</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>E888.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>723.8</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>922.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1861946-621041</ID>
+				<Start>22/08/2013 13:01</Start>
+
+				<Type>5</Type>
+				<Code>1235-2176-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>29.45</Net> 
+				<Clinician>GD11853</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1861946-621039</ID>
+				<Start>22/08/2013 13:01</Start>
+
+				<Type>5</Type>
+				<Code>1472-3112-002</Code>
+				<Quantity>15.00</Quantity>
+				 <Net>5.35</Net> 
+				<Clinician>GD11853</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1861946-621040</ID>
+				<Start>22/08/2013 13:01</Start>
+
+				<Type>5</Type>
+				<Code>1583-1553-002</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>118.75</Net> 
+				<Clinician>GD11853</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC582906</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050045895601</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>77.42</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>77.42</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>2</Type>
+			<PatientID>LLM266490</PatientID>
+			<Start>12/08/2013 18:12</Start>
+			<End>12/08/2013 19:54</End>
+			<StartType>2</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>E924.8</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>943.01</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1828267-611999</ID>
+				<Start>12/08/2013 19:54</Start>
+
+				<Type>5</Type>
+				<Code>1472-3963-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>6.65</Net> 
+				<Clinician>GD12868</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1828267-611997</ID>
+				<Start>12/08/2013 19:54</Start>
+
+				<Type>5</Type>
+				<Code>1468-2949-008</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>57</Net> 
+				<Clinician>GD12868</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1828267-611998</ID>
+				<Start>12/08/2013 19:54</Start>
+
+				<Type>5</Type>
+				<Code>1544-3204-009</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>13.77</Net> 
+				<Clinician>GD12868</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC589962</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110170041373701</MemberID>
+		<PayerID>A019</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>200.45</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>200.45</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM085725</PatientID>
+			<Start>20/08/2013 10:34</Start>
+			<End>20/08/2013 12:22</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>722.10</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>724.3</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1854797-618840</ID>
+				<Start>20/08/2013 12:22</Start>
+
+				<Type>5</Type>
+				<Code>1581-2891-005</Code>
+				<Quantity>28.00</Quantity>
+				 <Net>131.1</Net> 
+				<Clinician>GD15033</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1854797-618841</ID>
+				<Start>20/08/2013 12:22</Start>
+
+				<Type>5</Type>
+				<Code>2343-6539-001</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>69.35</Net> 
+				<Clinician>GD15033</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC581861</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050042199401</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>35.62</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>35.62</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM220263</PatientID>
+			<Start>11/08/2013 20:41</Start>
+			<End>11/08/2013 21:12</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>691.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>788.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>009.2</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1824449-611011</ID>
+				<Start>11/08/2013 21:12</Start>
+
+				<Type>5</Type>
+				<Code>1957-4845-004</Code>
+				<Quantity>3.00</Quantity>
+				 <Net>35.62</Net> 
+				<Clinician>GD7994</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC590996</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110340036608102</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>70.77</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>70.77</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM169984</PatientID>
+			<Start>20/08/2013 14:17</Start>
+			<End>21/08/2013 15:18</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V18.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>787.01</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>536.8</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>V22.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1858766-620192</ID>
+				<Start>21/08/2013 15:18</Start>
+
+				<Type>5</Type>
+				<Code>1732-4855-002</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>37.05</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1858766-620193</ID>
+				<Start>21/08/2013 15:18</Start>
+
+				<Type>5</Type>
+				<Code>1618-2347-006</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>22.32</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1858766-620191</ID>
+				<Start>21/08/2013 15:18</Start>
+
+				<Type>5</Type>
+				<Code>1475-2280-002</Code>
+				<Quantity>40.00</Quantity>
+				 <Net>11.4</Net> 
+				<Clinician>GD11476</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC593688</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110340036596101</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>43.7</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>43.7</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM047315</PatientID>
+			<Start>22/08/2013 13:45</Start>
+			<End>24/08/2013 18:02</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V58.69</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>530.81</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>599.70</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>250.02</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1868974-622780</ID>
+				<Start>24/08/2013 18:02</Start>
+
+				<Type>5</Type>
+				<Code>1472-1889-003</Code>
+				<Quantity>12.00</Quantity>
+				 <Net>1.9</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1868974-622779</ID>
+				<Start>24/08/2013 18:02</Start>
+
+				<Type>5</Type>
+				<Code>2412-6596-004</Code>
+				<Quantity>7.00</Quantity>
+				 <Net>41.8</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC576492</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050038529001</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>35.15</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>35.15</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM264887</PatientID>
+			<Start>04/08/2013 18:47</Start>
+			<End>04/08/2013 20:13</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>460</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1804725-605978</ID>
+				<Start>04/08/2013 20:13</Start>
+
+				<Type>5</Type>
+				<Code>1472-1058-002</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>5.7</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1804725-605977</ID>
+				<Start>04/08/2013 20:13</Start>
+
+				<Type>5</Type>
+				<Code>1268-1215-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>29.45</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC590839</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050032875602</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>68.4</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>68.4</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM268271</PatientID>
+			<Start>21/08/2013 10:28</Start>
+			<End>21/08/2013 12:19</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>269.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>782.61</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>708.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1858208-619966</ID>
+				<Start>21/08/2013 12:19</Start>
+
+				<Type>5</Type>
+				<Code>1472-1058-002</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>5.7</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1858208-619964</ID>
+				<Start>21/08/2013 12:19</Start>
+
+				<Type>5</Type>
+				<Code>1472-1058-007</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>12.35</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1858208-619963</ID>
+				<Start>21/08/2013 12:19</Start>
+
+				<Type>5</Type>
+				<Code>1268-1215-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>29.45</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1858208-619965</ID>
+				<Start>21/08/2013 12:19</Start>
+
+				<Type>5</Type>
+				<Code>1464-1316-003</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>20.9</Net> 
+				<Clinician>GD15941</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC595728</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050041567701</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>89.95</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>89.95</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM258482</PatientID>
+			<Start>26/08/2013 15:33</Start>
+			<End>26/08/2013 15:57</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1876035-624722</ID>
+				<Start>26/08/2013 15:57</Start>
+
+				<Type>5</Type>
+				<Code>1472-1550-004</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>69.35</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1876035-624724</ID>
+				<Start>26/08/2013 15:57</Start>
+
+				<Type>5</Type>
+				<Code>2209-6110-004</Code>
+				<Quantity>24.00</Quantity>
+				 <Net>3.98</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1876035-624723</ID>
+				<Start>26/08/2013 15:57</Start>
+
+				<Type>5</Type>
+				<Code>1464-1639-001</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>16.62</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC582655</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050018811101</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+		
+		<Gross>123.49</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>123.49</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM266430</PatientID>
+			<Start>12/08/2013 13:19</Start>
+			<End>12/08/2013 15:54</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>462</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1827311-611686</ID>
+				<Start>12/08/2013 15:54</Start>
+
+				<Type>5</Type>
+				<Code>1472-1550-004</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>69.35</Net> 
+				<Clinician>GD11231</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1827311-611687</ID>
+				<Start>12/08/2013 15:54</Start>
+
+				<Type>5</Type>
+				<Code>2209-6110-001</Code>
+				<Quantity>24.00</Quantity>
+				 <Net>6.17</Net> 
+				<Clinician>GD11231</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1827311-611688</ID>
+				<Start>12/08/2013 15:54</Start>
+
+				<Type>5</Type>
+				<Code>2412-6602-002</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>47.97</Net> 
+				<Clinician>GD11231</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC586836</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050046051001</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>143.92</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>143.92</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM267428</PatientID>
+			<Start>17/08/2013 09:12</Start>
+			<End>17/08/2013 10:56</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>604.90</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1843673-615814</ID>
+				<Start>17/08/2013 10:56</Start>
+
+				<Type>5</Type>
+				<Code>1544-3204-006</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>9.97</Net> 
+				<Clinician>GD10272</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1843673-615813</ID>
+				<Start>17/08/2013 10:56</Start>
+
+				<Type>5</Type>
+				<Code>1542-6353-001</Code>
+				<Quantity>10.00</Quantity>
+				 <Net>133.95</Net> 
+				<Clinician>GD10272</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC576221</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110040042886002</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>27.55</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>27.55</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM237566</PatientID>
+			<Start>03/08/2013 10:27</Start>
+			<End>04/08/2013 13:07</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>783.22</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>280.9</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1803891-605669</ID>
+				<Start>04/08/2013 13:07</Start>
+
+				<Type>5</Type>
+				<Code>1680-2207-003</Code>
+				<Quantity>2.00</Quantity>
+				 <Net>27.55</Net> 
+				<Clinician>GD7994</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC581718</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050032593401</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>291.65</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>291.65</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM101381</PatientID>
+			<Start>11/08/2013 17:41</Start>
+			<End>11/08/2013 18:53</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>009.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>246.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>719.49</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>536.8</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1823945-610844</ID>
+				<Start>11/08/2013 18:53</Start>
+
+				<Type>5</Type>
+				<Code>1472-3907-002</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>142.5</Net> 
+				<Clinician>GD10303</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1823945-610843</ID>
+				<Start>11/08/2013 18:53</Start>
+
+				<Type>5</Type>
+				<Code>1431-2068-001</Code>
+				<Quantity>28.00</Quantity>
+				 <Net>139.65</Net> 
+				<Clinician>GD10303</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1823945-610845</ID>
+				<Start>11/08/2013 18:53</Start>
+
+				<Type>5</Type>
+				<Code>1544-4603-001</Code>
+				<Quantity>20.00</Quantity>
+				 <Net>9.5</Net> 
+				<Clinician>GD10303</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC592314</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050034947102</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>132.52</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>132.52</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM155332</PatientID>
+			<Start>22/08/2013 19:25</Start>
+			<End>22/08/2013 20:00</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>696.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1863448-621498</ID>
+				<Start>22/08/2013 20:00</Start>
+
+				<Type>5</Type>
+				<Code>1498-1798-005</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>132.52</Net> 
+				<Clinician>GD11439</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC574680</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110170041373701</MemberID>
+		<PayerID>A019</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>412.94</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>412.94</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM085725</PatientID>
+			<Start>02/08/2013 13:14</Start>
+			<End>02/08/2013 13:53</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>722.10</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1798219-604345</ID>
+				<Start>02/08/2013 13:53</Start>
+
+				<Type>5</Type>
+				<Code>1581-2891-005</Code>
+				<Quantity>42.00</Quantity>
+				 <Net>196.65</Net> 
+				<Clinician>GD15033</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1798219-604344</ID>
+				<Start>02/08/2013 13:53</Start>
+
+				<Type>5</Type>
+				<Code>1380-5477-001</Code>
+				<Quantity>40.00</Quantity>
+				 <Net>46.24</Net> 
+				<Clinician>GD15033</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1798219-604346</ID>
+				<Start>02/08/2013 13:53</Start>
+
+				<Type>5</Type>
+				<Code>1583-1553-003</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>170.05</Net> 
+				<Clinician>GD15033</Clinician>
+			
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC579024</ID>
+		<IDPayer></IDPayer>
+		<MemberID>097110050032563601</MemberID>
+		<PayerID>A036</PayerID>
+		<ProviderID>PF1506</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		
+		<Gross>445.54</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>445.54</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>PF1506</FacilityID>
+			<Type>1</Type>
+			<PatientID>LLM186211</PatientID>
+			<Start>07/08/2013 20:11</Start>
+			<End>07/08/2013 22:02</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V58.69</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>250.02</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>P-CH1813727-608256</ID>
+				<Start>07/08/2013 22:02</Start>
+
+				<Type>5</Type>
+				<Code>1618-2347-004</Code>
+				<Quantity>1.00</Quantity>
+				 <Net>9.02</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1813727-608254</ID>
+				<Start>07/08/2013 22:02</Start>
+
+				<Type>5</Type>
+				<Code>1338-6209-002</Code>
+				<Quantity>30.00</Quantity>
+				 <Net>298.77</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1813727-608255</ID>
+				<Start>07/08/2013 22:02</Start>
+
+				<Type>5</Type>
+				<Code>1528-2401-001</Code>
+				<Quantity>60.00</Quantity>
+				 <Net>36.1</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+			<Activity>
+				<ID>P-CH1813727-608253</ID>
+				<Start>07/08/2013 22:02</Start>
+
+				<Type>5</Type>
+				<Code>2469-6764-001</Code>
+				<Quantity>28.00</Quantity>
+				 <Net>101.65</Net> 
+				<Clinician>GD11124</Clinician>
+			
+			</Activity>
+
+	</Claim>
+
+</Claim.Submission>

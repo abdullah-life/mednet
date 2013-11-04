@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>MF103</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>30/10/2013 16:51</TransactionDate>
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>MR-3443921</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00236697 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF103</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>244.8</Gross>
+<PatientShare>35</PatientShare>
+<Net>209.8</Net>
+<Encounter>
+<FacilityID>MF103</FacilityID>
+<Type>1</Type>
+<PatientID>23221</PatientID>
+<Start>18/09/2013 10:27</Start>
+<End>18/09/2013 11:04</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>535.41</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Activity>
+<ID>9702956</ID>
+<Start>18/09/2013 11:04</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>192.2</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9702957</ID>
+<Start>18/09/2013 11:04</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>1</Quantity>
+<Net>17.6</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MR-3443920</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1003 00380966 01</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>MF103</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>107.2</Gross>
+<PatientShare>50</PatientShare>
+<Net>57.2</Net>
+<Encounter>
+<FacilityID>MF103</FacilityID>
+<Type>1</Type>
+<PatientID>6011</PatientID>
+<Start>28/09/2013 10:00</Start>
+<End>28/09/2013 11:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>788.42</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9702954</ID>
+<Start>28/09/2013 11:00</Start>
+<Type>3</Type>
+<Code>99212</Code>
+<Quantity>1</Quantity>
+<Net>39.6</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9702955</ID>
+<Start>28/09/2013 11:00</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>1</Quantity>
+<Net>17.6</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>RAK National InsCo</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

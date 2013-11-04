@@ -1,0 +1,5836 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>09/10/2013 10:47</TransactionDate>
+    <RecordCount>102</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30271130</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00459289 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100138384</PatientID>
+      <Start>01/09/2013 19:55</Start>
+      <End>01/09/2013 19:55</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587642</ID>
+      <Start>01/09/2013 19:55</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271131</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00459288 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>426.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>376.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100138385</PatientID>
+      <Start>01/09/2013 19:57</Start>
+      <End>01/09/2013 19:57</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>112.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587643</ID>
+      <Start>01/09/2013 19:57</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271132</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424757 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>168.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>118.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1879320</PatientID>
+      <Start>02/09/2013 11:10</Start>
+      <End>02/09/2013 11:10</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V68.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587644</ID>
+      <Start>02/09/2013 11:10</Start>
+      <Type>3</Type>
+      <Code>99212</Code>
+      <Quantity>1.00</Quantity>
+      <Net>118.00</Net>
+      <Clinician>D3872</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271133</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00431922 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1889550</PatientID>
+      <Start>02/09/2013 16:16</Start>
+      <End>02/09/2013 16:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>493.82</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587645</ID>
+      <Start>02/09/2013 16:16</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271134</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397159 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>892.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>842.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100062326</PatientID>
+      <Start>03/09/2013 13:59</Start>
+      <End>03/09/2013 13:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V09.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.36</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587646</ID>
+      <Start>03/09/2013 13:59</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.00</Quantity>
+      <Net>598.00</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587647</ID>
+      <Start>03/09/2013 13:59</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271135</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00431925 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1923101</PatientID>
+      <Start>03/09/2013 16:33</Start>
+      <End>03/09/2013 16:33</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587648</ID>
+      <Start>03/09/2013 16:33</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD15564</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271136</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00437694 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>98580</PatientID>
+      <Start>03/09/2013 17:43</Start>
+      <End>03/09/2013 17:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>V45.82</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587649</ID>
+      <Start>03/09/2013 17:43</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D3872</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271137</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00437694 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>682.90</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>632.90</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>98580</PatientID>
+      <Start>03/09/2013 17:12</Start>
+      <End>03/09/2013 17:12</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>455.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>682.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587650</ID>
+      <Start>03/09/2013 17:12</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D3569</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587651</ID>
+      <Start>03/09/2013 17:12</Start>
+      <Type>3</Type>
+      <Code>46600</Code>
+      <Quantity>1.00</Quantity>
+      <Net>397.90</Net>
+      <Clinician>D3569</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271138</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00435444 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1799548</PatientID>
+      <Start>04/09/2013 15:34</Start>
+      <End>04/09/2013 15:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587652</ID>
+      <Start>04/09/2013 15:34</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271139</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00413854 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>991.10</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>941.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100082718</PatientID>
+      <Start>04/09/2013 17:49</Start>
+      <End>04/09/2013 17:49</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.83</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587653</ID>
+      <Start>04/09/2013 17:49</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587654</ID>
+      <Start>04/09/2013 17:49</Start>
+      <Type>3</Type>
+      <Code>76805</Code>
+      <Quantity>1.00</Quantity>
+      <Net>706.10</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271140</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424759 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1737994</PatientID>
+      <Start>05/09/2013 13:19</Start>
+      <End>05/09/2013 13:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>493.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587655</ID>
+      <Start>05/09/2013 13:19</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4064</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271141</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00428749 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>991.10</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>941.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>418387</PatientID>
+      <Start>05/09/2013 16:36</Start>
+      <End>05/09/2013 16:36</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>648.73</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587656</ID>
+      <Start>05/09/2013 16:36</Start>
+      <Type>3</Type>
+      <Code>76805</Code>
+      <Quantity>1.00</Quantity>
+      <Net>706.10</Net>
+      <Clinician>GD8618</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587657</ID>
+      <Start>05/09/2013 16:36</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD8618</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271142</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00419154 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100063969</PatientID>
+      <Start>06/09/2013 21:59</Start>
+      <End>06/09/2013 21:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587658</ID>
+      <Start>06/09/2013 21:59</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD15940</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271143</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00459289 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>593.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>593.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100138384</PatientID>
+      <Start>07/09/2013 15:40</Start>
+      <End>07/09/2013 15:40</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587659</ID>
+      <Start>07/09/2013 15:40</Start>
+      <Type>3</Type>
+      <Code>99212</Code>
+      <Quantity>1.00</Quantity>
+      <Net>0.00</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587660</ID>
+      <Start>07/09/2013 15:40</Start>
+      <Type>3</Type>
+      <Code>76856</Code>
+      <Quantity>1.00</Quantity>
+      <Net>593.40</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271144</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424761 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1924284</PatientID>
+      <Start>07/09/2013 15:00</Start>
+      <End>07/09/2013 15:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>788.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>388.70</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587661</ID>
+      <Start>07/09/2013 15:00</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D4064</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271145</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00464629 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>2329.90</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>2329.90</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1679311</PatientID>
+      <Start>08/09/2013 10:06</Start>
+      <End>08/09/2013 10:06</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.75</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>373.11</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587662</ID>
+      <Start>08/09/2013 10:06</Start>
+      <Type>3</Type>
+      <Code>67700</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1163.80</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587663</ID>
+      <Start>08/09/2013 10:06</Start>
+      <Type>3</Type>
+      <Code>68020</Code>
+      <Quantity>1.00</Quantity>
+      <Net>924.60</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587664</ID>
+      <Start>08/09/2013 10:06</Start>
+      <Type>3</Type>
+      <Code>92002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>241.50</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271146</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00418864 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>539.60</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>489.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>462550</PatientID>
+      <Start>08/09/2013 11:26</Start>
+      <End>08/09/2013 11:26</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>079.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>388.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>465.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>478.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587665</ID>
+      <Start>08/09/2013 11:26</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D5562</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587666</ID>
+      <Start>08/09/2013 11:26</Start>
+      <Type>3</Type>
+      <Code>92567</Code>
+      <Quantity>1.00</Quantity>
+      <Net>119.60</Net>
+      <Clinician>D5562</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271147</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00423769 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100139768</PatientID>
+      <Start>08/09/2013 16:19</Start>
+      <End>08/09/2013 16:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>005.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.91</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>276.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587667</ID>
+      <Start>08/09/2013 16:19</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271148</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00434702 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100139943</PatientID>
+      <Start>09/09/2013 11:17</Start>
+      <End>09/09/2013 11:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>V72.83</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587668</ID>
+      <Start>09/09/2013 11:17</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD5950</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271149</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00419154 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100063969</PatientID>
+      <Start>09/09/2013 14:40</Start>
+      <End>09/09/2013 14:40</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587669</ID>
+      <Start>09/09/2013 14:40</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271150</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405082 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583965</PatientID>
+      <Start>09/09/2013 19:19</Start>
+      <End>09/09/2013 19:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>722.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>274.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>737.30</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587670</ID>
+      <Start>09/09/2013 19:19</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271151</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405081 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583960</PatientID>
+      <Start>09/09/2013 19:19</Start>
+      <End>09/09/2013 19:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>724.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>737.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587671</ID>
+      <Start>09/09/2013 19:19</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271152</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00431901 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100100935</PatientID>
+      <Start>10/09/2013 18:24</Start>
+      <End>10/09/2013 18:24</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V58.69</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587672</ID>
+      <Start>10/09/2013 18:24</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D255</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271153</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436318 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100013355</PatientID>
+      <Start>10/09/2013 20:27</Start>
+      <End>10/09/2013 20:27</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>611.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>611.71</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587673</ID>
+      <Start>10/09/2013 20:27</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD8618</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271154</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424899 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>241.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>241.50</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100140356</PatientID>
+      <Start>11/09/2013 09:55</Start>
+      <End>11/09/2013 09:55</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>379.21</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587674</ID>
+      <Start>11/09/2013 09:55</Start>
+      <Type>3</Type>
+      <Code>92002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>241.50</Net>
+      <Clinician>D1025</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271155</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397185 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>565.60</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>515.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100056675</PatientID>
+      <Start>12/09/2013 10:39</Start>
+      <End>12/09/2013 10:39</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>380.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587675</ID>
+      <Start>12/09/2013 10:39</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4034</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587676</ID>
+      <Start>12/09/2013 10:39</Start>
+      <Type>3</Type>
+      <Code>69210</Code>
+      <Quantity>1.00</Quantity>
+      <Net>280.60</Net>
+      <Clinician>D4034</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271156</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424606 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>568.56</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>518.56</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1612230</PatientID>
+      <Start>13/09/2013 11:45</Start>
+      <End>13/09/2013 11:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587677</ID>
+      <Start>13/09/2013 11:45</Start>
+      <Type>3</Type>
+      <Code>96365</Code>
+      <Quantity>1.00</Quantity>
+      <Net>197.80</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587678</ID>
+      <Start>13/09/2013 11:45</Start>
+      <Type>5</Type>
+      <Code>1718-3520-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>19.96</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587679</ID>
+      <Start>13/09/2013 11:45</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587680</ID>
+      <Start>13/09/2013 11:45</Start>
+      <Type>5</Type>
+      <Code>1556-4476-009</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.80</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587681</ID>
+      <Start>13/09/2013 11:45</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271157</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424606 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>426.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>376.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1612230</PatientID>
+      <Start>14/09/2013 10:22</Start>
+      <End>14/09/2013 10:22</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587682</ID>
+      <Start>14/09/2013 10:22</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>GD7304</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271158</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405081 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>257.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>257.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583960</PatientID>
+      <Start>14/09/2013 11:33</Start>
+      <End>14/09/2013 11:33</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>372.14</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587683</ID>
+      <Start>14/09/2013 11:33</Start>
+      <Type>3</Type>
+      <Code>92012</Code>
+      <Quantity>1.00</Quantity>
+      <Net>257.60</Net>
+      <Clinician>D1025</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271159</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405082 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>257.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>257.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583965</PatientID>
+      <Start>14/09/2013 11:43</Start>
+      <End>14/09/2013 11:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>372.14</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587684</ID>
+      <Start>14/09/2013 11:43</Start>
+      <Type>3</Type>
+      <Code>92012</Code>
+      <Quantity>1.00</Quantity>
+      <Net>257.60</Net>
+      <Clinician>D1025</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271160</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00421670 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>889.90</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>839.90</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100131661</PatientID>
+      <Start>14/09/2013 13:55</Start>
+      <End>14/09/2013 13:55</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>654.23</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587685</ID>
+      <Start>14/09/2013 13:55</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD6397</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587686</ID>
+      <Start>14/09/2013 13:55</Start>
+      <Type>3</Type>
+      <Code>76801</Code>
+      <Quantity>1.00</Quantity>
+      <Net>604.90</Net>
+      <Clinician>GD6397</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271161</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436284 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100082716</PatientID>
+      <Start>14/09/2013 16:21</Start>
+      <End>14/09/2013 16:21</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>732.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587687</ID>
+      <Start>14/09/2013 16:21</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>D1903</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271162</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436285 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>404.60</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>354.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>422087</PatientID>
+      <Start>14/09/2013 17:03</Start>
+      <End>14/09/2013 17:03</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>327.23</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>474.12</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587688</ID>
+      <Start>14/09/2013 17:03</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4908</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587689</ID>
+      <Start>14/09/2013 17:03</Start>
+      <Type>3</Type>
+      <Code>92567</Code>
+      <Quantity>1.00</Quantity>
+      <Net>119.60</Net>
+      <Clinician>D4908</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271163</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00421208 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>114296</PatientID>
+      <Start>14/09/2013 17:46</Start>
+      <End>14/09/2013 17:46</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V54.19</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>715.96</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587690</ID>
+      <Start>14/09/2013 17:46</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271164</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397185 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>305.80</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>255.80</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>2</Type>
+      <PatientID>100056675</PatientID>
+      <Start>15/09/2013 10:41</Start>
+      <End>15/09/2013 10:41</End>
+      <StartType>2</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>847.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E927.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587691</ID>
+      <Start>15/09/2013 10:41</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD5852</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587692</ID>
+      <Start>15/09/2013 10:41</Start>
+      <Type>5</Type>
+      <Code>1556-4476-009</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.80</Net>
+      <Clinician>GD5852</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587693</ID>
+      <Start>15/09/2013 10:41</Start>
+      <Type>3</Type>
+      <Code>99283</Code>
+      <Quantity>1.00</Quantity>
+      <Net>199.00</Net>
+      <Clinician>GD5852</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271165</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397185 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100056675</PatientID>
+      <Start>15/09/2013 11:34</Start>
+      <End>15/09/2013 11:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>724.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587694</ID>
+      <Start>15/09/2013 11:34</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>GD7069</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271166</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439074 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>445.30</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>395.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1671437</PatientID>
+      <Start>15/09/2013 13:29</Start>
+      <End>15/09/2013 13:29</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>403.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>585.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.49</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>564.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587695</ID>
+      <Start>15/09/2013 13:29</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587696</ID>
+      <Start>15/09/2013 13:29</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30271167</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00462744 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>338.50</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>288.50</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100037439</PatientID>
+      <Start>15/09/2013 14:30</Start>
+      <End>15/09/2013 14:30</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>708.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587697</ID>
+      <Start>15/09/2013 14:30</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587698</ID>
+      <Start>15/09/2013 14:30</Start>
+      <Type>5</Type>
+      <Code>1595-4023-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>7.50</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587699</ID>
+      <Start>15/09/2013 14:30</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292696</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00246173 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100025724</PatientID>
+      <Start>17/09/2013 07:32</Start>
+      <End>17/09/2013 07:32</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587700</ID>
+      <Start>17/09/2013 07:32</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD15540</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292697</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397159 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100062326</PatientID>
+      <Start>17/09/2013 10:14</Start>
+      <End>17/09/2013 10:14</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>795.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587701</ID>
+      <Start>17/09/2013 10:14</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292698</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00466497 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>110090540</PatientID>
+      <Start>17/09/2013 13:25</Start>
+      <End>17/09/2013 13:25</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.04</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>041.86</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587702</ID>
+      <Start>17/09/2013 13:25</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D2476</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292699</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00437694 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>682.90</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>632.90</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>98580</PatientID>
+      <Start>17/09/2013 17:26</Start>
+      <End>17/09/2013 17:26</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>566</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587703</ID>
+      <Start>17/09/2013 17:26</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D3569</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587704</ID>
+      <Start>17/09/2013 17:26</Start>
+      <Type>3</Type>
+      <Code>46600</Code>
+      <Quantity>1.00</Quantity>
+      <Net>397.90</Net>
+      <Clinician>D3569</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292700</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424096 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>426.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>376.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100141814</PatientID>
+      <Start>17/09/2013 21:19</Start>
+      <End>17/09/2013 21:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587705</ID>
+      <Start>17/09/2013 21:19</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>D1055</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292701</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436284 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100082716</PatientID>
+      <Start>18/09/2013 17:24</Start>
+      <End>18/09/2013 17:24</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>461.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>493.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587706</ID>
+      <Start>18/09/2013 17:24</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D3708</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292702</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00435446 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1689565</PatientID>
+      <Start>19/09/2013 08:30</Start>
+      <End>19/09/2013 08:30</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>493.82</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.81</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587707</ID>
+      <Start>19/09/2013 08:30</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D4034</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292703</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00383884 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>434.50</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>384.50</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>427549</PatientID>
+      <Start>21/09/2013 13:03</Start>
+      <End>21/09/2013 13:03</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>427.31</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587708</ID>
+      <Start>21/09/2013 13:03</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D1288</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587709</ID>
+      <Start>21/09/2013 13:03</Start>
+      <Type>3</Type>
+      <Code>93000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>149.50</Net>
+      <Clinician>D1288</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292704</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00464629 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>257.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>257.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1679311</PatientID>
+      <Start>21/09/2013 17:10</Start>
+      <End>21/09/2013 17:10</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>370.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>372.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587710</ID>
+      <Start>21/09/2013 17:10</Start>
+      <Type>3</Type>
+      <Code>92012</Code>
+      <Quantity>1.00</Quantity>
+      <Net>257.60</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292705</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424096 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>46.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>46.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100141814</PatientID>
+      <Start>21/09/2013 21:31</Start>
+      <End>21/09/2013 21:31</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>266.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>683</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587711</ID>
+      <Start>21/09/2013 21:31</Start>
+      <Type>5</Type>
+      <Code>1392-3838-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>0.00</Net>
+      <Clinician>D1055</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587712</ID>
+      <Start>21/09/2013 21:31</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>D1055</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292706</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424771 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>426.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>376.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142609</PatientID>
+      <Start>22/09/2013 14:01</Start>
+      <End>22/09/2013 14:01</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E929.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>908.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>728.87</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>728.85</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587713</ID>
+      <Start>22/09/2013 14:01</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>GD8479</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292707</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00418739 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>257.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>257.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>318705</PatientID>
+      <Start>22/09/2013 16:22</Start>
+      <End>22/09/2013 16:22</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.14</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>370.33</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587714</ID>
+      <Start>22/09/2013 16:22</Start>
+      <Type>3</Type>
+      <Code>92012</Code>
+      <Quantity>1.00</Quantity>
+      <Net>257.60</Net>
+      <Clinician>D1025</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292708</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00455041 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>110050140</PatientID>
+      <Start>22/09/2013 16:28</Start>
+      <End>22/09/2013 16:28</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>455.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587715</ID>
+      <Start>22/09/2013 16:28</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD12700</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292709</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405081 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583960</PatientID>
+      <Start>22/09/2013 17:59</Start>
+      <End>22/09/2013 17:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>737.30</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587716</ID>
+      <Start>22/09/2013 17:59</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292710</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00458672 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>426.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>376.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1750448</PatientID>
+      <Start>23/09/2013 09:25</Start>
+      <End>23/09/2013 09:25</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>054.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>112.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587717</ID>
+      <Start>23/09/2013 09:25</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>D4034</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292711</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439220 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142786</PatientID>
+      <Start>23/09/2013 10:15</Start>
+      <End>23/09/2013 10:15</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>240.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>787.22</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587718</ID>
+      <Start>23/09/2013 10:15</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292712</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00438355 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>892.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>842.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>332073</PatientID>
+      <Start>25/09/2013 09:02</Start>
+      <End>25/09/2013 09:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.11</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>626.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>625.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>112.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>595.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587719</ID>
+      <Start>25/09/2013 09:02</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.00</Quantity>
+      <Net>598.00</Net>
+      <Clinician>D3508</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587720</ID>
+      <Start>25/09/2013 09:02</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>D3508</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292713</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00413854 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>991.10</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>941.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100082718</PatientID>
+      <Start>25/09/2013 11:54</Start>
+      <End>25/09/2013 11:54</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>V22.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587721</ID>
+      <Start>25/09/2013 11:54</Start>
+      <Type>3</Type>
+      <Code>76805</Code>
+      <Quantity>1.00</Quantity>
+      <Net>706.10</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587722</ID>
+      <Start>25/09/2013 11:54</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292714</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439220 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142786</PatientID>
+      <Start>25/09/2013 12:02</Start>
+      <End>25/09/2013 12:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>241.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587723</ID>
+      <Start>25/09/2013 12:02</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>D4206</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30292715</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439220 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1375.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1375.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142786</PatientID>
+      <Start>25/09/2013 14:24</Start>
+      <End>25/09/2013 14:24</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>787.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>240.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587724</ID>
+      <Start>25/09/2013 14:24</Start>
+      <Type>3</Type>
+      <Code>31525</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1375.40</Net>
+      <Clinician>D4984</Clinician>
+      <PriorAuthorizationID>E-277082</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296992</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00437694 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>98580</PatientID>
+      <Start>17/09/2013 16:31</Start>
+      <End>17/09/2013 16:31</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>476.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>785.6</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.40</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587725</ID>
+      <Start>17/09/2013 16:31</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD7304</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296993</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00431923 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>883.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>833.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1753678</PatientID>
+      <Start>26/09/2013 09:31</Start>
+      <End>26/09/2013 09:31</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>625.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587726</ID>
+      <Start>26/09/2013 09:31</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.00</Quantity>
+      <Net>598.00</Net>
+      <Clinician>GD6081</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587727</ID>
+      <Start>26/09/2013 09:31</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD6081</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296994</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00285852 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>5430.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>5430.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1724333</PatientID>
+      <Start>26/09/2013 10:43</Start>
+      <End>26/09/2013 10:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>370.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>370.21</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>374.84</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.75</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.14</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587728</ID>
+      <Start>26/09/2013 10:43</Start>
+      <Type>3</Type>
+      <Code>68761</Code>
+      <Quantity>2.00</Quantity>
+      <Net>1982.60</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587729</ID>
+      <Start>26/09/2013 10:43</Start>
+      <Type>3</Type>
+      <Code>68020</Code>
+      <Quantity>2.00</Quantity>
+      <Net>1849.20</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587730</ID>
+      <Start>26/09/2013 10:43</Start>
+      <Type>3</Type>
+      <Code>67840</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1340.90</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587731</ID>
+      <Start>26/09/2013 10:43</Start>
+      <Type>3</Type>
+      <Code>92012</Code>
+      <Quantity>1.00</Quantity>
+      <Net>257.60</Net>
+      <Clinician>D2645</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296995</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00418739 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>868.50</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>818.50</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>318705</PatientID>
+      <Start>26/09/2013 12:23</Start>
+      <End>26/09/2013 12:23</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>466.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587732</ID>
+      <Start>26/09/2013 12:23</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587733</ID>
+      <Start>26/09/2013 12:23</Start>
+      <Type>3</Type>
+      <Code>93000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>149.50</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587734</ID>
+      <Start>26/09/2013 12:23</Start>
+      <Type>3</Type>
+      <Code>94010</Code>
+      <Quantity>1.00</Quantity>
+      <Net>299.00</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296996</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00448388 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100115672</PatientID>
+      <Start>27/09/2013 15:57</Start>
+      <End>27/09/2013 15:57</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587735</ID>
+      <Start>27/09/2013 15:57</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4332</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296997</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00440760 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>371567</PatientID>
+      <Start>27/09/2013 23:51</Start>
+      <End>27/09/2013 23:51</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587736</ID>
+      <Start>27/09/2013 23:51</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD15844</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296998</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00458668 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1018.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>968.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1556367</PatientID>
+      <Start>28/09/2013 19:25</Start>
+      <End>28/09/2013 19:25</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>620.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V74.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>625.71</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.04</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587737</ID>
+      <Start>28/09/2013 19:25</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587738</ID>
+      <Start>28/09/2013 19:25</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.00</Quantity>
+      <Net>598.00</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30296999</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439074 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>445.30</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>395.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1671437</PatientID>
+      <Start>29/09/2013 11:32</Start>
+      <End>29/09/2013 11:32</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>585.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>403.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>285.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587739</ID>
+      <Start>29/09/2013 11:32</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587740</ID>
+      <Start>29/09/2013 11:32</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30297000</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00419152 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100064208</PatientID>
+      <Start>29/09/2013 21:46</Start>
+      <End>29/09/2013 21:46</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>716.26</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>487.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>281.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.05</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587741</ID>
+      <Start>29/09/2013 21:46</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD15938</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30297001</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00426240 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1722327</PatientID>
+      <Start>30/09/2013 15:44</Start>
+      <End>30/09/2013 15:44</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>466.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>040.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587742</ID>
+      <Start>30/09/2013 15:44</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D4332</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30297002</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00425826 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>477535</PatientID>
+      <Start>30/09/2013 17:02</Start>
+      <End>30/09/2013 17:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>493.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587743</ID>
+      <Start>30/09/2013 17:02</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD9531</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30297003</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00437694 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>98580</PatientID>
+      <Start>30/09/2013 15:06</Start>
+      <End>30/09/2013 15:06</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>785.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587744</ID>
+      <Start>30/09/2013 15:06</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30297004</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436284 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>323604</PatientID>
+      <Start>30/09/2013 15:59</Start>
+      <End>30/09/2013 15:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>281.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.39</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587745</ID>
+      <Start>30/09/2013 15:59</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30297005</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00425828 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1679390</PatientID>
+      <Start>30/09/2013 17:13</Start>
+      <End>30/09/2013 17:13</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587746</ID>
+      <Start>30/09/2013 17:13</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4332</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082338</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00459288 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>646.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>646.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100138385</PatientID>
+      <Start>01/09/2013 21:07</Start>
+      <End>01/09/2013 21:07</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>112.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587747</ID>
+      <Start>01/09/2013 21:07</Start>
+      <Type>3</Type>
+      <Code>87480</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587748</ID>
+      <Start>01/09/2013 21:07</Start>
+      <Type>3</Type>
+      <Code>87660</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587749</ID>
+      <Start>01/09/2013 21:07</Start>
+      <Type>3</Type>
+      <Code>87510</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587750</ID>
+      <Start>01/09/2013 21:07</Start>
+      <Type>3</Type>
+      <Code>87075</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587751</ID>
+      <Start>01/09/2013 21:07</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1.00</Quantity>
+      <Net>71.30</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082339</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397159 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>703.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>703.80</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100062326</PatientID>
+      <Start>03/09/2013 15:32</Start>
+      <End>03/09/2013 15:32</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.36</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V09.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587752</ID>
+      <Start>03/09/2013 15:32</Start>
+      <Type>3</Type>
+      <Code>87184</Code>
+      <Quantity>1.00</Quantity>
+      <Net>57.50</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587753</ID>
+      <Start>03/09/2013 15:32</Start>
+      <Type>3</Type>
+      <Code>87510</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587754</ID>
+      <Start>03/09/2013 15:32</Start>
+      <Type>3</Type>
+      <Code>87660</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587755</ID>
+      <Start>03/09/2013 15:32</Start>
+      <Type>3</Type>
+      <Code>87480</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587756</ID>
+      <Start>03/09/2013 15:32</Start>
+      <Type>3</Type>
+      <Code>87075</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587757</ID>
+      <Start>03/09/2013 15:32</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1.00</Quantity>
+      <Net>71.30</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082340</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397159 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>404.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>404.80</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100062326</PatientID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.36</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587758</ID>
+      <Start>03/09/2013 00:00</Start>
+      <Type>3</Type>
+      <Code>88141</Code>
+      <Quantity>1.00</Quantity>
+      <Net>236.90</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587759</ID>
+      <Start>03/09/2013 00:00</Start>
+      <Type>3</Type>
+      <Code>88142</Code>
+      <Quantity>1.00</Quantity>
+      <Net>167.90</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082341</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00413854 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>147.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>147.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100082718</PatientID>
+      <Start>04/09/2013 19:11</Start>
+      <End>04/09/2013 19:11</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.83</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587760</ID>
+      <Start>04/09/2013 19:11</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D1532</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>84.47</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39587761</ID>
+      <Start>04/09/2013 19:11</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587762</ID>
+      <Start>04/09/2013 19:11</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587763</ID>
+      <Start>04/09/2013 19:11</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>D1532</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082342</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00459289 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>738.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>738.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100138384</PatientID>
+      <Start>07/09/2013 16:53</Start>
+      <End>07/09/2013 16:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.09</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587764</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>87660</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587765</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>87510</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587766</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1.00</Quantity>
+      <Net>71.30</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587767</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>87075</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587768</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>87088</Code>
+      <Quantity>1.00</Quantity>
+      <Net>66.70</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587769</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>87480</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587770</ID>
+      <Start>07/09/2013 16:53</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D2941</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082343</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424761 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>92.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>92.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1924284</PatientID>
+      <Start>08/09/2013 14:36</Start>
+      <End>08/09/2013 14:36</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>388.70</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>788.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587771</ID>
+      <Start>08/09/2013 14:36</Start>
+      <Type>3</Type>
+      <Code>87088</Code>
+      <Quantity>1.00</Quantity>
+      <Net>66.70</Net>
+      <Clinician>D4064</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587772</ID>
+      <Start>08/09/2013 14:36</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D4064</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082344</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00423769 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>285.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100139768</PatientID>
+      <Start>08/09/2013 16:40</Start>
+      <End>08/09/2013 16:40</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>005.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>276.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.91</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587773</ID>
+      <Start>08/09/2013 16:40</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587774</ID>
+      <Start>08/09/2013 16:40</Start>
+      <Type>3</Type>
+      <Code>84132</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587775</ID>
+      <Start>08/09/2013 16:40</Start>
+      <Type>3</Type>
+      <Code>84295</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587776</ID>
+      <Start>08/09/2013 16:40</Start>
+      <Type>3</Type>
+      <Code>82310</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587777</ID>
+      <Start>08/09/2013 16:40</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587778</ID>
+      <Start>08/09/2013 16:40</Start>
+      <Type>3</Type>
+      <Code>83735</Code>
+      <Quantity>1.00</Quantity>
+      <Net>55.20</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30082345</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00424606 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>108.10</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>108.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1612230</PatientID>
+      <Start>13/09/2013 12:13</Start>
+      <End>13/09/2013 12:13</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587779</ID>
+      <Start>13/09/2013 12:13</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587780</ID>
+      <Start>13/09/2013 12:13</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD12882</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089433</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397159 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>66.70</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>66.70</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100062326</PatientID>
+      <Start>17/09/2013 11:59</Start>
+      <End>17/09/2013 11:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>795.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587781</ID>
+      <Start>17/09/2013 11:59</Start>
+      <Type>3</Type>
+      <Code>87088</Code>
+      <Quantity>1.00</Quantity>
+      <Net>66.70</Net>
+      <Clinician>GD12896</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089434</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405081 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>379.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>379.50</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583960</PatientID>
+      <Start>17/09/2013 19:01</Start>
+      <End>17/09/2013 19:01</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>724.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>737.30</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587782</ID>
+      <Start>17/09/2013 19:01</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1.00</Quantity>
+      <Net>29.90</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587783</ID>
+      <Start>17/09/2013 19:01</Start>
+      <Type>3</Type>
+      <Code>82306</Code>
+      <Quantity>1.00</Quantity>
+      <Net>243.80</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587784</ID>
+      <Start>17/09/2013 19:01</Start>
+      <Type>3</Type>
+      <Code>82310</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587785</ID>
+      <Start>17/09/2013 19:01</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089435</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00405082 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>462.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>462.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1583965</PatientID>
+      <Start>17/09/2013 19:02</Start>
+      <End>17/09/2013 19:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>722.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>274.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>737.30</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587786</ID>
+      <Start>17/09/2013 19:02</Start>
+      <Type>3</Type>
+      <Code>86430</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587787</ID>
+      <Start>17/09/2013 19:02</Start>
+      <Type>3</Type>
+      <Code>82306</Code>
+      <Quantity>1.00</Quantity>
+      <Net>243.80</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587788</ID>
+      <Start>17/09/2013 19:02</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1.00</Quantity>
+      <Net>29.90</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587789</ID>
+      <Start>17/09/2013 19:02</Start>
+      <Type>3</Type>
+      <Code>84550</Code>
+      <Quantity>1.00</Quantity>
+      <Net>36.80</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587790</ID>
+      <Start>17/09/2013 19:02</Start>
+      <Type>3</Type>
+      <Code>82310</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587791</ID>
+      <Start>17/09/2013 19:02</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089436</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00466497 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>556.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>556.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>110090540</PatientID>
+      <Start>18/09/2013 07:53</Start>
+      <End>18/09/2013 07:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>041.86</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.04</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587792</ID>
+      <Start>18/09/2013 07:53</Start>
+      <Type>3</Type>
+      <Code>83013</Code>
+      <Quantity>1.00</Quantity>
+      <Net>556.60</Net>
+      <Clinician>D2476</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089437</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439074 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>924.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>924.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1671437</PatientID>
+      <Start>19/09/2013 18:50</Start>
+      <End>19/09/2013 18:50</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>585.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>564.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>403.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.49</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587793</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>86430</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587794</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D5513</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>400.74</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39587795</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>87088</Code>
+      <Quantity>1.00</Quantity>
+      <Net>66.70</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587796</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>84481</Code>
+      <Quantity>1.00</Quantity>
+      <Net>140.30</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587797</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587798</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587799</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.00</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587800</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587801</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>84550</Code>
+      <Quantity>1.00</Quantity>
+      <Net>36.80</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587802</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>84132</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587803</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>86200</Code>
+      <Quantity>1.00</Quantity>
+      <Net>105.80</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587804</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>84295</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587805</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>84439</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.60</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587806</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>82043</Code>
+      <Quantity>1.00</Quantity>
+      <Net>48.30</Net>
+      <Clinician>D5513</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>14957-5</Code>
+        <Value>5.00</Value>
+        <ValueType>mg/L</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39587807</ID>
+      <Start>19/09/2013 18:50</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089438</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439220 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>312.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>312.80</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142786</PatientID>
+      <Start>23/09/2013 10:39</Start>
+      <End>23/09/2013 10:39</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>240.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>787.22</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587808</ID>
+      <Start>23/09/2013 10:39</Start>
+      <Type>3</Type>
+      <Code>84480</Code>
+      <Quantity>1.00</Quantity>
+      <Net>117.30</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587809</ID>
+      <Start>23/09/2013 10:39</Start>
+      <Type>3</Type>
+      <Code>84436</Code>
+      <Quantity>1.00</Quantity>
+      <Net>57.50</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587810</ID>
+      <Start>23/09/2013 10:39</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.00</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30089439</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439220 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>777.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>777.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142786</PatientID>
+      <Start>25/09/2013 00:00</Start>
+      <End>25/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>241.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587811</ID>
+      <Start>25/09/2013 00:00</Start>
+      <Type>3</Type>
+      <Code>88112</Code>
+      <Quantity>1.00</Quantity>
+      <Net>777.40</Net>
+      <Clinician>D4206</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090830</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00418739 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>680.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>680.80</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>318705</PatientID>
+      <Start>26/09/2013 13:06</Start>
+      <End>26/09/2013 13:06</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>466.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587812</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>84132</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587813</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>80061</Code>
+      <Quantity>1.00</Quantity>
+      <Net>154.10</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587814</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587815</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>83721</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>GD11326</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>18262-6</Code>
+        <Value>117</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39587816</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587817</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>82435</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587818</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>82550</Code>
+      <Quantity>1.00</Quantity>
+      <Net>52.90</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587819</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD11326</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>95.16</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39587820</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1.00</Quantity>
+      <Net>29.90</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587821</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>84484</Code>
+      <Quantity>1.00</Quantity>
+      <Net>82.80</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587822</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>84295</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587823</ID>
+      <Start>26/09/2013 13:06</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090831</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00458668 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>646.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>646.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1556367</PatientID>
+      <Start>28/09/2013 20:19</Start>
+      <End>28/09/2013 20:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.04</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>620.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>625.71</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V74.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587824</ID>
+      <Start>28/09/2013 20:19</Start>
+      <Type>3</Type>
+      <Code>87510</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587825</ID>
+      <Start>28/09/2013 20:19</Start>
+      <Type>3</Type>
+      <Code>87480</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587826</ID>
+      <Start>28/09/2013 20:19</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1.00</Quantity>
+      <Net>71.30</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587827</ID>
+      <Start>28/09/2013 20:19</Start>
+      <Type>3</Type>
+      <Code>87660</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587828</ID>
+      <Start>28/09/2013 20:19</Start>
+      <Type>3</Type>
+      <Code>87075</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>GD6564</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090832</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439074 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1113.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1113.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1671437</PatientID>
+      <Start>29/09/2013 12:29</Start>
+      <End>29/09/2013 12:29</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>285.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>403.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>585.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587829</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>83036</Code>
+      <Quantity>1.00</Quantity>
+      <Net>80.50</Net>
+      <Clinician>D5513</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>17855-8</Code>
+        <Value>7.00000</Value>
+        <ValueType>%</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39587830</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>83550</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.60</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587831</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>83540</Code>
+      <Quantity>1.00</Quantity>
+      <Net>52.90</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587832</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>84100</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587833</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>84132</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587834</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>84295</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587835</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>84550</Code>
+      <Quantity>1.00</Quantity>
+      <Net>36.80</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587836</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587837</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>82728</Code>
+      <Quantity>1.00</Quantity>
+      <Net>112.70</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587838</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587839</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>82746</Code>
+      <Quantity>1.00</Quantity>
+      <Net>121.90</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587840</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>82607</Code>
+      <Quantity>1.00</Quantity>
+      <Net>124.20</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587841</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>82310</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587842</ID>
+      <Start>29/09/2013 12:29</Start>
+      <Type>3</Type>
+      <Code>82306</Code>
+      <Quantity>1.00</Quantity>
+      <Net>243.80</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090833</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00419152 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>338.10</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>338.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100064208</PatientID>
+      <Start>29/09/2013 22:19</Start>
+      <End>29/09/2013 22:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>281.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>487.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>716.26</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.05</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587843</ID>
+      <Start>29/09/2013 22:19</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD15938</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587844</ID>
+      <Start>29/09/2013 22:19</Start>
+      <Type>3</Type>
+      <Code>84484</Code>
+      <Quantity>1.00</Quantity>
+      <Net>82.80</Net>
+      <Clinician>GD15938</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587845</ID>
+      <Start>29/09/2013 22:19</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD15938</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587846</ID>
+      <Start>29/09/2013 22:19</Start>
+      <Type>3</Type>
+      <Code>82553</Code>
+      <Quantity>1.00</Quantity>
+      <Net>94.30</Net>
+      <Clinician>GD15938</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587847</ID>
+      <Start>29/09/2013 22:19</Start>
+      <Type>3</Type>
+      <Code>82550</Code>
+      <Quantity>1.00</Quantity>
+      <Net>52.90</Net>
+      <Clinician>GD15938</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090834</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00437694 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>708.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>708.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>98580</PatientID>
+      <Start>30/09/2013 15:52</Start>
+      <End>30/09/2013 15:52</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>785.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587848</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>82378</Code>
+      <Quantity>1.00</Quantity>
+      <Net>156.40</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587849</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587850</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>84450</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587851</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>84075</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587852</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>82977</Code>
+      <Quantity>1.00</Quantity>
+      <Net>59.80</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587853</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>83615</Code>
+      <Quantity>1.00</Quantity>
+      <Net>50.60</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587854</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587855</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587856</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587857</ID>
+      <Start>30/09/2013 15:52</Start>
+      <Type>3</Type>
+      <Code>86301</Code>
+      <Quantity>1.00</Quantity>
+      <Net>172.50</Net>
+      <Clinician>D4722</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090835</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436284 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1242.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1242.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>323604</PatientID>
+      <Start>30/09/2013 16:29</Start>
+      <End>30/09/2013 16:29</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.39</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>281.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587858</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>85060</Code>
+      <Quantity>1.00</Quantity>
+      <Net>174.80</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587859</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84439</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.60</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587860</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84481</Code>
+      <Quantity>1.00</Quantity>
+      <Net>140.30</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587861</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.00</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587862</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587863</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84450</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587864</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587865</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587866</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>83540</Code>
+      <Quantity>1.00</Quantity>
+      <Net>52.90</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587867</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>82728</Code>
+      <Quantity>1.00</Quantity>
+      <Net>112.70</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587868</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84132</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587869</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>84295</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587870</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39587871</ID>
+      <Start>30/09/2013 16:29</Start>
+      <Type>3</Type>
+      <Code>82306</Code>
+      <Quantity>1.00</Quantity>
+      <Net>243.80</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30042365</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436284 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>299.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>299.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100082716</PatientID>
+      <Start>14/09/2013 16:36</Start>
+      <End>14/09/2013 16:36</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>732.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587872</ID>
+      <Start>14/09/2013 16:36</Start>
+      <Type>3</Type>
+      <Code>73560</Code>
+      <Quantity>2.00</Quantity>
+      <Net>299.00</Net>
+      <Clinician>D1903</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30042366</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00421208 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>299.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>299.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>114296</PatientID>
+      <Start>14/09/2013 18:08</Start>
+      <End>14/09/2013 18:08</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>816.01</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587873</ID>
+      <Start>14/09/2013 18:08</Start>
+      <Type>3</Type>
+      <Code>73560</Code>
+      <Quantity>2.00</Quantity>
+      <Net>299.00</Net>
+      <Clinician>GD9845</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30042367</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00397185 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>372.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>372.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100056675</PatientID>
+      <Start>15/09/2013 11:06</Start>
+      <End>15/09/2013 11:06</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>847.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E927.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587874</ID>
+      <Start>15/09/2013 11:06</Start>
+      <Type>3</Type>
+      <Code>72010</Code>
+      <Quantity>1.00</Quantity>
+      <Net>372.60</Net>
+      <Clinician>GD5852</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30045753</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436318 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>462.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>462.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100013355</PatientID>
+      <Start>17/09/2013 17:53</Start>
+      <End>17/09/2013 17:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>611.71</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>611.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587875</ID>
+      <Start>17/09/2013 17:53</Start>
+      <Type>3</Type>
+      <Code>76645</Code>
+      <Quantity>1.00</Quantity>
+      <Net>462.30</Net>
+      <Clinician>GD8618</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30045754</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00436285 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>368.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>368.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>422087</PatientID>
+      <Start>17/09/2013 19:22</Start>
+      <End>17/09/2013 19:22</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>327.23</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>474.12</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587876</ID>
+      <Start>17/09/2013 19:22</Start>
+      <Type>3</Type>
+      <Code>74210</Code>
+      <Quantity>1.00</Quantity>
+      <Net>368.00</Net>
+      <Clinician>D4908</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30045755</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439074 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>627.90</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>627.90</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1671437</PatientID>
+      <Start>21/09/2013 16:52</Start>
+      <End>21/09/2013 16:52</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>403.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.49</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>564.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>585.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587877</ID>
+      <Start>21/09/2013 16:52</Start>
+      <Type>3</Type>
+      <Code>76770</Code>
+      <Quantity>1.00</Quantity>
+      <Net>627.90</Net>
+      <Clinician>D5513</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30045756</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00439220 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>577.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>577.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100142786</PatientID>
+      <Start>24/09/2013 14:13</Start>
+      <End>24/09/2013 14:13</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>787.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>240.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587878</ID>
+      <Start>24/09/2013 14:13</Start>
+      <Type>3</Type>
+      <Code>76536</Code>
+      <Quantity>1.00</Quantity>
+      <Net>577.30</Net>
+      <Clinician>D4984</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30046561</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00418739 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>142.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>142.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>318705</PatientID>
+      <Start>26/09/2013 13:14</Start>
+      <End>26/09/2013 13:14</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>466.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587879</ID>
+      <Start>26/09/2013 13:14</Start>
+      <Type>3</Type>
+      <Code>71020</Code>
+      <Quantity>1.00</Quantity>
+      <Net>142.60</Net>
+      <Clinician>GD11326</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30046995</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00459250 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>706.10</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>706.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100143765</PatientID>
+      <Start>28/09/2013 10:14</Start>
+      <End>28/09/2013 10:14</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>V22.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39587880</ID>
+      <Start>28/09/2013 10:14</Start>
+      <Type>3</Type>
+      <Code>76805</Code>
+      <Quantity>1.00</Quantity>
+      <Net>706.10</Net>
+      <Clinician>GD16006</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000078</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>28/10/2013 19:04</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>OPC-R-2013-020912</ID>
+    <MemberID>309113</MemberID>
+    <PayerID/>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>444.5</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>394.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000002750</PatientID>
+      <Start>02/09/2013 16:59</Start>
+      <End>02/09/2013 17:46</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0065741100</ID>
+      <Start>02/09/2013 17:46</Start>
+      <End>02/09/2013 17:46</End>
+      <Code>92567</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>220</Net>
+      <Clinician>DHA-P-0246337</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ENP051</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>TYMPANOMETRY</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

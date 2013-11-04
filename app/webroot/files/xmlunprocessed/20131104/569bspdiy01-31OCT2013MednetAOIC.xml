@@ -1,0 +1,487 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045824</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 16:34</TransactionDate>
+    <RecordCount>10</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>345649 - bspdiy 01-31 OCT 2013 Mednet AOIC - 1</ID>
+    <MemberID>0971-1004-00463823-01</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>475.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>451.74</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>343792</PatientID>
+      <Start>10/10/2013 20:40</Start>
+      <End>10/10/2013 21:10</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L40.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292254</ID>
+      <Start>10/10/2013 20:40</Start>
+      <Type>5</Type>
+      <Code>0281-367801-0652</Code>
+      <Quantity>3</Quantity>
+      <Net>397.59</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292255</ID>
+      <Start>10/10/2013 20:40</Start>
+      <Type>5</Type>
+      <Code>0031-124403-0151</Code>
+      <Quantity>3</Quantity>
+      <Net>54.15</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>345939 - bspdiy 01-31 OCT 2013 Mednet AOIC - 2</ID>
+    <MemberID>0971-1004-00449599-02</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>43.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>41.33</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>2931</PatientID>
+      <Start>13/10/2013 15:49</Start>
+      <End>13/10/2013 16:19</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L20.84</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292256</ID>
+      <Start>13/10/2013 15:49</Start>
+      <Type>5</Type>
+      <Code>0281-187603-0152</Code>
+      <Quantity>1</Quantity>
+      <Net>41.33</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>346137 - bspdiy 01-31 OCT 2013 Mednet AOIC - 3</ID>
+    <MemberID>0971-1004-00467401-02</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>77.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>73.63</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3533</PatientID>
+      <Start>16/10/2013 09:53</Start>
+      <End>16/10/2013 10:23</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L60.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292257</ID>
+      <Start>16/10/2013 09:53</Start>
+      <Type>5</Type>
+      <Code>0031-127402-1451</Code>
+      <Quantity>1</Quantity>
+      <Net>44.18</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292258</ID>
+      <Start>16/10/2013 09:53</Start>
+      <Type>5</Type>
+      <Code>0281-128401-0152</Code>
+      <Quantity>1</Quantity>
+      <Net>29.45</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>346140 - bspdiy 01-31 OCT 2013 Mednet AOIC - 4</ID>
+    <MemberID>0971-1004-00405459-02</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>88.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>84.09</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3534</PatientID>
+      <Start>16/10/2013 10:21</Start>
+      <End>16/10/2013 10:51</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292259</ID>
+      <Start>16/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0027-128801-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>14.73</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292260</ID>
+      <Start>16/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292261</ID>
+      <Start>16/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0620-116226-0851</Code>
+      <Quantity>1</Quantity>
+      <Net>62.23</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>346710 - bspdiy 01-31 OCT 2013 Mednet AOIC - 5</ID>
+    <MemberID>0971-1004-00453388-02</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>149.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>142.04</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>454647</PatientID>
+      <Start>21/10/2013 19:49</Start>
+      <End>21/10/2013 20:19</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R07.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292262</ID>
+      <Start>21/10/2013 19:49</Start>
+      <Type>5</Type>
+      <Code>0027-124302-1162</Code>
+      <Quantity>1</Quantity>
+      <Net>38.48</Net>
+      <Clinician>DHA-P-0246911</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292263</ID>
+      <Start>21/10/2013 19:49</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0246911</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292264</ID>
+      <Start>21/10/2013 19:49</Start>
+      <Type>5</Type>
+      <Code>0516-225204-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>7.6</Net>
+      <Clinician>DHA-P-0246911</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292265</ID>
+      <Start>21/10/2013 19:49</Start>
+      <Type>5</Type>
+      <Code>0027-286801-2021</Code>
+      <Quantity>1</Quantity>
+      <Net>13.3</Net>
+      <Clinician>DHA-P-0246911</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292266</ID>
+      <Start>21/10/2013 19:49</Start>
+      <Type>5</Type>
+      <Code>0771-107904-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>13.3</Net>
+      <Clinician>DHA-P-0246911</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292267</ID>
+      <Start>21/10/2013 19:49</Start>
+      <Type>5</Type>
+      <Code>0620-116226-0851</Code>
+      <Quantity>1</Quantity>
+      <Net>62.23</Net>
+      <Clinician>DHA-P-0246911</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>346802 - bspdiy 01-31 OCT 2013 Mednet AOIC - 6</ID>
+    <MemberID>0971-1004-00424360-02</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>33.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>31.83</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>454648</PatientID>
+      <Start>22/10/2013 13:44</Start>
+      <End>22/10/2013 14:14</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R05</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292268</ID>
+      <Start>22/10/2013 13:44</Start>
+      <Type>5</Type>
+      <Code>0006-124502-2481</Code>
+      <Quantity>1</Quantity>
+      <Net>10.45</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292269</ID>
+      <Start>22/10/2013 13:44</Start>
+      <Type>5</Type>
+      <Code>0139-116205-2151</Code>
+      <Quantity>1</Quantity>
+      <Net>21.38</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>346865 - bspdiy 01-31 OCT 2013 Mednet AOIC - 7</ID>
+    <MemberID>0971-1004-00440826-02</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>105</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>99.76</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>21103</PatientID>
+      <Start>22/10/2013 21:29</Start>
+      <End>22/10/2013 21:59</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L03.221</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>L20.84</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292270</ID>
+      <Start>22/10/2013 21:29</Start>
+      <Type>5</Type>
+      <Code>0186-169101-1171</Code>
+      <Quantity>1</Quantity>
+      <Net>31.83</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292271</ID>
+      <Start>22/10/2013 21:29</Start>
+      <Type>5</Type>
+      <Code>0281-187603-0152</Code>
+      <Quantity>1</Quantity>
+      <Net>41.33</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292272</ID>
+      <Start>22/10/2013 21:29</Start>
+      <Type>5</Type>
+      <Code>0430-213601-0151</Code>
+      <Quantity>1</Quantity>
+      <Net>26.6</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>346897 - bspdiy 01-31 OCT 2013 Mednet AOIC - 8</ID>
+    <MemberID>0971 1004  00454110 01</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>188.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>179.09</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3561</PatientID>
+      <Start>23/10/2013 11:00</Start>
+      <End>23/10/2013 11:30</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B00.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292273</ID>
+      <Start>23/10/2013 11:00</Start>
+      <Type>5</Type>
+      <Code>0027-124302-1162</Code>
+      <Quantity>1</Quantity>
+      <Net>38.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292274</ID>
+      <Start>23/10/2013 11:00</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292275</ID>
+      <Start>23/10/2013 11:00</Start>
+      <Type>5</Type>
+      <Code>0006-102409-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>133.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>347005 - bspdiy 01-31 OCT 2013 Mednet AOIC - 9</ID>
+    <MemberID>0971-1004-00441998-01</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>17.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>16.63</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3573</PatientID>
+      <Start>24/10/2013 08:37</Start>
+      <End>24/10/2013 09:07</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292276</ID>
+      <Start>24/10/2013 08:37</Start>
+      <Type>5</Type>
+      <Code>1086-123702-1381</Code>
+      <Quantity>1</Quantity>
+      <Net>16.63</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>347003 - bspdiy 01-31 OCT 2013 Mednet AOIC - 10</ID>
+    <MemberID>0971-1004-00432619-01</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>72.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>68.88</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>32202</PatientID>
+      <Start>24/10/2013 08:57</Start>
+      <End>24/10/2013 09:27</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B00.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292277</ID>
+      <Start>24/10/2013 08:57</Start>
+      <Type>5</Type>
+      <Code>0006-126002-0152</Code>
+      <Quantity>1</Quantity>
+      <Net>27.55</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292278</ID>
+      <Start>24/10/2013 08:57</Start>
+      <Type>5</Type>
+      <Code>0281-187603-0152</Code>
+      <Quantity>1</Quantity>
+      <Net>41.33</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

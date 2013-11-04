@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+
+ <!-- Header: Submission identification information -->
+	<Header>
+		<SenderID>MF44</SenderID>
+		<ReceiverID>C004</ReceiverID>
+		<TransactionDate>18/10/2013 20:15</TransactionDate>
+		<RecordCount>7</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC145914</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971 1004 00070789 01</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>336</Gross>
+		<PatientShare>35</PatientShare>
+		<Net>301</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC20490</PatientID>
+			<Start>25/09/2013 09:33</Start>
+			<End>25/09/2013 10:25</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>719.41</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>250.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>357.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>533.90</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>440.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>721.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH353728</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>82947</Code>
+				<Quantity>1.00</Quantity>
+				<Net>14</Net>
+				<Clinician>D1467</Clinician>
+				
+					<!-- Observations information -->
+					<Observation>
+						<Type>LOINC</Type>
+						<Code>14996-3</Code>
+						<Value>109</Value>
+						<ValueType>mg/dl</ValueType>
+					</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH353732</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>82465</Code>
+				<Quantity>1.00</Quantity>
+				<Net>15</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH353730</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>83036</Code>
+				<Quantity>1.00</Quantity>
+				<Net>35</Net>
+				<Clinician>D1467</Clinician>
+				
+					<!-- Observations information -->
+					<Observation>
+						<Type>LOINC</Type>
+						<Code>4548-4</Code>
+						<Value>5.8</Value>
+						<ValueType>%</ValueType>
+					</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH353734</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>83721</Code>
+				<Quantity>1.00</Quantity>
+				<Net>34</Net>
+				<Clinician>D1467</Clinician>
+				
+					<!-- Observations information -->
+					<Observation>
+						<Type>LOINC</Type>
+						<Code>22748-8</Code>
+						<Value>59</Value>
+						<ValueType>mg/dl</ValueType>
+					</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH353733</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>84478</Code>
+				<Quantity>1.00</Quantity>
+				<Net>21</Net>
+				<Clinician>D1467</Clinician>
+				
+					<!-- Observations information -->
+					<Observation>
+						<Type>LOINC</Type>
+						<Code>47210-0</Code>
+						<Value>80</Value>
+						<ValueType>mg/dl</ValueType>
+					</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH353731</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>84550</Code>
+				<Quantity>1.00</Quantity>
+				<Net>16</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH353729</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>81001</Code>
+				<Quantity>1.00</Quantity>
+				<Net>11</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH353735</ID>
+				<Start>25/09/2013 10:25</Start>
+
+				<Type>3</Type>
+				<Code>73020</Code>
+				<Quantity>1.00</Quantity>
+				<Net>50</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH353655</ID>
+				<Start>25/09/2013 09:33</Start>
+
+				<Type>3</Type>
+				<Code>99214</Code>
+				<Quantity>1.00</Quantity>
+				<Net>105</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC140429</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971 1004 00410663 01</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>784-1969-8742098-9</EmiratesIDNumber>
+		<Gross>123</Gross>
+		<PatientShare>35</PatientShare>
+		<Net>88</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC27135</PatientID>
+			<Start>02/09/2013 12:30</Start>
+			<End>02/09/2013 12:48</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>733.90</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>719.49</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH341163</ID>
+				<Start>02/09/2013 12:30</Start>
+
+				<Type>3</Type>
+				<Code>99213</Code>
+				<Quantity>1.00</Quantity>
+				<Net>60</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH366632</ID>
+				<Start>02/09/2013 12:48</Start>
+
+				<Type>3</Type>
+				<Code>96372</Code>
+				<Quantity>1.00</Quantity>
+				<Net>28</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC146331</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971 1004 00351029 01</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>573.5</Gross>
+		<PatientShare>75</PatientShare>
+		<Net>498.5</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC29626</PatientID>
+			<Start>27/09/2013 17:02</Start>
+			<End>27/09/2013 18:13</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>601.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>788.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>533.90</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>302.70</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>788.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>722.73</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH354869</ID>
+				<Start>27/09/2013 18:11</Start>
+
+				<Type>3</Type>
+				<Code>86677</Code>
+				<Quantity>1.00</Quantity>
+				<Net>47.7</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH354866</ID>
+				<Start>27/09/2013 18:11</Start>
+
+				<Type>3</Type>
+				<Code>81001</Code>
+				<Quantity>1.00</Quantity>
+				<Net>9.9</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH354867</ID>
+				<Start>27/09/2013 18:11</Start>
+
+				<Type>3</Type>
+				<Code>74000</Code>
+				<Quantity>1.00</Quantity>
+				<Net>45</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH354871</ID>
+				<Start>27/09/2013 18:13</Start>
+
+				<Type>3</Type>
+				<Code>76770</Code>
+				<Quantity>1.00</Quantity>
+				<Net>245.7</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH354868</ID>
+				<Start>27/09/2013 18:13</Start>
+
+				<Type>3</Type>
+				<Code>72020</Code>
+				<Quantity>1.00</Quantity>
+				<Net>43.2</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH354759</ID>
+				<Start>27/09/2013 17:22</Start>
+
+				<Type>3</Type>
+				<Code>99203</Code>
+				<Quantity>1.00</Quantity>
+				<Net>107</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC141956</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971 1004 00283493 01</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>257</Gross>
+		<PatientShare>35</PatientShare>
+		<Net>222</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC26012</PatientID>
+			<Start>12/09/2013 10:17</Start>
+			<End>12/09/2013 11:20</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>721.1</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH346584</ID>
+				<Start>12/09/2013 11:20</Start>
+
+				<Type>3</Type>
+				<Code>80061</Code>
+				<Quantity>1.00</Quantity>
+				<Net>67</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH346585</ID>
+				<Start>12/09/2013 11:20</Start>
+
+				<Type>3</Type>
+				<Code>80061</Code>
+				<Quantity>1.00</Quantity>
+				<Net>67</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH346586</ID>
+				<Start>12/09/2013 11:20</Start>
+
+				<Type>3</Type>
+				<Code>96372</Code>
+				<Quantity>1.00</Quantity>
+				<Net>28</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH346494</ID>
+				<Start>12/09/2013 10:17</Start>
+
+				<Type>3</Type>
+				<Code>99213</Code>
+				<Quantity>1.00</Quantity>
+				<Net>60</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC144271</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971 1004 00244566 02</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>95</Gross>
+		<PatientShare>35</PatientShare>
+		<Net>60</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC15148</PatientID>
+			<Start>18/09/2013 17:26</Start>
+			<End>18/09/2013 17:26</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH350343</ID>
+				<Start>18/09/2013 17:26</Start>
+
+				<Type>3</Type>
+				<Code>99213</Code>
+				<Quantity>1.00</Quantity>
+				<Net>60</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC143974</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971-1004-00441831-02</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>106</Gross>
+		<PatientShare>36.1</PatientShare>
+		<Net>69.9</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC28949</PatientID>
+			<Start>17/09/2013 19:03</Start>
+			<End>17/09/2013 20:24</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>533.90</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>788.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>287.31</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH349977</ID>
+				<Start>17/09/2013 20:24</Start>
+
+				<Type>3</Type>
+				<Code>81001</Code>
+				<Quantity>1.00</Quantity>
+				<Net>9.9</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH349923</ID>
+				<Start>17/09/2013 19:03</Start>
+
+				<Type>3</Type>
+				<Code>99213</Code>
+				<Quantity>1.00</Quantity>
+				<Net>60</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC141000</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971-1004-00441831-02</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>521</Gross>
+		<PatientShare>72.9</PatientShare>
+		<Net>448.1</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC28949</PatientID>
+			<Start>06/09/2013 18:26</Start>
+			<End>06/09/2013 19:32</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>995.3</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.96</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>782.3</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.79</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>599.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>533.90</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.5</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>784.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>287.31</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH343376</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>86060</Code>
+				<Quantity>1.00</Quantity>
+				<Net>24.3</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343374</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>84520</Code>
+				<Quantity>1.00</Quantity>
+				<Net>12.6</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343372</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>85025</Code>
+				<Quantity>1.00</Quantity>
+				<Net>25.2</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343383</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>82565</Code>
+				<Quantity>1.00</Quantity>
+				<Net>16.2</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343375</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>86140</Code>
+				<Quantity>1.00</Quantity>
+				<Net>17.1</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343373</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>85651</Code>
+				<Quantity>1.00</Quantity>
+				<Net>11.7</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343382</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>86430</Code>
+				<Quantity>1.00</Quantity>
+				<Net>18</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343370</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>84550</Code>
+				<Quantity>1.00</Quantity>
+				<Net>14.4</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343380</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>81001</Code>
+				<Quantity>1.00</Quantity>
+				<Net>9.9</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343377</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>82947</Code>
+				<Quantity>1.00</Quantity>
+				<Net>12.6</Net>
+				<Clinician>D1467</Clinician>
+				
+					<!-- Observations information -->
+					<Observation>
+						<Type>LOINC</Type>
+						<Code>14996-3</Code>
+						<Value>91</Value>
+						<ValueType>mg/dl</ValueType>
+					</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH343379</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>85002</Code>
+				<Quantity>1.00</Quantity>
+				<Net>14.4</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343371</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>82306</Code>
+				<Quantity>1.00</Quantity>
+				<Net>95.4</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343378</ID>
+				<Start>06/09/2013 19:32</Start>
+
+				<Type>3</Type>
+				<Code>70250</Code>
+				<Quantity>1.00</Quantity>
+				<Net>69.3</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH343254</ID>
+				<Start>06/09/2013 18:26</Start>
+
+				<Type>3</Type>
+				<Code>99203</Code>
+				<Quantity>1.00</Quantity>
+				<Net>107</Net>
+				<Clinician>D1467</Clinician>
+				
+			</Activity>
+
+	</Claim>
+
+</Claim.Submission>

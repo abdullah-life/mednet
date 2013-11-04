@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF3080</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:45</TransactionDate>
+    <RecordCount>2</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SL30055562</ID>
+    <IDPayer>225372_12705_SL30055562</IDPayer>
+    <MemberID>0971 1033 00408347 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>285.20</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>230012063</PatientID>
+      <Start>10/06/2013 10:37</Start>
+      <End>10/06/2013 10:37</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>722.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>274.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>338.19</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.11</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>626.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>722.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131241</ID>
+      <Start>10/06/2013 10:37</Start>
+      <Type>3</Type>
+      <Code>82306</Code>
+      <Quantity>1.000</Quantity>
+      <Net>243.80</Net>
+      <Clinician>GD6012</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131242</ID>
+      <Start>10/06/2013 10:37</Start>
+      <Type>3</Type>
+      <Code>82310</Code>
+      <Quantity>1.000</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD6012</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Patient came with complains of pain in neck region and both periscapular region for last 1 day, getting worse with difficulty in performing activity of daily living; lower back pain for 2 weeks. Calcium and Vitamin D test was done to rule out deficiency as the cause of back pain. Kindly process the claim.  </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30055564</ID>
+    <IDPayer>225372_12705_SL30055564</IDPayer>
+    <MemberID>0971 1033 00407941 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>623.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>623.30</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>130045338</PatientID>
+      <Start>14/06/2013 13:35</Start>
+      <End>14/06/2013 13:35</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>788.42</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131251</ID>
+      <Start>14/06/2013 13:35</Start>
+      <Type>3</Type>
+      <Code>80061</Code>
+      <Quantity>1.000</Quantity>
+      <Net>154.10</Net>
+      <Clinician>GD11728</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131252</ID>
+      <Start>14/06/2013 13:35</Start>
+      <Type>3</Type>
+      <Code>80076</Code>
+      <Quantity>1.000</Quantity>
+      <Net>395.60</Net>
+      <Clinician>GD11728</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131253</ID>
+      <Start>14/06/2013 13:35</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.000</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11728</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131257</ID>
+      <Start>14/06/2013 13:35</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD11728</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Patient came with complains of fever, throat pain with body pain for 2 days  with polyuria and dizziness and joint pain. Liver panel test was done to rule out liver pathology in a patient with DM and hyperlipidemia as certain medication can be toxic to the liver.  Lipid panel test was done to evaluate a patient with lipid metabolism disorder. Urea and Creatinine test was done to rule out kidney disorder in a patient with urologic manifestation. Kindly process the claim.   </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

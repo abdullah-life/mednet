@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045824</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 17:05</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>347269 - bspdiy 01-31 OCT 2013 Mednet Tak Emarat - 1</ID>
+    <MemberID>0971 1042 00461540 02</MemberID>
+    <PayerID>INS022</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>112.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>106.88</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3604</PatientID>
+      <Start>28/10/2013 14:20</Start>
+      <End>28/10/2013 14:50</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292393</ID>
+      <Start>28/10/2013 14:20</Start>
+      <Type>5</Type>
+      <Code>0027-128801-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>14.73</Net>
+      <Clinician>DHA-P-0005999</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292394</ID>
+      <Start>28/10/2013 14:20</Start>
+      <Type>5</Type>
+      <Code>0587-384101-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>27.55</Net>
+      <Clinician>DHA-P-0005999</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292395</ID>
+      <Start>28/10/2013 14:20</Start>
+      <Type>5</Type>
+      <Code>0070-108102-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>34.2</Net>
+      <Clinician>DHA-P-0005999</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292396</ID>
+      <Start>28/10/2013 14:20</Start>
+      <Type>5</Type>
+      <Code>0414-203702-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>30.4</Net>
+      <Clinician>DHA-P-0005999</Clinician>
+      <PriorAuthorizationID>ARKHI -APPROVED</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+</Claim.Submission>

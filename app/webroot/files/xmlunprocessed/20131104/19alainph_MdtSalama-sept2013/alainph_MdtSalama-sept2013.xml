@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1075</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>24/10/2013 09:48</TransactionDate> 
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>alainph_MdtSalama-sept2013-1</ID><MemberID>0971 10 33 00452395 01</MemberID><PayerID>A020</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>171.58</Gross><PatientShare>34.32</PatientShare><Net>137.26</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>123173</PatientID><Start>07/09/2013 16:59</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>357.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>401.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>530.81</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>787.3</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>07/09/2013 16:59</Start><Type>5</Type><Code>2325-3485-011</Code><Quantity>1</Quantity><Net>85.19</Net><Clinician>GD5730</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>07/09/2013 16:59</Start><Type>5</Type><Code>1526-3225-002</Code><Quantity>1.5</Quantity><Net>24.55</Net><Clinician>GD5730</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>07/09/2013 16:59</Start><Type>5</Type><Code>1465-3082-001</Code><Quantity>1</Quantity><Net>15.99</Net><Clinician>GD5730</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>07/09/2013 16:59</Start><Type>5</Type><Code>1284-2897-004</Code><Quantity>1</Quantity><Net>11.53</Net><Clinician>GD5730</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>alainph_MdtSalama-sept2013-2</ID><MemberID>0971 1033 00379586 01</MemberID><PayerID>A020</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>46.03</Gross><PatientShare>0</PatientShare><Net>46.03</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>Adv120039</PatientID><Start>30/09/2013 21:07</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>268.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>275.2</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>719.41</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>728.85</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>30/09/2013 21:07</Start><Type>5</Type><Code>1368-1961-002</Code><Quantity>1</Quantity><Net>10.23</Net><Clinician>GD6518</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>30/09/2013 21:07</Start><Type>5</Type><Code>1556-4476-014</Code><Quantity>1</Quantity><Net>35.8</Net><Clinician>GD6518</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

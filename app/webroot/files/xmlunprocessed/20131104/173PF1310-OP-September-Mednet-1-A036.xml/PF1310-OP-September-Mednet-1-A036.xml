@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>PF1310</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>09/10/2013 10:48</TransactionDate>
+    <RecordCount>12</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SP30201680</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00392606 01</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>506.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>506.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100064724</PatientID>
+      <Start>03/09/2013 10:56</Start>
+      <End>03/09/2013 10:56</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>708.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>111.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>692.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588088</ID>
+      <Start>03/09/2013 10:56</Start>
+      <Type>5</Type>
+      <Code>1552-2762-003</Code>
+      <Quantity>4.00</Quantity>
+      <Net>246.00</Net>
+      <Clinician>D4907</Clinician>
+      <PriorAuthorizationID>274083</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588089</ID>
+      <Start>03/09/2013 10:56</Start>
+      <Type>5</Type>
+      <Code>1650-1943-002</Code>
+      <Quantity>2.00</Quantity>
+      <Net>49.00</Net>
+      <Clinician>D4907</Clinician>
+      <PriorAuthorizationID>274083</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588090</ID>
+      <Start>03/09/2013 10:56</Start>
+      <Type>5</Type>
+      <Code>1710-4508-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.00</Net>
+      <Clinician>D4907</Clinician>
+      <PriorAuthorizationID>274083</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588091</ID>
+      <Start>03/09/2013 10:56</Start>
+      <Type>5</Type>
+      <Code>1472-3422-001</Code>
+      <Quantity>4.00</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D4907</Clinician>
+      <PriorAuthorizationID>274083</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201681</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00424466 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>632.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>632.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>448703</PatientID>
+      <Start>03/09/2013 13:45</Start>
+      <End>03/09/2013 13:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>648.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>648.73</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>654.23</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>708.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>640.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>625.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588092</ID>
+      <Start>03/09/2013 13:45</Start>
+      <Type>5</Type>
+      <Code>1562-3597-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>16.50</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>274475</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588093</ID>
+      <Start>03/09/2013 13:45</Start>
+      <Type>5</Type>
+      <Code>1880-1768-004</Code>
+      <Quantity>1.00</Quantity>
+      <Net>74.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>274475</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588094</ID>
+      <Start>03/09/2013 13:45</Start>
+      <Type>5</Type>
+      <Code>1120-1271-005</Code>
+      <Quantity>1.00</Quantity>
+      <Net>19.50</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>274475</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588095</ID>
+      <Start>03/09/2013 13:45</Start>
+      <Type>5</Type>
+      <Code>1105-5569-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>274475</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588096</ID>
+      <Start>03/09/2013 13:45</Start>
+      <Type>5</Type>
+      <Code>1285-1648-003</Code>
+      <Quantity>7.00</Quantity>
+      <Net>497.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>274475</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201682</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00463306 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>214.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>214.50</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100139474</PatientID>
+      <Start>06/09/2013 21:11</Start>
+      <End>06/09/2013 21:11</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>646.63</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>640.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588097</ID>
+      <Start>06/09/2013 21:11</Start>
+      <Type>5</Type>
+      <Code>2416-2003-002</Code>
+      <Quantity>3.00</Quantity>
+      <Net>214.50</Net>
+      <Clinician>GD15771</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201683</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00328910 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>110.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>110.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>1906430</PatientID>
+      <Start>12/09/2013 19:09</Start>
+      <End>12/09/2013 19:09</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V68.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>242.90</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588098</ID>
+      <Start>12/09/2013 19:09</Start>
+      <Type>5</Type>
+      <Code>1801-3194-004</Code>
+      <Quantity>1.00</Quantity>
+      <Net>110.00</Net>
+      <Clinician>GD11934</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201684</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00391581 01</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>113.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>113.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100034762</PatientID>
+      <Start>13/09/2013 10:02</Start>
+      <End>13/09/2013 10:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588099</ID>
+      <Start>13/09/2013 10:02</Start>
+      <Type>5</Type>
+      <Code>1650-3153-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.00</Net>
+      <Clinician>D4034</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588100</ID>
+      <Start>13/09/2013 10:02</Start>
+      <Type>5</Type>
+      <Code>2189-1122-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>40.00</Net>
+      <Clinician>D4034</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201685</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00452951 01</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>110.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>110.50</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>1777840</PatientID>
+      <Start>13/09/2013 18:19</Start>
+      <End>13/09/2013 18:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588101</ID>
+      <Start>13/09/2013 18:19</Start>
+      <Type>5</Type>
+      <Code>1344-1520-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>59.50</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588102</ID>
+      <Start>13/09/2013 18:19</Start>
+      <Type>5</Type>
+      <Code>1556-4476-016</Code>
+      <Quantity>1.00</Quantity>
+      <Net>51.00</Net>
+      <Clinician>GD11906</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201686</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00462946 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>10.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>10.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100141293</PatientID>
+      <Start>15/09/2013 21:30</Start>
+      <End>15/09/2013 21:30</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>626.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588103</ID>
+      <Start>15/09/2013 21:30</Start>
+      <Type>5</Type>
+      <Code>1472-3605-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.00</Net>
+      <Clinician>GD6967</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30213125</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00424466 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1479.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1479.50</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>448703</PatientID>
+      <Start>21/09/2013 20:14</Start>
+      <End>21/09/2013 20:14</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>651.13</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>643.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>649.53</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>646.63</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588104</ID>
+      <Start>21/09/2013 20:14</Start>
+      <Type>5</Type>
+      <Code>1120-1271-005</Code>
+      <Quantity>1.00</Quantity>
+      <Net>19.50</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>276676</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588105</ID>
+      <Start>21/09/2013 20:14</Start>
+      <Type>5</Type>
+      <Code>1880-1768-004</Code>
+      <Quantity>4.00</Quantity>
+      <Net>296.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>276676</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588106</ID>
+      <Start>21/09/2013 20:14</Start>
+      <Type>5</Type>
+      <Code>1562-3597-002</Code>
+      <Quantity>4.00</Quantity>
+      <Net>66.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>276676</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588107</ID>
+      <Start>21/09/2013 20:14</Start>
+      <Type>5</Type>
+      <Code>1713-3160-001</Code>
+      <Quantity>6.00</Quantity>
+      <Net>33.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>276676</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588108</ID>
+      <Start>21/09/2013 20:14</Start>
+      <Type>5</Type>
+      <Code>1285-1648-003</Code>
+      <Quantity>15.00</Quantity>
+      <Net>1065.00</Net>
+      <Clinician>D2029</Clinician>
+      <PriorAuthorizationID>276676</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30213126</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00440483 01</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>774.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>774.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100117328</PatientID>
+      <Start>23/09/2013 18:17</Start>
+      <End>23/09/2013 18:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>414.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588109</ID>
+      <Start>23/09/2013 18:17</Start>
+      <Type>5</Type>
+      <Code>1576-2822-003</Code>
+      <Quantity>2.00</Quantity>
+      <Net>630.00</Net>
+      <Clinician>GD6271</Clinician>
+      <PriorAuthorizationID>276911</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588110</ID>
+      <Start>23/09/2013 18:17</Start>
+      <Type>5</Type>
+      <Code>1527-1723-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>68.00</Net>
+      <Clinician>GD6271</Clinician>
+      <PriorAuthorizationID>276911</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39588111</ID>
+      <Start>23/09/2013 18:17</Start>
+      <Type>5</Type>
+      <Code>1528-2401-001</Code>
+      <Quantity>4.00</Quantity>
+      <Net>76.00</Net>
+      <Clinician>GD6271</Clinician>
+      <PriorAuthorizationID>276911</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30213127</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00296389 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>10.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>10.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100033239</PatientID>
+      <Start>24/09/2013 20:02</Start>
+      <End>24/09/2013 20:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>626.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>280.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>626.6</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588112</ID>
+      <Start>24/09/2013 20:02</Start>
+      <Type>5</Type>
+      <Code>1544-4603-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.00</Net>
+      <Clinician>GD5960</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220669</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00424465 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>437.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>437.50</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>1825282</PatientID>
+      <Start>27/09/2013 13:01</Start>
+      <End>27/09/2013 13:01</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588113</ID>
+      <Start>27/09/2013 13:01</Start>
+      <Type>5</Type>
+      <Code>1552-3448-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>15.50</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588114</ID>
+      <Start>27/09/2013 13:01</Start>
+      <Type>5</Type>
+      <Code>1392-3838-001</Code>
+      <Quantity>3.00</Quantity>
+      <Net>405.00</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588115</ID>
+      <Start>27/09/2013 13:01</Start>
+      <Type>5</Type>
+      <Code>1472-1058-010</Code>
+      <Quantity>1.00</Quantity>
+      <Net>7.50</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588116</ID>
+      <Start>27/09/2013 13:01</Start>
+      <Type>5</Type>
+      <Code>1475-2259-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>9.50</Net>
+      <Clinician>GD6679</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220670</ID>
+    <IDPayer />
+    <MemberID>0971 1005 00451870 02</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>96.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>96.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>1679810</PatientID>
+      <Start>28/09/2013 11:59</Start>
+      <End>28/09/2013 11:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>274.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>536.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>244.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39588117</ID>
+      <Start>28/09/2013 11:59</Start>
+      <Type>5</Type>
+      <Code>1567-4599-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>52.50</Net>
+      <Clinician>D3675</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588118</ID>
+      <Start>28/09/2013 11:59</Start>
+      <Type>5</Type>
+      <Code>1527-2142-004</Code>
+      <Quantity>1.00</Quantity>
+      <Net>20.00</Net>
+      <Clinician>D3675</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39588119</ID>
+      <Start>28/09/2013 11:59</Start>
+      <Type>5</Type>
+      <Code>1527-1721-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>23.50</Net>
+      <Clinician>D3675</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

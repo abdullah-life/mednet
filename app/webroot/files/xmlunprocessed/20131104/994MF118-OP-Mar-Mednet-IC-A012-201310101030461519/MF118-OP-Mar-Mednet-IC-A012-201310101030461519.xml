@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:30</TransactionDate>
+    <RecordCount>9</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30093693</ID>
+    <IDPayer>221569_31165_SC30093693</IDPayer>
+    <MemberID>0971 1004 00395950 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>317.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>317.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1560781</PatientID>
+      <Start>09/03/2013 12:12</Start>
+      <End>09/03/2013 12:12</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>077.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>370.21</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650350</ID>
+      <Start>09/03/2013 12:12</Start>
+      <Type>3</Type>
+      <Code>92025</Code>
+      <Quantity>1.000</Quantity>
+      <Net>317.40</Net>
+      <Clinician>D2645</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with viral conjunctivitis. CPT 92025 was done for further investigations and assessing any eye conditions and performed to detect subtle corneal surface irregularities and astigmatism. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027543</ID>
+    <IDPayer>221569_31165_SL30027543</IDPayer>
+    <MemberID>0971 1004 00396502 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>266.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>266.80</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>383866</PatientID>
+      <Start>04/03/2013 14:31</Start>
+      <End>04/03/2013 14:31</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>490</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>783.21</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.07</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>997.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650459</ID>
+      <Start>04/03/2013 14:31</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.000</Quantity>
+      <Net>41.40</Net>
+      <Clinician>D1288</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650462</ID>
+      <Start>04/03/2013 14:31</Start>
+      <Type>3</Type>
+      <Code>82977</Code>
+      <Quantity>1.000</Quantity>
+      <Net>59.80</Net>
+      <Clinician>D1288</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650463</ID>
+      <Start>04/03/2013 14:31</Start>
+      <Type>3</Type>
+      <Code>83518</Code>
+      <Quantity>1.000</Quantity>
+      <Net>71.30</Net>
+      <Clinician>D1288</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650466</ID>
+      <Start>04/03/2013 14:31</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D1288</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650470</ID>
+      <Start>04/03/2013 14:31</Start>
+      <Type>3</Type>
+      <Code>86060</Code>
+      <Quantity>1.000</Quantity>
+      <Net>62.10</Net>
+      <Clinician>D1288</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Creatinine and BUN were done to rule out renal disorders in relation with HLP and abdominal pain. GGT was done to rule out liver disorders in relation with abdominal pain. ASO was done to rule out streptococcal infection. Code 83518 was done to rule out infectious etiology in relation with fever. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027549</ID>
+    <IDPayer>221569_31165_SL30027549</IDPayer>
+    <MemberID>0971 1004 00396508 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>78.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>78.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>271324</PatientID>
+      <Start>13/03/2013 09:58</Start>
+      <End>13/03/2013 09:58</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>601.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>600.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650496</ID>
+      <Start>13/03/2013 09:58</Start>
+      <Type>3</Type>
+      <Code>87075</Code>
+      <Quantity>1.000</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D4538</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with UTI to rule out bacterial infection. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027551</ID>
+    <IDPayer>221569_31165_SL30027551</IDPayer>
+    <MemberID>0971 1004 00434881 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>225.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>225.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100105677</PatientID>
+      <Start>14/03/2013 09:17</Start>
+      <End>14/03/2013 09:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.06</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>271.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.79</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.96</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>783.21</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650506</ID>
+      <Start>14/03/2013 09:17</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.000</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650507</ID>
+      <Start>14/03/2013 09:17</Start>
+      <Type>3</Type>
+      <Code>84450</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650508</ID>
+      <Start>14/03/2013 09:17</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with abdominal pain, malaise and fatigue to rule out liver disorders, and thyroid dysfunction. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027553</ID>
+    <IDPayer>221569_31165_SL30027553</IDPayer>
+    <MemberID>0971 1004 00392765 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>71.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>71.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1994922</PatientID>
+      <Start>15/03/2013 11:53</Start>
+      <End>15/03/2013 11:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>388.70</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650515</ID>
+      <Start>15/03/2013 11:53</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1.000</Quantity>
+      <Net>71.30</Net>
+      <Clinician>D4034</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with reported diagnosis. 87070 was done to detect bacterial growth and to detect the presence of any or multiple aerobic bacteria. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027558</ID>
+    <IDPayer>221651_19064_SL30027558</IDPayer>
+    <MemberID>0971 1004 00322351 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>324.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>324.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>352189</PatientID>
+      <Start>18/03/2013 12:34</Start>
+      <End>18/03/2013 12:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.83</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>056.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>647.53</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.79</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V17.49</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V18.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V72.86</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650538</ID>
+      <Start>18/03/2013 12:34</Start>
+      <Type>3</Type>
+      <Code>82951</Code>
+      <Quantity>1.000</Quantity>
+      <Net>105.80</Net>
+      <Clinician>D1532</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1518-0</Code>
+        <Value>106.67</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>34650540</ID>
+      <Start>18/03/2013 12:34</Start>
+      <Type>3</Type>
+      <Code>83036</Code>
+      <Quantity>1.000</Quantity>
+      <Net>80.50</Net>
+      <Clinician>D1532</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>17855-8</Code>
+        <Value>4.60000</Value>
+        <ValueType>%</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>34650541</ID>
+      <Start>18/03/2013 12:34</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.000</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D1532</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Antenatal checkup. for 30-31 pregnancy. Done to rule out diabetes . thyroid dysfunction and glucose level. Kindly process</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027560</ID>
+    <IDPayer>221569_31165_SL30027560</IDPayer>
+    <MemberID>0971 1004 00434881 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>255.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>255.30</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100105677</PatientID>
+      <Start>20/03/2013 09:53</Start>
+      <End>20/03/2013 09:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>271.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>536.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>783.21</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.06</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650546</ID>
+      <Start>20/03/2013 09:53</Start>
+      <Type>3</Type>
+      <Code>82955</Code>
+      <Quantity>1.000</Quantity>
+      <Net>80.50</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34650548</ID>
+      <Start>20/03/2013 09:53</Start>
+      <Type>3</Type>
+      <Code>85060</Code>
+      <Quantity>1.000</Quantity>
+      <Net>174.80</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with the reported diagnoses. The activities were done to rule out for G6PD deficiency and immature or abnormal blood cells. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027563</ID>
+    <IDPayer>221569_31165_SL30027563</IDPayer>
+    <MemberID>0971 1004 00399519 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>78.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>78.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>368044</PatientID>
+      <Start>23/03/2013 08:45</Start>
+      <End>23/03/2013 08:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.71</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.79</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650571</ID>
+      <Start>23/03/2013 08:45</Start>
+      <Type>3</Type>
+      <Code>83721</Code>
+      <Quantity>1.000</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D4224</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>18262-6</Code>
+        <Value>57.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with the reported diagnoses. LDL was done to assess the LDL levels, as increased levels of LDL can cause the symptoms. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027569</ID>
+    <IDPayer>221569_31165_SL30027569</IDPayer>
+    <MemberID>0971 1004 00403599 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>395.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>395.60</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100108874</PatientID>
+      <Start>28/03/2013 22:55</Start>
+      <End>28/03/2013 22:55</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>530.11</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>003.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>276.51</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.06</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650599</ID>
+      <Start>28/03/2013 22:55</Start>
+      <Type>3</Type>
+      <Code>80076</Code>
+      <Quantity>1.000</Quantity>
+      <Net>395.60</Net>
+      <Clinician>GD11864</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with complaints of epigastric pain, diarrhea and vomiting.The activity was done to assess the liver function &amp; rule out for liver disorders causing the symptoms. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

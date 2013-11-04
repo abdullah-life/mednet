@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0045697</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 12:00</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>BEHOP0000302121</ID>
+    <IDPayer/>
+    <MemberID>421700</MemberID>
+    <PayerID/>
+    <ProviderID>DHA-F-0045697</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>240.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>240.00</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045697</FacilityID>
+      <Type>1</Type>
+      <PatientID>160982</PatientID>
+      <Start>23/09/2013 12:00</Start>
+      <End>23/09/2013 12:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>D49.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>1</ID>
+      <Start>23/09/2013 12:00</Start>
+      <End>23/09/2013 12:00</End>
+      <Code>51.03</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0243847</Clinician>
+      <Observation>
+        <Type>Financial</Type>
+        <Code>ActivityGross</Code>
+        <Value>240.00</Value>
+        <ValueType>Float</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Financial</Type>
+        <Code>PSDeductible</Code>
+        <Value>0.00</Value>
+        <ValueType>Float</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Financial</Type>
+        <Code>PSCoPayment</Code>
+        <Value>0.00</Value>
+        <ValueType>Float</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Financial</Type>
+        <Code>PSOutOfPocket</Code>
+        <Value>0.00</Value>
+        <ValueType>Float</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GP000004</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

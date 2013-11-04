@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000197</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 20:02</TransactionDate>
+    <RecordCount>6</RecordCount>
+  </Header>
+  <Claim>
+    <ID>OPC-R-2013-046214</ID>
+    <MemberID>456839</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>329</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>329</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008963</PatientID>
+      <Start>15/09/2013 09:24</Start>
+      <End>15/09/2013 10:15</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M54.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>OPRXX0312441029</ID>
+      <Start>15/09/2013 09:24</Start>
+      <End>15/09/2013 09:24</End>
+      <Code>11</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>470</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>S3129851</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DCF001</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CONSULTANT VISIT -NEW VISIT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-045231</ID>
+    <MemberID>462029</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>637</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>637</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008796</PatientID>
+      <Start>08/09/2013 10:55</Start>
+      <End>08/09/2013 12:06</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M22.42</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M67.52</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M67.88</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.562</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>OPRXX0305171038</ID>
+      <Start>08/09/2013 10:55</Start>
+      <End>08/09/2013 10:55</End>
+      <Code>10</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>413</Net>
+      <Clinician>DHA-P-0251210</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DCF010</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SPECIALIST -NEW VISIT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-044387</ID>
+    <MemberID>0971100890045368101</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>521.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>521.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008651</PatientID>
+      <Start>02/09/2013 14:42</Start>
+      <End>02/09/2013 15:42</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.281A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.561</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>OPRXX0298931038</ID>
+      <Start>02/09/2013 14:42</Start>
+      <End>02/09/2013 14:42</End>
+      <Code>10</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>413</Net>
+      <Clinician>DHA-P-0034872</Clinician>
+      <PriorAuthorizationID>275296</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DCF010</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SPECIALIST -NEW VISIT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-045593</ID>
+    <MemberID>421327</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>213.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>213.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000190386</PatientID>
+      <Start>10/09/2013 12:19</Start>
+      <End>10/09/2013 12:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M75.41</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M75.101</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>OPRXX0308061039</ID>
+      <Start>10/09/2013 12:19</Start>
+      <End>10/09/2013 12:19</End>
+      <Code>10</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>303</Net>
+      <Clinician>DHA-P-0005016</Clinician>
+      <PriorAuthorizationID>275296</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DCF011</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SPECIALIST - REPEAT VISIT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-045623</ID>
+    <MemberID>421327</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>290.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>290.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000190386</PatientID>
+      <Start>10/09/2013 15:15</Start>
+      <End>10/09/2013 15:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M75.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M75.51</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.511</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.611</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>OPRXX0308301038</ID>
+      <Start>10/09/2013 15:15</Start>
+      <End>10/09/2013 15:15</End>
+      <Code>10</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>413</Net>
+      <Clinician>DHA-P-0007891</Clinician>
+      <PriorAuthorizationID>275296</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DCF010</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SPECIALIST -NEW VISIT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-046326</ID>
+    <MemberID>456452</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>637</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>637</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000067336</PatientID>
+      <Start>15/09/2013 16:58</Start>
+      <End>15/09/2013 16:58</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M79.641</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>OPRXX0313281038</ID>
+      <Start>15/09/2013 16:58</Start>
+      <End>15/09/2013 16:58</End>
+      <Code>10</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>413</Net>
+      <Clinician>DHA-P-0034872</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DCF010</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SPECIALIST -NEW VISIT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

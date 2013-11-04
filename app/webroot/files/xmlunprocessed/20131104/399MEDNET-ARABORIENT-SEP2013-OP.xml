@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF132</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>31/10/2013 09:38</TransactionDate>
+    <RecordCount>4</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>65906</ID>
+    <MemberID>097110040024657401</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF132</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>98.00</Gross>
+    <PatientShare>35.00</PatientShare>
+    <Net>63.00</Net>
+    <Encounter>
+      <FacilityID>MF132</FacilityID>
+      <Type>1</Type>
+      <PatientID>35527</PatientID>
+      <Start>11/09/2013 20:21</Start>
+      <End>11/09/2013 20:28</End>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>269.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.81</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>65906_1</ID>
+      <Start>11/09/2013 20:21</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1</Quantity>
+      <Net>63.00</Net>
+      <Clinician>GD5730</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>65907</ID>
+    <MemberID>097110040005092501</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF132</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>95.00</Gross>
+    <PatientShare>35.00</PatientShare>
+    <Net>60.00</Net>
+    <Encounter>
+      <FacilityID>MF132</FacilityID>
+      <Type>1</Type>
+      <PatientID>34446</PatientID>
+      <Start>12/09/2013 17:18</Start>
+      <End>12/09/2013 17:24</End>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>535.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>65907_1</ID>
+      <Start>12/09/2013 17:18</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1</Quantity>
+      <Net>60.00</Net>
+      <Clinician>GD15390</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>65908</ID>
+    <MemberID>097110040030640201</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF132</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>95.00</Gross>
+    <PatientShare>35.00</PatientShare>
+    <Net>60.00</Net>
+    <Encounter>
+      <FacilityID>MF132</FacilityID>
+      <Type>1</Type>
+      <PatientID>29249</PatientID>
+      <Start>17/09/2013 16:52</Start>
+      <End>17/09/2013 17:07</End>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>490</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>65908_1</ID>
+      <Start>17/09/2013 16:52</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1</Quantity>
+      <Net>60.00</Net>
+      <Clinician>GD15390</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>65909</ID>
+    <MemberID>097110040043264701</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF132</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>78.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>28.00</Net>
+    <Encounter>
+      <FacilityID>MF132</FacilityID>
+      <Type>1</Type>
+      <PatientID>35998</PatientID>
+      <Start>28/09/2013 13:38</Start>
+      <End>28/09/2013 13:44</End>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>465.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.07</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>65909_1</ID>
+      <Start>28/09/2013 13:38</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1</Quantity>
+      <Net>28.00</Net>
+      <Clinician>GD5730</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

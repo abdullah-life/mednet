@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="US-ASCII"?><Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+<SenderID>MF464</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>26/10/2013 23:34</TransactionDate>
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>APM-872800</ID>
+<IDPayer>872800</IDPayer>
+<MemberID>097110040044195601</MemberID>
+<PayerID>@Orient</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>409</Gross>
+<PatientShare>40.9</PatientShare>
+<Net>368.1</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>48043/01</PatientID>
+<Start>29/05/2013 00:00</Start>
+<End>29/05/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>787.20</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Activity>
+<ID>4684142</ID>
+<Start>29/05/2013 00:00</Start>
+<Type>5</Type>
+<Code>1671-1293-003</Code>
+<Quantity>1.0</Quantity>
+<Net>110.25</Net>
+<Clinician>D5154</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>4684141</ID>
+<Start>29/05/2013 00:00</Start>
+<Type>5</Type>
+<Code>1241-1457-014</Code>
+<Quantity>1.0</Quantity>
+<Net>14.85</Net>
+<Clinician>D5154</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>4684140</ID>
+<Start>29/05/2013 00:00</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>2.0</Quantity>
+<Net>243.0</Net>
+<Clinician>D5154</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>1241-1457-014:please reprocess the rejected servcie, hence there was no valid denial, as confirmed with Alico&#13;
+1392-3838-001:please reprocess the rejected servcie, hence there was no valid denial, as confirmed with Alico&#13;
+1671-1293-003:please reprocess the rejected servcie, hence there was no valid denial, as confirmed with Alico</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Orient - Mednet</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

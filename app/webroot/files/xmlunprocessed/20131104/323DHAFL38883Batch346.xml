@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0047085</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 10:42</TransactionDate>
+    <RecordCount>4</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>1287 - DHA FL 38883 Batch 346 - 1</ID>
+    <MemberID>0971 10 33 00369666 02</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0047085</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>172</Gross>
+    <PatientShare>24</PatientShare>
+    <Net>135.97</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047085</FacilityID>
+      <Type>1</Type>
+      <PatientID>787</PatientID>
+      <Start>21/10/2013 16:34</Start>
+      <End>21/10/2013 17:04</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N60.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K60.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4290879</ID>
+      <Start>21/10/2013 16:34</Start>
+      <Type>5</Type>
+      <Code>0027-194103-2231</Code>
+      <Quantity>1</Quantity>
+      <Net>19.76</Net>
+      <Clinician>DHA-P-0245022</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290880</ID>
+      <Start>21/10/2013 16:34</Start>
+      <Type>5</Type>
+      <Code>0027-194101-0151</Code>
+      <Quantity>1</Quantity>
+      <Net>17.79</Net>
+      <Clinician>DHA-P-0245022</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290881</ID>
+      <Start>21/10/2013 16:34</Start>
+      <Type>5</Type>
+      <Code>0054-103201-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>98.42</Net>
+      <Clinician>DHA-P-0245022</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>1267 - DHA FL 38883 Batch 346 - 2</ID>
+    <MemberID>0971 10 33 00371659 01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0047085</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>107.5</Gross>
+    <PatientShare>15</PatientShare>
+    <Net>84.98</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047085</FacilityID>
+      <Type>1</Type>
+      <PatientID>558</PatientID>
+      <Start>20/10/2013 20:36</Start>
+      <End>20/10/2013 21:06</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J30.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4290882</ID>
+      <Start>20/10/2013 20:36</Start>
+      <Type>5</Type>
+      <Code>0189-126001-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>68.38</Net>
+      <Clinician>DHA-P-0252038</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290883</ID>
+      <Start>20/10/2013 20:36</Start>
+      <Type>5</Type>
+      <Code>0005-108604-2021</Code>
+      <Quantity>1</Quantity>
+      <Net>3.56</Net>
+      <Clinician>DHA-P-0252038</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290884</ID>
+      <Start>20/10/2013 20:36</Start>
+      <Type>5</Type>
+      <Code>0042-114504-2481</Code>
+      <Quantity>1</Quantity>
+      <Net>13.04</Net>
+      <Clinician>DHA-P-0252038</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>1279 - DHA FL 38883 Batch 346 - 3</ID>
+    <MemberID>0971 10 33 00435456 01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0047085</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>59</Gross>
+    <PatientShare>8.24</PatientShare>
+    <Net>46.64</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047085</FacilityID>
+      <Type>1</Type>
+      <PatientID>785</PatientID>
+      <Start>21/10/2013 09:58</Start>
+      <End>21/10/2013 10:28</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4290885</ID>
+      <Start>21/10/2013 09:58</Start>
+      <Type>5</Type>
+      <Code>0027-265802-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>19.76</Net>
+      <Clinician>DHA-P-0065599</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290886</ID>
+      <Start>21/10/2013 09:58</Start>
+      <Type>5</Type>
+      <Code>0005-128802-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>7.51</Net>
+      <Clinician>DHA-P-0065599</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290887</ID>
+      <Start>21/10/2013 09:58</Start>
+      <Type>5</Type>
+      <Code>0005-123701-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>14.23</Net>
+      <Clinician>DHA-P-0065599</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4290888</ID>
+      <Start>21/10/2013 09:58</Start>
+      <Type>5</Type>
+      <Code>0006-106601-0394</Code>
+      <Quantity>1</Quantity>
+      <Net>5.14</Net>
+      <Clinician>DHA-P-0065599</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>1283 - DHA FL 38883 Batch 346 - 4</ID>
+    <MemberID>09 71 10 33 00452378 02</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0047085</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>102</Gross>
+    <PatientShare>18.96</PatientShare>
+    <Net>75.9</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047085</FacilityID>
+      <Type>1</Type>
+      <PatientID>786</PatientID>
+      <Start>21/10/2013 14:53</Start>
+      <End>21/10/2013 15:23</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N76.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4290889</ID>
+      <Start>21/10/2013 14:53</Start>
+      <Type>5</Type>
+      <Code>0003-213905-2711</Code>
+      <Quantity>3</Quantity>
+      <Net>75.9</Net>
+      <Clinician>DHA-P-0245022</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

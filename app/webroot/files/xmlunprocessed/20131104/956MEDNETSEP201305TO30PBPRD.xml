@@ -1,0 +1,3759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Claim Submission-PRODUCTION -->
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1022</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>23/10/2013 16:08</TransactionDate> <!-- The previous transaction date '22/10/2013 12:24' is replace by the current date. -->
+<RecordCount>65</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>PBS3004917</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040042380102</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>46.55</Gross>
+<PatientShare>     4.74</PatientShare>
+<Net>    41.81</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>11</PatientID>
+<Start>19/09/2013 10:08</Start>
+<End>19/09/2013 10:08</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>691.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3004917 002</ID>
+<Start>19/09/2013 10:08</Start>
+<Type>5</Type>
+<Code>1544-2353-001</Code>
+<Quantity>1.00</Quantity>
+<Net>11.01</Net>
+<Clinician>GD16015</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004917 001</ID>
+<Start>19/09/2013 10:08</Start>
+<Type>5</Type>
+<Code>1544-3173-005</Code>
+<Quantity>1.00</Quantity>
+<Net>24.63</Net>
+<Clinician>GD16015</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004917 003</ID>
+<Start>19/09/2013 10:08</Start>
+<Type>5</Type>
+<Code>1542-3391-001</Code>
+<Quantity>1.00</Quantity>
+<Net>6.17</Net>
+<Clinician>GD16015</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3005064</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050036171801</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>272.84</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   272.84</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G65911</PatientID>
+<Start>20/09/2013 02:14</Start>
+<End>20/09/2013 02:14</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>413.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>794.31</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>790.29</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V18.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V17.3</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3005064 003</ID>
+<Start>20/09/2013 02:14</Start>
+<Type>5</Type>
+<Code>1464-1173-003</Code>
+<Quantity>2.00</Quantity>
+<Net>85.27</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005064 002</ID>
+<Start>20/09/2013 02:14</Start>
+<Type>5</Type>
+<Code>2412-6596-004</Code>
+<Quantity>2.00</Quantity>
+<Net>172.49</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005064 001</ID>
+<Start>20/09/2013 02:14</Start>
+<Type>5</Type>
+<Code>1704-1265-001</Code>
+<Quantity>28.00</Quantity>
+<Net>15.08</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3005080</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040045407601</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>75.95</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    75.95</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>20/09/2013 03:08</Start>
+<End>20/09/2013 03:08</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>692.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3005080 002</ID>
+<Start>20/09/2013 03:08</Start>
+<Type>5</Type>
+<Code>1650-1078-001</Code>
+<Quantity>1.00</Quantity>
+<Net>35.28</Net>
+<Clinician>D4759</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005080 001</ID>
+<Start>20/09/2013 03:08</Start>
+<Type>5</Type>
+<Code>1497-2305-002</Code>
+<Quantity>1.00</Quantity>
+<Net>40.67</Net>
+<Clinician>D4759</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3005241</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050019003802</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>28.42</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    28.42</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G61838</PatientID>
+<Start>21/09/2013 09:43</Start>
+<End>21/09/2013 09:43</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>692.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3005241 001</ID>
+<Start>21/09/2013 09:43</Start>
+<Type>5</Type>
+<Code>1648-2055-005</Code>
+<Quantity>1.00</Quantity>
+<Net>28.42</Net>
+<Clinician>D2381</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3005384</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050038239001</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>45.57</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    45.57</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>21/09/2013 01:28</Start>
+<End>21/09/2013 01:28</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>460</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3005384 003</ID>
+<Start>21/09/2013 01:28</Start>
+<Type>5</Type>
+<Code>1697-5593-001</Code>
+<Quantity>1.00</Quantity>
+<Net>16.66</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005384 002</ID>
+<Start>21/09/2013 01:28</Start>
+<Type>5</Type>
+<Code>1552-3971-001</Code>
+<Quantity>1.00</Quantity>
+<Net>24.50</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005384 001</ID>
+<Start>21/09/2013 01:28</Start>
+<Type>5</Type>
+<Code>1544-3197-003</Code>
+<Quantity>1.00</Quantity>
+<Net>4.41</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3005714</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040045134401</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>246.40</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   246.40</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>11</PatientID>
+<Start>22/09/2013 12:09</Start>
+<End>22/09/2013 12:09</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>786.50</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3005714 003</ID>
+<Start>22/09/2013 12:09</Start>
+<Type>5</Type>
+<Code>2250-1271-003</Code>
+<Quantity>10.00</Quantity>
+<Net>5.79</Net>
+<Clinician>GD15736</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005714 002</ID>
+<Start>22/09/2013 12:09</Start>
+<Type>5</Type>
+<Code>1635-3564-001</Code>
+<Quantity>14.00</Quantity>
+<Net>149.97</Net>
+<Clinician>GD15736</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3005714 001</ID>
+<Start>22/09/2013 12:09</Start>
+<Type>5</Type>
+<Code>1720-2771-001</Code>
+<Quantity>1.00</Quantity>
+<Net>90.64</Net>
+<Clinician>GD15736</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3005985</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050046463802</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>93.10</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    93.10</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G65868</PatientID>
+<Start>22/09/2013 09:11</Start>
+<End>22/09/2013 09:11</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3005985 001</ID>
+<Start>22/09/2013 09:11</Start>
+<Type>5</Type>
+<Code>2305-6569-001</Code>
+<Quantity>1.00</Quantity>
+<Net>93.10</Net>
+<Clinician>GD12299</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3006153</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330036760902</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>64.97</Gross>
+<PatientShare>    12.99</PatientShare>
+<Net>    51.98</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>23/09/2013 12:47</Start>
+<End>23/09/2013 12:47</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>564.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>789.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3006153 003</ID>
+<Start>23/09/2013 12:47</Start>
+<Type>5</Type>
+<Code>1464-2993-001</Code>
+<Quantity>1.00</Quantity>
+<Net>12.55</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3006153 002</ID>
+<Start>23/09/2013 12:47</Start>
+<Type>5</Type>
+<Code>1317-1995-001</Code>
+<Quantity>10.00</Quantity>
+<Net>1.42</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3006153 001</ID>
+<Start>23/09/2013 12:47</Start>
+<Type>5</Type>
+<Code>1550-3084-001</Code>
+<Quantity>1.00</Quantity>
+<Net>38.01</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3006315</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050034984401</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>56.84</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    56.84</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>23/09/2013 07:06</Start>
+<End>23/09/2013 07:06</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>692.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3006315 002</ID>
+<Start>23/09/2013 07:06</Start>
+<Type>5</Type>
+<Code>1497-2307-002</Code>
+<Quantity>1.00</Quantity>
+<Net>42.63</Net>
+<Clinician>GD16045</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3006315 001</ID>
+<Start>23/09/2013 07:06</Start>
+<Type>5</Type>
+<Code>1544-3180-002</Code>
+<Quantity>1.00</Quantity>
+<Net>14.21</Net>
+<Clinician>GD16045</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3006517</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040032997302</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>000000000000000</EmiratesIDNumber>
+<Gross>30.18</Gross>
+<PatientShare>     2.99</PatientShare>
+<Net>    27.19</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G12459</PatientID>
+<Start>24/09/2013 12:00</Start>
+<End>24/09/2013 12:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3006517 002</ID>
+<Start>24/09/2013 12:00</Start>
+<Type>5</Type>
+<Code>1710-4508-002</Code>
+<Quantity>10.00</Quantity>
+<Net>21.46</Net>
+<Clinician>D4824</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3006517 001</ID>
+<Start>24/09/2013 12:00</Start>
+<Type>5</Type>
+<Code>2209-6110-001</Code>
+<Quantity>1.00</Quantity>
+<Net>5.73</Net>
+<Clinician>D4824</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007123</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040044950001</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>227.36</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   227.36</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>D87198</PatientID>
+<Start>25/09/2013 05:36</Start>
+<End>25/09/2013 05:36</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>461.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007123 001</ID>
+<Start>25/09/2013 05:36</Start>
+<Type>5</Type>
+<Code>1241-2729-001</Code>
+<Quantity>1.00</Quantity>
+<Net>67.61</Net>
+<Clinician>GD5909</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007123 005</ID>
+<Start>25/09/2013 05:36</Start>
+<Type>5</Type>
+<Code>2209-6110-001</Code>
+<Quantity>1.00</Quantity>
+<Net>6.38</Net>
+<Clinician>GD5909</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007123 004</ID>
+<Start>25/09/2013 05:36</Start>
+<Type>5</Type>
+<Code>1750-5182-001</Code>
+<Quantity>1.00</Quantity>
+<Net>84.77</Net>
+<Clinician>GD5909</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007123 003</ID>
+<Start>25/09/2013 05:36</Start>
+<Type>5</Type>
+<Code>1635-4157-004</Code>
+<Quantity>1.00</Quantity>
+<Net>33.32</Net>
+<Clinician>GD5909</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007123 002</ID>
+<Start>25/09/2013 05:36</Start>
+<Type>5</Type>
+<Code>2214-2228-007</Code>
+<Quantity>2.00</Quantity>
+<Net>35.28</Net>
+<Clinician>GD5909</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007143</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330036760902</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>108.78</Gross>
+<PatientShare>    21.74</PatientShare>
+<Net>    87.04</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>25/09/2013 06:31</Start>
+<End>25/09/2013 06:31</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>211.3</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007143 002</ID>
+<Start>25/09/2013 06:31</Start>
+<Type>5</Type>
+<Code>1490-6597-002</Code>
+<Quantity>1.00</Quantity>
+<Net>58.03</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007143 001</ID>
+<Start>25/09/2013 06:31</Start>
+<Type>5</Type>
+<Code>1489-2990-006</Code>
+<Quantity>1.00</Quantity>
+<Net>29.01</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007243</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040035725902</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>65.66</Gross>
+<PatientShare>     6.49</PatientShare>
+<Net>    59.17</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>A98848</PatientID>
+<Start>25/09/2013 09:35</Start>
+<End>25/09/2013 09:35</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>654.23</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>327.52</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007243 002</ID>
+<Start>25/09/2013 09:35</Start>
+<Type>5</Type>
+<Code>1732-3442-002</Code>
+<Quantity>1.00</Quantity>
+<Net>24.74</Net>
+<Clinician>GD12299</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007243 001</ID>
+<Start>25/09/2013 09:35</Start>
+<Type>5</Type>
+<Code>1732-4855-002</Code>
+<Quantity>1.00</Quantity>
+<Net>34.43</Net>
+<Clinician>GD12299</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007736</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330039722302</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>92.12</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    92.12</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>27/09/2013 11:37</Start>
+<End>27/09/2013 11:37</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>648.83</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>648.13</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>999.70</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>789.01</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007736 002</ID>
+<Start>27/09/2013 11:37</Start>
+<Type>5</Type>
+<Code>1106-5761-001</Code>
+<Quantity>2.00</Quantity>
+<Net>43.12</Net>
+<Clinician>GD6844</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007736 001</ID>
+<Start>27/09/2013 11:37</Start>
+<Type>5</Type>
+<Code>2302-6389-001</Code>
+<Quantity>1.00</Quantity>
+<Net>49.00</Net>
+<Clinician>GD6844</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000034</ID>
+<IDPayer></IDPayer>
+<MemberID>097110340036596901</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>2678.34</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>  2678.34</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>B45691</PatientID>
+<Start>05/09/2013 12:45</Start>
+<End>05/09/2013 12:45</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.02</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>357.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000034 005</ID>
+<Start>05/09/2013 12:45</Start>
+<Type>5</Type>
+<Code>1556-5596-001</Code>
+<Quantity>3.00</Quantity>
+<Net>1098.09</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID>203211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3000034 004</ID>
+<Start>05/09/2013 12:45</Start>
+<Type>5</Type>
+<Code>1489-4261-003</Code>
+<Quantity>3.00</Quantity>
+<Net>102.90</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID>203211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3000034 003</ID>
+<Start>05/09/2013 12:45</Start>
+<Type>5</Type>
+<Code>1279-3234-003</Code>
+<Quantity>6.00</Quantity>
+<Net>646.80</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID>203211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3000034 002</ID>
+<Start>05/09/2013 12:45</Start>
+<Type>5</Type>
+<Code>1472-3968-003</Code>
+<Quantity>3.00</Quantity>
+<Net>383.67</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID>203211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3000034 001</ID>
+<Start>05/09/2013 12:45</Start>
+<Type>5</Type>
+<Code>1499-1891-002</Code>
+<Quantity>6.00</Quantity>
+<Net>446.88</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID>203211</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000036</ID>
+<IDPayer></IDPayer>
+<MemberID>097110340036596901</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>2678.34</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>  2678.34</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>B45691</PatientID>
+<Start>05/09/2013 01:05</Start>
+<End>05/09/2013 01:05</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.02</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>357.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000036 005</ID>
+<Start>05/09/2013 01:05</Start>
+<Type>5</Type>
+<Code>1556-5596-001</Code>
+<Quantity>3.00</Quantity>
+<Net>1098.09</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000036 004</ID>
+<Start>05/09/2013 01:05</Start>
+<Type>5</Type>
+<Code>1489-4261-003</Code>
+<Quantity>3.00</Quantity>
+<Net>102.90</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000036 003</ID>
+<Start>05/09/2013 01:05</Start>
+<Type>5</Type>
+<Code>1279-3234-003</Code>
+<Quantity>6.00</Quantity>
+<Net>646.80</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000036 002</ID>
+<Start>05/09/2013 01:05</Start>
+<Type>5</Type>
+<Code>1472-3968-003</Code>
+<Quantity>3.00</Quantity>
+<Net>383.67</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000036 001</ID>
+<Start>05/09/2013 01:05</Start>
+<Type>5</Type>
+<Code>1499-1891-002</Code>
+<Quantity>6.00</Quantity>
+<Net>446.88</Net>
+<Clinician>GD11720</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000190</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330041631502</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>18.51</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    18.51</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>06/09/2013 11:35</Start>
+<End>06/09/2013 11:35</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000190 001</ID>
+<Start>06/09/2013 11:35</Start>
+<Type>5</Type>
+<Code>2423-5283-002</Code>
+<Quantity>4.00</Quantity>
+<Net>18.51</Net>
+<Clinician>D4611</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000592</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040039665402</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>35.09</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    35.09</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>07/09/2013 06:44</Start>
+<End>07/09/2013 06:44</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>626.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V72.41</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000592 001</ID>
+<Start>07/09/2013 06:44</Start>
+<Type>5</Type>
+<Code>2416-2003-002</Code>
+<Quantity>10.00</Quantity>
+<Net>35.09</Net>
+<Clinician>GD12605</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000054</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040032093001</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>329.28</Gross>
+<PatientShare>    32.92</PatientShare>
+<Net>   296.36</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>05/09/2013 02:21</Start>
+<End>05/09/2013 02:21</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>460</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>790.21</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>783.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>278.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000054 004</ID>
+<Start>05/09/2013 02:21</Start>
+<Type>5</Type>
+<Code>1552-3971-001</Code>
+<Quantity>1.00</Quantity>
+<Net>22.05</Net>
+<Clinician>GD15566</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000054 003</ID>
+<Start>05/09/2013 02:21</Start>
+<Type>5</Type>
+<Code>1664-3464-016</Code>
+<Quantity>1.00</Quantity>
+<Net>9.27</Net>
+<Clinician>GD15566</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000054 002</ID>
+<Start>05/09/2013 02:21</Start>
+<Type>5</Type>
+<Code>1635-4157-003</Code>
+<Quantity>1.00</Quantity>
+<Net>23.39</Net>
+<Clinician>GD15566</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000054 001</ID>
+<Start>05/09/2013 02:21</Start>
+<Type>5</Type>
+<Code>1250-3388-003</Code>
+<Quantity>2.00</Quantity>
+<Net>241.65</Net>
+<Clinician>GD15566</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000658</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040041852501</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>441.98</Gross>
+<PatientShare>    44.24</PatientShare>
+<Net>   397.74</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>07/09/2013 09:55</Start>
+<End>07/09/2013 09:55</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>722.10</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000658 004</ID>
+<Start>07/09/2013 09:55</Start>
+<Type>5</Type>
+<Code>1673-2338-001</Code>
+<Quantity>2.00</Quantity>
+<Net>182.56</Net>
+<Clinician>D3993</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000658 003</ID>
+<Start>07/09/2013 09:55</Start>
+<Type>5</Type>
+<Code>1235-2176-001</Code>
+<Quantity>1.00</Quantity>
+<Net>45.86</Net>
+<Clinician>D3993</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000658 002</ID>
+<Start>07/09/2013 09:55</Start>
+<Type>5</Type>
+<Code>2343-6539-001</Code>
+<Quantity>1.00</Quantity>
+<Net>64.38</Net>
+<Clinician>D3993</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3000658 001</ID>
+<Start>07/09/2013 09:55</Start>
+<Type>5</Type>
+<Code>1344-1520-002</Code>
+<Quantity>2.00</Quantity>
+<Net>104.94</Net>
+<Clinician>D3993</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000660</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040041852501</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>349.86</Gross>
+<PatientShare>    34.98</PatientShare>
+<Net>   314.88</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>07/09/2013 09:56</Start>
+<End>07/09/2013 09:56</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>345.10</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000660 001</ID>
+<Start>07/09/2013 09:56</Start>
+<Type>5</Type>
+<Code>1635-1840-001</Code>
+<Quantity>6.00</Quantity>
+<Net>314.88</Net>
+<Clinician>D4222</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000663</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040039140702</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>23.52</Gross>
+<PatientShare>     2.35</PatientShare>
+<Net>    21.17</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>2386</PatientID>
+<Start>07/09/2013 10:14</Start>
+<End>07/09/2013 10:14</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>788.1</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000663 001</ID>
+<Start>07/09/2013 10:14</Start>
+<Type>5</Type>
+<Code>1241-1457-013</Code>
+<Quantity>1.00</Quantity>
+<Net>21.17</Net>
+<Clinician>GD12874</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3000824</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040038891902</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>24.50</Gross>
+<PatientShare>     2.45</PatientShare>
+<Net>    22.05</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>F84417</PatientID>
+<Start>08/09/2013 02:09</Start>
+<End>08/09/2013 02:09</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>648.83</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3000824 001</ID>
+<Start>08/09/2013 02:09</Start>
+<Type>5</Type>
+<Code>1528-5598-002</Code>
+<Quantity>1.00</Quantity>
+<Net>22.05</Net>
+<Clinician>GD7044</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001006</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040032093001</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>73.50</Gross>
+<PatientShare>     7.35</PatientShare>
+<Net>    66.15</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>08/09/2013 09:26</Start>
+<End>08/09/2013 09:26</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>274.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>573.3</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>460</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001006 001</ID>
+<Start>08/09/2013 09:26</Start>
+<Type>5</Type>
+<Code>1387-3661-002</Code>
+<Quantity>2.00</Quantity>
+<Net>42.33</Net>
+<Clinician>GD15404</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001006 002</ID>
+<Start>08/09/2013 09:26</Start>
+<Type>5</Type>
+<Code>1552-3448-004</Code>
+<Quantity>1.00</Quantity>
+<Net>23.82</Net>
+<Clinician>GD15404</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001053</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040041726902</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>70.56</Gross>
+<PatientShare>     7.05</PatientShare>
+<Net>    63.51</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G8150</PatientID>
+<Start>09/09/2013 09:50</Start>
+<End>09/09/2013 09:50</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>V22.0</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001053 002</ID>
+<Start>09/09/2013 09:50</Start>
+<Type>5</Type>
+<Code>2302-6389-001</Code>
+<Quantity>1.00</Quantity>
+<Net>44.11</Net>
+<Clinician>GD6623</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001053 001</ID>
+<Start>09/09/2013 09:50</Start>
+<Type>5</Type>
+<Code>1106-5761-001</Code>
+<Quantity>1.00</Quantity>
+<Net>19.40</Net>
+<Clinician>GD6623</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001384</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040040976502</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>43.12</Gross>
+<PatientShare>     4.31</PatientShare>
+<Net>    38.81</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>4130</PatientID>
+<Start>09/09/2013 09:45</Start>
+<End>09/09/2013 09:45</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001384 003</ID>
+<Start>09/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1355-3327-001</Code>
+<Quantity>1.00</Quantity>
+<Net>12.35</Net>
+<Clinician>D722</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001384 002</ID>
+<Start>09/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1670-3464-022</Code>
+<Quantity>1.00</Quantity>
+<Net>6.62</Net>
+<Clinician>D722</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001384 001</ID>
+<Start>09/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1671-1293-004</Code>
+<Quantity>1.00</Quantity>
+<Net>19.84</Net>
+<Clinician>D722</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001725</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040017710201</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>904.05</Gross>
+<PatientShare>    90.40</PatientShare>
+<Net>   813.65</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>F59165</PatientID>
+<Start>10/09/2013 10:27</Start>
+<End>10/09/2013 10:27</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>574.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>535.50</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001725 002</ID>
+<Start>10/09/2013 10:27</Start>
+<Type>5</Type>
+<Code>1556-4478-003</Code>
+<Quantity>6.00</Quantity>
+<Net>317.52</Net>
+<Clinician>GD6714</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001725 001</ID>
+<Start>10/09/2013 10:27</Start>
+<Type>5</Type>
+<Code>2412-6596-002</Code>
+<Quantity>9.00</Quantity>
+<Net>496.13</Net>
+<Clinician>GD6714</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001734</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040045752301</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>65.66</Gross>
+<PatientShare>     6.56</PatientShare>
+<Net>    59.10</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>A92836</PatientID>
+<Start>11/09/2013 07:54</Start>
+<End>11/09/2013 07:54</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>727.09</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001734 002</ID>
+<Start>11/09/2013 07:54</Start>
+<Type>5</Type>
+<Code>1368-2572-003</Code>
+<Quantity>1.00</Quantity>
+<Net>15.01</Net>
+<Clinician>GD6522</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001734 001</ID>
+<Start>11/09/2013 07:54</Start>
+<Type>5</Type>
+<Code>1556-4476-010</Code>
+<Quantity>1.00</Quantity>
+<Net>44.09</Net>
+<Clinician>GD6522</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001851</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330035588601</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>276.85</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   276.85</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>11/09/2013 12:50</Start>
+<End>11/09/2013 12:50</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>465.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>959.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001851 005</ID>
+<Start>11/09/2013 12:50</Start>
+<Type>5</Type>
+<Code>1320-3098-005</Code>
+<Quantity>1.00</Quantity>
+<Net>16.18</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001851 004</ID>
+<Start>11/09/2013 12:50</Start>
+<Type>5</Type>
+<Code>2412-6596-004</Code>
+<Quantity>1.00</Quantity>
+<Net>86.24</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001851 003</ID>
+<Start>11/09/2013 12:50</Start>
+<Type>5</Type>
+<Code>1635-4157-003</Code>
+<Quantity>1.00</Quantity>
+<Net>25.97</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001851 002</ID>
+<Start>11/09/2013 12:50</Start>
+<Type>5</Type>
+<Code>1556-4479-002</Code>
+<Quantity>1.00</Quantity>
+<Net>46.06</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001851 001</ID>
+<Start>11/09/2013 12:50</Start>
+<Type>5</Type>
+<Code>1750-4545-012</Code>
+<Quantity>1.00</Quantity>
+<Net>102.40</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3001876</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330036760902</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>302.82</Gross>
+<PatientShare>    60.47</PatientShare>
+<Net>   242.35</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>11/09/2013 01:43</Start>
+<End>11/09/2013 01:43</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>564.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>789.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3001876 004</ID>
+<Start>11/09/2013 01:43</Start>
+<Type>5</Type>
+<Code>2325-3485-011</Code>
+<Quantity>2.00</Quantity>
+<Net>179.61</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001876 003</ID>
+<Start>11/09/2013 01:43</Start>
+<Type>5</Type>
+<Code>1676-2001-003</Code>
+<Quantity>1.00</Quantity>
+<Net>19.22</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001876 002</ID>
+<Start>11/09/2013 01:43</Start>
+<Type>5</Type>
+<Code>1544-3183-003</Code>
+<Quantity>1.00</Quantity>
+<Net>18.44</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3001876 001</ID>
+<Start>11/09/2013 01:43</Start>
+<Type>5</Type>
+<Code>1464-2993-001</Code>
+<Quantity>2.00</Quantity>
+<Net>25.08</Net>
+<Clinician>GD12443</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002267</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050010879301</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>72.52</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    72.52</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1860</PatientID>
+<Start>12/09/2013 03:00</Start>
+<End>12/09/2013 03:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>788.1</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002267 001</ID>
+<Start>12/09/2013 03:00</Start>
+<Type>5</Type>
+<Code>1544-6593-002</Code>
+<Quantity>1.00</Quantity>
+<Net>72.52</Net>
+<Clinician>GD15859</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002544</ID>
+<IDPayer></IDPayer>
+<MemberID>097110370045916802</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>29.70</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    29.70</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>E59702</PatientID>
+<Start>13/09/2013 01:57</Start>
+<End>13/09/2013 01:57</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002544 002</ID>
+<Start>13/09/2013 01:57</Start>
+<Type>5</Type>
+<Code>1525-3368-002</Code>
+<Quantity>1.00</Quantity>
+<Net>18.14</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3002544 001</ID>
+<Start>13/09/2013 01:57</Start>
+<Type>5</Type>
+<Code>1544-3183-003</Code>
+<Quantity>10.00</Quantity>
+<Net>11.56</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002549</ID>
+<IDPayer></IDPayer>
+<MemberID>097110370045917001</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>18.13</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    18.13</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>D55486</PatientID>
+<Start>13/09/2013 02:01</Start>
+<End>13/09/2013 02:01</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>782.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002549 002</ID>
+<Start>13/09/2013 02:01</Start>
+<Type>5</Type>
+<Code>1472-1058-011</Code>
+<Quantity>1.00</Quantity>
+<Net>6.37</Net>
+<Clinician>GD11650</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3002549 001</ID>
+<Start>13/09/2013 02:01</Start>
+<Type>5</Type>
+<Code>1465-1800-001</Code>
+<Quantity>1.00</Quantity>
+<Net>11.76</Net>
+<Clinician>GD11650</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002680</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040024486402</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>33.32</Gross>
+<PatientShare>     3.24</PatientShare>
+<Net>    30.08</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>13/09/2013 08:53</Start>
+<End>13/09/2013 08:53</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>795.01</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>112.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>041.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002680 001</ID>
+<Start>13/09/2013 08:53</Start>
+<Type>5</Type>
+<Code>1256-2856-001</Code>
+<Quantity>1.00</Quantity>
+<Net>30.08</Net>
+<Clinician>GD11727</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002701</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040035725902</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>49.98</Gross>
+<PatientShare>     4.99</PatientShare>
+<Net>    44.99</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>A98848</PatientID>
+<Start>13/09/2013 09:54</Start>
+<End>13/09/2013 09:54</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>654.23</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>724.5</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>646.63</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002701 001</ID>
+<Start>13/09/2013 09:54</Start>
+<Type>5</Type>
+<Code>1556-4476-016</Code>
+<Quantity>1.00</Quantity>
+<Net>44.99</Net>
+<Clinician>GD12299</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002844</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040018227401</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>303.31</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   303.31</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>B77050</PatientID>
+<Start>14/09/2013 01:35</Start>
+<End>14/09/2013 01:35</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>719.47</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002844 003</ID>
+<Start>14/09/2013 01:35</Start>
+<Type>5</Type>
+<Code>1235-2176-001</Code>
+<Quantity>1.00</Quantity>
+<Net>50.96</Net>
+<Clinician>D2177</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3002844 002</ID>
+<Start>14/09/2013 01:35</Start>
+<Type>5</Type>
+<Code>2423-6613-001</Code>
+<Quantity>1.00</Quantity>
+<Net>76.93</Net>
+<Clinician>D2177</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3002844 001</ID>
+<Start>14/09/2013 01:35</Start>
+<Type>5</Type>
+<Code>1583-1553-003</Code>
+<Quantity>1.00</Quantity>
+<Net>175.42</Net>
+<Clinician>D2177</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002846</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040018227401</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>303.31</Gross>
+<PatientShare>    30.24</PatientShare>
+<Net>   273.07</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>B77050</PatientID>
+<Start>14/09/2013 01:35</Start>
+<End>14/09/2013 01:35</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>719.47</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002846 003</ID>
+<Start>14/09/2013 01:35</Start>
+<Type>5</Type>
+<Code>2423-6613-001</Code>
+<Quantity>1.00</Quantity>
+<Net>69.27</Net>
+<Clinician>D2177</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3002846 002</ID>
+<Start>14/09/2013 01:35</Start>
+<Type>5</Type>
+<Code>1235-2176-001</Code>
+<Quantity>1.00</Quantity>
+<Net>45.88</Net>
+<Clinician>D2177</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3002846 001</ID>
+<Start>14/09/2013 01:35</Start>
+<Type>5</Type>
+<Code>1583-1553-003</Code>
+<Quantity>1.00</Quantity>
+<Net>157.92</Net>
+<Clinician>D2177</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3002903</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050031614301</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>213.64</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   213.64</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G11656</PatientID>
+<Start>14/09/2013 03:40</Start>
+<End>14/09/2013 03:40</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>922.31</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>923.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3002903 005</ID>
+<Start>14/09/2013 03:40</Start>
+<Type>5</Type>
+<Code>1380-5477-001</Code>
+<Quantity>1.00</Quantity>
+<Net>35.77</Net>
+<Clinician>GD15397</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3002903 004</ID>
+<Start>14/09/2013 03:40</Start>
+<Type>5</Type>
+<Code>1368-2572-003</Code>
+<Quantity>1.00</Quantity>
+<Net>16.67</Net>
+<Clinician>GD15397</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3002903 003</ID>
+<Start>14/09/2013 03:40</Start>
+<Type>5</Type>
+<Code>1279-3234-003</Code>
+<Quantity>1.00</Quantity>
+<Net>107.80</Net>
+<Clinician>GD15397</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3002903 002</ID>
+<Start>14/09/2013 03:40</Start>
+<Type>5</Type>
+<Code>2209-6110-002</Code>
+<Quantity>1.00</Quantity>
+<Net>10.29</Net>
+<Clinician>GD15397</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3002903 001</ID>
+<Start>14/09/2013 03:40</Start>
+<Type>5</Type>
+<Code>1523-6138-001</Code>
+<Quantity>1.00</Quantity>
+<Net>43.11</Net>
+<Clinician>GD15397</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003054</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040044052702</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>94.57</Gross>
+<PatientShare>     9.49</PatientShare>
+<Net>    85.08</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G49051</PatientID>
+<Start>14/09/2013 10:12</Start>
+<End>14/09/2013 10:12</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>V22.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>646.63</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003054 004</ID>
+<Start>14/09/2013 10:12</Start>
+<Type>5</Type>
+<Code>1464-1393-001</Code>
+<Quantity>1.00</Quantity>
+<Net>10.58</Net>
+<Clinician>GD7036</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003054 003</ID>
+<Start>14/09/2013 10:12</Start>
+<Type>5</Type>
+<Code>1732-3442-002</Code>
+<Quantity>1.00</Quantity>
+<Net>24.69</Net>
+<Clinician>GD7036</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003054 002</ID>
+<Start>14/09/2013 10:12</Start>
+<Type>5</Type>
+<Code>1732-4855-002</Code>
+<Quantity>1.00</Quantity>
+<Net>34.39</Net>
+<Clinician>GD7036</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003054 001</ID>
+<Start>14/09/2013 10:12</Start>
+<Type>5</Type>
+<Code>1472-2437-003</Code>
+<Quantity>1.00</Quantity>
+<Net>15.42</Net>
+<Clinician>GD7036</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003125</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030044562802</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>63.70</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    63.70</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>D22478</PatientID>
+<Start>15/09/2013 11:38</Start>
+<End>15/09/2013 11:38</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>686.09</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003125 002</ID>
+<Start>15/09/2013 11:38</Start>
+<Type>5</Type>
+<Code>1750-1765-003</Code>
+<Quantity>1.00</Quantity>
+<Net>28.42</Net>
+<Clinician>D97</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003125 001</ID>
+<Start>15/09/2013 11:38</Start>
+<Type>5</Type>
+<Code>1489-1983-001</Code>
+<Quantity>1.00</Quantity>
+<Net>35.28</Net>
+<Clinician>D97</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003163</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050040983102</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>226.38</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   226.38</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>15/09/2013 12:43</Start>
+<End>15/09/2013 12:43</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>726.19</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003163 002</ID>
+<Start>15/09/2013 12:43</Start>
+<Type>5</Type>
+<Code>1235-2176-001</Code>
+<Quantity>1.00</Quantity>
+<Net>50.96</Net>
+<Clinician>GD15317</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003163 001</ID>
+<Start>15/09/2013 12:43</Start>
+<Type>5</Type>
+<Code>1583-1553-003</Code>
+<Quantity>1.00</Quantity>
+<Net>175.42</Net>
+<Clinician>GD15317</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003354</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040040981702</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>10.29</Gross>
+<PatientShare>      .99</PatientShare>
+<Net>     9.30</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>15/09/2013 08:15</Start>
+<End>15/09/2013 08:15</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>078.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>686.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003354 001</ID>
+<Start>15/09/2013 08:15</Start>
+<Type>5</Type>
+<Code>1464-2320-001</Code>
+<Quantity>1.00</Quantity>
+<Net>9.30</Net>
+<Clinician>GD16045</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003360</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330035922501</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>000000000000000</EmiratesIDNumber>
+<Gross>12.25</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    12.25</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>15/09/2013 08:23</Start>
+<End>15/09/2013 08:23</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>460</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003360 001</ID>
+<Start>15/09/2013 08:23</Start>
+<Type>5</Type>
+<Code>1544-2353-001</Code>
+<Quantity>1.00</Quantity>
+<Net>12.25</Net>
+<Clinician>GD16015</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003667</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040038891902</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>222222222222222</EmiratesIDNumber>
+<Gross>12.74</Gross>
+<PatientShare>     1.24</PatientShare>
+<Net>    11.50</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>F84417</PatientID>
+<Start>16/09/2013 07:46</Start>
+<End>16/09/2013 07:46</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>648.83</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>649.13</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003667 001</ID>
+<Start>16/09/2013 07:46</Start>
+<Type>5</Type>
+<Code>1544-3174-001</Code>
+<Quantity>2.00</Quantity>
+<Net>11.50</Net>
+<Clinician>GD7044</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003741</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050036322801</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>115.06</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   115.06</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G25364</PatientID>
+<Start>16/09/2013 09:51</Start>
+<End>16/09/2013 09:51</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>717.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003741 001</ID>
+<Start>16/09/2013 09:51</Start>
+<Type>5</Type>
+<Code>1433-3679-002</Code>
+<Quantity>30.00</Quantity>
+<Net>64.09</Net>
+<Clinician>D3993</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003741 002</ID>
+<Start>16/09/2013 09:51</Start>
+<Type>5</Type>
+<Code>1235-2176-001</Code>
+<Quantity>1.00</Quantity>
+<Net>50.97</Net>
+<Clinician>D3993</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003831</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330035922501</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>175.42</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   175.42</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>17/09/2013 11:15</Start>
+<End>17/09/2013 11:15</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>486</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>460</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003831 004</ID>
+<Start>17/09/2013 11:15</Start>
+<Type>5</Type>
+<Code>1829-4834-001</Code>
+<Quantity>1.00</Quantity>
+<Net>32.83</Net>
+<Clinician>GD16016</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003831 003</ID>
+<Start>17/09/2013 11:15</Start>
+<Type>5</Type>
+<Code>1556-4476-004</Code>
+<Quantity>1.00</Quantity>
+<Net>15.68</Net>
+<Clinician>GD16016</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003831 002</ID>
+<Start>17/09/2013 11:15</Start>
+<Type>5</Type>
+<Code>1472-1058-010</Code>
+<Quantity>1.00</Quantity>
+<Net>7.35</Net>
+<Clinician>GD16016</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003831 001</ID>
+<Start>17/09/2013 11:15</Start>
+<Type>5</Type>
+<Code>1418-4545-008</Code>
+<Quantity>2.00</Quantity>
+<Net>119.56</Net>
+<Clinician>GD16016</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003833</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330035922501</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>7.35</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>     7.35</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>17/09/2013 11:20</Start>
+<End>17/09/2013 11:20</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>380.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>382.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003833 001</ID>
+<Start>17/09/2013 11:20</Start>
+<Type>5</Type>
+<Code>1629-4283-001</Code>
+<Quantity>1.00</Quantity>
+<Net>7.35</Net>
+<Clinician>GD15320</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3003909</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040046172802</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>163.17</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   163.17</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>17/09/2013 01:45</Start>
+<End>17/09/2013 01:45</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>733.90</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3003909 002</ID>
+<Start>17/09/2013 01:45</Start>
+<Type>5</Type>
+<Code>2423-6613-001</Code>
+<Quantity>1.00</Quantity>
+<Net>76.93</Net>
+<Clinician>GD6001</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3003909 001</ID>
+<Start>17/09/2013 01:45</Start>
+<Type>5</Type>
+<Code>1106-5761-001</Code>
+<Quantity>4.00</Quantity>
+<Net>86.24</Net>
+<Clinician>GD6001</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3004040</ID>
+<IDPayer></IDPayer>
+<MemberID>097110010041656401</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>130.83</Gross>
+<PatientShare>    12.99</PatientShare>
+<Net>   117.84</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G51711</PatientID>
+<Start>17/09/2013 07:49</Start>
+<End>17/09/2013 07:49</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>691.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3004040 002</ID>
+<Start>17/09/2013 07:49</Start>
+<Type>5</Type>
+<Code>2189-2053-003</Code>
+<Quantity>1.00</Quantity>
+<Net>96.22</Net>
+<Clinician>D2381</Clinician>
+<PriorAuthorizationID>IAN</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3004040 001</ID>
+<Start>17/09/2013 07:49</Start>
+<Type>5</Type>
+<Code>2248-6252-002</Code>
+<Quantity>1.00</Quantity>
+<Net>21.62</Net>
+<Clinician>D2381</Clinician>
+<PriorAuthorizationID>IAN</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3004421</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330035922501</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>5.88</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>     5.88</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>18/09/2013 07:30</Start>
+<End>18/09/2013 07:30</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>486</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3004421 001</ID>
+<Start>18/09/2013 07:30</Start>
+<Type>5</Type>
+<Code>1544-3199-001</Code>
+<Quantity>1.00</Quantity>
+<Net>5.88</Net>
+<Clinician>GD16015</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3004666</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330035588601</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>450.31</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   450.31</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>19/09/2013 01:50</Start>
+<End>19/09/2013 01:50</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>493.82</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3004666 006</ID>
+<Start>19/09/2013 01:50</Start>
+<Type>5</Type>
+<Code>1552-3971-001</Code>
+<Quantity>1.00</Quantity>
+<Net>24.50</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004666 005</ID>
+<Start>19/09/2013 01:50</Start>
+<Type>5</Type>
+<Code>1750-3946-001</Code>
+<Quantity>1.00</Quantity>
+<Net>193.06</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004666 004</ID>
+<Start>19/09/2013 01:50</Start>
+<Type>5</Type>
+<Code>2412-6596-004</Code>
+<Quantity>1.00</Quantity>
+<Net>86.24</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004666 003</ID>
+<Start>19/09/2013 01:50</Start>
+<Type>5</Type>
+<Code>1618-2347-006</Code>
+<Quantity>1.00</Quantity>
+<Net>23.04</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004666 002</ID>
+<Start>19/09/2013 01:50</Start>
+<Type>5</Type>
+<Code>1556-4479-001</Code>
+<Quantity>1.00</Quantity>
+<Net>106.82</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004666 001</ID>
+<Start>19/09/2013 01:50</Start>
+<Type>5</Type>
+<Code>1697-5593-001</Code>
+<Quantity>1.00</Quantity>
+<Net>16.65</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3004675</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040039199901</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>24.01</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>    24.01</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>C63382</PatientID>
+<Start>19/09/2013 02:03</Start>
+<End>19/09/2013 02:03</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>565.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>564.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3004675 001</ID>
+<Start>19/09/2013 02:03</Start>
+<Type>5</Type>
+<Code>1676-2001-003</Code>
+<Quantity>1.00</Quantity>
+<Net>24.01</Net>
+<Clinician>GD6606</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3004718</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040032599202</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>318.50</Gross>
+<PatientShare>    31.97</PatientShare>
+<Net>   286.53</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>19/09/2013 03:49</Start>
+<End>19/09/2013 03:49</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>493.82</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3004718 005</ID>
+<Start>19/09/2013 03:49</Start>
+<Type>5</Type>
+<Code>1387-3661-002</Code>
+<Quantity>1.00</Quantity>
+<Net>21.17</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004718 004</ID>
+<Start>19/09/2013 03:49</Start>
+<Type>5</Type>
+<Code>1635-4157-003</Code>
+<Quantity>1.00</Quantity>
+<Net>23.38</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004718 003</ID>
+<Start>19/09/2013 03:49</Start>
+<Type>5</Type>
+<Code>1750-3946-001</Code>
+<Quantity>1.00</Quantity>
+<Net>173.68</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004718 002</ID>
+<Start>19/09/2013 03:49</Start>
+<Type>5</Type>
+<Code>1544-3197-003</Code>
+<Quantity>1.00</Quantity>
+<Net>3.98</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3004718 001</ID>
+<Start>19/09/2013 03:49</Start>
+<Type>5</Type>
+<Code>1544-3215-003</Code>
+<Quantity>1.00</Quantity>
+<Net>64.32</Net>
+<Clinician>GD15660</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007788</ID>
+<IDPayer></IDPayer>
+<MemberID>097110780045504801</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>107.31</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   107.31</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G67146</PatientID>
+<Start>27/09/2013 01:23</Start>
+<End>27/09/2013 01:23</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>465.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>796.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007788 004</ID>
+<Start>27/09/2013 01:23</Start>
+<Type>5</Type>
+<Code>1475-2161-001</Code>
+<Quantity>2.00</Quantity>
+<Net>14.70</Net>
+<Clinician>GD12201</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007788 003</ID>
+<Start>27/09/2013 01:23</Start>
+<Type>5</Type>
+<Code>1650-1643-001</Code>
+<Quantity>1.00</Quantity>
+<Net>28.92</Net>
+<Clinician>GD12201</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007788 002</ID>
+<Start>27/09/2013 01:23</Start>
+<Type>5</Type>
+<Code>1544-3197-003</Code>
+<Quantity>2.00</Quantity>
+<Net>8.82</Net>
+<Clinician>GD12201</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007788 001</ID>
+<Start>27/09/2013 01:23</Start>
+<Type>5</Type>
+<Code>1523-6484-002</Code>
+<Quantity>1.00</Quantity>
+<Net>54.87</Net>
+<Clinician>GD12201</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007798</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050036171801</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>1078.98</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>  1078.98</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G65911</PatientID>
+<Start>27/09/2013 01:54</Start>
+<End>27/09/2013 01:54</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>794.39</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>413.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>794.31</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.62</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V18.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V17.0</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007798 006</ID>
+<Start>27/09/2013 01:54</Start>
+<Type>5</Type>
+<Code>1576-2822-003</Code>
+<Quantity>1.00</Quantity>
+<Net>308.70</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007798 005</ID>
+<Start>27/09/2013 01:54</Start>
+<Type>5</Type>
+<Code>1124-5617-001</Code>
+<Quantity>1.00</Quantity>
+<Net>72.03</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007798 004</ID>
+<Start>27/09/2013 01:54</Start>
+<Type>5</Type>
+<Code>1635-3564-001</Code>
+<Quantity>1.00</Quantity>
+<Net>299.88</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007798 003</ID>
+<Start>27/09/2013 01:54</Start>
+<Type>5</Type>
+<Code>1489-4261-003</Code>
+<Quantity>1.00</Quantity>
+<Net>34.30</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007798 002</ID>
+<Start>27/09/2013 01:54</Start>
+<Type>5</Type>
+<Code>2420-6646-001</Code>
+<Quantity>1.00</Quantity>
+<Net>349.37</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3007798 001</ID>
+<Start>27/09/2013 01:54</Start>
+<Type>5</Type>
+<Code>1544-3195-001</Code>
+<Quantity>3.00</Quantity>
+<Net>14.70</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3007939</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040031351801</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>20.09</Gross>
+<PatientShare>     1.99</PatientShare>
+<Net>    18.10</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>F99153</PatientID>
+<Start>27/09/2013 09:14</Start>
+<End>27/09/2013 09:14</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>373.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3007939 001</ID>
+<Start>27/09/2013 09:14</Start>
+<Type>5</Type>
+<Code>1464-1639-002</Code>
+<Quantity>1.00</Quantity>
+<Net>18.10</Net>
+<Clinician>GD12718</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008246</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040033416502</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>153.67</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   153.67</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G33041</PatientID>
+<Start>28/09/2013 06:53</Start>
+<End>28/09/2013 06:53</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>659.53</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>535.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008246 006</ID>
+<Start>28/09/2013 06:53</Start>
+<Type>5</Type>
+<Code>1618-2348-002</Code>
+<Quantity>1.00</Quantity>
+<Net>22.55</Net>
+<Clinician>GD10372</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008246 005</ID>
+<Start>28/09/2013 06:53</Start>
+<Type>5</Type>
+<Code>1272-1221-002</Code>
+<Quantity>20.00</Quantity>
+<Net>25.49</Net>
+<Clinician>GD10372</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008246 004</ID>
+<Start>28/09/2013 06:53</Start>
+<Type>5</Type>
+<Code>1528-2401-003</Code>
+<Quantity>60.00</Quantity>
+<Net>16.47</Net>
+<Clinician>GD10372</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008246 003</ID>
+<Start>28/09/2013 06:53</Start>
+<Type>5</Type>
+<Code>1704-1265-001</Code>
+<Quantity>1.00</Quantity>
+<Net>30.39</Net>
+<Clinician>GD10372</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008246 002</ID>
+<Start>28/09/2013 06:53</Start>
+<Type>5</Type>
+<Code>1106-5761-001</Code>
+<Quantity>2.00</Quantity>
+<Net>43.13</Net>
+<Clinician>GD10372</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008246 001</ID>
+<Start>28/09/2013 06:53</Start>
+<Type>5</Type>
+<Code>1785-4637-001</Code>
+<Quantity>1.00</Quantity>
+<Net>15.64</Net>
+<Clinician>GD10372</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008378</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050043266301</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>561.54</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   561.54</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>1</PatientID>
+<Start>28/09/2013 10:47</Start>
+<End>28/09/2013 10:47</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>472.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>493.00</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008378 003</ID>
+<Start>28/09/2013 10:47</Start>
+<Type>5</Type>
+<Code>1344-2281-001</Code>
+<Quantity>2.00</Quantity>
+<Net>182.28</Net>
+<Clinician>GD6193</Clinician>
+<PriorAuthorizationID>FATIMA</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008378 002</ID>
+<Start>28/09/2013 10:47</Start>
+<Type>5</Type>
+<Code>1650-3153-001</Code>
+<Quantity>1.00</Quantity>
+<Net>71.54</Net>
+<Clinician>GD6193</Clinician>
+<PriorAuthorizationID>FATIMA</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008378 004</ID>
+<Start>28/09/2013 10:47</Start>
+<Type>5</Type>
+<Code>1961-5170-005</Code>
+<Quantity>1.00</Quantity>
+<Net>39.21</Net>
+<Clinician>GD6193</Clinician>
+<PriorAuthorizationID>FATIMA</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008378 001</ID>
+<Start>28/09/2013 10:47</Start>
+<Type>5</Type>
+<Code>1635-4143-007</Code>
+<Quantity>2.00</Quantity>
+<Net>268.51</Net>
+<Clinician>GD6193</Clinician>
+<PriorAuthorizationID>FATIMA</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008547</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050045180901</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>111.72</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>   111.72</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>G53433</PatientID>
+<Start>29/09/2013 02:26</Start>
+<End>29/09/2013 02:26</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>372.30</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008547 005</ID>
+<Start>29/09/2013 02:26</Start>
+<Type>5</Type>
+<Code>1254-4220-001</Code>
+<Quantity>1.00</Quantity>
+<Net>25.97</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008547 004</ID>
+<Start>29/09/2013 02:26</Start>
+<Type>5</Type>
+<Code>1544-3205-003</Code>
+<Quantity>2.00</Quantity>
+<Net>13.72</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008547 003</ID>
+<Start>29/09/2013 02:26</Start>
+<Type>5</Type>
+<Code>1544-3180-002</Code>
+<Quantity>1.00</Quantity>
+<Net>14.21</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008547 002</ID>
+<Start>29/09/2013 02:26</Start>
+<Type>5</Type>
+<Code>1544-3197-004</Code>
+<Quantity>1.00</Quantity>
+<Net>8.83</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008547 001</ID>
+<Start>29/09/2013 02:26</Start>
+<Type>5</Type>
+<Code>1544-2925-001</Code>
+<Quantity>1.00</Quantity>
+<Net>48.99</Net>
+<Clinician>D1448</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008549</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040031351801</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>20.09</Gross>
+<PatientShare>     1.99</PatientShare>
+<Net>    18.10</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>F99153</PatientID>
+<Start>29/09/2013 02:30</Start>
+<End>29/09/2013 02:30</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>373.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008549 001</ID>
+<Start>29/09/2013 02:30</Start>
+<Type>5</Type>
+<Code>1464-1639-002</Code>
+<Quantity>1.00</Quantity>
+<Net>18.10</Net>
+<Clinician>GD12718</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008613</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040031878601</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>37.00</Gross>
+<PatientShare>     3.74</PatientShare>
+<Net>    33.26</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>E85051</PatientID>
+<Start>29/09/2013 05:42</Start>
+<End>29/09/2013 05:42</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>413.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>745.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V45.89</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>571.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>785.3</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>794.31</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008613 001</ID>
+<Start>29/09/2013 05:42</Start>
+<Type>5</Type>
+<Code>2423-5283-002</Code>
+<Quantity>8.00</Quantity>
+<Net>33.26</Net>
+<Clinician>GD6050</Clinician>
+<PriorAuthorizationID>JAY</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008686</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330041511502</MemberID>
+<PayerID>A032</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>1579.41</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>  1579.41</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>A39123</PatientID>
+<Start>29/09/2013 08:05</Start>
+<End>29/09/2013 08:05</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>244.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>355.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008686 005</ID>
+<Start>29/09/2013 08:05</Start>
+<Type>5</Type>
+<Code>1531-4675-001</Code>
+<Quantity>119.00</Quantity>
+<Net>614.59</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277639</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008686 004</ID>
+<Start>29/09/2013 08:05</Start>
+<Type>5</Type>
+<Code>2423-5283-002</Code>
+<Quantity>8.00</Quantity>
+<Net>37.01</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277639</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008686 003</ID>
+<Start>29/09/2013 08:05</Start>
+<Type>5</Type>
+<Code>1529-1750-002</Code>
+<Quantity>2.00</Quantity>
+<Net>231.29</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277639</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008686 002</ID>
+<Start>29/09/2013 08:05</Start>
+<Type>5</Type>
+<Code>1527-2142-002</Code>
+<Quantity>75.00</Quantity>
+<Net>25.73</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277639</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008686 001</ID>
+<Start>29/09/2013 08:05</Start>
+<Type>5</Type>
+<Code>1559-6125-001</Code>
+<Quantity>1.00</Quantity>
+<Net>670.79</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277639</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008784</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040025655202</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>30.38</Gross>
+<PatientShare>     5.99</PatientShare>
+<Net>    24.39</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>D27490</PatientID>
+<Start>30/09/2013 09:32</Start>
+<End>30/09/2013 09:32</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>463</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008784 001</ID>
+<Start>30/09/2013 09:32</Start>
+<Type>5</Type>
+<Code>1584-4549-005</Code>
+<Quantity>1.00</Quantity>
+<Net>24.39</Net>
+<Clinician>D4828</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008790</ID>
+<IDPayer></IDPayer>
+<MemberID>097110330041511401</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>5632.06</Gross>
+<PatientShare>      .00</PatientShare>
+<Net>  5632.06</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>A39123</PatientID>
+<Start>30/09/2013 09:45</Start>
+<End>30/09/2013 09:45</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>355.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>414.8</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008790 005</ID>
+<Start>30/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1635-3564-001</Code>
+<Quantity>2.00</Quantity>
+<Net>599.76</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277702</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008790 004</ID>
+<Start>30/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1527-1721-001</Code>
+<Quantity>2.00</Quantity>
+<Net>46.06</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277702</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008790 003</ID>
+<Start>30/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>2319-2822-009</Code>
+<Quantity>2.00</Quantity>
+<Net>507.64</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277702</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008790 002</ID>
+<Start>30/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1529-1750-001</Code>
+<Quantity>2.00</Quantity>
+<Net>453.74</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277702</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>PBS3008790 001</ID>
+<Start>30/09/2013 09:45</Start>
+<Type>5</Type>
+<Code>1559-6125-001</Code>
+<Quantity>6.00</Quantity>
+<Net>4024.86</Net>
+<Clinician>GD6678</Clinician>
+<PriorAuthorizationID>277702</PriorAuthorizationID>
+</Activity>
+</Claim>
+<Claim>
+<ID>PBS3008878</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040036493402</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1022</ProviderID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<Gross>182.28</Gross>
+<PatientShare>    18.24</PatientShare>
+<Net>   164.04</Net>
+<Encounter>
+<FacilityID>PF1022</FacilityID>
+<Type>1</Type>
+<PatientID>F34220</PatientID>
+<Start>30/09/2013 12:16</Start>
+<End>30/09/2013 12:16</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>V24.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>788.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Activity>
+<ID>PBS3008878 003</ID>
+<Start>30/09/2013 12:16</Start>
+<Type>5</Type>
+<Code>1543-1448-001</Code>
+<Quantity>2.00</Quantity>
+<Net>42.35</Net>
+<Clinician>GD6623</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008878 002</ID>
+<Start>30/09/2013 12:16</Start>
+<Type>5</Type>
+<Code>1732-3442-002</Code>
+<Quantity>1.00</Quantity>
+<Net>24.70</Net>
+<Clinician>GD6623</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>PBS3008878 001</ID>
+<Start>30/09/2013 12:16</Start>
+<Type>5</Type>
+<Code>2086-5559-001</Code>
+<Quantity>1.00</Quantity>
+<Net>96.99</Net>
+<Clinician>GD6623</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+</Claim>
+</Claim.Submission>

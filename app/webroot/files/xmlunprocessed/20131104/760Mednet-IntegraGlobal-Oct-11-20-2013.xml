@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0046879</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 11:12</TransactionDate>
+    <RecordCount>6</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>68632 - Mednet-IntegraGlobal-Oct-11-20-2013 - 1</ID>
+    <MemberID>09710890040636402</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>350</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>80323</PatientID>
+      <Start>13/10/2013 17:39</Start>
+      <End>13/10/2013 18:09</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B37.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297318</ID>
+      <Start>13/10/2013 17:39</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>350</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>DISCHARGE PELVIS
+ITCHING VULVA AND VAGINA WITH RASH
+
+</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29907/2013-14 - Mednet-IntegraGlobal-Oct-11-20-2013 - 2</ID>
+    <MemberID>09710890040636402</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>146.25</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>146.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>80323</PatientID>
+      <Start>13/10/2013 17:43</Start>
+      <End>13/10/2013 18:13</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B37.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297319</ID>
+      <Start>13/10/2013 17:43</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1</Quantity>
+      <Net>146.25</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAM259</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36694/2013-14 - Mednet-IntegraGlobal-Oct-11-20-2013 - 3</ID>
+    <MemberID>09710890040636402</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>149.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>149.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>80323</PatientID>
+      <Start>13/10/2013 09:22</Start>
+      <End>13/10/2013 09:52</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B37.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297320</ID>
+      <Start>13/10/2013 09:22</Start>
+      <Type>5</Type>
+      <Code>0186-140201-1451</Code>
+      <Quantity>2</Quantity>
+      <Net>87</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297321</ID>
+      <Start>13/10/2013 09:22</Start>
+      <Type>5</Type>
+      <Code>0005-140401-1211</Code>
+      <Quantity>1</Quantity>
+      <Net>28.5</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297322</ID>
+      <Start>13/10/2013 09:22</Start>
+      <Type>5</Type>
+      <Code>0003-213905-2711</Code>
+      <Quantity>1</Quantity>
+      <Net>34</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68869 - Mednet-IntegraGlobal-Oct-11-20-2013 - 4</ID>
+    <MemberID>09710890040636402</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>350</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>80323</PatientID>
+      <Start>17/10/2013 17:43</Start>
+      <End>17/10/2013 18:13</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>O36.5911</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.01</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297323</ID>
+      <Start>17/10/2013 17:43</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>350</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>AMENORRHEA
+ITCHING VULVA</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30205/2013-14 - Mednet-IntegraGlobal-Oct-11-20-2013 - 5</ID>
+    <MemberID>09710890040636402</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>520</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>520</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>80323</PatientID>
+      <Start>17/10/2013 09:21</Start>
+      <End>17/10/2013 09:51</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>O36.5911</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.01</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297324</ID>
+      <Start>17/10/2013 09:21</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1</Quantity>
+      <Net>520</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37177/2013-14 - Mednet-IntegraGlobal-Oct-11-20-2013 - 6</ID>
+    <MemberID>09710890040636402</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>235.3</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>235.3</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>80323</PatientID>
+      <Start>17/10/2013 09:30</Start>
+      <End>17/10/2013 10:00</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>O36.5911</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.01</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297325</ID>
+      <Start>17/10/2013 09:30</Start>
+      <Type>5</Type>
+      <Code>1007-140501-0151</Code>
+      <Quantity>1</Quantity>
+      <Net>20.5</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>AS PER RAKHY APPROVED</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4297326</ID>
+      <Start>17/10/2013 09:30</Start>
+      <Type>5</Type>
+      <Code>1291-170901-0391</Code>
+      <Quantity>3</Quantity>
+      <Net>214.8</Net>
+      <Clinician>DHA-P-0003433</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>AS PER RAKHY APPROVED</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000078</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>28/10/2013 19:13</TransactionDate>
+    <RecordCount>4</RecordCount>
+  </Header>
+  <Claim>
+    <ID>OPC-R-2013-021372</ID>
+    <MemberID>383183</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>38.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>38.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000001472</PatientID>
+      <Start>12/09/2013 19:12</Start>
+      <End>12/09/2013 19:13</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R19.7</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX006832S007</ID>
+      <Start>12/09/2013 19:12</Start>
+      <End>12/09/2013 19:12</End>
+      <Code>82270</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>50</Net>
+      <Clinician>DHA-P-0045476</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LMI068</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>STOOL ROUTINE EXAMINATION</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-020990</ID>
+    <MemberID>441095</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1891.4</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>1891.4</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000007022</PatientID>
+      <Start>04/09/2013 13:01</Start>
+      <End>04/09/2013 13:10</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I42.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E11.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R51</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E87.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H92.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E03.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E78.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX006631I007</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>84100</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI161</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>INORGANIC PHOSPHATE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310082</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82553</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI082</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CK-MB (MASS)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310136</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82947</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>72</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI136</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GLUCOSE FASTING (F.B.S.)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310340</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>84443</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>253</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LEN065</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>TSH (THYROID STIMULATING HORMONE)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006631C004</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>85027</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LHA023</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CBC</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310352</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>85651</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LHA011</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ESR</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310059</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82331</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI059</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CALCIUM</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310181</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>83735</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>94</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI181</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>MAGNESIUM</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006631B003</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>84520</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI279</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>BLOOD UREA</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006631S002</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>84460</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI016</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ALT (SGPT)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310129</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82977</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI129</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GGT (GAMMA GLUTAMYL TRANSFERASE)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310166</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>83615</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>72</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI166</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>LDH (LACTATE DEHYDROGENASE)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310088</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82565</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI088</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CREATININE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310013</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>84075</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>72</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI013</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ALKALINE PHOSPHATASE (ALP)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006631S001</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>84450</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI040</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>AST (SGOT)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310087</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82550</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>72</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI087</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CREATINE KINASE (CK)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310271</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>82652</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI271</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>VITAMIN D 25 TOTAL</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006631E002</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>80051</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI280</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ELECTROLYTES</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066310174</ID>
+      <Start>04/09/2013 13:09</Start>
+      <End>04/09/2013 13:09</End>
+      <Code>80061</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>380</Net>
+      <Clinician>DHA-P-0016524</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI174</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>LIPID PROFILE WITH TRUE LDL (CHOL,TRIG,HDL,LDL)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-020866</ID>
+    <MemberID>417272</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>488.6</Gross>
+    <PatientShare>75</PatientShare>
+    <Net>413.6</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000003522</PatientID>
+      <Start>01/09/2013 17:47</Start>
+      <End>01/09/2013 18:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>Z34.92</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R12</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>O26.892</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.28</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0065410825</ID>
+      <Start>01/09/2013 18:34</Start>
+      <End>01/09/2013 18:34</End>
+      <Code>76857</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>220</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD091</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ULTRASOUND SCREENING</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0065411203</ID>
+      <Start>01/09/2013 18:34</Start>
+      <End>01/09/2013 18:34</End>
+      <Code>81000</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>33</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MIS021</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>URINE ANALYSIS(DIP STICK)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-021495</ID>
+    <MemberID>417272</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>597.1</Gross>
+    <PatientShare>75</PatientShare>
+    <Net>522.1</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000003522</PatientID>
+      <Start>15/09/2013 20:28</Start>
+      <End>15/09/2013 20:57</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>Z34.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.30</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0068960138</ID>
+      <Start>15/09/2013 20:57</Start>
+      <End>15/09/2013 20:57</End>
+      <Code>82948</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>72</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LBI138</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GLUCOSE RANDOM</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0068960825</ID>
+      <Start>15/09/2013 20:57</Start>
+      <End>15/09/2013 20:57</End>
+      <Code>76857</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>220</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD091</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ULTRASOUND SCREENING</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006896C004</ID>
+      <Start>15/09/2013 20:57</Start>
+      <End>15/09/2013 20:57</End>
+      <Code>85027</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LHA023</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CBC</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

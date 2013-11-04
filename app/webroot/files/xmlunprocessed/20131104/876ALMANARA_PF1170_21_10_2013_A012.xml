@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1170</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>21/10/2013 10:46</TransactionDate> 
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>ALMANARA_PF1170_21_10_2013_A012-1</ID><MemberID>421670</MemberID><PayerID>A012</PayerID><ProviderID>PF1170</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>122.76</Gross><PatientShare>0</PatientShare><Net>122.76</Net><Encounter>
+<FacilityID>PF1170</FacilityID><Type>1</Type><PatientID>5869M</PatientID><Start>14/09/2013 13:00</Start><End>14/09/2013 13:00</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>654.23</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>V23.89</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>14/09/2013 13:00</Start><Type>5</Type><Code>2034-5391-001</Code><Quantity>1</Quantity><Net>122.76</Net><Clinician>GD6397</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>ALMANARA_PF1170_21_10_2013_A012-2</ID><MemberID>436329</MemberID><PayerID>A012</PayerID><ProviderID>PF1170</ProviderID><EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber><Gross>48.82</Gross><PatientShare>0</PatientShare><Net>48.82</Net><Encounter>
+<FacilityID>PF1170</FacilityID><Type>1</Type><PatientID>5630</PatientID><Start>15/09/2013 10:28</Start><End>15/09/2013 10:28</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>465.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>15/09/2013 10:28</Start><Type>5</Type><Code>1241-1457-014</Code><Quantity>1</Quantity><Net>15.34</Net><Clinician>GD16204</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>15/09/2013 10:28</Start><Type>5</Type><Code>1650-1643-001</Code><Quantity>1</Quantity><Net>27.44</Net><Clinician>GD16204</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>15/09/2013 10:28</Start><Type>5</Type><Code>1268-1215-002</Code><Quantity>1</Quantity><Net>6.04</Net><Clinician>GD16204</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

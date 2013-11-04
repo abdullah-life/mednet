@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>PF1159</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>31/10/2013 12:52</TransactionDate>
+<RecordCount>6</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>THP-CI194814</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030038346201</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>774.56</Gross>
+<PatientShare>154.91</PatientShare>
+<Net>619.65</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>194814</PatientID>
+<Start>30/09/2013 00:00</Start>
+<End>30/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Activity>
+<ID>446228</ID>
+<Start>30/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1531-4675-002</Code>
+<Quantity>2</Quantity>
+<Net>443.68</Net>
+<Clinician>D1700</Clinician>
+<PriorAuthorizationID>277727</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>446229</ID>
+<Start>30/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1125-6212-001</Code>
+<Quantity>2</Quantity>
+<Net>175.97</Net>
+<Clinician>D1700</Clinician>
+<PriorAuthorizationID>277727</PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Rak</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>THP-CI190314</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030038130201</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>275.7</Gross>
+<PatientShare>55.15</PatientShare>
+<Net>220.55</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000200322</PatientID>
+<Start>07/09/2013 00:00</Start>
+<End>07/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>533.90</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>435815</ID>
+<Start>07/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1723-2515-001</Code>
+<Quantity>1</Quantity>
+<Net>5.64</Net>
+<Clinician>D4389</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>435816</ID>
+<Start>07/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1648-1078-003</Code>
+<Quantity>10</Quantity>
+<Net>15.26</Net>
+<Clinician>D4389</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>435817</ID>
+<Start>07/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1544-6593-001</Code>
+<Quantity>1</Quantity>
+<Net>74.07</Net>
+<Clinician>D4389</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>435818</ID>
+<Start>07/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1699-4128-002</Code>
+<Quantity>2</Quantity>
+<Net>125.58</Net>
+<Clinician>D4389</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Rak</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>THP-CI192790</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030038097801</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>64.39</Gross>
+<PatientShare>12.88</PatientShare>
+<Net>51.51</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000209242</PatientID>
+<Start>21/09/2013 00:00</Start>
+<End>21/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>346.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>441595</ID>
+<Start>21/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1464-1316-004</Code>
+<Quantity>1</Quantity>
+<Net>34.97</Net>
+<Clinician>GD12337</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>441596</ID>
+<Start>21/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1544-3180-002</Code>
+<Quantity>1</Quantity>
+<Net>10.9</Net>
+<Clinician>GD12337</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>441597</ID>
+<Start>21/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1368-3014-001</Code>
+<Quantity>10</Quantity>
+<Net>5.64</Net>
+<Clinician>GD12337</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Rak</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>THP-CI193640</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030038116202</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>153.22</Gross>
+<PatientShare>30.65</PatientShare>
+<Net>122.57</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000199832</PatientID>
+<Start>25/09/2013 00:00</Start>
+<End>25/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>465.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>041.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>443539</ID>
+<Start>25/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1447-1010-001</Code>
+<Quantity>1</Quantity>
+<Net>16.54</Net>
+<Clinician>GD10252</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>443540</ID>
+<Start>25/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1641-3866-001</Code>
+<Quantity>1</Quantity>
+<Net>22.94</Net>
+<Clinician>GD10252</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>443541</ID>
+<Start>25/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1584-4549-008</Code>
+<Quantity>1</Quantity>
+<Net>60.91</Net>
+<Clinician>GD10252</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>443542</ID>
+<Start>25/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1650-1643-001</Code>
+<Quantity>1</Quantity>
+<Net>22.18</Net>
+<Clinician>GD10252</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Rak</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>THP-CI193999</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030038130102</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>140.06</Gross>
+<PatientShare>28.01</PatientShare>
+<Net>112.05</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000200620</PatientID>
+<Start>26/09/2013 00:00</Start>
+<End>26/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>129</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Activity>
+<ID>444327</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1250-3388-001</Code>
+<Quantity>2</Quantity>
+<Net>100.77</Net>
+<Clinician>D3956</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>444328</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1544-3199-001</Code>
+<Quantity>1</Quantity>
+<Net>4.51</Net>
+<Clinician>D3956</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>444329</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1465-4407-002</Code>
+<Quantity>1</Quantity>
+<Net>6.77</Net>
+<Clinician>D3956</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Rak</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>THP-CI194000</ID>
+<IDPayer></IDPayer>
+<MemberID>097110030038130102</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>12.22</Gross>
+<PatientShare>2.44</PatientShare>
+<Net>9.78</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000200620</PatientID>
+<Start>26/09/2013 00:00</Start>
+<End>26/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>444330</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1592-2225-004</Code>
+<Quantity>1</Quantity>
+<Net>9.78</Net>
+<Clinician>D3956</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Rak</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

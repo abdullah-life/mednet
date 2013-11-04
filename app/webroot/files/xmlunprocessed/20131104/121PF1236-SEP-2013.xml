@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>PF1236</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>20/10/2013 09:06</TransactionDate>
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>MF-2971225</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00236697 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>PF1236</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>347.9</Gross>
+<PatientShare>33.73</PatientShare>
+<Net>314.17</Net>
+<Encounter>
+<FacilityID>PF1236</FacilityID>
+<Type>1</Type>
+<PatientID>23221</PatientID>
+<Start>18/09/2013 00:00</Start>
+<End>18/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>535.41</Code>
+</Diagnosis>
+<Activity>
+<ID>23565456</ID>
+<Start>18/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1982-5914-004</Code>
+<Quantity>1</Quantity>
+<Net>183.6346</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>23565457</ID>
+<Start>18/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1499-1891-002</Code>
+<Quantity>1</Quantity>
+<Net>67.2589</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>23565458</ID>
+<Start>18/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>2325-3485-007</Code>
+<Quantity>1</Quantity>
+<Net>63.2765</Net>
+<Clinician>GD16189</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

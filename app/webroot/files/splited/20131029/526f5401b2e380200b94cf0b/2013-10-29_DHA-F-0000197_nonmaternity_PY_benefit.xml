@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000197</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 20:23</TransactionDate>
+    <RecordCount>3</RecordCount>
+  </Header>
+  <Claim>
+    <ID>OPC-R-2013-044556</ID>
+    <MemberID>398249</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>252</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>252</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001004989</PatientID>
+      <Start>03/09/2013 14:34</Start>
+      <End>03/09/2013 14:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S62.603A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0281511383</ID>
+      <Start>03/09/2013 14:34</Start>
+      <End>03/09/2013 14:34</End>
+      <Code>97010</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0251330</Clinician>
+      <PriorAuthorizationID>S3105116</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PHY001</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>30 MTS PHYSIOTHERAPY</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-045731</ID>
+    <MemberID>438479</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>252</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>252</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008079</PatientID>
+      <Start>11/09/2013 10:42</Start>
+      <End>11/09/2013 10:42</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M75.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0290411383</ID>
+      <Start>11/09/2013 10:42</Start>
+      <End>11/09/2013 10:42</End>
+      <Code>97010</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0006681</Clinician>
+      <PriorAuthorizationID>273093</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PHY001</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>30 MTS PHYSIOTHERAPY</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-045925</ID>
+    <MemberID>438479</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>252</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>252</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008079</PatientID>
+      <Start>12/09/2013 13:44</Start>
+      <End>12/09/2013 13:44</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M75.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0291951383</ID>
+      <Start>12/09/2013 13:44</Start>
+      <End>12/09/2013 13:44</End>
+      <Code>97010</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0034872</Clinician>
+      <PriorAuthorizationID>273093</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PHY001</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>30 MTS PHYSIOTHERAPY</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

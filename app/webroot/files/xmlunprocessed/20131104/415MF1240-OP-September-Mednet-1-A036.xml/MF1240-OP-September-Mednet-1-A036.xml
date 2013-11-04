@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF1240</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>07/10/2013 11:05</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30283586</ID>
+    <IDPayer />
+    <MemberID>0970 1005 00353784 01</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>MF1240</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>833.02</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>783.02</Net>
+    <Encounter>
+      <FacilityID>MF1240</FacilityID>
+      <Type>1</Type>
+      <PatientID>130050788</PatientID>
+      <Start>20/09/2013 23:07</Start>
+      <End>20/09/2013 23:07</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>536.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>466.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39447610</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>5</Type>
+      <Code>1718-3520-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>19.96</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447611</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>5</Type>
+      <Code>1727-1864-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>8.20</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447612</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447613</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>3</Type>
+      <Code>94640</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.60</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447614</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>3</Type>
+      <Code>96367</Code>
+      <Quantity>1.00</Quantity>
+      <Net>94.30</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447615</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>3</Type>
+      <Code>96365</Code>
+      <Quantity>1.00</Quantity>
+      <Net>197.80</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447616</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>5</Type>
+      <Code>1279-3684-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>11.63</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39447617</ID>
+      <Start>20/09/2013 23:07</Start>
+      <Type>5</Type>
+      <Code>1417-4398-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1.53</Net>
+      <Clinician>GD12778</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

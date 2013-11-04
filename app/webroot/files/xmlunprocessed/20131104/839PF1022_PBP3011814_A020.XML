@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <Prior.Request xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="https://www.haad.ae/DataDictionary/CommonTypes/PriorRequest.xsd">
+<Header>
+<SenderID>PF1022</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>21/10/2013 19:39</TransactionDate>
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Authorization>
+<Type>Authorization</Type>
+<ID>PBP3011814</ID>
+<MemberID>097110330036757302</MemberID>
+<PayerID>A020</PayerID>
+<EmiratesIDNumber>111111111111111</EmiratesIDNumber>
+<DateOrdered>21/10/2013</DateOrdered>
+<Encounter>
+<FacilityID>PF1022</FacilityID> 
+<Type>1</Type>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>692.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>110.9</Code>
+</Diagnosis>
+<Activity>
+<ID>PBP3011814001</ID>
+<Start>21/10/2013 19:39</Start>
+<Type>5</Type>
+<Code>1464-1393-001</Code>
+<Quantity>1</Quantity>
+<Net>11.76</Net>
+<Clinician>D2381</Clinician>
+<Observation>
+<Type>Text</Type>
+<Code>Duration</Code>
+<Value>5</Value>
+<ValueType>Days</ValueType>
+</Observation>
+</Activity>
+<Activity>
+<ID>PBP3011814002</ID>
+<Start>21/10/2013 19:39</Start>
+<Type>5</Type>
+<Code>1552-2762-001</Code>
+<Quantity>1</Quantity>
+<Net>32.34</Net>
+<Clinician>D2381</Clinician>
+<Observation>
+<Type>Text</Type>
+<Code>Duration</Code>
+<Value>18</Value>
+<ValueType>Days</ValueType>
+</Observation>
+</Activity>
+</Authorization>
+</Prior.Request>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes">
+  <Header>
+    <SenderID>PF1714</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>07/10/2013 15:52</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>I60485</ID>
+    <MemberID>09711004003698602</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>PF1714</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>119.96</Gross>
+    <PatientShare>19.82</PatientShare>
+    <Net>100.14</Net>
+    <Encounter>
+      <FacilityID>PF1714</FacilityID>
+      <Type>1</Type>
+      <PatientID>26183/2013</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.49</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>733.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>124803</ID>
+      <Start>15/09/2013 00:00</Start>
+      <Type>5</Type>
+      <Code>1472-4503-002</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>GD6750</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>124804</ID>
+      <Start>15/09/2013 00:00</Start>
+      <Type>5</Type>
+      <Code>1650-1643-001</Code>
+      <Quantity>1</Quantity>
+      <Net>22.13</Net>
+      <Clinician>GD6750</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>124805</ID>
+      <Start>15/09/2013 00:00</Start>
+      <Type>5</Type>
+      <Code>1472-3100-001</Code>
+      <Quantity>1</Quantity>
+      <Net>5.63</Net>
+      <Clinician>GD6750</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>124806</ID>
+      <Start>15/09/2013 00:00</Start>
+      <Type>5</Type>
+      <Code>1235-2176-003</Code>
+      <Quantity>1</Quantity>
+      <Net>23.25</Net>
+      <Clinician>GD6750</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>124807</ID>
+      <Start>15/09/2013 00:00</Start>
+      <Type>5</Type>
+      <Code>1732-3442-002</Code>
+      <Quantity>2</Quantity>
+      <Net>42.00</Net>
+      <Clinician>GD6750</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+  </Claim>
+</Claim.Submission>

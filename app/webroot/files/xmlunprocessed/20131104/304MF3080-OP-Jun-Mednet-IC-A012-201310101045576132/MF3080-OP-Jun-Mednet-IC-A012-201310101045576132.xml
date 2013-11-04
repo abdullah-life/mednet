@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF3080</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:45</TransactionDate>
+    <RecordCount>6</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SL30055335</ID>
+    <IDPayer>225372_12705_SL30055335</IDPayer>
+    <MemberID>0971 1004 00412933 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>112.70</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>112.70</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>1000117868</PatientID>
+      <Start>05/06/2013 09:59</Start>
+      <End>05/06/2013 09:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131024</ID>
+      <Start>05/06/2013 09:59</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D4443</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>104.10</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>37131025</ID>
+      <Start>05/06/2013 09:59</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D4443</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131027</ID>
+      <Start>05/06/2013 09:59</Start>
+      <Type>3</Type>
+      <Code>84550</Code>
+      <Quantity>1.000</Quantity>
+      <Net>36.80</Net>
+      <Clinician>D4443</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with complaints of right lower abdominal pain. The activities were done to assess the liver function &amp; rule out for liver disorders, assess the blood sugar levels and rule out for infection and assess the uric levels as increased levels can lead to formation of uric stones hence causing the pain. Kindly process</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30055336</ID>
+    <IDPayer>225372_12705_SL30055336</IDPayer>
+    <MemberID>0971 1004 00391022 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>73.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>73.60</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>130044965</PatientID>
+      <Start>08/06/2013 12:28</Start>
+      <End>08/06/2013 12:28</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>274.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.44</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.54</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>733.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>995.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131030</ID>
+      <Start>08/06/2013 12:28</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.000</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11960</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131032</ID>
+      <Start>08/06/2013 12:28</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD11960</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with the reported diagnoses. The activities were done to monitor the kidney function as condition can lead to formation of uric stones in the kidneys and affect the kidneys. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30055337</ID>
+    <IDPayer>225372_12705_SL30055337</IDPayer>
+    <MemberID>0971 1004 00436333 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>289.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>289.80</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>230015189</PatientID>
+      <Start>10/06/2013 16:48</Start>
+      <End>10/06/2013 16:48</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131038</ID>
+      <Start>10/06/2013 16:48</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.000</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131039</ID>
+      <Start>10/06/2013 16:48</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>99.30</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>37131040</ID>
+      <Start>10/06/2013 16:48</Start>
+      <Type>3</Type>
+      <Code>83036</Code>
+      <Quantity>1.000</Quantity>
+      <Net>80.50</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>17855-8</Code>
+        <Value>5.60000</Value>
+        <ValueType>%</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>37131041</ID>
+      <Start>10/06/2013 16:48</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131043</ID>
+      <Start>10/06/2013 16:48</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1.000</Quantity>
+      <Net>29.90</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131044</ID>
+      <Start>10/06/2013 16:48</Start>
+      <Type>3</Type>
+      <Code>86060</Code>
+      <Quantity>1.000</Quantity>
+      <Net>62.10</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with complaints of difficulty in swallowing and congested, red pharynx. The activities were done to rule out for acute or chronic inflammation, assess the kidney function &amp; rule out for kidney disorders, assess if patient have been exposed to streptococcal infection, assess the liver function &amp; rule out for liver disorders, assess the blood sugar levels and glucose control and rule out for infection. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30055338</ID>
+    <IDPayer>225372_12705_SL30055338</IDPayer>
+    <MemberID>0971 1004 00285852 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>308.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>308.20</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>1724333</PatientID>
+      <Start>10/06/2013 17:21</Start>
+      <End>10/06/2013 17:21</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>372.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>443.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>716.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131047</ID>
+      <Start>10/06/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>83.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>37131048</ID>
+      <Start>10/06/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>83036</Code>
+      <Quantity>1.000</Quantity>
+      <Net>80.50</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>17855-8</Code>
+        <Value>4.90000</Value>
+        <ValueType>%</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>37131049</ID>
+      <Start>10/06/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131054</ID>
+      <Start>10/06/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>86200</Code>
+      <Quantity>1.000</Quantity>
+      <Net>105.80</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131055</ID>
+      <Start>10/06/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>86430</Code>
+      <Quantity>1.000</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD11389</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with complaints of recurrent dry eyes and pain in hands with morning stiffness. Rheumatoid factor was done to rule out for rheumatoid arthritis, CCP was done together with rheumatoid factor to rule out for rheumatoid arthritis, glucose &amp; Hba1c tests were done to rule out for hypoglycemia or hyperglycemia and ALT test was done to rule out for liver disorders. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30055339</ID>
+    <IDPayer>225372_12705_SL30055339</IDPayer>
+    <MemberID>0971 1004 00436468 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>108.10</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>108.10</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>230015213</PatientID>
+      <Start>10/06/2013 22:16</Start>
+      <End>10/06/2013 22:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>786.50</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V17.49</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131057</ID>
+      <Start>10/06/2013 22:16</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D4443</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>76.30</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>37131058</ID>
+      <Start>10/06/2013 22:16</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>D4443</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131060</ID>
+      <Start>10/06/2013 22:16</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D4443</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with chest pain. Glucose test is done as part of routine investigations and it is often used as a broad screening test to determine sugar level of the patient. ALT and urea are done to assess metabolic disorder by evaluating kidney and liver  functions. Kindly process</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30055342</ID>
+    <IDPayer>225372_12705_SL30055342</IDPayer>
+    <MemberID>0971 1004 00364352 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF3080</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>124.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>124.20</Net>
+    <Encounter>
+      <FacilityID>MF3080</FacilityID>
+      <Type>1</Type>
+      <PatientID>1000154232</PatientID>
+      <Start>13/06/2013 23:20</Start>
+      <End>13/06/2013 23:20</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>558.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>536.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.46</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>37131069</ID>
+      <Start>13/06/2013 23:20</Start>
+      <Type>3</Type>
+      <Code>84450</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD12790</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131070</ID>
+      <Start>13/06/2013 23:20</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD12790</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>37131072</ID>
+      <Start>13/06/2013 23:20</Start>
+      <Type>3</Type>
+      <Code>84550</Code>
+      <Quantity>1.000</Quantity>
+      <Net>36.80</Net>
+      <Clinician>GD12790</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with left knee pain and epigastric pain. Uric acid done as investigations to help diagnose systemic inflammatory disorder and used to help diagnose the kidney stones. ALT and AST were done to evaluate liver functions. Kindly process. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

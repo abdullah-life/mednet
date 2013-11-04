@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:30</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30093589</ID>
+    <IDPayer>221569_31165_SC30093589</IDPayer>
+    <MemberID>0971 1080 00427869 02</MemberID>
+    <PayerID>A003</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>50.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>50.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100074062</PatientID>
+      <Start>19/03/2013 22:54</Start>
+      <End>19/03/2013 22:54</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650126</ID>
+      <Start>19/03/2013 22:54</Start>
+      <Type>3</Type>
+      <Code>96365</Code>
+      <Quantity>1.000</Quantity>
+      <Net>50.00</Net>
+      <Clinician>GD10685</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The paid amount is inconsistent with the agreed factor rate of HAAD basic price, deductible was already collected from the patient, kindly process as per the agreed tariff please. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Sagr National Insurance</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

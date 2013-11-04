@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Re Submission : CHECK NO 65547 PRODUCTION -->
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+	<Header>
+		<SenderID>MF394</SenderID>
+		<ReceiverID>C004</ReceiverID>
+		<TransactionDate>12/10/2013 16:38</TransactionDate>
+		<RecordCount>18</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+	<Claim>
+		<ID>AP13106249</ID>
+		<IDPayer>221370_12598_AP13106249</IDPayer>
+		<MemberID>097110030039949802</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>803.60</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>753.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F87564/1</PatientID>
+			<Start>03/03/2013 17:23</Start>
+			<End>06/03/2013 09:23</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>535.40</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>250.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>478.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>530.11</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>240.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>783.1</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00005AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>83036</Code>
+			<Quantity>1.00</Quantity>
+			<Net>56.00</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>4548-4</Code>
+				<Value>5.300000</Value>
+				<ValueType>%</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>80061</Code>
+			<Quantity>1.00</Quantity>
+			<Net>107.20</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13106249</ID>
+			<Start>03/03/2013 17:23</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1.00</Quantity>
+			<Net>148.80</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>84443</Code>
+			<Quantity>1.00</Quantity>
+			<Net>96.00</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14996-3</Code>
+				<Value>4.82850</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00004AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>82565</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14682-9</Code>
+				<Value>57.4600000</Value>
+				<ValueType>µmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00003AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>82306</Code>
+			<Quantity>1.00</Quantity>
+			<Net>264.00</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106249</ID>
+			<Start>06/03/2013 09:23</Start>
+			<Type>3</Type>
+			<Code>84460</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD6678</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Please note that we have added new ICD codes, kindly reconsider and settle the amount.
+			  a.250.00 - DMII wo cmp nt st uncntr
+			  b.272.4 - Hyperlipidemia NEC/NOS
+			  c. 240.9-Goiter NOS
+			  d. 783.1- Abnormal weight gain
+			
+		</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106251</ID>
+		<IDPayer>221370_101065_AP13106251</IDPayer>
+		<MemberID>097110040037443601</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>783.60</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>733.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G193/2</PatientID>
+			<Start>03/03/2013 15:03</Start>
+			<End>04/03/2013 09:38</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>786.50</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>721.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>729.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>719.40</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.05</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00009AP13106251</ID>
+			<Start>03/03/2013 15:03</Start>
+			<Type>3</Type>
+			<Code>72040</Code>
+			<Quantity>1.00</Quantity>
+			<Net>132.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13106251</ID>
+			<Start>03/03/2013 15:56</Start>
+			<Type>3</Type>
+			<Code>93000</Code>
+			<Quantity>1.00</Quantity>
+			<Net>104.00</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13106251</ID>
+			<Start>03/03/2013 15:56</Start>
+			<Type>3</Type>
+			<Code>99204</Code>
+			<Quantity>1.00</Quantity>
+			<Net>255.20</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106251</ID>
+			<Start>04/03/2013 09:38</Start>
+			<Type>3</Type>
+			<Code>82550</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13106251</ID>
+			<Start>04/03/2013 09:38</Start>
+			<Type>3</Type>
+			<Code>85018</Code>
+			<Quantity>1.00</Quantity>
+			<Net>12.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106251</ID>
+			<Start>04/03/2013 09:38</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14996-3</Code>
+				<Value>5.49450</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00004AP13106251</ID>
+			<Start>04/03/2013 09:38</Start>
+			<Type>3</Type>
+			<Code>80061</Code>
+			<Quantity>1.00</Quantity>
+			<Net>107.20</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13106251</ID>
+			<Start>04/03/2013 09:38</Start>
+			<Type>3</Type>
+			<Code>82565</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14682-9</Code>
+				<Value>97.240000</Value>
+				<ValueType>µmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106251</ID>
+			<Start>04/03/2013 09:38</Start>
+			<Type>3</Type>
+			<Code>82043</Code>
+			<Quantity>1.00</Quantity>
+			<Net>33.60</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14957-5</Code>
+				<Value>&lt;50.00000</Value>
+				<ValueType>mg/l</ValueType>
+			</Observation>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			Please note we added the icd codes
+			1. 729.2 - Neuralgia/neuritis NOS
+			2. 719.40 - Joint pain-unspec
+			3. 786.05 - Shortness of breath</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106254</ID>
+		<IDPayer>221370_101065_AP13106254</IDPayer>
+		<MemberID>097110040037443601</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>171.20</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>171.20</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G193/2</PatientID>
+			<Start>03/03/2013 11:40</Start>
+			<End>03/03/2013 11:40</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>253.4</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13106254</ID>
+			<Start>03/03/2013 11:40</Start>
+			<Type>3</Type>
+			<Code>84403</Code>
+			<Quantity>1.00</Quantity>
+			<Net>148.80</Net>
+			<Clinician>D4435</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106254</ID>
+			<Start>03/03/2013 11:40</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>D4435</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14749-6</Code>
+				<Value>5.21700</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			PLease note we rectified the principal icd code 253.4 - Anter pituitary dis NEC.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106268</ID>
+		<IDPayer>221370_101065_AP13106268</IDPayer>
+		<MemberID>097110040024674801</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>247.20</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>212.20</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C32219/2</PatientID>
+			<Start>05/03/2013 00:47</Start>
+			<End>05/03/2013 00:47</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.07</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13106268</ID>
+			<Start>05/03/2013 00:47</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>161.00</Net>
+			<Clinician>GD5644</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106268</ID>
+			<Start>05/03/2013 00:47</Start>
+			<Type>3</Type>
+			<Code>94640</Code>
+			<Quantity>1.00</Quantity>
+			<Net>51.20</Net>
+			<Clinician>GD5644</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonis level correction:
+			Please note we added the icd codes:
+			780.60 - Fever, Unspecified
+			786.07 - Wheezing
+			786.2 - Cough</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106300</ID>
+		<IDPayer>221370_101065_AP13106300</IDPayer>
+		<MemberID>097110040035770501</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>356.00</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>321.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>D37558/3</PatientID>
+			<Start>08/03/2013 11:34</Start>
+			<End>08/03/2013 12:27</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>474.10</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.2</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00004AP13106300</ID>
+			<Start>08/03/2013 12:27</Start>
+			<Type>3</Type>
+			<Code>85610</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106300</ID>
+			<Start>08/03/2013 12:27</Start>
+			<Type>3</Type>
+			<Code>86900</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13106300</ID>
+			<Start>08/03/2013 11:34</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>161.00</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13106300</ID>
+			<Start>08/03/2013 12:27</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106300</ID>
+			<Start>08/03/2013 12:27</Start>
+			<Type>3</Type>
+			<Code>85345</Code>
+			<Quantity>1.00</Quantity>
+			<Net>24.00</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13106300</ID>
+			<Start>08/03/2013 12:27</Start>
+			<Type>3</Type>
+			<Code>85730</Code>
+			<Quantity>1.00</Quantity>
+			<Net>35.20</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106300</ID>
+			<Start>08/03/2013 12:27</Start>
+			<Type>3</Type>
+			<Code>85652</Code>
+			<Quantity>1.00</Quantity>
+			<Net>16.00</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Please note that we have added new ICD codes, kindly reconsider and settle the amount.
+			  a.462 - Acute pharyngitis
+			  b.786.2 - Cough, 
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106343</ID>
+		<IDPayer>221370_101065_AP13106343</IDPayer>
+		<MemberID>097110040026247201</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>284.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>284.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G32366/1</PatientID>
+			<Start>12/03/2013 10:26</Start>
+			<End>12/03/2013 10:26</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>250.02</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>357.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.2</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00008AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>82950</Code>
+			<Quantity>1.00</Quantity>
+			<Net>27.20</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>84478</Code>
+			<Quantity>1.00</Quantity>
+			<Net>33.60</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>47210-0</Code>
+				<Value>2.01780</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00006AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>84460</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>84132</Code>
+			<Quantity>1.00</Quantity>
+			<Net>27.20</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>82043</Code>
+			<Quantity>1.00</Quantity>
+			<Net>33.60</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14957-5</Code>
+				<Value>68.400000</Value>
+				<ValueType>mg/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00003AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>83036</Code>
+			<Quantity>1.00</Quantity>
+			<Net>56.00</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>4548-4</Code>
+				<Value>10.000000</Value>
+				<ValueType>%</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>83721</Code>
+			<Quantity>1.00</Quantity>
+			<Net>54.40</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>22748-8</Code>
+				<Value>2.71530</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106343</ID>
+			<Start>12/03/2013 10:26</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD11720</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14996-3</Code>
+				<Value>8.65800</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			PLease note we added the icd code 357.2 - POLYNEUROPATHY IN DIABETES</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106480</ID>
+		<IDPayer>221370_101065_AP13106480</IDPayer>
+		<MemberID>097110040037146002</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>484.40</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>449.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C14999/1</PatientID>
+			<Start>27/03/2013 20:02</Start>
+			<End>27/03/2013 20:52</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>354.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>782.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>388.30</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00005AP13106480</ID>
+			<Start>27/03/2013 20:02</Start>
+			<Type>3</Type>
+			<Code>84443</Code>
+			<Quantity>1.00</Quantity>
+			<Net>96.00</Net>
+			<Clinician>GD6136</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13106480</ID>
+			<Start>27/03/2013 20:02</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD6136</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14749-6</Code>
+				<Value>5.43900</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00003AP13106480</ID>
+			<Start>27/03/2013 20:02</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>GD6136</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106480</ID>
+			<Start>27/03/2013 20:02</Start>
+			<Type>3</Type>
+			<Code>85652</Code>
+			<Quantity>1.00</Quantity>
+			<Net>16.00</Net>
+			<Clinician>GD6136</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106480</ID>
+			<Start>27/03/2013 20:52</Start>
+			<Type>3</Type>
+			<Code>99204</Code>
+			<Quantity>1.00</Quantity>
+			<Net>270.20</Net>
+			<Clinician>GD6136</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Please note that we have added new ICD codes, kindly reconsider and settle the amount.
+			  a.782.0 - DISTURBANCE OF SKIN SENSATION
+			  b.388.30 - UNSPECIFIED TINNITUS
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157672</ID>
+		<IDPayer>221370_101065_AP13157672</IDPayer>
+		<MemberID>097110040038891902</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>508.00</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>473.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F84417/1</PatientID>
+			<Start>10/04/2013 15:50</Start>
+			<End>10/04/2013 16:11</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>789.01</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>564.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.99</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>84075</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00009AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>83690</Code>
+			<Quantity>1.00</Quantity>
+			<Net>40.00</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>82565</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14682-9</Code>
+				<Value>54.8080000</Value>
+				<ValueType>µmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00007AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>84450</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>82150</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>86140</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>84460</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00011AP13157672</ID>
+			<Start>10/04/2013 15:50</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>161.00</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00010AP13157672</ID>
+			<Start>10/04/2013 16:11</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14749-6</Code>
+				<Value>5.88300</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			Please note we rectified the principal icd code 789.01 - Abdmnal pain rt upr quad, also added icd codes 
+			564.00 - Constipation, unspecified and 780.99 - Constipation, unspecified</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157674</ID>
+		<IDPayer>221370_101065_AP13157674</IDPayer>
+		<MemberID>097110040042566701</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>1912.00</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>1912.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C60697/1</PatientID>
+			<Start>10/04/2013 17:46</Start>
+			<End>13/04/2013 09:30</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>785.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.05</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V81.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>530.81</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.07</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>82550</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00009AP13157674</ID>
+			<Start>10/04/2013 17:46</Start>
+			<Type>3</Type>
+			<Code>93306</Code>
+			<Quantity>1.00</Quantity>
+			<Net>1092.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13157674</ID>
+			<Start>10/04/2013 17:46</Start>
+			<Type>3</Type>
+			<Code>93015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>481.60</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14996-3</Code>
+				<Value>5.77200</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00006AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>80061</Code>
+			<Quantity>1.00</Quantity>
+			<Net>107.20</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>85018</Code>
+			<Quantity>1.00</Quantity>
+			<Net>12.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>82565</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14682-9</Code>
+				<Value>95.4720000</Value>
+				<ValueType>µmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>84443</Code>
+			<Quantity>1.00</Quantity>
+			<Net>96.00</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157674</ID>
+			<Start>13/04/2013 09:30</Start>
+			<Type>3</Type>
+			<Code>82043</Code>
+			<Quantity>1.00</Quantity>
+			<Net>33.60</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14957-5</Code>
+				<Value>&lt;50.00000</Value>
+				<ValueType>mg/l</ValueType>
+			</Observation>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Please note that we have added new ICD codes, kindly reconsider and settle the amount.
+			  a.786.05 - Shortness of breath
+			  b.530.81- Esophageal reflux
+			  c. 786.00 - Respiratory abnorm NOS
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157689</ID>
+		<IDPayer>221370_101065_AP13157689</IDPayer>
+		<MemberID>097110040042152002</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>150.60</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>100.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G36552/1</PatientID>
+			<Start>12/04/2013 11:36</Start>
+			<End>12/04/2013 11:37</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>648.23</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V22.0</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157689</ID>
+			<Start>12/04/2013 11:36</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157689</ID>
+			<Start>12/04/2013 11:37</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1.00</Quantity>
+			<Net>83.00</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Kindly note that we added the ICD V22.0 - SUPERVISION NORMAL FIRST PREGNANCY. Kindly reconsider 
+			and settle the amount.
+			
+		
+		Diagnosis Level:
+			Please note the that  it is necessary to do the investigation for  Urine Analysis(CPT81015) to a pregnant woman (ICD V22.0)  
+			for proper management  and medication.  Kindly settle the amount. 
+			
+		</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157702</ID>
+		<IDPayer>221370_101065_AP13157702</IDPayer>
+		<MemberID>097110040018823701</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>655.60</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>605.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F48763/1</PatientID>
+			<Start>14/04/2013 20:00</Start>
+			<End>14/04/2013 20:31</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>362.41</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>369.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>017.30</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00003AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>86580</Code>
+			<Quantity>1.00</Quantity>
+			<Net>35.20</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>86430</Code>
+			<Quantity>1.00</Quantity>
+			<Net>32.00</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>85652</Code>
+			<Quantity>1.00</Quantity>
+			<Net>16.00</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00010AP13157702</ID>
+			<Start>14/04/2013 20:00</Start>
+			<Type>3</Type>
+			<Code>71010</Code>
+			<Quantity>1.00</Quantity>
+			<Net>76.80</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>86038</Code>
+			<Quantity>1.00</Quantity>
+			<Net>68.80</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00009AP13157702</ID>
+			<Start>14/04/2013 20:01</Start>
+			<Type>3</Type>
+			<Code>99204</Code>
+			<Quantity>1.00</Quantity>
+			<Net>255.20</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>86140</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>82565</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14682-9</Code>
+				<Value>89.2840000</Value>
+				<ValueType>µmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157702</ID>
+			<Start>14/04/2013 20:31</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>D416</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level Correction:
+			PLease note we rectified the icd code from 401.1 to 362.41 - Cent serous retinopathy, added icd code 
+			369.9 - Visual loss NOS
+			401.9 - Hypertension NOS</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157703</ID>
+		<IDPayer>221370_12598_AP13157703</IDPayer>
+		<MemberID>097110030037140701</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>370.40</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>320.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>B45648/2</PatientID>
+			<Start>14/04/2013 18:04</Start>
+			<End>14/04/2013 18:13</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>474.02</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>381.01</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>796.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>477.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00003AP13157703</ID>
+			<Start>14/04/2013 18:04</Start>
+			<Type>3</Type>
+			<Code>92567</Code>
+			<Quantity>1.00</Quantity>
+			<Net>83.20</Net>
+			<Clinician>GD5668</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157703</ID>
+			<Start>14/04/2013 18:13</Start>
+			<Type>3</Type>
+			<Code>70360</Code>
+			<Quantity>1.00</Quantity>
+			<Net>91.20</Net>
+			<Clinician>GD5668</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157703</ID>
+			<Start>14/04/2013 18:04</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>146.00</Net>
+			<Clinician>GD5668</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			Please note we added the diagonsis 796.4 - Abn clinical finding NEC</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157764</ID>
+		<IDPayer>221370_101065_AP13157764</IDPayer>
+		<MemberID>097110040018744001</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>474.40</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>424.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>A50758/5</PatientID>
+			<Start>23/04/2013 19:55</Start>
+			<End>23/04/2013 20:38</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>564.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>787.91</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00006AP13157764</ID>
+			<Start>23/04/2013 19:55</Start>
+			<Type>3</Type>
+			<Code>87045</Code>
+			<Quantity>1.00</Quantity>
+			<Net>54.40</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157764</ID>
+			<Start>23/04/2013 19:55</Start>
+			<Type>3</Type>
+			<Code>86140</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157764</ID>
+			<Start>23/04/2013 20:38</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>146.00</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00007AP13157764</ID>
+			<Start>23/04/2013 19:55</Start>
+			<Type>3</Type>
+			<Code>82272</Code>
+			<Quantity>1.00</Quantity>
+			<Net>19.20</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157764</ID>
+			<Start>23/04/2013 19:55</Start>
+			<Type>3</Type>
+			<Code>85652</Code>
+			<Quantity>1.00</Quantity>
+			<Net>16.00</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157764</ID>
+			<Start>23/04/2013 19:55</Start>
+			<Type>3</Type>
+			<Code>83993</Code>
+			<Quantity>1.00</Quantity>
+			<Net>113.60</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157764</ID>
+			<Start>23/04/2013 19:55</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			PLease note we added the icd code 787.91 - Diarrhea</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157767</ID>
+		<IDPayer>221370_101065_AP13157767</IDPayer>
+		<MemberID>097110040024166902</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>195.40</Gross>
+		<PatientShare>41.24</PatientShare>
+		<Net>154.16</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>D41290/1</PatientID>
+			<Start>23/04/2013 11:32</Start>
+			<End>23/04/2013 11:47</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>788.64</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.79</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157767</ID>
+			<Start>23/04/2013 11:47</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>40.32</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157767</ID>
+			<Start>23/04/2013 11:47</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>15.84</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157767</ID>
+			<Start>23/04/2013 11:32</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1.00</Quantity>
+			<Net>98.00</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level correction:
+			PLease note we rectified the principal diagonsis from 625.9 to 788.64 - URINARY HESITANCY and also
+			added the diagonsis 780.79 - URINARY HESITANCY</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157783</ID>
+		<IDPayer>221370_101065_AP13157783</IDPayer>
+		<MemberID>097110040043277702</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>445.20</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>410.20</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G41071/1</PatientID>
+			<Start>25/04/2013 10:40</Start>
+			<End>25/04/2013 11:02</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>V22.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>611.72</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V72.42</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00004AP13157783</ID>
+			<Start>25/04/2013 11:02</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>GD7036</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157783</ID>
+			<Start>25/04/2013 11:02</Start>
+			<Type>3</Type>
+			<Code>83036</Code>
+			<Quantity>1.00</Quantity>
+			<Net>56.00</Net>
+			<Clinician>GD7036</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>4548-4</Code>
+				<Value>&lt;5.00000</Value>
+				<ValueType>%</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157783</ID>
+			<Start>25/04/2013 11:02</Start>
+			<Type>3</Type>
+			<Code>84704</Code>
+			<Quantity>1.00</Quantity>
+			<Net>86.40</Net>
+			<Clinician>GD7036</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157783</ID>
+			<Start>25/04/2013 11:02</Start>
+			<Type>3</Type>
+			<Code>86850</Code>
+			<Quantity>1.00</Quantity>
+			<Net>86.40</Net>
+			<Clinician>GD7036</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157783</ID>
+			<Start>25/04/2013 10:40</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1.00</Quantity>
+			<Net>163.80</Net>
+			<Clinician>GD7036</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Kindly note that we rectified the ICD from V72.42 to V22.1 - SUPERVISION OTHER NORMAL PREGNANCY  to the
+			 following ICD, kindly reconsider and settle the amount:
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157799</ID>
+		<IDPayer>221370_101065_AP13157799</IDPayer>
+		<MemberID>097110040042152002</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>150.60</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>100.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G36552/1</PatientID>
+			<Start>27/04/2013 11:54</Start>
+			<End>27/04/2013 12:09</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>V22.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>285.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>535.00</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157799</ID>
+			<Start>27/04/2013 11:54</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157799</ID>
+			<Start>27/04/2013 12:09</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1.00</Quantity>
+			<Net>83.00</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Please note that diagnosis of the Patient iis includes  ICD 285.9-UNSPECIFIED ANEMIA   and principal diagonsis
+			is rectified from 648.23 to V22.0 - Supervis normal 1st pregwhich is now added.  
+			Kindly reconsider and settle the amount.
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157802</ID>
+		<IDPayer>221370_101065_AP13157802</IDPayer>
+		<MemberID>097110040040547702</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>790.00</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>755.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G41571/1</PatientID>
+			<Start>28/04/2013 10:52</Start>
+			<End>28/04/2013 12:13</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>569.3</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>787.91</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>578.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>789.00</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00006AP13157802</ID>
+			<Start>28/04/2013 10:52</Start>
+			<Type>3</Type>
+			<Code>99204</Code>
+			<Quantity>1.00</Quantity>
+			<Net>270.20</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157802</ID>
+			<Start>28/04/2013 12:13</Start>
+			<Type>3</Type>
+			<Code>87045</Code>
+			<Quantity>1.00</Quantity>
+			<Net>54.40</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157802</ID>
+			<Start>28/04/2013 12:13</Start>
+			<Type>3</Type>
+			<Code>85610</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157802</ID>
+			<Start>28/04/2013 12:13</Start>
+			<Type>3</Type>
+			<Code>82272</Code>
+			<Quantity>1.00</Quantity>
+			<Net>19.20</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157802</ID>
+			<Start>28/04/2013 12:13</Start>
+			<Type>3</Type>
+			<Code>83993</Code>
+			<Quantity>1.00</Quantity>
+			<Net>113.60</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157802</ID>
+			<Start>28/04/2013 12:13</Start>
+			<Type>3</Type>
+			<Code>80076</Code>
+			<Quantity>1.00</Quantity>
+			<Net>275.20</Net>
+			<Clinician>GD12443</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagnosis Level Correction:
+			Please note that we have added new ICD codes, kindly reconsider and settle the amount.
+			  a.787.91 - Diarrhea
+			  b.578.9 - Gastrointest hemorr NOS
+			  c. 789.00 - Abdmnal pain unspcf site
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157807</ID>
+		<IDPayer>221370_101065_AP13157807</IDPayer>
+		<MemberID>097110040041767902</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>524.00</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>474.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>D8689/1</PatientID>
+			<Start>29/04/2013 20:17</Start>
+			<End>29/04/2013 20:40</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>659.53</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>640.03</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>648.03</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00005AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>83036</Code>
+			<Quantity>1.00</Quantity>
+			<Net>56.00</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>4548-4</Code>
+				<Value>&lt;5.00000</Value>
+				<ValueType>%</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>86850</Code>
+			<Quantity>1.00</Quantity>
+			<Net>86.40</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157807</ID>
+			<Start>29/04/2013 20:40</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>146.00</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>86762</Code>
+			<Quantity>1.00</Quantity>
+			<Net>83.20</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14749-6</Code>
+				<Value>4.27350</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00007AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>86900</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13157807</ID>
+			<Start>29/04/2013 20:17</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>GD10372</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>correction</Type>
+			<Comment>Diagonsis level:
+			Please note we added the icd code 648.03 - Diabetes-antepartum</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+</Claim.Submission>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045555</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 10:38</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>0740 - OCTOBER 2013 SALAMA - 1</ID>
+    <MemberID>097110330043435402</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045555</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>450</Gross>
+    <PatientShare>90</PatientShare>
+    <Net>360</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045555</FacilityID>
+      <Type>1</Type>
+      <PatientID>7005</PatientID>
+      <Start>26/10/2013 10:24</Start>
+      <End>26/10/2013 10:54</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N76.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N72</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296625</ID>
+      <Start>26/10/2013 10:24</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>160</Net>
+      <Clinician>DHA-P-0239838</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>vaginal burning, yellowish discharge, abdominal pain</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296626</ID>
+      <Start>26/10/2013 10:24</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1</Quantity>
+      <Net>200</Net>
+      <Clinician>DHA-P-0239838</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

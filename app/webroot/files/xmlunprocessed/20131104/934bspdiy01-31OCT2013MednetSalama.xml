@@ -1,0 +1,568 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045824</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 17:03</TransactionDate>
+    <RecordCount>8</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>345074 - bspdiy 01-31 OCT 2013 Mednet Salama - 1</ID>
+    <MemberID>0971 10 33 00375498 02</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>216.25</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>205.45</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>1253</PatientID>
+      <Start>07/10/2013 13:12</Start>
+      <End>07/10/2013 13:42</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R06.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292344</ID>
+      <Start>07/10/2013 13:12</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292345</ID>
+      <Start>07/10/2013 13:12</Start>
+      <Type>5</Type>
+      <Code>1086-123702-1381</Code>
+      <Quantity>1</Quantity>
+      <Net>16.63</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292346</ID>
+      <Start>07/10/2013 13:12</Start>
+      <Type>5</Type>
+      <Code>0188-135907-2441</Code>
+      <Quantity>0.5</Quantity>
+      <Net>85.74</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292347</ID>
+      <Start>07/10/2013 13:12</Start>
+      <Type>5</Type>
+      <Code>0006-124511-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>57.95</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292348</ID>
+      <Start>07/10/2013 13:12</Start>
+      <Type>5</Type>
+      <Code>0553-203703-1972</Code>
+      <Quantity>1</Quantity>
+      <Net>38</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>345073 - bspdiy 01-31 OCT 2013 Mednet Salama - 2</ID>
+    <MemberID>0971-1033-00375497-02</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>129</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>122.57</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>19235</PatientID>
+      <Start>07/10/2013 13:20</Start>
+      <End>07/10/2013 13:50</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>B37.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292349</ID>
+      <Start>07/10/2013 13:20</Start>
+      <Type>5</Type>
+      <Code>0096-130902-0151</Code>
+      <Quantity>1</Quantity>
+      <Net>17.1</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292350</ID>
+      <Start>07/10/2013 13:20</Start>
+      <Type>5</Type>
+      <Code>0005-196702-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>6.18</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292351</ID>
+      <Start>07/10/2013 13:20</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292352</ID>
+      <Start>07/10/2013 13:20</Start>
+      <Type>5</Type>
+      <Code>0250-125809-1401</Code>
+      <Quantity>2</Quantity>
+      <Net>92.16</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+      <PriorAuthorizationID>AP.203943</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>344672 - bspdiy 01-31 OCT 2013 Mednet Salama - 3</ID>
+    <MemberID>0971 10 33 00375493 01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>93</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>88.35</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>2524</PatientID>
+      <Start>02/10/2013 10:11</Start>
+      <End>02/10/2013 10:41</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292353</ID>
+      <Start>02/10/2013 10:11</Start>
+      <Type>5</Type>
+      <Code>0186-127401-0853</Code>
+      <Quantity>3</Quantity>
+      <Net>88.35</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>344667 - bspdiy 01-31 OCT 2013 Mednet Salama - 4</ID>
+    <MemberID>0971-1033-00375509-01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>198</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>188.11</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>55342</PatientID>
+      <Start>02/10/2013 10:17</Start>
+      <End>02/10/2013 10:47</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R06.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292354</ID>
+      <Start>02/10/2013 10:17</Start>
+      <Type>5</Type>
+      <Code>1086-123702-1381</Code>
+      <Quantity>1</Quantity>
+      <Net>16.63</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292355</ID>
+      <Start>02/10/2013 10:17</Start>
+      <Type>5</Type>
+      <Code>0188-135907-2441</Code>
+      <Quantity>1</Quantity>
+      <Net>171.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>344650 - bspdiy 01-31 OCT 2013 Mednet Salama - 5</ID>
+    <MemberID>0971 10 33 00375491 01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>546</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>518.72</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>2641</PatientID>
+      <Start>02/10/2013 10:21</Start>
+      <End>02/10/2013 10:51</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R06.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292356</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0053-148608-0461</Code>
+      <Quantity>1</Quantity>
+      <Net>57</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292357</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292358</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>1086-123702-1381</Code>
+      <Quantity>1</Quantity>
+      <Net>16.63</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292359</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0188-135907-2441</Code>
+      <Quantity>1</Quantity>
+      <Net>171.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292360</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0042-364701-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>26.6</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292361</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0006-124511-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>57.95</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292362</ID>
+      <Start>02/10/2013 10:21</Start>
+      <Type>5</Type>
+      <Code>0090-265903-0461</Code>
+      <Quantity>1</Quantity>
+      <Net>181.93</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>345414 - bspdiy 01-31 OCT 2013 Mednet Salama - 6</ID>
+    <MemberID>0971 1033 00466896-01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>38</Gross>
+    <PatientShare>7.22</PatientShare>
+    <Net>28.88</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3585</PatientID>
+      <Start>08/10/2013 03:39</Start>
+      <End>08/10/2013 04:09</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B00.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292363</ID>
+      <Start>08/10/2013 03:39</Start>
+      <Type>5</Type>
+      <Code>0031-124403-0151</Code>
+      <Quantity>2</Quantity>
+      <Net>28.88</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>347302 - bspdiy 01-31 OCT 2013 Mednet Salama - 7</ID>
+    <MemberID>0971 10 33 00375498 02</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>450</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>427.51</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>1253</PatientID>
+      <Start>26/10/2013 04:42</Start>
+      <End>26/10/2013 05:12</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R06.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R05</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292364</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0006-143607-0462</Code>
+      <Quantity>1</Quantity>
+      <Net>57.95</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292365</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0170-116603-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>17.1</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292366</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0188-135907-2441</Code>
+      <Quantity>1</Quantity>
+      <Net>171.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292367</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0042-364701-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>26.6</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292368</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0006-124511-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>57.95</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292369</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0042-114504-2481</Code>
+      <Quantity>1</Quantity>
+      <Net>15.68</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292370</ID>
+      <Start>26/10/2013 04:42</Start>
+      <Type>5</Type>
+      <Code>0000-000000-0000</Code>
+      <Quantity>1</Quantity>
+      <Net>80.75</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>3401396936770</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>B.D ABC DERM SOLEIL MINERL 50G</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>347301 - bspdiy 01-31 OCT 2013 Mednet Salama - 8</ID>
+    <MemberID>0971-1033-00375497-02</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>365</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>346.76</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>19235</PatientID>
+      <Start>26/10/2013 04:54</Start>
+      <End>26/10/2013 05:24</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R06.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R05</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292371</ID>
+      <Start>26/10/2013 04:54</Start>
+      <Type>5</Type>
+      <Code>0006-143607-0462</Code>
+      <Quantity>1</Quantity>
+      <Net>57.95</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292372</ID>
+      <Start>26/10/2013 04:54</Start>
+      <Type>5</Type>
+      <Code>0170-116603-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>17.1</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292373</ID>
+      <Start>26/10/2013 04:54</Start>
+      <Type>5</Type>
+      <Code>0188-135907-2441</Code>
+      <Quantity>1</Quantity>
+      <Net>171.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292374</ID>
+      <Start>26/10/2013 04:54</Start>
+      <Type>5</Type>
+      <Code>0042-364701-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>26.6</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292375</ID>
+      <Start>26/10/2013 04:54</Start>
+      <Type>5</Type>
+      <Code>0006-124511-2071</Code>
+      <Quantity>1</Quantity>
+      <Net>57.95</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292376</ID>
+      <Start>26/10/2013 04:54</Start>
+      <Type>5</Type>
+      <Code>0042-114504-2481</Code>
+      <Quantity>1</Quantity>
+      <Net>15.68</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

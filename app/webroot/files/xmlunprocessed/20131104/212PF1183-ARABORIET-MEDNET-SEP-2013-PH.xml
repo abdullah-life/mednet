@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1183</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>07/10/2013 00:04</TransactionDate> <!-- The previous transaction date '06/10/2013 21:39' is replace by the current date. -->
+<RecordCount>10</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-1</ID><MemberID>097110040042034901</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>55.1</Gross><PatientShare>5.51</PatientShare><Net>49.59</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>206555</PatientID><Start>01/09/2013 13:50</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>111.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>01/09/2013 13:50</Start><Type>5</Type><Code>1648-2055-002</Code><Quantity>2</Quantity><Net>49.59</Net><Clinician>GD6703</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-2</ID><MemberID>097110040044987101</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>251.75</Gross><PatientShare>0</PatientShare><Net>251.75</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>204873</PatientID><Start>03/09/2013 12:13</Start></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>401.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>03/09/2013 12:13</Start><Type>5</Type><Code>1556-4590-002</Code><Quantity>1</Quantity><Net>251.75</Net><Clinician>GD6703</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-3</ID><MemberID>09710040040457302</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>32.78</Gross><PatientShare>3.28</PatientShare><Net>29.5</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>206931</PatientID><Start>05/09/2013 21:45</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>280.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>692.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>05/09/2013 21:45</Start><Type>5</Type><Code>1592-2225-002</Code><Quantity>0.5</Quantity><Net>10.69</Net><Clinician>D2835</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>05/09/2013 21:45</Start><Type>5</Type><Code>1523-4605-001</Code><Quantity>1</Quantity><Net>18.81</Net><Clinician>D2835</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-4</ID><MemberID>097110040040534701</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>201.11</Gross><PatientShare>20.12</PatientShare><Net>180.99</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>207331</PatientID><Start>16/09/2013 13:39</Start></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>720.2</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>724.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>724.2</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>728.85</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>847.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>847.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>16/09/2013 13:39</Start><Type>5</Type><Code>2343-6539-001</Code><Quantity>0.66</Quantity><Net>41.19</Net><Clinician>D5585</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>16/09/2013 13:39</Start><Type>5</Type><Code>1556-4476-014</Code><Quantity>1</Quantity><Net>32.92</Net><Clinician>D5585</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>16/09/2013 13:39</Start><Type>5</Type><Code>1583-1553-002</Code><Quantity>2</Quantity><Net>106.88</Net><Clinician>D5585</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-5</ID><MemberID>0971-1004-00310322-02</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>104.02</Gross><PatientShare>10.4</PatientShare><Net>93.62</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>37170</PatientID><Start>17/09/2013 10:30</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>535.50</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>536.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>789.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>17/09/2013 10:30</Start><Type>5</Type><Code>1673-2338-001</Code><Quantity>1</Quantity><Net>88.49</Net><Clinician>D2835</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>17/09/2013 10:30</Start><Type>5</Type><Code>1317-1465-001</Code><Quantity>0.5</Quantity><Net>5.13</Net><Clinician>D2835</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-6</ID><MemberID>0971 1004 00462363 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>146.35</Gross><PatientShare>0</PatientShare><Net>146.35</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>207720</PatientID><Start>25/09/2013 21:31</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>372.30</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>780.60</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>25/09/2013 21:31</Start><Type>5</Type><Code>1635-4143-007</Code><Quantity>1</Quantity><Net>130.15</Net><Clinician>D805</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>25/09/2013 21:31</Start><Type>5</Type><Code>1544-3197-003</Code><Quantity>1</Quantity><Net>4.05</Net><Clinician>D805</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>25/09/2013 21:31</Start><Type>5</Type><Code>1464-3408-001</Code><Quantity>1</Quantity><Net>12.15</Net><Clinician>D805</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-7</ID><MemberID>0971 1004 00409183 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>119.71</Gross><PatientShare>11.98</PatientShare><Net>107.73</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>207757</PatientID><Start>26/09/2013 12:23</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>462</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>729.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>26/09/2013 12:23</Start><Type>5</Type><Code>1125-6882-001</Code><Quantity>1</Quantity><Net>20.95</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>26/09/2013 12:23</Start><Type>5</Type><Code>1472-1175-001</Code><Quantity>1</Quantity><Net>5.56</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>26/09/2013 12:23</Start><Type>5</Type><Code>1680-3840-001</Code><Quantity>0.5</Quantity><Net>15.39</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>26/09/2013 12:23</Start><Type>5</Type><Code>1542-3391-004</Code><Quantity>1</Quantity><Net>3.42</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>26/09/2013 12:23</Start><Type>5</Type><Code>1472-1550-004</Code><Quantity>1</Quantity><Net>62.41</Net><Clinician>GD6703</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-8</ID><MemberID>0971 004 00451987 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>144.88</Gross><PatientShare>14.49</PatientShare><Net>130.39</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>207774</PatientID><Start>27/09/2013 13:28</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>462</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>27/09/2013 13:28</Start><Type>5</Type><Code>1472-1064-001</Code><Quantity>1</Quantity><Net>6.41</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>27/09/2013 13:28</Start><Type>5</Type><Code>1472-1175-003</Code><Quantity>1</Quantity><Net>5.56</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>27/09/2013 13:28</Start><Type>5</Type><Code>1635-4157-004</Code><Quantity>1</Quantity><Net>29.07</Net><Clinician>GD6703</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>27/09/2013 13:28</Start><Type>5</Type><Code>1750-4545-012</Code><Quantity>1</Quantity><Net>89.35</Net><Clinician>GD6703</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-9</ID><MemberID>097110040040534701</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>278.35</Gross><PatientShare>27.84</PatientShare><Net>250.51</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>207331</PatientID><Start>29/09/2013 17:33</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>724.2</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>724.3</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>728.85</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>729.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>29/09/2013 17:33</Start><Type>5</Type><Code>1583-1553-002</Code><Quantity>3</Quantity><Net>160.31</Net><Clinician>D5585</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>29/09/2013 17:33</Start><Type>5</Type><Code>1380-5476-003</Code><Quantity>1</Quantity><Net>27.79</Net><Clinician>D5585</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>29/09/2013 17:33</Start><Type>5</Type><Code>2343-6539-001</Code><Quantity>1</Quantity><Net>62.41</Net><Clinician>D5585</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>PF1183-ARABORIET-MEDNET-SEP-2013-PH-10</ID><MemberID>0971 1004 00462363 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1183</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>155.33</Gross><PatientShare>0</PatientShare><Net>155.33</Net><Encounter>
+<FacilityID>PF1183</FacilityID><Type>1</Type><PatientID>207720</PatientID><Start>30/09/2013 19:58</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>372.30</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>30/09/2013 19:58</Start><Type>5</Type><Code>1254-4220-001</Code><Quantity>1</Quantity><Net>25.18</Net><Clinician>D805</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>30/09/2013 19:58</Start><Type>5</Type><Code>1635-4143-007</Code><Quantity>1</Quantity><Net>130.15</Net><Clinician>D805</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

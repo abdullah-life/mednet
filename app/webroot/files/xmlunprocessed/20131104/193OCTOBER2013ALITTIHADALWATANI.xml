@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045555</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 10:32</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>30771 - OCTOBER 2013 AL ITTIHAD AL WATANI - 1</ID>
+    <MemberID>097110050022037601</MemberID>
+    <PayerID>INS024</PayerID>
+    <ProviderID>DHA-F-0045555</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>300</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>250</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045555</FacilityID>
+      <Type>1</Type>
+      <PatientID>4713-1</PatientID>
+      <Start>04/10/2013 11:22</Start>
+      <End>04/10/2013 11:52</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K52.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296570</ID>
+      <Start>04/10/2013 11:22</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>150</Net>
+      <Clinician>DHA-P-0239841</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>abdominal pain, vomiting</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296571</ID>
+      <Start>04/10/2013 11:22</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1</Quantity>
+      <Net>100</Net>
+      <Clinician>DHA-P-0239841</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

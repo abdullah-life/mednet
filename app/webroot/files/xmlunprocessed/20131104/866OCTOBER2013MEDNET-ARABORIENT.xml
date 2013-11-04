@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045555</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 10:35</TransactionDate>
+    <RecordCount>2</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>30781 - OCTOBER 2013 MEDNET-ARAB ORIENT - 1</ID>
+    <MemberID>097110040040103201</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045555</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>300</Gross>
+    <PatientShare>60</PatientShare>
+    <Net>240</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045555</FacilityID>
+      <Type>1</Type>
+      <PatientID>4060-2</PatientID>
+      <Start>20/10/2013 11:25</Start>
+      <End>20/10/2013 11:55</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296596</ID>
+      <Start>20/10/2013 11:25</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>150</Net>
+      <Clinician>DHA-P-0239841</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>fever, sore throat</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296597</ID>
+      <Start>20/10/2013 11:25</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1</Quantity>
+      <Net>90</Net>
+      <Clinician>DHA-P-0239841</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>30791 - OCTOBER 2013 MEDNET-ARAB ORIENT - 2</ID>
+    <MemberID>097110040040103301</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045555</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>200</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>150</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045555</FacilityID>
+      <Type>1</Type>
+      <PatientID>4060-3</PatientID>
+      <Start>20/10/2013 11:27</Start>
+      <End>20/10/2013 11:57</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J45.909</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296598</ID>
+      <Start>20/10/2013 11:27</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>150</Net>
+      <Clinician>DHA-P-0239841</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>cough, wheezes</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

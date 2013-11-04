@@ -1,0 +1,273 @@
+<?php
+   if($batches!="error"){
+    $this->Paginator->options(array(
+    'update' => '#content',
+    'evalScripts' => true,
+     'before' => $this->Js->get('#busy-indicator')->effect('fadeIn', array('buffer' => false)),
+     'complete' => $this->Js->get('#busy-indicator')->effect('fadeOut', array('buffer' => false)),   
+  ));
+ }
+?>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".viewpricing").click(function(){
+           var element  =   this;
+           var batchid  =   $(this).attr('id');
+           $(".listingActivities").remove();
+           if(!$(element).hasClass('opened')){
+          
+           $.ajax({
+               
+            url: "<?php echo Router::url('/', true);?>"+"Activities/getActivitiesPricing/"+batchid,
+            beforeSend: function () {
+                 if(!$(element).hasClass('opened'))
+                    {    
+                        $(element).parents('tr').after('<tr class="beforesend"><td colspan="11"><table><tr><td>Populating data....</td></tr></table></td></tr>');
+                    }
+                }
+            }).done(function(data) {
+                if(!$(element).hasClass('opened'))
+                   { 
+                     $(element).addClass('opened');
+                     $(".beforesend").remove();
+                     $(element).parents('tr').after('<tr class="listingActivities"><td colspan="11">'+data+'</td></tr>');
+                   }
+                else{
+                    $(element).removeClass('opened')
+                   
+                }
+            });
+            }else{
+                 $(element).removeClass('opened');
+                 $(".listingActivities").remove();
+            
+            };
+            
+        });
+    })
+    </script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('#select_id').live("change",function(){
+        //var bach =<?php //echo $batchid; ?>;
+        alert($("#select_id").val());
+        	
+        });
+        });
+        })
+    });    
+        $(document).ready(function(){
+                element = document.getElementById('select_id');
+                //element.value = <?php //echo $claimid; ?>;
+        });
+        $(document).ready(function(){
+        $("#searchactivity").click(function(){
+                var claimsid = $('#SearchClaimId').val();
+                var SearchBatchid = $('#batchid').val();
+                $.ajax({
+                        url: "<?php echo Router::url('/', true);?>"+"Activities/getActivitiesPricing/" + batchid + '/' + claimsid + '/' + 'true/',
+                        beforeSend: function () {
+                                if (!$(element).hasClass('opened'))
+                                {
+                                    $(element).parents('tr').after('<tr class="beforesend"><td colspan="10"><table><tr><td>Populating data....</td></tr></table></td></tr>');
+                                }
+                        }
+                }).done(function(data){
+                        if (!$(element).hasClass('opened'))
+                        {
+                                $(element).addClass('opened');
+                                $(".beforesend").remove();
+                                $(element).parents('tr').after('<tr class="listingActivities"><td colspan="10">' + data + '</td></tr>');
+                        }
+                        else{
+                                $(element).removeClass('opened');
+                        }
+                });
+        });
+        });
+    
+</script>
+
+<div class="batches index">
+	<h2><?php echo __('Batches');?></h2>
+        <?php
+            if($batches!="error"){
+                
+        ?>
+        
+       <table cellpadding="0" cellspacing="0">
+           <?php
+             echo $this->element('statustile');
+           ?>
+           <tr>
+			<th><?php echo 'id';?></th>
+			<th width="30%"><?php echo $this->Paginator->sort('name','Batch Number');?></th>
+			<th width="30%"><?php echo $this->Paginator->sort('provider_id','Provider License');?></th>
+			<th width="30%"><?php echo 'Provider code';?></th>
+                        <th width="30%"><?php echo"Provider Name"?></th>
+			<th width="30%"><?php echo"Claim Count"?></th>
+                       <th width="30%"><?php echo $this->Paginator->sort('created','created');?></th>
+                        <th width="30%"><?php echo"Claim status"?></th>
+			<?php
+                         if($this->Session->read('Auth.User.group_id')==15){
+                        ?>
+			<th class="actions"><?php echo __('Assign to  Claims Manager');?></th>
+			
+                        <?php
+                         }
+			
+                         if($this->Session->read('Auth.User.group_id')==16){
+                        ?>
+			<th class="actions"><?php echo __('Assign to  Claims Processor');?></th>
+			
+                        <?php
+                         }
+                         
+                        
+                        ?>
+                       
+                        <th class="actions"><?php echo __('Download XMl');?></th>
+                        <th class="actions"><?php echo __('View Pricing');?></th>
+                        
+                        <?php
+                        ?>
+	</tr>
+	<?php
+        
+  
+     foreach ($batches as $key=>$batch): ?>
+   
+                
+        <?php
+            
+            $batchstatus         =   $this->requestAction(array('controller'=>'batches','action'=>'getstatus', $batch['Batch']['id']));
+      
+        ?>
+	<tr class="<?php echo $batchstatus; ?>">
+		<td><?php echo $key+1; ?>&nbsp;</td>
+		<td><?php echo $batch['Batch']['name'];?>&nbsp;</td>
+		<td><?php echo h($batch['Batch']['provider_id']); ?>&nbsp;</td>
+                
+              	<td>
+                    <?php echo h($batch['Providerdetail']['provider_code']); ?>&nbsp;
+                </td>
+                <td>
+                   <?php echo h($batch['Providerdetail']['display_name']); ?>&nbsp;
+                </td>
+                <td>
+                   <?php
+                        echo $this->requestAction(array('controller' => 'batches','action' => 'getclaimcountforbatch',$batch['Batch']['id']));
+                   ?>
+                </td>
+                <td>
+                    <?php echo date ('d-M-Y',  $batch['Batch']['created']->sec); ?>&nbsp;
+                </td>
+  	          <td>
+                          
+         <?php 
+                         $claimsprocessstatus = $this->requestAction( array('controller' => 'Batches',
+                                                          'action' => 'getclaimstatus',
+                                                          $batch['Batch']['id'])); 
+                         if($claimsprocessstatus == 6){
+                            echo $this->Html->link($this->Html->image('processed.png',array('title'=>'Xml Processed')), array('controller'=>'ClaimsprocessorBatches','action' => 'markprocessed/0', $batch['Batch']['id'],'list_batches_for_claimsmanager'),array('escape'=>FALSE));
+                         }
+                         else{
+                          // echo $this->Html->link($this->Html->image('test-fail-icon.png',array('title'=>'Xml not Processed')), array('controller'=>'ClaimsprocessorBatches','action' => 'markprocessed/1', $batch['Batch']['id'],'list_batches_for_claimsmanager'),array('escape'=>FALSE));
+                         echo $this->Html->image('crosss.png',array('title'=>'Xml not Processed'));
+                             
+                         }	
+
+                         ?>&nbsp;   
+                 </td>
+             
+		<?php
+                    if($this->Session->read('Auth.User.group_id')==15){
+                   ?>
+		<td>
+			<?php echo $this->Html->link($this->Html->image('assign.png',array('title'=>'view xmldetails')), array('controller'=>'Batches','action' => 'Assign_to_claims_manager', $batch['Batch']['id']),array('escape'=>FALSE)); ?>
+                </td> 
+                 <?php
+                    }
+		
+                    if($this->Session->read('Auth.User.group_id')==16){
+                   ?>
+		<td>
+			<?php echo $this->Html->link($this->Html->image('assign.png',array('title'=>'view xmldetails')), array('controller'=>'Batches','action' => 'Assign_to_claims_processor', $batch['Batch']['id']),array('escape'=>FALSE)); ?>
+                </td> 
+                 <?php
+                    }
+                         
+                         if(!$this->Session->read('Auth.User.group_id')==5){
+                        ?>
+                <td>
+			<?php echo $this->Html->link($this->Html->image('view-icon.png',array('title'=>'view xmldetails')), array('controller'=>'BatchesClaims','action' => 'viewclaims', $batch['Batch']['id']),array('escape'=>FALSE)); ?>
+                </td> 
+                <?php
+                         }
+                 ?>
+                 <td>
+                     <?php $trimmeddate              =        date('Ymd', $batch['Batch']['created']->sec); ?>
+                     <?php 
+            if($batch['Batch']['resubmission']==0){
+                     ?>
+                     <a href="<?php echo  Router::url('/', true);?>files/batch/<?php echo $trimmeddate.'/batch_id_'.$batch['Batch']['provider_id'].'_files.zip'?>">Download</a>
+                <?php }else{
+                ?>
+                  <a href="<?php echo  Router::url('/', true);?>files/batch/<?php echo $trimmeddate.'/batch_id_'.$batch['Batch']['provider_id'].'_resubmission_files.zip'?>">Download</a>
+                <?php    
+                }
+?>
+                 </td>
+                 <td>
+                     <?php
+                        echo $this->Html->image('down.png',array(
+                            'title'=>'View Activity Pricings','class'=>'viewpricing','id'=>$batch['Batch']['id']));
+                     ?>
+                     
+                 </td>
+                 
+                 
+	</tr>
+<?php endforeach; ?>
+	</table>
+	<p>
+	<?php
+	echo $this->Paginator->counter(array(
+	'format' => __('Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}')
+	));
+	?>	</p>
+
+	<div class="paging">
+	<?php
+		echo $this->Paginator->prev('< ' . __('previous'), array(), null, array('class' => 'prev disabled'));
+		echo $this->Paginator->numbers(array('separator' => ''));
+		echo $this->Paginator->next(__('next') . ' >', array(), null, array('class' => 'next disabled'));
+	?>
+	</div>
+        
+        <?php
+            }
+            else{
+               ?>
+        <table cellpadding="0" cellspacing="0">
+            <?php
+                  echo $this->element('statustile');
+            ?>
+            <tr>
+                <td>
+                    No records found;
+                </td>
+            </tr>
+        </table>
+               
+        <?php
+            }
+        ?>
+</div>
+<div class="actions">
+	 <?php     echo $this->element('logo'); ?>
+</div>
+<?php
+    echo $this->Js->writeBuffer();
+?>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000197</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 20:58</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>PBL-R-2013-012594</ID>
+    <MemberID>362495</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>63.36</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>63.36</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000086734</PatientID>
+      <Start>07/09/2013 09:34</Start>
+      <End>07/09/2013 09:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>G58.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R20.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>PBLXX033989N195</ID>
+      <Start>07/09/2013 09:34</Start>
+      <End>07/09/2013 09:34</End>
+      <Code>0321-100604-1171</Code>
+      <Type>5</Type>
+      <Quantity>60</Quantity>
+      <Net>22</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>NEUTB02</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>NEUROBION TABLET 20 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

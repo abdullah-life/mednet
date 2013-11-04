@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045805</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 20:17</TransactionDate>
+    <RecordCount>3</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>9139 - MOH 471 MEDNET 1  OCT2013 - 1</ID>
+    <MemberID>097110040037731102</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045805</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>77.5</Gross>
+    <PatientShare>7.21</PatientShare>
+    <Net>64.87</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045805</FacilityID>
+      <Type>1</Type>
+      <PatientID>9631</PatientID>
+      <Start>16/10/2013 12:18</Start>
+      <End>16/10/2013 12:48</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N76.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4293504</ID>
+      <Start>16/10/2013 12:18</Start>
+      <Type>5</Type>
+      <Code>0186-140201-1451</Code>
+      <Quantity>1</Quantity>
+      <Net>36.41</Net>
+      <Clinician>DHA-P-0246932</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293505</ID>
+      <Start>16/10/2013 12:18</Start>
+      <Type>5</Type>
+      <Code>0003-213905-2711</Code>
+      <Quantity>1</Quantity>
+      <Net>28.46</Net>
+      <Clinician>DHA-P-0246932</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>5582 - MOH 471 MEDNET 1  OCT2013 - 2</ID>
+    <MemberID>0971 1004 00442533 01</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0045805</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>86</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>79.99</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045805</FacilityID>
+      <Type>1</Type>
+      <PatientID>1962</PatientID>
+      <Start>15/10/2013 19:21</Start>
+      <End>15/10/2013 19:51</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R05</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>A78</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J39.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4293506</ID>
+      <Start>15/10/2013 19:21</Start>
+      <Type>5</Type>
+      <Code>0248-135501-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>9.77</Net>
+      <Clinician>DHA-P-0246870</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293507</ID>
+      <Start>15/10/2013 19:21</Start>
+      <Type>5</Type>
+      <Code>0070-148702-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>24.18</Net>
+      <Clinician>DHA-P-0246870</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293508</ID>
+      <Start>15/10/2013 19:21</Start>
+      <Type>5</Type>
+      <Code>0009-143402-0851</Code>
+      <Quantity>1</Quantity>
+      <Net>39.06</Net>
+      <Clinician>DHA-P-0246870</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293509</ID>
+      <Start>15/10/2013 19:21</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>6.98</Net>
+      <Clinician>DHA-P-0246870</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>3778 - MOH 471 MEDNET 1  OCT2013 - 3</ID>
+    <MemberID>0971-1033-00398821-01</MemberID>
+    <PayerID>INS035</PayerID>
+    <ProviderID>DHA-F-0045805</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>485</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>451.06</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045805</FacilityID>
+      <Type>1</Type>
+      <PatientID>1732</PatientID>
+      <Start>28/10/2013 14:26</Start>
+      <End>28/10/2013 14:56</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J02.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R05</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4293510</ID>
+      <Start>28/10/2013 14:26</Start>
+      <Type>5</Type>
+      <Code>0054-125902-0392</Code>
+      <Quantity>1</Quantity>
+      <Net>124.62</Net>
+      <Clinician>DHA-P-0239752</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293511</ID>
+      <Start>28/10/2013 14:26</Start>
+      <Type>5</Type>
+      <Code>0006-264101-0791</Code>
+      <Quantity>1</Quantity>
+      <Net>243.66</Net>
+      <Clinician>DHA-P-0239752</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293512</ID>
+      <Start>28/10/2013 14:26</Start>
+      <Type>5</Type>
+      <Code>0248-135501-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>9.77</Net>
+      <Clinician>DHA-P-0239752</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293513</ID>
+      <Start>28/10/2013 14:26</Start>
+      <Type>5</Type>
+      <Code>0027-128802-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>25.11</Net>
+      <Clinician>DHA-P-0239752</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293514</ID>
+      <Start>28/10/2013 14:26</Start>
+      <Type>5</Type>
+      <Code>0205-123701-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>36.74</Net>
+      <Clinician>DHA-P-0239752</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4293515</ID>
+      <Start>28/10/2013 14:26</Start>
+      <Type>5</Type>
+      <Code>0005-119805-1172</Code>
+      <Quantity>2</Quantity>
+      <Net>11.16</Net>
+      <Clinician>DHA-P-0239752</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

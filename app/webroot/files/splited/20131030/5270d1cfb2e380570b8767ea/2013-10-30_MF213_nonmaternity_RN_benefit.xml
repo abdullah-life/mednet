@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>MF213</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>17/04/2013 20:20</TransactionDate>
+    <RecordCount>2</RecordCount>
+  </Header>
+  <Claim>
+    <ID>MEDNET100002836</ID>
+    <IDPayer/>
+    <MemberID>367520</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF213</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>601.92</Gross>
+    <PatientShare>7.88</PatientShare>
+    <Net>594.04</Net>
+    <Encounter>
+      <FacilityID>MF213</FacilityID>
+      <Type>2</Type>
+      <PatientID>FF036</PatientID>
+      <Start>02/03/2013 00:00</Start>
+      <End>02/03/2013 06:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>5</ID>
+      <Start>02/03/2013 00:00</Start>
+      <End>02/03/2013 00:00</End>
+      <Code>17-24</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>GD5621</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MEDNET100002907</ID>
+    <IDPayer/>
+    <MemberID>408909</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF213</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>668.71</Gross>
+    <PatientShare>21.24</PatientShare>
+    <Net>647.47</Net>
+    <Encounter>
+      <FacilityID>MF213</FacilityID>
+      <Type>2</Type>
+      <PatientID>KI685</PatientID>
+      <Start>25/03/2013 00:00</Start>
+      <End>25/03/2013 06:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>3</ID>
+      <Start>25/03/2013 00:00</Start>
+      <End>25/03/2013 00:00</End>
+      <Code>17-24</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>GD5621</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+</Claim.Submission>

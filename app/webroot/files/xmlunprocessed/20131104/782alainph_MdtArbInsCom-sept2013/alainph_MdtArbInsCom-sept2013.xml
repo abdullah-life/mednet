@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1075</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>24/10/2013 09:43</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>alainph_MdtArbInsCom-sept2013-1</ID><MemberID>0971 1017 00413599 01</MemberID><PayerID>A019</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber><Gross>140.44</Gross><PatientShare>0</PatientShare><Net>140.44</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>New123131</PatientID><Start>07/09/2013 23:48</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>522.4</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>07/09/2013 23:48</Start><Type>5</Type><Code>1671-1293-003</Code><Quantity>1</Quantity><Net>113.93</Net><Clinician>GD15437</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>07/09/2013 23:48</Start><Type>5</Type><Code>1241-1457-013</Code><Quantity>1</Quantity><Net>22.32</Net><Clinician>GD15437</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>07/09/2013 23:48</Start><Type>5</Type><Code>1472-1058-014</Code><Quantity>1</Quantity><Net>4.19</Net><Clinician>GD15437</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

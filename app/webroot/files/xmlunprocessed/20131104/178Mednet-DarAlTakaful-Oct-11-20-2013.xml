@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0046879</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 11:16</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>69263 - Mednet-DarAlTakaful-Oct-11-20-2013 - 1</ID>
+    <MemberID>097110350047295802</MemberID>
+    <PayerID>INS083</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>27426</PatientID>
+      <Start>20/10/2013 09:31</Start>
+      <End>20/10/2013 10:01</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J45.909</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H81.13</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297535</ID>
+      <Start>20/10/2013 09:31</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0252057</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>COUGH
+COLD
+SHORTNESS OF BREATH
+DIZZINESS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

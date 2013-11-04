@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Created with Globis Clinical Management Software, Contact: 026444716 -->
+<!-- For Dr. Reza Sodagar Clinic, Tel.: 02 6218005 -->
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF1071</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>31/10/2013 20:17</TransactionDate>
+    <RecordCount>3</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>817578</ID>
+    <IDPayer></IDPayer>
+    <MemberID>097110040039738501</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF1071</ProviderID>
+    <EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+    <Gross>392.40</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>342.40</Net>
+    <Encounter>
+      <FacilityID>MF1071</FacilityID>
+      <Type>1</Type>
+      <PatientID>16611</PatientID>
+      <Start>13/10/2013 09:00</Start>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>473.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>474.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>817578-1</ID>
+      <Start>13/10/2013 09:20</Start>
+      <Type>3</Type>
+      <Code>99204</Code>
+      <Quantity>1</Quantity>
+      <Net>342.4</Net>
+      <Clinician>D2680</Clinician>
+      <PriorAuthorizationID></PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>817578-2</ID>
+      <Start>13/10/2013 09:20</Start>
+      <Type>3</Type>
+      <Code>70220</Code>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>D2680</Clinician>
+      <PriorAuthorizationID></PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Normal Plan</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>817648</ID>
+    <IDPayer></IDPayer>
+    <MemberID>0971 1004 00418740 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF1071</ProviderID>
+    <EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+    <Gross>171.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>121.00</Net>
+    <Encounter>
+      <FacilityID>MF1071</FacilityID>
+      <Type>1</Type>
+      <PatientID>13462</PatientID>
+      <Start>22/10/2013 09:00</Start>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>386.11</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>817648-1</ID>
+      <Start>22/10/2013 09:20</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1</Quantity>
+      <Net>121</Net>
+      <Clinician>D2680</Clinician>
+      <PriorAuthorizationID></PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Normal Plan</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>817654</ID>
+    <IDPayer></IDPayer>
+    <MemberID>0971 1004 00418739 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF1071</ProviderID>
+    <EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+    <Gross>171.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>121.00</Net>
+    <Encounter>
+      <FacilityID>MF1071</FacilityID>
+      <Type>1</Type>
+      <PatientID>11573</PatientID>
+      <Start>22/10/2013 09:00</Start>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>381.81</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>817654-1</ID>
+      <Start>22/10/2013 09:20</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1</Quantity>
+      <Net>121</Net>
+      <Clinician>D2680</Clinician>
+      <PriorAuthorizationID></PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Normal Plan</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

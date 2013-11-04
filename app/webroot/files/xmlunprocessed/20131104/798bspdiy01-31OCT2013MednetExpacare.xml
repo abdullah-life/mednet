@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045824</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 16:48</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>344538 - bspdiy 01-31 OCT 2013 Mednet Expacare - 1</ID>
+    <MemberID>0971 1083 00317429 01</MemberID>
+    <PayerID>INS087</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>97</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>92.16</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3626</PatientID>
+      <Start>01/10/2013 22:51</Start>
+      <End>01/10/2013 23:21</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L02.411</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292318</ID>
+      <Start>01/10/2013 22:51</Start>
+      <Type>5</Type>
+      <Code>0281-128401-0651</Code>
+      <Quantity>1</Quantity>
+      <Net>16.63</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292319</ID>
+      <Start>01/10/2013 22:51</Start>
+      <Type>5</Type>
+      <Code>0005-127402-1451</Code>
+      <Quantity>1</Quantity>
+      <Net>65.08</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292320</ID>
+      <Start>01/10/2013 22:51</Start>
+      <Type>5</Type>
+      <Code>0006-106601-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>10.45</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

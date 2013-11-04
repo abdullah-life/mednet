@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" > 
+    <Header>
+        <SenderID>MF844</SenderID>
+        <ReceiverID>C004</ReceiverID>
+        <TransactionDate>01/10/2013 12:25</TransactionDate>
+        <RecordCount>4</RecordCount>
+        <DispositionFlag>PRODUCTION</DispositionFlag>
+    </Header>
+<Claim>
+<ID>04277</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00426181 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF844</ProviderID>
+<EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+<Gross>1465</Gross>
+<PatientShare>50</PatientShare>
+<Net>1415</Net>
+<Encounter>
+<FacilityID>MF844</FacilityID>
+<Type>1</Type>
+<PatientID>9699</PatientID>
+<Start>01/09/2013 11:03</Start>
+<End>01/09/2013 11:03</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>566</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>338.19</Code>
+</Diagnosis>
+<Activity>
+<ID>1</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>135</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Activity>
+<ID>2</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>5</Type>
+<Code>1556-4476-009</Code>
+<Quantity>1</Quantity>
+<Net>11</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Activity>
+<ID>3</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Activity>
+<ID>4</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>3</Quantity>
+<Net>90</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Activity>
+<ID>5</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>3</Type>
+<Code>46050</Code>
+<Quantity>1</Quantity>
+<Net>858</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Activity>
+<ID>6</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>3</Type>
+<Code>15852</Code>
+<Quantity>4</Quantity>
+<Net>200</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Activity>
+<ID>7</ID> 
+<Start>01/09/2013 11:03</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>121</Net>
+<Clinician>D4841</Clinician>
+</Activity>
+<Contract>
+<PackageName>Mednet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>04281</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00416455 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF844</ProviderID>
+<EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+<Gross>199.5</Gross>
+<PatientShare>50</PatientShare>
+<Net>149.5</Net>
+<Encounter>
+<FacilityID>MF844</FacilityID>
+<Type>1</Type>
+<PatientID>8979</PatientID>
+<Start>02/09/2013 11:09</Start>
+<End>02/09/2013 11:09</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>493.90</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.07</Code>
+</Diagnosis>
+<Activity>
+<ID>8</ID> 
+<Start>02/09/2013 11:09</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Activity>
+<ID>9</ID> 
+<Start>02/09/2013 11:09</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>30</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Activity>
+<ID>10</ID> 
+<Start>02/09/2013 11:09</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>119.5</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Contract>
+<PackageName>Mednet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>04494</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00409299 02</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF844</ProviderID>
+<EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+<Gross>199.5</Gross>
+<PatientShare>50</PatientShare>
+<Net>149.5</Net>
+<Encounter>
+<FacilityID>MF844</FacilityID>
+<Type>1</Type>
+<PatientID>2462</PatientID>
+<Start>19/09/2013 09:49</Start>
+<End>19/09/2013 09:49</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>338.19</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Activity>
+<ID>11</ID> 
+<Start>19/09/2013 09:49</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Activity>
+<ID>12</ID> 
+<Start>19/09/2013 09:49</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>30</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Activity>
+<ID>13</ID> 
+<Start>19/09/2013 09:49</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>119.5</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Contract>
+<PackageName>Mednet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>04568</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00358344 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF844</ProviderID>
+<EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+<Gross>199.5</Gross>
+<PatientShare>25</PatientShare>
+<Net>174.5</Net>
+<Encounter>
+<FacilityID>MF844</FacilityID>
+<Type>1</Type>
+<PatientID>5595</PatientID>
+<Start>30/09/2013 10:32</Start>
+<End>30/09/2013 10:32</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>465.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>724.5</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>110.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.96</Code>
+</Diagnosis>
+<Activity>
+<ID>14</ID> 
+<Start>30/09/2013 10:32</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Activity>
+<ID>15</ID> 
+<Start>30/09/2013 10:32</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>30</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Activity>
+<ID>16</ID> 
+<Start>30/09/2013 10:32</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>144.5</Net>
+<Clinician>GD2817</Clinician>
+</Activity>
+<Contract>
+<PackageName>Mednet</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

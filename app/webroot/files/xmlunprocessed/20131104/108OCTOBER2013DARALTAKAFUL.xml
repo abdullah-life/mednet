@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045555</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 10:30</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>30761 - OCTOBER 2013 DAR AL TAKAFUL - 1</ID>
+    <MemberID>097110350042877901</MemberID>
+    <PayerID>INS083</PayerID>
+    <ProviderID>DHA-F-0045555</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>200</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>150</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045555</FacilityID>
+      <Type>1</Type>
+      <PatientID>7178-1</PatientID>
+      <Start>02/10/2013 11:20</Start>
+      <End>02/10/2013 11:50</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296569</ID>
+      <Start>02/10/2013 11:20</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>150</Net>
+      <Clinician>DHA-P-0239841</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>runny nose</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

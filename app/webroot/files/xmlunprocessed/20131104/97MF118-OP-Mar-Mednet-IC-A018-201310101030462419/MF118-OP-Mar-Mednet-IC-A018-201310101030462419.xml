@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:30</TransactionDate>
+    <RecordCount>8</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30093671</ID>
+    <IDPayer>221569_31165_SC30093671</IDPayer>
+    <MemberID>0971 1087 00356220 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>384.10</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>384.10</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1962168</PatientID>
+      <Start>14/03/2013 12:59</Start>
+      <End>14/03/2013 12:59</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>372.14</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>365.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649047</ID>
+      <Start>14/03/2013 12:59</Start>
+      <Type>3</Type>
+      <Code>92133</Code>
+      <Quantity>1.000</Quantity>
+      <Net>384.10</Net>
+      <Clinician>D1025</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with the reported diagnosis of preglaucoma. Opthalmic scanning was done to assess and evaluate optic health. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027534</ID>
+    <IDPayer>221569_31165_SL30027534</IDPayer>
+    <MemberID>0971 1087 00356397 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>296.70</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>296.70</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1997353</PatientID>
+      <Start>10/03/2013 13:02</Start>
+      <End>10/03/2013 13:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>626.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649055</ID>
+      <Start>10/03/2013 13:02</Start>
+      <Type>3</Type>
+      <Code>84146</Code>
+      <Quantity>1.000</Quantity>
+      <Net>158.70</Net>
+      <Clinician>D1965</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34649056</ID>
+      <Start>10/03/2013 13:02</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.000</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D1965</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>As per the patient complains of irregular menses, TSH and Prolactin test was done to evaluate a patient with the mentioned diagnosis for medical management and intervention, Kindly process the claim. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027535</ID>
+    <IDPayer>221569_31165_SL30027535</IDPayer>
+    <MemberID>0971 1087 00260294 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>170.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>170.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1585031</PatientID>
+      <Start>12/03/2013 18:53</Start>
+      <End>12/03/2013 18:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>654.23</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>056.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>646.83</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>647.53</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.79</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649059</ID>
+      <Start>12/03/2013 18:53</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.000</Quantity>
+      <Net>32.20</Net>
+      <Clinician>D1532</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>79.92</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>34649061</ID>
+      <Start>12/03/2013 18:53</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1.000</Quantity>
+      <Net>138.00</Net>
+      <Clinician>D1532</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a pregnant patient for antenatal check up . Activities were done as part of routine antenatal assessment. TSH test was done to assess the thyroid levels and rule out for thyroid disorders. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027536</ID>
+    <IDPayer>221569_31165_SL30027536</IDPayer>
+    <MemberID>0971 1087 00041988 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>78.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>78.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>243894</PatientID>
+      <Start>13/03/2013 07:27</Start>
+      <End>13/03/2013 07:27</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649069</ID>
+      <Start>13/03/2013 07:27</Start>
+      <Type>3</Type>
+      <Code>83721</Code>
+      <Quantity>1.000</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D3872</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>18262-6</Code>
+        <Value>196.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Patient presents with HTN and HLP, hence LDL is justified for this patient to monitor lipid levels for proper treatment and management plan. As per coding guidelines, this is not part of the lipid panel. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027537</ID>
+    <IDPayer>221569_31165_SL30027537</IDPayer>
+    <MemberID>0971 1087 00051488 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>78.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>78.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>448611</PatientID>
+      <Start>19/03/2013 08:39</Start>
+      <End>19/03/2013 08:39</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649075</ID>
+      <Start>19/03/2013 08:39</Start>
+      <Type>3</Type>
+      <Code>83721</Code>
+      <Quantity>1.000</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D3367</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>18262-6</Code>
+        <Value>129.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The treating physician is an outside doctor, hence medical necessity justification cannot be requested. The patient came to the facility for laboratory investigations as ORDERED BY THE OUTSIDE PHYSICIAN. Kindly process. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027539</ID>
+    <IDPayer>221569_31165_SL30027539</IDPayer>
+    <MemberID>0971 1087 00043803 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>78.20</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>78.20</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>240786</PatientID>
+      <Start>21/03/2013 08:29</Start>
+      <End>21/03/2013 08:29</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649086</ID>
+      <Start>21/03/2013 08:29</Start>
+      <Type>3</Type>
+      <Code>83721</Code>
+      <Quantity>1.000</Quantity>
+      <Net>78.20</Net>
+      <Clinician>D3675</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>18262-6</Code>
+        <Value>95.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activity is medically justified as per good clinical practice for a patient with the reported diagnosis. LDL was done together with Lipid panel assess the lipid levels. Kindly process.
+</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027540</ID>
+    <IDPayer>221569_31165_SL30027540</IDPayer>
+    <MemberID>0971 1087 00371934 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>356.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>356.50</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>100005821</PatientID>
+      <Start>21/03/2013 17:55</Start>
+      <End>21/03/2013 17:55</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>276.51</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649093</ID>
+      <Start>21/03/2013 17:55</Start>
+      <Type>3</Type>
+      <Code>83036</Code>
+      <Quantity>1.000</Quantity>
+      <Net>80.50</Net>
+      <Clinician>GD9230</Clinician>
+      <PriorAuthorizationID />
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>17855-8</Code>
+        <Value>5.30000</Value>
+        <ValueType>%</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>34649095</ID>
+      <Start>21/03/2013 17:55</Start>
+      <Type>3</Type>
+      <Code>84450</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD9230</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34649096</ID>
+      <Start>21/03/2013 17:55</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.000</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD9230</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34649098</ID>
+      <Start>21/03/2013 17:55</Start>
+      <Type>3</Type>
+      <Code>86677</Code>
+      <Quantity>1.000</Quantity>
+      <Net>121.90</Net>
+      <Clinician>GD9230</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34649099</ID>
+      <Start>21/03/2013 17:55</Start>
+      <Type>3</Type>
+      <Code>87088</Code>
+      <Quantity>1.000</Quantity>
+      <Net>66.70</Net>
+      <Clinician>GD9230</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with complaints of dizziness, UTI, vomiting, dehydration. ALT &amp;AST done as part of liver function assessment due to the presented manifestation. The purpose of blood culture tests is to detect the presence of aerobic and anaerobic bacteria in blood and to identify the bacteria. H. Pylori was done to determine if there is evidence of this infection when patient is experiencing gastrointestinal pain. Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30027541</ID>
+    <IDPayer>221569_31165_SL30027541</IDPayer>
+    <MemberID>0971 1087 00040588 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>179.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>179.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>244502</PatientID>
+      <Start>31/03/2013 18:17</Start>
+      <End>31/03/2013 18:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>535.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>575.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.06</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34649100</ID>
+      <Start>31/03/2013 18:17</Start>
+      <Type>3</Type>
+      <Code>82150</Code>
+      <Quantity>2.000</Quantity>
+      <Net>105.80</Net>
+      <Clinician>D3976</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>34649104</ID>
+      <Start>31/03/2013 18:17</Start>
+      <Type>3</Type>
+      <Code>87177</Code>
+      <Quantity>1.000</Quantity>
+      <Net>73.60</Net>
+      <Clinician>D3976</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities are medically justified as per good clinical practice for a patient with abdominal pain to rule out ova and parasitic infection and pancreatitis. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

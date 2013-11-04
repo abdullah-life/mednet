@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+
+ <!-- Header: Submission identification information -->
+	<Header>
+		<SenderID>MF44</SenderID>
+		<ReceiverID>C004</ReceiverID>
+		<TransactionDate>18/10/2013 20:19</TransactionDate>
+		<RecordCount>1</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>IC146479</ID>
+		<IDPayer></IDPayer>
+		<MemberID>0971 1080 00427792 01</MemberID>
+		<PayerID>A003</PayerID>
+		<ProviderID>MF44</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>457</Gross>
+		<PatientShare>50</PatientShare>
+		<Net>407</Net>
+
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF44</FacilityID>
+			<Type>1</Type>
+			<PatientID>AMC01744</PatientID>
+			<Start>28/09/2013 10:17</Start>
+			<End>28/09/2013 11:05</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+		</Encounter>
+
+		<!-- Diagnosis information -->
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>601.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>533.90</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>788.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>788.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>604.90</Code>
+		</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH355258</ID>
+				<Start>28/09/2013 11:05</Start>
+
+				<Type>3</Type>
+				<Code>85025</Code>
+				<Quantity>1.00</Quantity>
+				<Net>28</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH355259</ID>
+				<Start>28/09/2013 11:05</Start>
+
+				<Type>3</Type>
+				<Code>81001</Code>
+				<Quantity>1.00</Quantity>
+				<Net>11</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH355260</ID>
+				<Start>28/09/2013 11:05</Start>
+
+				<Type>3</Type>
+				<Code>74000</Code>
+				<Quantity>1.00</Quantity>
+				<Net>50</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH355261</ID>
+				<Start>28/09/2013 11:05</Start>
+
+				<Type>3</Type>
+				<Code>76770</Code>
+				<Quantity>1.00</Quantity>
+				<Net>273</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+			<Activity>
+				<ID>A-CH355169</ID>
+				<Start>28/09/2013 10:17</Start>
+
+				<Type>3</Type>
+				<Code>99213</Code>
+				<Quantity>1.00</Quantity>
+				<Net>45</Net>
+				<Clinician>D1218</Clinician>
+				
+			</Activity>
+
+	</Claim>
+
+</Claim.Submission>

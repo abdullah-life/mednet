@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>22/10/2013 04:56</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30315265</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00403277 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1855.90</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>1805.90</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>452999</PatientID>
+      <Start>24/09/2013 10:17</Start>
+      <End>24/09/2013 10:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>274.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39994829</ID>
+      <Start>24/09/2013 10:17</Start>
+      <Type>3</Type>
+      <Code>93306</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1570.90</Net>
+      <Clinician>D3872</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39994830</ID>
+      <Start>24/09/2013 10:17</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D3872</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

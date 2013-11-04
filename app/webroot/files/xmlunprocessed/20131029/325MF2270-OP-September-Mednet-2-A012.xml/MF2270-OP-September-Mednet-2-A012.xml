@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>24/10/2013 04:28</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SX30049391</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00415167 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1260.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1260.40</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100081967</PatientID>
+      <Start>28/09/2013 19:01</Start>
+      <End>28/09/2013 19:01</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>285.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.06</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39994226</ID>
+      <Start>28/09/2013 19:01</Start>
+      <Type>3</Type>
+      <Code>76700</Code>
+      <Quantity>1.00</Quantity>
+      <Net>667.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39994227</ID>
+      <Start>28/09/2013 19:01</Start>
+      <Type>3</Type>
+      <Code>76856</Code>
+      <Quantity>1.00</Quantity>
+      <Net>593.40</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

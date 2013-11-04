@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0046879</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 11:03</TransactionDate>
+    <RecordCount>4</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>69065 - Mednet ALIttihad-Oct-11-20-2013 - 1</ID>
+    <MemberID>097110050037539502</MemberID>
+    <PayerID>INS024</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>245</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>195</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>77953</PatientID>
+      <Start>19/10/2013 16:28</Start>
+      <End>19/10/2013 16:58</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J02.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296994</ID>
+      <Start>19/10/2013 16:28</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0241852</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>COUGH
+FEVER</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37477/2013-14 - Mednet ALIttihad-Oct-11-20-2013 - 2</ID>
+    <MemberID>097110050037539502</MemberID>
+    <PayerID>INS024</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>10.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>10.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>77953</PatientID>
+      <Start>19/10/2013 16:35</Start>
+      <End>19/10/2013 17:05</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J02.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296997</ID>
+      <Start>19/10/2013 16:35</Start>
+      <Type>5</Type>
+      <Code>0248-135501-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>10.5</Net>
+      <Clinician>DHA-P-0241852</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68957 - Mednet ALIttihad-Oct-11-20-2013 - 3</ID>
+    <MemberID>097110050004258002</MemberID>
+    <PayerID>INS024</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101184</PatientID>
+      <Start>17/10/2013 10:31</Start>
+      <End>17/10/2013 11:01</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.511A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S83.241A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M65.861</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296999</ID>
+      <Start>17/10/2013 10:31</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0250512</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>RIGHT KNEE ACL TEAR
+MEDIAL MENISCAL TEAR
+SYNOVITIS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29707/2013-14 - Mednet ALIttihad-Oct-11-20-2013 - 4</ID>
+    <MemberID>097110050029638902</MemberID>
+    <PayerID>INS024</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>65</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>65</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>100900</PatientID>
+      <Start>12/10/2013 10:33</Start>
+      <End>12/10/2013 11:03</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>E61.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297000</ID>
+      <Start>12/10/2013 10:33</Start>
+      <Type>3</Type>
+      <Code>36000</Code>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297001</ID>
+      <Start>12/10/2013 10:33</Start>
+      <Type>5</Type>
+      <Code>0252-181902-0511</Code>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

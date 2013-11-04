@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1656</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>24/10/2013 11:13</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>PF1656-PH-AUG13-MEDNET-SALAMA-1</ID><MemberID>0971 1033 00360455 02</MemberID><PayerID>A020</PayerID><ProviderID>PF1656</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>29.45</Gross><PatientShare>0</PatientShare><Net>29.45</Net><Encounter>
+<FacilityID>PF1656</FacilityID><Type>1</Type><PatientID>6012</PatientID><Start>16/08/2013 00:00</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>V58.32</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>16/08/2013 00:00</Start><Type>5</Type><Code>1497-2306-002</Code><Quantity>1</Quantity><Net>29.45</Net><Clinician>GD15859</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1075</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>24/10/2013 09:41</TransactionDate> 
+<RecordCount>10</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-1</ID><MemberID>0971 1004 00391451 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>137.19</Gross><PatientShare>13.72</PatientShare><Net>123.47</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>122901</PatientID><Start>04/09/2013 17:56</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>346.90</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>401.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>04/09/2013 17:56</Start><Type>5</Type><Code>1472-1058-014</Code><Quantity>1</Quantity><Net>3.77</Net><Clinician>D118</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>04/09/2013 17:56</Start><Type>5</Type><Code>1544-4603-001</Code><Quantity>1</Quantity><Net>8.37</Net><Clinician>D118</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>04/09/2013 17:56</Start><Type>5</Type><Code>1529-1750-002</Code><Quantity>1</Quantity><Net>98.77</Net><Clinician>D118</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>04/09/2013 17:56</Start><Type>5</Type><Code>1368-3014-001</Code><Quantity>1</Quantity><Net>12.56</Net><Clinician>D118</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-2</ID><MemberID>0971 1004 00177305 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>163.68</Gross><PatientShare>16.37</PatientShare><Net>147.31</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>Hkm91238</PatientID><Start>05/09/2013 16:04</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>401.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>05/09/2013 16:04</Start><Type>5</Type><Code>1967-3000-001</Code><Quantity>1</Quantity><Net>90.81</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>05/09/2013 16:04</Start><Type>5</Type><Code>1472-3968-001</Code><Quantity>1</Quantity><Net>56.5</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-3</ID><MemberID>0971 1004 00446967 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>42.76</Gross><PatientShare>4.27</PatientShare><Net>38.49</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>117131</PatientID><Start>05/09/2013 16:35</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>462</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>05/09/2013 16:35</Start><Type>5</Type><Code>1424-5581-001</Code><Quantity>1</Quantity><Net>11.3</Net><Clinician>D1520</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>05/09/2013 16:35</Start><Type>5</Type><Code>1703-4323-001</Code><Quantity>1</Quantity><Net>4.6</Net><Clinician>D1520</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>05/09/2013 16:35</Start><Type>5</Type><Code>1680-4541-004</Code><Quantity>1</Quantity><Net>22.59</Net><Clinician>D1520</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-4</ID><MemberID>0971 1004 00327933 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>13.96</Gross><PatientShare>1.4</PatientShare><Net>12.56</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>91850</PatientID><Start>09/09/2013 14:44</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>784.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>09/09/2013 14:44</Start><Type>5</Type><Code>1544-4603-001</Code><Quantity>1</Quantity><Net>8.37</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>09/09/2013 14:44</Start><Type>5</Type><Code>1680-2223-007</Code><Quantity>1</Quantity><Net>4.19</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-5</ID><MemberID>0971 1004 00404579 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>97.65</Gross><PatientShare>9.76</PatientShare><Net>87.89</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>Adv99663</PatientID><Start>10/09/2013 15:55</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>466.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>10/09/2013 15:55</Start><Type>5</Type><Code>1680-2223-007</Code><Quantity>1</Quantity><Net>4.19</Net><Clinician>GD5616</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>10/09/2013 15:55</Start><Type>5</Type><Code>1472-3100-001</Code><Quantity>1</Quantity><Net>6.28</Net><Clinician>GD5616</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>10/09/2013 15:55</Start><Type>5</Type><Code>1680-2733-004</Code><Quantity>1</Quantity><Net>60.26</Net><Clinician>GD5616</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>10/09/2013 15:55</Start><Type>5</Type><Code>1650-1644-001</Code><Quantity>1</Quantity><Net>17.16</Net><Clinician>GD5616</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-6</ID><MemberID>0971 1004 00351117 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>213.9</Gross><PatientShare>21.39</PatientShare><Net>192.51</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>108985</PatientID><Start>25/09/2013 20:24</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>565.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>25/09/2013 20:24</Start><Type>5</Type><Code>1499-1789-001</Code><Quantity>2</Quantity><Net>72.82</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>25/09/2013 20:24</Start><Type>5</Type><Code>1497-2306-002</Code><Quantity>1</Quantity><Net>25.95</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>25/09/2013 20:24</Start><Type>5</Type><Code>1680-3840-001</Code><Quantity>1</Quantity><Net>30.13</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>25/09/2013 20:24</Start><Type>5</Type><Code>1592-1549-002</Code><Quantity>2</Quantity><Net>63.61</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-7</ID><MemberID>0971 1004 00177049 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>156.25</Gross><PatientShare>15.63</PatientShare><Net>140.62</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>109042</PatientID><Start>25/09/2013 17:16</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>250.00</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>462</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>25/09/2013 17:16</Start><Type>5</Type><Code>1528-2405-001</Code><Quantity>2</Quantity><Net>29.3</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>25/09/2013 17:16</Start><Type>5</Type><Code>1387-3661-002</Code><Quantity>1</Quantity><Net>20.09</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>25/09/2013 17:16</Start><Type>5</Type><Code>1472-1058-014</Code><Quantity>2</Quantity><Net>7.53</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>25/09/2013 17:16</Start><Type>5</Type><Code>1680-4541-003</Code><Quantity>2</Quantity><Net>83.7</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-8</ID><MemberID>0971 1004 00177516 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>32.56</Gross><PatientShare>3.26</PatientShare><Net>29.3</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>Hkm91694</PatientID><Start>26/09/2013 18:33</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>250.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>26/09/2013 18:33</Start><Type>5</Type><Code>1528-2405-001</Code><Quantity>2</Quantity><Net>29.3</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-9</ID><MemberID>0971 1004 00177516 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>105.08</Gross><PatientShare>10.5</PatientShare><Net>94.58</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>Hkm91694</PatientID><Start>26/09/2013 18:42</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>461.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>477.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>26/09/2013 18:42</Start><Type>5</Type><Code>1544-4603-001</Code><Quantity>1</Quantity><Net>8.37</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>26/09/2013 18:42</Start><Type>5</Type><Code>1584-4549-008</Code><Quantity>1</Quantity><Net>67.8</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>26/09/2013 18:42</Start><Type>5</Type><Code>1472-2873-001</Code><Quantity>1</Quantity><Net>13.81</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>26/09/2013 18:42</Start><Type>5</Type><Code>1368-2083-009</Code><Quantity>1</Quantity><Net>4.6</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>AlAinpharmacy_PF1075_sept2013-10</ID><MemberID>0971 1004 00404176 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1075</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>53.94</Gross><PatientShare>2.7</PatientShare><Net>51.24</Net><Encounter>
+<FacilityID>PF1075</FacilityID><Type>1</Type><PatientID>Coop95864</PatientID><Start>16/09/2013 23:34</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>729.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>16/09/2013 23:34</Start><Type>5</Type><Code>1235-2176-003</Code><Quantity>1</Quantity><Net>27.39</Net><Clinician>D1310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>16/09/2013 23:34</Start><Type>5</Type><Code>1967-3064-001</Code><Quantity>1</Quantity><Net>23.85</Net><Clinician>D1310</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

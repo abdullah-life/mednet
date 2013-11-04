@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>24/10/2013 04:28</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>SX30049392</ID>
+    <IDPayer/>
+    <MemberID>291033</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>151.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>151.80</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>496447</PatientID>
+      <Start>23/09/2013 15:41</Start>
+      <End>23/09/2013 15:41</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>825.25</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E849.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E885.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39994229</ID>
+      <Start>23/09/2013 15:41</Start>
+      <End>23/09/2013 15:41</End>
+      <Code>73630</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>158.4</Net>
+      <Clinician>GD15020</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

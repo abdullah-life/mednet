@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0047398</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 12:59</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>237444 - BSP21-OCT13-MED-ITW - 1</ID>
+    <MemberID>097110050007092601</MemberID>
+    <PayerID>INS024</PayerID>
+    <ProviderID>DHA-F-0047398</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>95</Gross>
+    <PatientShare>9</PatientShare>
+    <Net>81.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047398</FacilityID>
+      <Type>1</Type>
+      <PatientID>599</PatientID>
+      <Start>12/10/2013 09:16</Start>
+      <End>12/10/2013 09:46</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4291575</ID>
+      <Start>12/10/2013 09:16</Start>
+      <Type>5</Type>
+      <Code>0000-000000-0000</Code>
+      <Quantity>1</Quantity>
+      <Net>81.25</Net>
+      <Clinician>MOHD6888</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>47492</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>NOW VIT D 1000 IU GEL CAP 180'S</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

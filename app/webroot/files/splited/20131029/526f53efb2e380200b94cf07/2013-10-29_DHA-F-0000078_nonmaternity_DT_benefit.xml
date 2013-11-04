@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000078</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>28/10/2013 19:23</TransactionDate>
+    <RecordCount>2</RecordCount>
+  </Header>
+  <Claim>
+    <ID>OPC-R-2013-021167</ID>
+    <MemberID>451227</MemberID>
+    <PayerID>A037</PayerID>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1059.1</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>1059.1</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000007109</PatientID>
+      <Start>09/09/2013 09:43</Start>
+      <End>09/09/2013 09:47</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N92.6</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E04.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0067200336</ID>
+      <Start>09/09/2013 09:46</Start>
+      <End>09/09/2013 09:46</End>
+      <Code>84443</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>605</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LEN061</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>THYROID PROFILE (FT3+FT4+TSH)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0067200324</ID>
+      <Start>09/09/2013 09:46</Start>
+      <End>09/09/2013 09:46</End>
+      <Code>84146</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>253</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LEN049</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PROLACTIN</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX006720C004</ID>
+      <Start>09/09/2013 09:46</Start>
+      <End>09/09/2013 09:46</End>
+      <Code>85027</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LHA023</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CBC</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0067200310</ID>
+      <Start>09/09/2013 09:46</Start>
+      <End>09/09/2013 09:46</End>
+      <Code>83001</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>253</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LEN035</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>FSH (FOLLICLE STIMULATING HORMONE)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0067200320</ID>
+      <Start>09/09/2013 09:46</Start>
+      <End>09/09/2013 09:46</End>
+      <Code>83002</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LEN045</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>LH (LUTEINISING HORMONE)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-021058</ID>
+    <MemberID>451227</MemberID>
+    <PayerID>A037</PayerID>
+    <ProviderID>DHA-F-0000078</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>619.5</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>569.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000078</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000007109</PatientID>
+      <Start>05/09/2013 18:53</Start>
+      <End>05/09/2013 19:34</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N86</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N92.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0066650510</ID>
+      <Start>05/09/2013 19:33</Start>
+      <End>05/09/2013 19:33</End>
+      <Code>88141</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LHI018</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PAP SMEAR (CYTOLOGY)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0066650825</ID>
+      <Start>05/09/2013 19:33</Start>
+      <End>05/09/2013 19:33</End>
+      <Code>76857</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>220</Net>
+      <Clinician>DHA-P-0249215</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD091</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ULTRASOUND SCREENING</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

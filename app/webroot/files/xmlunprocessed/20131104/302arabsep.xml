@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1196</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>09/10/2013 17:21</TransactionDate> 
+<RecordCount>8</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-1</ID><MemberID>0971 1004 0030878402</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>179.08</Gross><PatientShare>0</PatientShare><Net>179.08</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7916</PatientID><Start>01/09/2013 21:53</Start></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>466.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>01/09/2013 21:53</Start><Type>5</Type><Code>1472-1058-007</Code><Quantity>1</Quantity><Net>6.18</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>01/09/2013 21:53</Start><Type>5</Type><Code>1472-3640-001</Code><Quantity>1</Quantity><Net>12.35</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>01/09/2013 21:53</Start><Type>5</Type><Code>1961-5170-002</Code><Quantity>1</Quantity><Net>38</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>01/09/2013 21:53</Start><Type>5</Type><Code>1833-6129-001</Code><Quantity>1</Quantity><Net>36.1</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>01/09/2013 21:53</Start><Type>5</Type><Code>1592-1543-002</Code><Quantity>2</Quantity><Net>86.45</Net><Clinician>GD6329</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-2</ID><MemberID>0971 1004 00385401 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>80.3</Gross><PatientShare>8.04</PatientShare><Net>72.26</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7881</PatientID><Start>03/09/2013 11:41</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>599.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>692.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>789.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>03/09/2013 11:41</Start><Type>5</Type><Code>1697-1249-001</Code><Quantity>1</Quantity><Net>7.7</Net><Clinician>GD15310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>03/09/2013 11:41</Start><Type>5</Type><Code>2209-6110-001</Code><Quantity>1</Quantity><Net>5.56</Net><Clinician>GD15310</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>03/09/2013 11:41</Start><Type>5</Type><Code>1507-2676-003</Code><Quantity>1</Quantity><Net>59</Net><Clinician>GD15310</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-3</ID><MemberID>0971 1004 00385399 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>108.3</Gross><PatientShare>10.83</PatientShare><Net>97.47</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7937</PatientID><Start>08/09/2013 21:34</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>681.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>08/09/2013 21:34</Start><Type>5</Type><Code>1431-2390-007</Code><Quantity>1</Quantity><Net>71.82</Net><Clinician>GD5711</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>08/09/2013 21:34</Start><Type>5</Type><Code>1973-1331-003</Code><Quantity>1</Quantity><Net>25.65</Net><Clinician>GD5711</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-4</ID><MemberID>0971 1004 00417706 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>104.96</Gross><PatientShare>10.49</PatientShare><Net>94.47</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7942</PatientID><Start>10/09/2013 12:39</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>780.96</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>924.10</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>10/09/2013 12:39</Start><Type>5</Type><Code>1344-1520-002</Code><Quantity>1</Quantity><Net>50.87</Net><Clinician>GD16151</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>10/09/2013 12:39</Start><Type>5</Type><Code>1556-4476-016</Code><Quantity>1</Quantity><Net>43.6</Net><Clinician>GD16151</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-5</ID><MemberID>0971 1004 00446752 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>100.23</Gross><PatientShare>10.02</PatientShare><Net>90.21</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7947</PatientID><Start>14/09/2013 20:20</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>382.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>466.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>14/09/2013 20:20</Start><Type>5</Type><Code>1650-1078-001</Code><Quantity>1</Quantity><Net>30.78</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>14/09/2013 20:20</Start><Type>5</Type><Code>1671-1293-008</Code><Quantity>1</Quantity><Net>35.06</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>14/09/2013 20:20</Start><Type>5</Type><Code>1552-3448-002</Code><Quantity>1</Quantity><Net>13.25</Net><Clinician>GD6329</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>14/09/2013 20:20</Start><Type>5</Type><Code>1472-3640-001</Code><Quantity>1</Quantity><Net>11.12</Net><Clinician>GD6329</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-6</ID><MemberID>0971 1004 00448858 01</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>198.55</Gross><PatientShare>0</PatientShare><Net>198.55</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7956</PatientID><Start>22/09/2013 11:41</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>597.89</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>22/09/2013 11:41</Start><Type>5</Type><Code>1750-4545-012</Code><Quantity>2</Quantity><Net>198.55</Net><Clinician>D1385</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-7</ID><MemberID>0971 1004 00385401 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>119.7</Gross><PatientShare>11.97</PatientShare><Net>107.73</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7881</PatientID><Start>26/09/2013 20:43</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>599.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>26/09/2013 20:43</Start><Type>5</Type><Code>1300-1614-003</Code><Quantity>2</Quantity><Net>107.73</Net><Clinician>GD5711</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>pf1196-lara pharmacy-op-09/10/2013 -arab-8</ID><MemberID>0971 1004 00178390 02</MemberID><PayerID>A012</PayerID><ProviderID>PF1196</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>164.81</Gross><PatientShare>16.48</PatientShare><Net>148.33</Net><Encounter>
+<FacilityID>PF1196</FacilityID><Type>1</Type><PatientID>7986</PatientID><Start>30/09/2013 19:14</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>285.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>530.11</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>533.90</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>626.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>627.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>30/09/2013 19:14</Start><Type>5</Type><Code>1574-3581-001</Code><Quantity>1</Quantity><Net>13.25</Net><Clinician>GD15310</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>30/09/2013 19:14</Start><Type>5</Type><Code>1732-2204-002</Code><Quantity>1</Quantity><Net>29.07</Net><Clinician>GD15310</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>30/09/2013 19:14</Start><Type>5</Type><Code>1420-4521-003</Code><Quantity>1</Quantity><Net>62.41</Net><Clinician>GD15310</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>30/09/2013 19:14</Start><Type>5</Type><Code>1566-1911-006</Code><Quantity>1</Quantity><Net>43.6</Net><Clinician>GD15310</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

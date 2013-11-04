@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 09:35</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>IP-3000031437</ID>
+    <IDPayer>217480_31173_IP-3000031437</IDPayer>
+    <MemberID>0971 1004 00310603 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>180.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>180.40</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>5</Type>
+      <PatientID>1795389</PatientID>
+      <Start>10/01/2013 07:05</Start>
+      <End>10/01/2013 17:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>632</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>33292569</ID>
+      <Start>10/01/2013 07:05</Start>
+      <Type>8</Type>
+      <Code>25-02</Code>
+      <Quantity>1.000</Quantity>
+      <Net>-340.00</Net>
+      <Clinician>GD10455</Clinician>
+      <PriorAuthorizationID>53418</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>33292558</ID>
+      <Start>10/01/2013 07:05</Start>
+      <Type>3</Type>
+      <Code>59820</Code>
+      <Quantity>1.000</Quantity>
+      <Net>520.40</Net>
+      <Clinician>GD10455</Clinician>
+      <PriorAuthorizationID>53418</PriorAuthorizationID>
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted activities were submitted as per agreed price list and tariffs applicable on the date of service. Kindly process the claim.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,23 @@
+#calendar{
+
+	float:right;
+	margin-top: 15px;
+    margin-right:100px;
+}
+#datepicker{
+
+	width:90px;
+	padding: 2px 5px; 
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px;
+	border-radius: 5px;
+}
+#date_disp{
+
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px;
+	color: white;
+	font-variant: bold;
+}

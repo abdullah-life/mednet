@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0047791</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>29/10/2013 16:09</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>ISLBR1323056</ID>
+    <MemberID>422534</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047791</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>40.00</Gross>
+    <PatientShare>1.90</PatientShare>
+    <Net>36.10</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047791</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLBR1323056</PatientID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>A08.39</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E86.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>L30.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>11</ID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0248442</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ENTEROGERMINA ORAL SUSPENSION AMP 10 S</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

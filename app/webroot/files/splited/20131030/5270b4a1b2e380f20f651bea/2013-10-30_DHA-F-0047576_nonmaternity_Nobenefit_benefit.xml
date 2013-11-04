@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0047576</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>29/10/2013 13:05</TransactionDate>
+    <RecordCount>12</RecordCount>
+  </Header>
+  <Claim>
+    <ID>ISLMD1327789</ID>
+    <MemberID>409770</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>51.78</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>49.19</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327789</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2313</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327802</ID>
+    <MemberID>345607</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>77.53</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>73.65</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327802</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>H60.592</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2351</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327803</ID>
+    <MemberID>343794</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>219.53</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>208.55</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327803</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K29.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2355</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327807</ID>
+    <MemberID>345679</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>76.03</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>72.23</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327807</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S60.922A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2363</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327808</ID>
+    <MemberID>346904</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>169.53</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>161.05</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327808</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>L03.111</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2367</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327810</ID>
+    <MemberID>346791</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>73.03</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>69.37</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327810</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2372</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327811</ID>
+    <MemberID>347413</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>59.78</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>56.79</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327811</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2374</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327817</ID>
+    <MemberID>347401</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>76.03</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>72.23</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327817</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S07.9XXA</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2396</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1327939</ID>
+    <MemberID>420230</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>156.53</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>148.70</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1327939</PatientID>
+      <Start>25/09/2013 00:00</Start>
+      <End>25/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>E86.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2487</ID>
+      <Start>25/09/2013 00:00</Start>
+      <End>25/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1328056</ID>
+    <MemberID>356757</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>119.03</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>113.08</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1328056</PatientID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>A49.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J45.909</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2571</ID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1328058</ID>
+    <MemberID>447154</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>34.78</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>33.04</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1328058</PatientID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>G89.11</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2577</ID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMD1328059</ID>
+    <MemberID>387085</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>30.53</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>29.00</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1328059</PatientID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J45.40</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>2580</ID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <Code>0000-000000-0000</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0250853</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>0000-000000-0000</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IBULGAN 400mg 10TAB/STRIP</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

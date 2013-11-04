@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000197</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 20:02</TransactionDate>
+    <RecordCount>4</RecordCount>
+  </Header>
+  <Claim>
+    <ID>PBL-R-2013-012785</ID>
+    <MemberID>421327</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>213.12</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>213.12</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000190386</PatientID>
+      <Start>10/09/2013 15:15</Start>
+      <End>10/09/2013 15:37</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M75.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M75.51</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.511</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.611</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>PBLXX034403R130</ID>
+      <Start>10/09/2013 15:37</Start>
+      <End>10/09/2013 15:37</End>
+      <Code>0077-258502-1171</Code>
+      <Type>5</Type>
+      <Quantity>80</Quantity>
+      <Net>25</Net>
+      <Clinician>DHA-P-0007891</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>REPTB0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>REPARIL-DRAGEES 20MG TAB 40 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0344031140</ID>
+      <Start>10/09/2013 15:37</Start>
+      <End>10/09/2013 15:37</End>
+      <Code>0090-122303-0392</Code>
+      <Type>5</Type>
+      <Quantity>28</Quantity>
+      <Net>171</Net>
+      <Clinician>DHA-P-0007891</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ARCTB01</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ARCOXIA 90MG TAB 28 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>PBL-R-2013-012972</ID>
+    <MemberID>456452</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>48.96</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>48.96</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000067336</PatientID>
+      <Start>15/09/2013 16:54</Start>
+      <End>15/09/2013 16:54</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M79.641</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>PBLXX034914V322</ID>
+      <Start>15/09/2013 16:54</Start>
+      <End>15/09/2013 16:54</End>
+      <Code>0027-378802-0433</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>51</Net>
+      <Clinician>DHA-P-0034872</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>VLTRN</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>VOLTAREN DISPENSER 75ML</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>PBL-R-2013-012662</ID>
+    <MemberID>462029</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>123.12</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>123.12</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008796</PatientID>
+      <Start>08/09/2013 12:15</Start>
+      <End>08/09/2013 12:15</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M22.42</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M67.52</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M67.88</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.562</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>PBLXX0341181140</ID>
+      <Start>08/09/2013 12:15</Start>
+      <End>08/09/2013 12:15</End>
+      <Code>0090-122303-0392</Code>
+      <Type>5</Type>
+      <Quantity>21</Quantity>
+      <Net>171</Net>
+      <Clinician>DHA-P-0251210</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ARCTB01</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ARCOXIA 90MG TAB 28 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>PBL-R-2013-012775</ID>
+    <MemberID>421327</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>171.84</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>171.84</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000190386</PatientID>
+      <Start>10/09/2013 12:19</Start>
+      <End>10/09/2013 12:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M75.41</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M75.101</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>PBLXX034386C343</ID>
+      <Start>10/09/2013 12:43</Start>
+      <End>10/09/2013 12:43</End>
+      <Code>0186-143701-0062</Code>
+      <Type>5</Type>
+      <Quantity>30</Quantity>
+      <Net>179</Net>
+      <Clinician>DHA-P-0005016</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CELCP03</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CELEBREX 200MG CAP 30S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

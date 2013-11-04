@@ -1,0 +1,550 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>PF1489</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>12/10/2013 12:09</TransactionDate>
+    <RecordCount>8</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SP30204339</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00381287 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>131.50</Gross>
+    <PatientShare>26.30</PatientShare>
+    <Net>105.20</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>110137380</PatientID>
+      <Start>03/09/2013 13:24</Start>
+      <End>03/09/2013 13:24</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>648.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.04</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564675</ID>
+      <Start>03/09/2013 13:24</Start>
+      <Type>5</Type>
+      <Code>1120-1485-002</Code>
+      <Quantity>2.00</Quantity>
+      <Net>30.40</Net>
+      <Clinician>GD6283</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564676</ID>
+      <Start>03/09/2013 13:24</Start>
+      <Type>5</Type>
+      <Code>1650-3153-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>58.40</Net>
+      <Clinician>GD6283</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564677</ID>
+      <Start>03/09/2013 13:24</Start>
+      <Type>5</Type>
+      <Code>1713-3160-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>4.40</Net>
+      <Clinician>GD6283</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564678</ID>
+      <Start>03/09/2013 13:24</Start>
+      <Type>5</Type>
+      <Code>1664-6037-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>12.00</Net>
+      <Clinician>GD6283</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30204340</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00381072 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>45.50</Gross>
+    <PatientShare>9.10</PatientShare>
+    <Net>36.40</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>1918529</PatientID>
+      <Start>04/09/2013 16:45</Start>
+      <End>04/09/2013 16:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564679</ID>
+      <Start>04/09/2013 16:45</Start>
+      <Type>5</Type>
+      <Code>1472-1058-010</Code>
+      <Quantity>1.00</Quantity>
+      <Net>6.00</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564680</ID>
+      <Start>04/09/2013 16:45</Start>
+      <Type>5</Type>
+      <Code>1833-6129-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>30.40</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30204341</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00358486 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>128.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>128.50</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>1855368</PatientID>
+      <Start>04/09/2013 20:53</Start>
+      <End>04/09/2013 20:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>269.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564681</ID>
+      <Start>04/09/2013 20:53</Start>
+      <Type>5</Type>
+      <Code>1472-1058-010</Code>
+      <Quantity>1.00</Quantity>
+      <Net>7.50</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564682</ID>
+      <Start>04/09/2013 20:53</Start>
+      <Type>5</Type>
+      <Code>2086-5565-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>80.00</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564683</ID>
+      <Start>04/09/2013 20:53</Start>
+      <Type>5</Type>
+      <Code>1671-1293-008</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.00</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30204342</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00381197 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>237.00</Gross>
+    <PatientShare>47.40</PatientShare>
+    <Net>189.60</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>1949748</PatientID>
+      <Start>09/09/2013 12:43</Start>
+      <End>09/09/2013 12:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.63</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V28.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564684</ID>
+      <Start>09/09/2013 12:43</Start>
+      <Type>5</Type>
+      <Code>1250-4098-004</Code>
+      <Quantity>1.00</Quantity>
+      <Net>79.20</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564685</ID>
+      <Start>09/09/2013 12:43</Start>
+      <Type>5</Type>
+      <Code>1732-3442-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>22.40</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564686</ID>
+      <Start>09/09/2013 12:43</Start>
+      <Type>5</Type>
+      <Code>2086-5559-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>88.00</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30204343</ID>
+    <IDPayer />
+    <MemberID>097110030038103401</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>331.50</Gross>
+    <PatientShare>66.30</PatientShare>
+    <Net>265.20</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>110143740</PatientID>
+      <Start>10/09/2013 16:19</Start>
+      <End>10/09/2013 16:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>600.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564687</ID>
+      <Start>10/09/2013 16:19</Start>
+      <Type>5</Type>
+      <Code>1487-1307-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>120.40</Net>
+      <Clinician>GD6179</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564688</ID>
+      <Start>10/09/2013 16:19</Start>
+      <Type>5</Type>
+      <Code>1695-4493-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>144.80</Net>
+      <Clinician>GD6179</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30204344</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00381284 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>172.50</Gross>
+    <PatientShare>34.50</PatientShare>
+    <Net>138.00</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>100118898</PatientID>
+      <Start>11/09/2013 12:54</Start>
+      <End>11/09/2013 12:54</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564689</ID>
+      <Start>11/09/2013 12:54</Start>
+      <Type>5</Type>
+      <Code>2288-6693-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>16.00</Net>
+      <Clinician>GD10400</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564690</ID>
+      <Start>11/09/2013 12:54</Start>
+      <Type>5</Type>
+      <Code>1259-2022-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>23.60</Net>
+      <Clinician>GD10400</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564691</ID>
+      <Start>11/09/2013 12:54</Start>
+      <Type>5</Type>
+      <Code>1552-5113-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>35.20</Net>
+      <Clinician>GD10400</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564692</ID>
+      <Start>11/09/2013 12:54</Start>
+      <Type>5</Type>
+      <Code>1419-1294-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>52.40</Net>
+      <Clinician>GD10400</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564693</ID>
+      <Start>11/09/2013 12:54</Start>
+      <Type>5</Type>
+      <Code>1424-5581-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.80</Net>
+      <Clinician>GD10400</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30204345</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00381287 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>2667.00</Gross>
+    <PatientShare>533.40</PatientShare>
+    <Net>2133.60</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>110137380</PatientID>
+      <Start>11/09/2013 16:16</Start>
+      <End>11/09/2013 16:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>649.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>269.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.04</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>648.93</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564694</ID>
+      <Start>11/09/2013 16:16</Start>
+      <Type>5</Type>
+      <Code>2086-5559-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>176.00</Net>
+      <Clinician>GD6283</Clinician>
+      <PriorAuthorizationID>275478</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39564695</ID>
+      <Start>11/09/2013 16:16</Start>
+      <Type>5</Type>
+      <Code>1704-1265-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>24.80</Net>
+      <Clinician>GD6283</Clinician>
+      <PriorAuthorizationID>275478</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39564696</ID>
+      <Start>11/09/2013 16:16</Start>
+      <Type>5</Type>
+      <Code>1285-1648-003</Code>
+      <Quantity>30.00</Quantity>
+      <Net>1704.00</Net>
+      <Clinician>GD6283</Clinician>
+      <PriorAuthorizationID>275478</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39564697</ID>
+      <Start>11/09/2013 16:16</Start>
+      <Type>5</Type>
+      <Code>2416-2003-002</Code>
+      <Quantity>4.00</Quantity>
+      <Net>228.80</Net>
+      <Clinician>GD6283</Clinician>
+      <PriorAuthorizationID>275478</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30219941</ID>
+    <IDPayer />
+    <MemberID>0971 1034 00365502 01</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1661.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1661.50</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>1876825</PatientID>
+      <Start>23/09/2013 11:49</Start>
+      <End>23/09/2013 11:49</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.11</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>496</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564698</ID>
+      <Start>23/09/2013 11:49</Start>
+      <Type>5</Type>
+      <Code>1531-3975-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>476.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564699</ID>
+      <Start>23/09/2013 11:49</Start>
+      <Type>5</Type>
+      <Code>1279-3234-001</Code>
+      <Quantity>4.00</Quantity>
+      <Net>314.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564700</ID>
+      <Start>23/09/2013 11:49</Start>
+      <Type>5</Type>
+      <Code>1120-1271-005</Code>
+      <Quantity>2.00</Quantity>
+      <Net>39.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564701</ID>
+      <Start>23/09/2013 11:49</Start>
+      <Type>5</Type>
+      <Code>1279-4109-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>272.50</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564702</ID>
+      <Start>23/09/2013 11:49</Start>
+      <Type>5</Type>
+      <Code>1967-4052-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>560.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>MF23</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>31/10/2013 21:00</TransactionDate>
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>AH-38217</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00396991 02</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF23</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>4578.75</Gross>
+<PatientShare>0</PatientShare>
+<Net>4578.75</Net>
+<Encounter>
+<FacilityID>MF23</FacilityID>
+<Type>3</Type>
+<PatientID>1083387</PatientID>
+<Start>23/09/2013 22:00</Start>
+<End>24/09/2013 22:00</End>
+<StartType>2</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>V30.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V29.8</Code>
+</Diagnosis>
+<Activity>
+<ID>7175938</ID>
+<Start>24/09/2013 22:00</Start>
+<Type>8</Type>
+<Code>17-03</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID>57678</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175939</ID>
+<Start>23/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>86900</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175940</ID>
+<Start>23/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>86901</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175941</ID>
+<Start>23/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175942</ID>
+<Start>24/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175943</ID>
+<Start>24/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175944</ID>
+<Start>24/09/2013 18:00</Start>
+<Type>9</Type>
+<Code>158171</Code>
+<Quantity>1</Quantity>
+<Net>4578.75</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID>57678</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175945</ID>
+<Start>23/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>99460</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175946</ID>
+<Start>24/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>99238</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>7175947</ID>
+<Start>24/09/2013 11:16</Start>
+<Type>5</Type>
+<Code>1392-2740-003</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D2681</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab orient Insco</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

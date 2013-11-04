@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF1198</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>03/11/2013 14:36</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>Dr. Walaa Fakhr Centre MF1198 03 11 2013 OP A009-1</ID><MemberID>097110030047374902</MemberID><PayerID>A009</PayerID><ProviderID>MF1198</ProviderID><EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber><Gross>800</Gross><PatientShare>50</PatientShare><Net>750</Net><Encounter>
+<FacilityID>MF1198</FacilityID><Type>1</Type><PatientID>33</PatientID><Start>23/10/2013 12:14</Start><End>23/10/2013 13:14</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>626.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>626.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>626.6</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>794.5</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>23/10/2013 12:14</Start><Type>3</Type><Code>99203</Code><Quantity>1</Quantity><Net>234</Net><Clinician>D1965</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>23/10/2013 12:14</Start><Type>3</Type><Code>76856</Code><Quantity>1</Quantity><Net>516</Net><Clinician>D1965</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

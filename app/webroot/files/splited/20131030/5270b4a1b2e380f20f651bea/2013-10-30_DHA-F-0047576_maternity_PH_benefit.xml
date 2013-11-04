@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0047576</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>29/10/2013 13:05</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>ISLMD1325510</ID>
+    <MemberID>386988</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0047576</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>64.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>61.27</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047576</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMD1325510</PatientID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>O64.4XX2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>407</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0067-155302-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0003461</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>408</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0701-180401-0431</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>17</Net>
+      <Clinician>DHA-P-0003461</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>409</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0195-142201-0111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>32</Net>
+      <Clinician>DHA-P-0003461</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="US-ASCII"?><Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+<SenderID>MF464</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>30/09/2013 13:48</TransactionDate>
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>APM-960399</ID>
+<IDPayer/>
+<MemberID>097110040022567701</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>8710.55</Gross>
+<PatientShare>0</PatientShare>
+<Net>8710.55</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>5</Type>
+<PatientID>96656/01</PatientID>
+<Start>07/08/2013 10:25</Start>
+<End>07/08/2013 19:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>592.0</Code>
+</Diagnosis>
+<Activity>
+<ID>5187399</ID>
+<Start>07/08/2013 10:25</Start>
+<Type>4</Type>
+<Code>A4649</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187400</ID>
+<Start>07/08/2013 10:25</Start>
+<Type>8</Type>
+<Code>20-02</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187401</ID>
+<Start>07/08/2013 10:25</Start>
+<Type>8</Type>
+<Code>25-02</Code>
+<Quantity>1.0</Quantity>
+<Net>2550.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187402</ID>
+<Start>07/08/2013 10:25</Start>
+<Type>3</Type>
+<Code>01999</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187403</ID>
+<Start>07/08/2013 11:30</Start>
+<Type>3</Type>
+<Code>52000</Code>
+<Quantity>0.5</Quantity>
+<Net>610.65</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187404</ID>
+<Start>07/08/2013 13:00</Start>
+<Type>3</Type>
+<Code>96361</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187405</ID>
+<Start>07/08/2013 11:00</Start>
+<Type>3</Type>
+<Code>50590</Code>
+<Quantity>1.0</Quantity>
+<Net>5549.9</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187406</ID>
+<Start>07/08/2013 12:00</Start>
+<Type>3</Type>
+<Code>96360</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187407</ID>
+<Start>07/08/2013 19:00</Start>
+<Type>5</Type>
+<Code>1475-2750-001</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187408</ID>
+<Start>07/08/2013 10:25</Start>
+<Type>8</Type>
+<Code>17-25</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5187409</ID>
+<Start>07/08/2013 12:00</Start>
+<Type>8</Type>
+<Code>17-23</Code>
+<Quantity>1.0</Quantity>
+<Net>0.0</Net>
+<Clinician>D3713</Clinician>
+<PriorAuthorizationID>56645</PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient - MedNet</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

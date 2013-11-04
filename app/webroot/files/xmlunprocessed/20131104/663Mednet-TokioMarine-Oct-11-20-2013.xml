@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0046879</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 11:09</TransactionDate>
+    <RecordCount>4</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>68375 - Mednet-TokioMarine-Oct-11-20-2013 - 1</ID>
+    <MemberID>097110140031047502</MemberID>
+    <PayerID>INS084</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>95213</PatientID>
+      <Start>12/10/2013 09:50</Start>
+      <End>12/10/2013 10:20</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>Z34.82</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.21</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297169</ID>
+      <Start>12/10/2013 09:50</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0250643</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>21 weeks of gestation</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69075 - Mednet-TokioMarine-Oct-11-20-2013 - 2</ID>
+    <MemberID>097110140031047201</MemberID>
+    <PayerID>INS084</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>90710</PatientID>
+      <Start>19/10/2013 11:04</Start>
+      <End>19/10/2013 11:34</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M60.811</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297170</ID>
+      <Start>19/10/2013 11:04</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>NECK RIGHT SHOULDER PAIN SINCE 2 DAYS
+</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30451/2013-14 - Mednet-TokioMarine-Oct-11-20-2013 - 3</ID>
+    <MemberID>097110140031047201</MemberID>
+    <PayerID>INS084</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>526.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>526.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>90710</PatientID>
+      <Start>19/10/2013 11:07</Start>
+      <End>19/10/2013 11:37</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M60.811</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297171</ID>
+      <Start>19/10/2013 11:07</Start>
+      <Type>3</Type>
+      <Code>83906</Code>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297172</ID>
+      <Start>19/10/2013 11:07</Start>
+      <Type>3</Type>
+      <Code>85027</Code>
+      <Quantity>1</Quantity>
+      <Net>104</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4297173</ID>
+      <Start>19/10/2013 11:07</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1</Quantity>
+      <Net>87.75</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297174</ID>
+      <Start>19/10/2013 11:07</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH028</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4297175</ID>
+      <Start>19/10/2013 11:07</Start>
+      <Type>3</Type>
+      <Code>86431</Code>
+      <Quantity>1</Quantity>
+      <Net>156</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297176</ID>
+      <Start>19/10/2013 11:07</Start>
+      <Type>3</Type>
+      <Code>84560</Code>
+      <Quantity>1</Quantity>
+      <Net>48.75</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAB284</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37525/2013-14 - Mednet-TokioMarine-Oct-11-20-2013 - 4</ID>
+    <MemberID>097110140031047201</MemberID>
+    <PayerID>INS084</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>61</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>61</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>90710</PatientID>
+      <Start>19/10/2013 11:15</Start>
+      <End>19/10/2013 11:45</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M60.811</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297177</ID>
+      <Start>19/10/2013 11:15</Start>
+      <Type>5</Type>
+      <Code>0009-101701-1171</Code>
+      <Quantity>1</Quantity>
+      <Net>44</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4297178</ID>
+      <Start>19/10/2013 11:15</Start>
+      <Type>5</Type>
+      <Code>0701-180401-0431</Code>
+      <Quantity>1</Quantity>
+      <Net>17</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

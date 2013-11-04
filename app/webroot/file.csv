@@ -1,0 +1,22 @@
+CRITERION_NBR,LOCAL_DESCRIPTION,BENEFIT,TYPE,CODE,LOCAL_DESCRIPTION_1,id
+733,"CPT CODES (CE)",CE,3,96401,"Chemotherapy administration, subcutaneous or intramuscular; non-hormonal anti-neoplastic",515d61eefb24f87d65000f8f
+,,CE,3,96402,"Chemotherapy administration, subcutaneous or intramuscular; hormonal anti-neoplastic",515d61eefb24f87d65000f90
+,,CE,3,96405,"Chemotherapy administration; intralesional, up to and including 7 lesions",515d61eefb24f87d65000f91
+,,CE,3,96406,"Chemotherapy administration; intralesional, more than 7 lesions",515d61eefb24f87d65000f92
+,,CE,3,96409,"Chemotherapy administration; intravenous, push technique, single or initial substance/drug",515d61eefb24f87d65000f93
+,,CE,3,96411,"Chemotherapy administration; intravenous, push technique, each additional substance/drug (List separately in addition to code for primary procedure)",515d61eefb24f87d65000f94
+,,CE,3,96413,"Chemotherapy administration, intravenous infusion technique; up to 1 hour, single or initial substance/drug",515d61eefb24f87d65000f95
+,,CE,3,96415,"Chemotherapy administration, intravenous infusion technique; each additional hour (List separately in addition to code for primary procedure)",515d61eefb24f87d65000f96
+,,CE,3,96416,"Chemotherapy administration, intravenous infusion technique; initiation of prolonged chemotherapy infusion (more than 8 hours), requiring use of a portable or implantable pump",515d61eefb24f87d65000f97
+,,CE,3,96417,"Chemotherapy administration, intravenous infusion technique; each additional sequential infusion (different substance/drug), up to 1 hour (List separately in addition to code for primary procedure)",515d61eefb24f87d65000f98
+,,CE,3,96420,"Chemotherapy administration, intra-arterial; push technique",515d61eefb24f87d65000f99
+,,CE,3,96422,"Chemotherapy administration, intra-arterial; infusion technique, up to one hour",515d61eefb24f87d65000f9a
+,,CE,3,96423,"Chemotherapy administration, intra-arterial; infusion technique, each additional hour (List separately in addition to code for primary procedure)",515d61eefb24f87d65000f9b
+,,CE,3,96425,"Chemotherapy administration, intra-arterial; infusion technique, initiation of prolonged infusion (more than 8 hours), requiring the use of a portable or implantable pump",515d61eefb24f87d65000f9c
+,,CE,3,96440,"Chemotherapy administration into pleural cavity, requiring and including thoracentesis",515d61eefb24f87d65000f9d
+,,CE,3,96445,"Chemotherapy administration into peritoneal cavity, requiring and including peritoneocentesis",515d61eefb24f87d65000f9e
+,,CE,3,96450,"Chemotherapy administration, into CNS (eg, intrathecal), requiring and including spinal puncture",515d61eefb24f87d65000f9f
+,,CE,3,96542,"Chemotherapy injection, subarachnoid or intraventricular via subcutaneous reservoir, single or multiple agents",515d61eefb24f87d65000fa0
+753,"HCPCS Codes (CE)",CE,8,EA,"ERYTHROPOETIC STIMULATING AGENT (ESA) ADMINISTERED TO TREAT ANEMIA DUE TO ANTI-CANCER CHEMOTHERAPY",515d61eefb24f87d65002f88
+,,CE,8,EC,"ERYTHROPOETIC STIMULATING AGENT (ESA) ADMINISTERED TO TREAT ANEMIA NOT DUE TO ANTI-CANCER RADIOTHERAPY OR ANTI-CANCER CHEMOTHERAPY",515d61eefb24f87d65002f89
+,,CE,8,EE,"HEMATOCRIT LEVEL HAS NOT EXCEEDED 39% (OR HEMOGLOBIN LEVEL HAS NOT EXCEEDED 13.0 G/DL) FOR 3 OR MORE CONSECUTIVE BILLING CYCLES IMMEDIATELY PRIOR TO AND INCLUDING THE CURRENT CYCLE",515d61eefb24f87d65002f8a

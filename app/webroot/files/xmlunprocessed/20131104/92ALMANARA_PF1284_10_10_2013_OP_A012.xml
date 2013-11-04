@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1284</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>10/10/2013 11:29</TransactionDate> 
+<RecordCount>4</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>ALMANARA_PF1284_10_10_2013_OP_A012-1</ID><MemberID>436286</MemberID><PayerID>A012</PayerID><ProviderID>PF1284</ProviderID><EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber><Gross>147.4</Gross><PatientShare>0</PatientShare><Net>147.4</Net><Encounter>
+<FacilityID>PF1284</FacilityID><Type>1</Type><PatientID>21060</PatientID><Start>03/09/2013 11:00</Start><End>03/09/2013 11:00</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>465.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>03/09/2013 11:00</Start><Type>5</Type><Code>1671-1293-003</Code><Quantity>1</Quantity><Net>113.92</Net><Clinician>GD6856</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>03/09/2013 11:00</Start><Type>5</Type><Code>2209-6110-001</Code><Quantity>1</Quantity><Net>6.04</Net><Clinician>GD6856</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>03/09/2013 11:00</Start><Type>5</Type><Code>1650-1643-001</Code><Quantity>1</Quantity><Net>27.44</Net><Clinician>GD6856</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>ALMANARA_PF1284_10_10_2013_OP_A012-2</ID><MemberID>457077</MemberID><PayerID>A012</PayerID><ProviderID>PF1284</ProviderID><EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber><Gross>1037.88</Gross><PatientShare>0</PatientShare><Net>1037.88</Net><Encounter>
+<FacilityID>PF1284</FacilityID><Type>1</Type><PatientID>21106</PatientID><Start>08/09/2013 10:08</Start><End>08/09/2013 10:08</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>461.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>471.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>473.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>478.11</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>781.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>1300-1299-003</Code><Quantity>3</Quantity><Net>373.86</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+<Activity>
+<ID>2</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>2086-5924-001</Code><Quantity>3</Quantity><Net>111.6</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+<Activity>
+<ID>3</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>1241-1457-014</Code><Quantity>1</Quantity><Net>15.34</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+<Activity>
+<ID>4</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>1650-3153-001</Code><Quantity>2</Quantity><Net>135.78</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+<Activity>
+<ID>5</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>1710-4508-002</Code><Quantity>4</Quantity><Net>271.56</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+<Activity>
+<ID>6</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>1304-1331-002</Code><Quantity>2</Quantity><Net>89.28</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+<Activity>
+<ID>7</ID><Start>08/09/2013 10:08</Start><Type>5</Type><Code>1562-3597-001</Code><Quantity>1</Quantity><Net>40.46</Net><Clinician>GD5968</Clinician><PriorAuthorizationID>275036</PriorAuthorizationID></Activity>
+</Claim>
+<Claim>
+<ID>ALMANARA_PF1284_10_10_2013_OP_A012-3</ID><MemberID>320944</MemberID><PayerID>A012</PayerID><ProviderID>PF1284</ProviderID><EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber><Gross>664.94</Gross><PatientShare>66.49</PatientShare><Net>598.45</Net><Encounter>
+<FacilityID>PF1284</FacilityID><Type>1</Type><PatientID>21278</PatientID><Start>15/09/2013 15:21</Start><End>15/09/2013 15:21</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>401.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>790.5</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>790.6</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>15/09/2013 15:21</Start><Type>5</Type><Code>1587-3302-001</Code><Quantity>2</Quantity><Net>176.61</Net><Clinician>D1700</Clinician><PriorAuthorizationID>275913</PriorAuthorizationID></Activity>
+<Activity>
+<ID>2</ID><Start>15/09/2013 15:21</Start><Type>5</Type><Code>1280-4166-002</Code><Quantity>2</Quantity><Net>87.88</Net><Clinician>D1700</Clinician><PriorAuthorizationID>275913</PriorAuthorizationID></Activity>
+<Activity>
+<ID>3</ID><Start>15/09/2013 15:21</Start><Type>5</Type><Code>1529-2562-001</Code><Quantity>2</Quantity><Net>333.96</Net><Clinician>D1700</Clinician><PriorAuthorizationID>275913</PriorAuthorizationID></Activity>
+</Claim>
+<Claim>
+<ID>ALMANARA_PF1284_10_10_2013_OP_A012-4</ID><MemberID>439354</MemberID><PayerID>A012</PayerID><ProviderID>PF1284</ProviderID><EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber><Gross>70.68</Gross><PatientShare>0</PatientShare><Net>70.68</Net><Encounter>
+<FacilityID>PF1284</FacilityID><Type>1</Type><PatientID>21316</PatientID><Start>18/09/2013 15:05</Start><End>18/09/2013 15:05</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>477.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>784.91</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>18/09/2013 15:05</Start><Type>5</Type><Code>1420-2242-001</Code><Quantity>1</Quantity><Net>70.68</Net><Clinician>D3535</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

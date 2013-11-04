@@ -1,0 +1,2068 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>12/10/2013 12:09</TransactionDate>
+    <RecordCount>39</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30278068</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00391801 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>30.00</PatientShare>
+    <Net>255.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100060439</PatientID>
+      <Start>05/09/2013 18:24</Start>
+      <End>05/09/2013 18:24</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564887</ID>
+      <Start>05/09/2013 18:24</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>255.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278069</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00377670 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1500853</PatientID>
+      <Start>07/09/2013 13:52</Start>
+      <End>07/09/2013 13:52</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>461.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.91</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>478.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564888</ID>
+      <Start>07/09/2013 13:52</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD5893</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278070</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00418131 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>717.20</Gross>
+    <PatientShare>134.64</PatientShare>
+    <Net>582.56</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110143112</PatientID>
+      <Start>07/09/2013 13:55</Start>
+      <End>07/09/2013 13:55</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.42</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.20</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>465.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564889</ID>
+      <Start>07/09/2013 13:55</Start>
+      <Type>3</Type>
+      <Code>31505</Code>
+      <Quantity>1.00</Quantity>
+      <Net>338.56</Net>
+      <Clinician>GD5893</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564890</ID>
+      <Start>07/09/2013 13:55</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD5893</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278071</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00388403 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100021057</PatientID>
+      <Start>08/09/2013 16:51</Start>
+      <End>08/09/2013 16:51</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.09</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>542</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564891</ID>
+      <Start>08/09/2013 16:51</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278072</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00388403 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>294.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>244.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100021057</PatientID>
+      <Start>08/09/2013 18:44</Start>
+      <End>08/09/2013 18:44</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564892</ID>
+      <Start>08/09/2013 18:44</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD6631</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278073</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416452 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1648514</PatientID>
+      <Start>10/09/2013 13:27</Start>
+      <End>10/09/2013 13:27</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>473.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>478.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564893</ID>
+      <Start>10/09/2013 13:27</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D4908</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278074</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00373673 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1903691</PatientID>
+      <Start>11/09/2013 11:02</Start>
+      <End>11/09/2013 11:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>654.23</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564894</ID>
+      <Start>11/09/2013 11:02</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278075</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00394939 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>25.00</PatientShare>
+    <Net>260.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110030867</PatientID>
+      <Start>14/09/2013 11:00</Start>
+      <End>14/09/2013 11:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564895</ID>
+      <Start>14/09/2013 11:00</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>260.00</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278076</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00394938 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>25.00</PatientShare>
+    <Net>395.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1714813</PatientID>
+      <Start>14/09/2013 11:00</Start>
+      <End>14/09/2013 11:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564896</ID>
+      <Start>14/09/2013 11:00</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>395.00</Net>
+      <Clinician>GD6056</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278077</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00417036 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>694.56</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>644.56</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100108079</PatientID>
+      <Start>14/09/2013 16:24</Start>
+      <End>14/09/2013 16:24</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>720.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>724.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564897</ID>
+      <Start>14/09/2013 16:24</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD10889</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564898</ID>
+      <Start>14/09/2013 16:24</Start>
+      <Type>5</Type>
+      <Code>1556-4476-009</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.80</Net>
+      <Clinician>GD10889</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564899</ID>
+      <Start>14/09/2013 16:24</Start>
+      <Type>3</Type>
+      <Code>96365</Code>
+      <Quantity>1.00</Quantity>
+      <Net>197.80</Net>
+      <Clinician>GD10889</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564900</ID>
+      <Start>14/09/2013 16:24</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>GD10889</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564901</ID>
+      <Start>14/09/2013 16:24</Start>
+      <Type>5</Type>
+      <Code>1718-3520-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>19.96</Net>
+      <Clinician>GD10889</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30278078</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00457486 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>883.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>833.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1971010</PatientID>
+      <Start>14/09/2013 17:13</Start>
+      <End>14/09/2013 17:13</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564902</ID>
+      <Start>14/09/2013 17:13</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.00</Quantity>
+      <Net>598.00</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564903</ID>
+      <Start>14/09/2013 17:13</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285490</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00295777 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>467.33</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>467.33</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>364530</PatientID>
+      <Start>16/09/2013 02:35</Start>
+      <End>16/09/2013 02:35</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>535.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>466.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564904</ID>
+      <Start>16/09/2013 02:35</Start>
+      <Type>5</Type>
+      <Code>1422-4398-011</Code>
+      <Quantity>1.00</Quantity>
+      <Net>23.50</Net>
+      <Clinician>GD6671</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564905</ID>
+      <Start>16/09/2013 02:35</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>285.00</Net>
+      <Clinician>GD6671</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564906</ID>
+      <Start>16/09/2013 02:35</Start>
+      <Type>3</Type>
+      <Code>94640</Code>
+      <Quantity>2.00</Quantity>
+      <Net>147.20</Net>
+      <Clinician>GD6671</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564907</ID>
+      <Start>16/09/2013 02:35</Start>
+      <Type>5</Type>
+      <Code>1279-3684-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>11.63</Net>
+      <Clinician>GD6671</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285491</ID>
+    <IDPayer />
+    <MemberID>097110330041703701</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110079218</PatientID>
+      <Start>17/09/2013 10:01</Start>
+      <End>17/09/2013 10:01</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>787.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.91</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564908</ID>
+      <Start>17/09/2013 10:01</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD10400</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285492</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00381929 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1636750</PatientID>
+      <Start>17/09/2013 14:14</Start>
+      <End>17/09/2013 14:14</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>648.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564909</ID>
+      <Start>17/09/2013 14:14</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285493</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416452 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1696656</PatientID>
+      <Start>19/09/2013 19:17</Start>
+      <End>19/09/2013 19:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>487.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564910</ID>
+      <Start>19/09/2013 19:17</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>GD5893</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285494</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00391801 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>310.30</Gross>
+    <PatientShare>30.00</PatientShare>
+    <Net>280.30</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100060439</PatientID>
+      <Start>21/09/2013 15:17</Start>
+      <End>21/09/2013 15:17</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564911</ID>
+      <Start>21/09/2013 15:17</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>255.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564912</ID>
+      <Start>21/09/2013 15:17</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285495</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416455 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110084174</PatientID>
+      <Start>21/09/2013 18:16</Start>
+      <End>21/09/2013 18:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564913</ID>
+      <Start>21/09/2013 18:16</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D5245</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285496</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00417036 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>559.56</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>509.56</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100108079</PatientID>
+      <Start>22/09/2013 23:16</Start>
+      <End>22/09/2013 23:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>728.85</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>535.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564914</ID>
+      <Start>22/09/2013 23:16</Start>
+      <Type>5</Type>
+      <Code>1556-4476-009</Code>
+      <Quantity>1.00</Quantity>
+      <Net>10.80</Net>
+      <Clinician>GD15552</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564915</ID>
+      <Start>22/09/2013 23:16</Start>
+      <Type>3</Type>
+      <Code>96365</Code>
+      <Quantity>1.00</Quantity>
+      <Net>197.80</Net>
+      <Clinician>GD15552</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564916</ID>
+      <Start>22/09/2013 23:16</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.00</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD15552</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564917</ID>
+      <Start>22/09/2013 23:16</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD15552</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564918</ID>
+      <Start>22/09/2013 23:16</Start>
+      <Type>5</Type>
+      <Code>1718-3520-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>19.96</Net>
+      <Clinician>GD15552</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285497</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00291033 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1858.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>1808.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>496447</PatientID>
+      <Start>23/09/2013 14:30</Start>
+      <End>23/09/2013 14:30</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>825.25</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E885.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E849.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564919</ID>
+      <Start>23/09/2013 14:30</Start>
+      <Type>3</Type>
+      <Code>28470</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1564.00</Net>
+      <Clinician>GD15020</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564920</ID>
+      <Start>23/09/2013 14:30</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD15020</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285498</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00388403 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100021057</PatientID>
+      <Start>25/09/2013 10:11</Start>
+      <End>25/09/2013 10:11</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>276.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564921</ID>
+      <Start>25/09/2013 10:11</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285499</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416452 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>370.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1648514</PatientID>
+      <Start>25/09/2013 10:11</Start>
+      <End>25/09/2013 10:11</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>009.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564922</ID>
+      <Start>25/09/2013 10:11</Start>
+      <Type>3</Type>
+      <Code>99214</Code>
+      <Quantity>1.00</Quantity>
+      <Net>370.00</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285500</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416455 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>285.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>235.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110084174</PatientID>
+      <Start>25/09/2013 10:43</Start>
+      <End>25/09/2013 10:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>686.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564923</ID>
+      <Start>25/09/2013 10:43</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD8188</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30285501</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416452 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>426.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>376.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1648514</PatientID>
+      <Start>25/09/2013 10:44</Start>
+      <End>25/09/2013 10:44</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>692.89</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>696.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564924</ID>
+      <Start>25/09/2013 10:44</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>GD8188</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30295575</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416455 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>968.30</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>968.30</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110084174</PatientID>
+      <Start>26/09/2013 10:45</Start>
+      <End>26/09/2013 10:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>478.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.91</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>461.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>041.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564925</ID>
+      <Start>26/09/2013 10:45</Start>
+      <Type>3</Type>
+      <Code>31231</Code>
+      <Quantity>1.00</Quantity>
+      <Net>968.30</Net>
+      <Clinician>GD5893</Clinician>
+      <PriorAuthorizationID>S-277157</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30295576</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00308222 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>168.00</Gross>
+    <PatientShare>30.00</PatientShare>
+    <Net>138.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1715974</PatientID>
+      <Start>26/09/2013 14:46</Start>
+      <End>26/09/2013 14:46</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>078.12</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>686.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564926</ID>
+      <Start>26/09/2013 14:46</Start>
+      <Type>3</Type>
+      <Code>99212</Code>
+      <Quantity>1.00</Quantity>
+      <Net>138.00</Net>
+      <Clinician>GD15816</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30295577</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00395688 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>360.13</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>310.13</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110072455</PatientID>
+      <Start>28/09/2013 15:54</Start>
+      <End>28/09/2013 15:54</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>493.92</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564927</ID>
+      <Start>28/09/2013 15:54</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.00</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD5870</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564928</ID>
+      <Start>28/09/2013 15:54</Start>
+      <Type>5</Type>
+      <Code>1417-4398-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1.53</Net>
+      <Clinician>GD5870</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564929</ID>
+      <Start>28/09/2013 15:54</Start>
+      <Type>3</Type>
+      <Code>94640</Code>
+      <Quantity>1.00</Quantity>
+      <Net>73.60</Net>
+      <Clinician>GD5870</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30295578</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00423486 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>724.10</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>674.10</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110147058</PatientID>
+      <Start>28/09/2013 17:16</Start>
+      <End>28/09/2013 17:16</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>648.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.7</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564930</ID>
+      <Start>28/09/2013 17:16</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.00</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD16259</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564931</ID>
+      <Start>28/09/2013 17:16</Start>
+      <Type>3</Type>
+      <Code>76815</Code>
+      <Quantity>1.00</Quantity>
+      <Net>430.10</Net>
+      <Clinician>GD16259</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30295579</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416452 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>451.30</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>401.30</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1696656</PatientID>
+      <Start>30/09/2013 11:02</Start>
+      <End>30/09/2013 11:02</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564932</ID>
+      <Start>30/09/2013 11:02</Start>
+      <Type>3</Type>
+      <Code>82948</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>GD7251</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564933</ID>
+      <Start>30/09/2013 11:02</Start>
+      <Type>3</Type>
+      <Code>99203</Code>
+      <Quantity>1.00</Quantity>
+      <Net>376.00</Net>
+      <Clinician>GD7251</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30084300</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00457486 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>496.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>496.80</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1971010</PatientID>
+      <Start>14/09/2013 17:48</Start>
+      <End>14/09/2013 17:48</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564934</ID>
+      <Start>14/09/2013 17:48</Start>
+      <Type>3</Type>
+      <Code>87660</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564935</ID>
+      <Start>14/09/2013 17:48</Start>
+      <Type>3</Type>
+      <Code>87510</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564936</ID>
+      <Start>14/09/2013 17:48</Start>
+      <Type>3</Type>
+      <Code>87480</Code>
+      <Quantity>1.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30087053</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00373673 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>195.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>195.50</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1903691</PatientID>
+      <Start>18/09/2013 08:53</Start>
+      <End>18/09/2013 08:53</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>654.23</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564937</ID>
+      <Start>18/09/2013 08:53</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564938</ID>
+      <Start>18/09/2013 08:53</Start>
+      <Type>3</Type>
+      <Code>82951</Code>
+      <Quantity>1.00</Quantity>
+      <Net>105.80</Net>
+      <Clinician>GD6436</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1518-0</Code>
+        <Value>78</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39564939</ID>
+      <Start>18/09/2013 08:53</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30087054</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00381929 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>480.70</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>480.70</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1636750</PatientID>
+      <Start>23/09/2013 09:05</Start>
+      <End>23/09/2013 09:05</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>648.93</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564940</ID>
+      <Start>23/09/2013 09:05</Start>
+      <Type>3</Type>
+      <Code>82310</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564941</ID>
+      <Start>23/09/2013 09:05</Start>
+      <Type>3</Type>
+      <Code>82951</Code>
+      <Quantity>1.00</Quantity>
+      <Net>105.80</Net>
+      <Clinician>GD10509</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1518-0</Code>
+        <Value>132</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39564942</ID>
+      <Start>23/09/2013 09:05</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564943</ID>
+      <Start>23/09/2013 09:05</Start>
+      <Type>3</Type>
+      <Code>82306</Code>
+      <Quantity>1.00</Quantity>
+      <Net>243.80</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564944</ID>
+      <Start>23/09/2013 09:05</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.00</Quantity>
+      <Net>25.30</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30087055</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00388403 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>154.10</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>154.10</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100021057</PatientID>
+      <Start>25/09/2013 10:46</Start>
+      <End>25/09/2013 10:46</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>276.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564945</ID>
+      <Start>25/09/2013 10:46</Start>
+      <Type>3</Type>
+      <Code>84295</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564946</ID>
+      <Start>25/09/2013 10:46</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564947</ID>
+      <Start>25/09/2013 10:46</Start>
+      <Type>3</Type>
+      <Code>84132</Code>
+      <Quantity>1.00</Quantity>
+      <Net>39.10</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564948</ID>
+      <Start>25/09/2013 10:46</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090351</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00391801 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>506.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>506.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100060439</PatientID>
+      <Start>19/09/2013 12:07</Start>
+      <End>19/09/2013 12:07</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564949</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>82565</Code>
+      <Quantity>1.00</Quantity>
+      <Net>41.40</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564950</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD10331</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>1552-9</Code>
+        <Value>109.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39564951</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>83036</Code>
+      <Quantity>1.00</Quantity>
+      <Net>80.50</Net>
+      <Clinician>GD10331</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>17855-8</Code>
+        <Value>0</Value>
+        <ValueType>%</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39564952</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>83721</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>GD10331</Clinician>
+      <Observation>
+        <Type>LOINC</Type>
+        <Code>18262-6</Code>
+        <Value>183.00</Value>
+        <ValueType>mg/dL</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>39564953</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>84520</Code>
+      <Quantity>1.00</Quantity>
+      <Net>32.20</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564954</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>84450</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564955</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>84460</Code>
+      <Quantity>1.00</Quantity>
+      <Net>43.70</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564956</ID>
+      <Start>19/09/2013 12:07</Start>
+      <Type>3</Type>
+      <Code>80061</Code>
+      <Quantity>1.00</Quantity>
+      <Net>154.10</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090352</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00416452 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>211.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>211.60</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1648514</PatientID>
+      <Start>25/09/2013 13:38</Start>
+      <End>25/09/2013 13:38</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>009.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564957</ID>
+      <Start>25/09/2013 13:38</Start>
+      <Type>3</Type>
+      <Code>87324</Code>
+      <Quantity>1.00</Quantity>
+      <Net>98.90</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564958</ID>
+      <Start>25/09/2013 13:38</Start>
+      <Type>3</Type>
+      <Code>87210</Code>
+      <Quantity>1.00</Quantity>
+      <Net>34.50</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564959</ID>
+      <Start>25/09/2013 13:38</Start>
+      <Type>3</Type>
+      <Code>87046</Code>
+      <Quantity>1.00</Quantity>
+      <Net>78.20</Net>
+      <Clinician>GD10331</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30090353</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00395688 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>64.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>64.40</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110072455</PatientID>
+      <Start>30/09/2013 09:15</Start>
+      <End>30/09/2013 09:15</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>493.90</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564960</ID>
+      <Start>30/09/2013 09:15</Start>
+      <Type>3</Type>
+      <Code>85025</Code>
+      <Quantity>1.00</Quantity>
+      <Net>64.40</Net>
+      <Clinician>GD11112</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30043361</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00388403 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>667.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>667.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100021057</PatientID>
+      <Start>08/09/2013 19:15</Start>
+      <End>08/09/2013 19:15</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564961</ID>
+      <Start>08/09/2013 19:15</Start>
+      <Type>3</Type>
+      <Code>76700</Code>
+      <Quantity>1.00</Quantity>
+      <Net>667.00</Net>
+      <Clinician>GD6631</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30044582</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00373673 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>892.40</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>892.40</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1903691</PatientID>
+      <Start>18/09/2013 09:32</Start>
+      <End>18/09/2013 09:32</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>V23.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564962</ID>
+      <Start>18/09/2013 09:32</Start>
+      <Type>3</Type>
+      <Code>76811</Code>
+      <Quantity>1.00</Quantity>
+      <Net>892.40</Net>
+      <Clinician>GD6436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30046304</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00381929 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>901.60</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>901.60</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1636750</PatientID>
+      <Start>26/09/2013 16:12</Start>
+      <End>26/09/2013 16:12</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>646.63</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>595.81</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V23.3</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564963</ID>
+      <Start>26/09/2013 16:12</Start>
+      <Type>3</Type>
+      <Code>76820</Code>
+      <Quantity>1.00</Quantity>
+      <Net>195.50</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564964</ID>
+      <Start>26/09/2013 16:12</Start>
+      <Type>3</Type>
+      <Code>76805</Code>
+      <Quantity>1.00</Quantity>
+      <Net>706.10</Net>
+      <Clinician>GD10509</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30046305</ID>
+    <IDPayer />
+    <MemberID>0971 1033 00388403 01</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1526.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>1526.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>100021057</PatientID>
+      <Start>30/09/2013 11:43</Start>
+      <End>30/09/2013 11:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>789.03</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564965</ID>
+      <Start>30/09/2013 11:43</Start>
+      <Type>5</Type>
+      <Code>2210-6109-006</Code>
+      <Quantity>1.00</Quantity>
+      <Net>169.00</Net>
+      <Clinician>GD6631</Clinician>
+      <PriorAuthorizationID>S-275443</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39564966</ID>
+      <Start>30/09/2013 11:43</Start>
+      <Type>3</Type>
+      <Code>74160</Code>
+      <Quantity>1.00</Quantity>
+      <Net>1357.00</Net>
+      <Clinician>GD6631</Clinician>
+      <PriorAuthorizationID>S-275443</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

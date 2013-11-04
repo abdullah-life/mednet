@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>MF23</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>30/10/2013 17:00</TransactionDate>
+<RecordCount>4</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>AH-3444033</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00439626 02</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF23</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>4578</Gross>
+<PatientShare>0</PatientShare>
+<Net>4578</Net>
+<Encounter>
+<FacilityID>MF23</FacilityID>
+<Type>3</Type>
+<PatientID>1079390</PatientID>
+<Start>09/09/2013 17:00</Start>
+<End>13/09/2013 18:00</End>
+<StartType>2</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>770.89</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>773.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>782.61</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>V30.00</Code>
+</Diagnosis>
+<Activity>
+<ID>9703502</ID>
+<Start>09/09/2013 17:00</Start>
+<Type>3</Type>
+<Code>99460</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703503</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>86900</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703504</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>86901</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703505</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703506</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>85025</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703507</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>86140</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703508</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>82947</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+<Observation>
+<Type>LOINC</Type>
+<Code>14749-6</Code>
+<Value>0.0000</Value>
+<ValueType>mmol/l</ValueType>
+</Observation>
+</Activity>
+<Activity>
+<ID>9703509</ID>
+<Start>10/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703510</ID>
+<Start>10/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>71010</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703511</ID>
+<Start>11/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>82247</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703512</ID>
+<Start>10/09/2013 17:00</Start>
+<Type>3</Type>
+<Code>99462</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703513</ID>
+<Start>11/09/2013 17:00</Start>
+<Type>3</Type>
+<Code>99462</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703514</ID>
+<Start>10/09/2013 18:00</Start>
+<Type>5</Type>
+<Code>1309-2365-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703515</ID>
+<Start>09/09/2013 18:00</Start>
+<Type>5</Type>
+<Code>1392-2740-003</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703516</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>8</Type>
+<Code>17-03</Code>
+<Quantity>3</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID>57515</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703517</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>8</Type>
+<Code>28</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID>57515</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703518</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>82247</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703519</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>96900</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703520</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>4</Type>
+<Code>A6410</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703521</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>96374</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703522</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>96375</Code>
+<Quantity>8</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703523</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703524</ID>
+<Start>12/09/2013 17:00</Start>
+<Type>3</Type>
+<Code>99462</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703525</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>3</Type>
+<Code>99238</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703526</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>9</Type>
+<Code>158171</Code>
+<Quantity>1</Quantity>
+<Net>4578</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID>57515</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703527</ID>
+<Start>13/09/2013 18:00</Start>
+<Type>5</Type>
+<Code>1309-2365-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703528</ID>
+<Start>11/09/2013 18:00</Start>
+<Type>5</Type>
+<Code>1309-2365-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD7293</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>AH-3444031</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00439626 02</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF23</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>7219</Gross>
+<PatientShare>500</PatientShare>
+<Net>6719</Net>
+<Encounter>
+<FacilityID>MF23</FacilityID>
+<Type>3</Type>
+<PatientID>1035288</PatientID>
+<Start>09/09/2013 09:30</Start>
+<End>11/09/2013 14:00</End>
+<StartType>2</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>V27.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>663.31</Code>
+</Diagnosis>
+<Activity>
+<ID>9703469</ID>
+<Start>09/09/2013 09:30</Start>
+<Type>8</Type>
+<Code>17-03</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID>57321</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703470</ID>
+<Start>09/09/2013 09:30</Start>
+<Type>3</Type>
+<Code>99221</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703471</ID>
+<Start>09/09/2013 16:25</Start>
+<Type>8</Type>
+<Code>20-05</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703472</ID>
+<Start>09/09/2013 16:25</Start>
+<Type>3</Type>
+<Code>59409</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID>57321</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703473</ID>
+<Start>09/09/2013 10:00</Start>
+<Type>3</Type>
+<Code>59025</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703474</ID>
+<Start>09/09/2013 17:00</Start>
+<Type>3</Type>
+<Code>96374</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703475</ID>
+<Start>09/09/2013 17:30</Start>
+<Type>3</Type>
+<Code>96375</Code>
+<Quantity>3</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703476</ID>
+<Start>09/09/2013 17:30</Start>
+<Type>3</Type>
+<Code>96361</Code>
+<Quantity>4</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703477</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1250-1541-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703478</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1697-1953-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703479</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1464-2320-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703480</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1250-3388-003</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703481</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1472-3919-004</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703482</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1632-4118-003</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703483</ID>
+<Start>11/09/2013 14:00</Start>
+<Type>3</Type>
+<Code>99238</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703484</ID>
+<Start>10/09/2013 14:00</Start>
+<Type>4</Type>
+<Code>S9433</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703485</ID>
+<Start>09/09/2013 19:48</Start>
+<Type>5</Type>
+<Code>1472-3605-003</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703486</ID>
+<Start>11/09/2013 14:00</Start>
+<Type>9</Type>
+<Code>146131</Code>
+<Quantity>1</Quantity>
+<Net>6719</Net>
+<Clinician>D4061</Clinician>
+<PriorAuthorizationID>57321</PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>AH-3444032</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00434377 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF23</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>6580.8</Gross>
+<PatientShare>0</PatientShare>
+<Net>6580.8</Net>
+<Encounter>
+<FacilityID>MF23</FacilityID>
+<Type>5</Type>
+<PatientID>1056748</PatientID>
+<Start>03/09/2013 08:30</Start>
+<End>03/09/2013 20:30</End>
+<StartType>2</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>592.0</Code>
+</Diagnosis>
+<Activity>
+<ID>9703487</ID>
+<Start>03/09/2013 08:30</Start>
+<Type>3</Type>
+<Code>99234</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703488</ID>
+<Start>03/09/2013 09:00</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703489</ID>
+<Start>03/09/2013 09:00</Start>
+<Type>3</Type>
+<Code>96374</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703490</ID>
+<Start>03/09/2013 09:00</Start>
+<Type>3</Type>
+<Code>96361</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703491</ID>
+<Start>03/09/2013 09:00</Start>
+<Type>4</Type>
+<Code>A4649</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703492</ID>
+<Start>03/09/2013 09:00</Start>
+<Type>3</Type>
+<Code>74000</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703493</ID>
+<Start>03/09/2013 20:30</Start>
+<Type>8</Type>
+<Code>25-02</Code>
+<Quantity>1</Quantity>
+<Net>2720</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID>57072</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703494</ID>
+<Start>03/09/2013 20:30</Start>
+<Type>8</Type>
+<Code>17-25</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703495</ID>
+<Start>03/09/2013 10:30</Start>
+<Type>8</Type>
+<Code>20-02</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703496</ID>
+<Start>03/09/2013 10:30</Start>
+<Type>8</Type>
+<Code>20-03</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703497</ID>
+<Start>03/09/2013 10:30</Start>
+<Type>8</Type>
+<Code>17-23</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703498</ID>
+<Start>03/09/2013 09:45</Start>
+<Type>3</Type>
+<Code>50590</Code>
+<Quantity>1</Quantity>
+<Net>3860.8</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID>57072</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703499</ID>
+<Start>03/09/2013 09:45</Start>
+<Type>3</Type>
+<Code>00873</Code>
+<Quantity>10</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703500</ID>
+<Start>03/09/2013 09:23</Start>
+<Type>5</Type>
+<Code>1283-4143-004</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703501</ID>
+<Start>03/09/2013 20:30</Start>
+<Type>4</Type>
+<Code>S9433</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6561</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>AH-3444030</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00309631 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF23</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>7609</Gross>
+<PatientShare>0</PatientShare>
+<Net>7609</Net>
+<Encounter>
+<FacilityID>MF23</FacilityID>
+<Type>3</Type>
+<PatientID>1034838</PatientID>
+<Start>05/09/2013 19:30</Start>
+<End>07/09/2013 19:30</End>
+<StartType>2</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>540.0</Code>
+</Diagnosis>
+<Activity>
+<ID>9703440</ID>
+<Start>05/09/2013 22:30</Start>
+<Type>8</Type>
+<Code>20-02</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703441</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>8</Type>
+<Code>20-03</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703442</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>44970</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID>57315</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703443</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>00840</Code>
+<Quantity>10</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703444</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>71010</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703445</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>74000</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703446</ID>
+<Start>05/09/2013 23:30</Start>
+<Type>8</Type>
+<Code>17-23</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703447</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>76700</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703448</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>74160</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703449</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>88304</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703450</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>4</Type>
+<Code>A4649</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703451</ID>
+<Start>05/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>99221</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703452</ID>
+<Start>06/09/2013 23:00</Start>
+<Type>3</Type>
+<Code>99231</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703453</ID>
+<Start>06/09/2013 06:32</Start>
+<Type>5</Type>
+<Code>1235-6438-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703454</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>8</Type>
+<Code>17-03</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID>57315</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703455</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>9</Type>
+<Code>061131</Code>
+<Quantity>1</Quantity>
+<Net>7609</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID>57315</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703456</ID>
+<Start>07/09/2013 11:00</Start>
+<Type>3</Type>
+<Code>71010</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703457</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>3</Type>
+<Code>96374</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703458</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>3</Type>
+<Code>96375</Code>
+<Quantity>5</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703459</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703460</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>3</Type>
+<Code>96361</Code>
+<Quantity>9</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703461</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>4</Type>
+<Code>S9433</Code>
+<Quantity>2</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703462</ID>
+<Start>07/09/2013 19:30</Start>
+<Type>3</Type>
+<Code>99238</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703463</ID>
+<Start>07/09/2013 18:32</Start>
+<Type>5</Type>
+<Code>1680-1623-002</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703464</ID>
+<Start>07/09/2013 18:32</Start>
+<Type>5</Type>
+<Code>1556-4476-011</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703465</ID>
+<Start>07/09/2013 18:32</Start>
+<Type>5</Type>
+<Code>1472-1175-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703466</ID>
+<Start>06/09/2013 18:32</Start>
+<Type>5</Type>
+<Code>1250-1541-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703467</ID>
+<Start>07/09/2013 18:32</Start>
+<Type>5</Type>
+<Code>1235-6438-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9703468</ID>
+<Start>07/09/2013 18:32</Start>
+<Type>5</Type>
+<Code>1250-1541-001</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD12031</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

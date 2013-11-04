@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 09:35</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30027036</ID>
+    <IDPayer>217480_31173_SC30027036</IDPayer>
+    <MemberID>0971 1016 00353588 01</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>596.55</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>546.55</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110069453</PatientID>
+      <Start>01/01/2013 12:46</Start>
+      <End>01/01/2013 12:46</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>305.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>276.51</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>787.01</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>33242471</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.000</Quantity>
+      <Net>235.00</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Activity>
+      <ID>33242470</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>3</Type>
+      <Code>96375</Code>
+      <Quantity>1.000</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Activity>
+      <ID>33242469</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>3</Type>
+      <Code>96365</Code>
+      <Quantity>1.000</Quantity>
+      <Net>197.80</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Activity>
+      <ID>33242468</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>3</Type>
+      <Code>96361</Code>
+      <Quantity>1.000</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Activity>
+      <ID>33242467</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>5</Type>
+      <Code>2219-3520-003</Code>
+      <Quantity>1.000</Quantity>
+      <Net>15.75</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Activity>
+      <ID>33242466</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>5</Type>
+      <Code>1475-4004-001</Code>
+      <Quantity>1.000</Quantity>
+      <Net>5.00</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Activity>
+      <ID>33242465</ID>
+      <Start>01/01/2013 12:46</Start>
+      <Type>5</Type>
+      <Code>1472-3605-005</Code>
+      <Quantity>1.000</Quantity>
+      <Net>1.00</Net>
+      <Clinician>GD10913</Clinician>
+    </Activity>
+    <Resubmission>
+      <Type>correction</Type>
+      <Comment>Principal diagnosis corrected to 787.01. The resubmitted activities are not related to Dx of alcohol abuse , ICD (305.00) deleted. The resubmitted activities are medically justified as per good clinical practice for a patient with vomiting and dehydration. Kindly process the claim.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Ittihad Watani Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

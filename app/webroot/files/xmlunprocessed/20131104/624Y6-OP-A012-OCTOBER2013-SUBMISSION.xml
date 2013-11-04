@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF899</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>03/11/2013 13:17</TransactionDate> 
+<RecordCount>3</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>Y6-OP-A012-OCTOBER2013-SUBMISSION-1</ID><MemberID>097110040043935401</MemberID><PayerID>A012</PayerID><ProviderID>MF899</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>190</Gross><PatientShare>50</PatientShare><Net>140</Net><Encounter>
+<FacilityID>MF899</FacilityID><Type>1</Type><PatientID>6407</PatientID><Start>01/10/2013 15:13</Start><End>01/10/2013 16:13</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>268.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>272.4</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>01/10/2013 15:13</Start><Type>3</Type><Code>99213</Code><Quantity>1</Quantity><Net>140</Net><Clinician>D3535</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>Y6-OP-A012-OCTOBER2013-SUBMISSION-2</ID><MemberID>097110040042180702</MemberID><PayerID>A012</PayerID><ProviderID>MF899</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>284</Gross><PatientShare>50</PatientShare><Net>234</Net><Encounter>
+<FacilityID>MF899</FacilityID><Type>1</Type><PatientID>6518</PatientID><Start>14/10/2013 15:30</Start><End>14/10/2013 16:30</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>579.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>599.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>726.10</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>14/10/2013 15:30</Start><Type>3</Type><Code>99203</Code><Quantity>1</Quantity><Net>234</Net><Clinician>D3535</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>Y6-OP-A012-OCTOBER2013-SUBMISSION-3</ID><MemberID>097110040042180702</MemberID><PayerID>A012</PayerID><ProviderID>MF899</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>556</Gross><PatientShare>111.2</PatientShare><Net>444.8</Net><Encounter>
+<FacilityID>MF899</FacilityID><Type>1</Type><PatientID>6518</PatientID><Start>21/10/2013 15:39</Start><End>21/10/2013 16:39</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>521.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>01201</Code><Quantity>1</Quantity><Net>72</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+<Activity>
+<ID>2</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>11119</Code><Quantity>1</Quantity><Net>56</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+<Activity>
+<ID>3</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>11109</Code><Quantity>1</Quantity><Net>56</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+<Activity>
+<ID>4</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>02111</Code><Quantity>1</Quantity><Net>36</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+<Activity>
+<ID>5</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>11101</Code><Quantity>1</Quantity><Net>44.8</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+<Activity>
+<ID>6</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>11111</Code><Quantity>1</Quantity><Net>72</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+<Activity>
+<ID>7</ID><Start>21/10/2013 15:39</Start><Type>6</Type><Code>20111</Code><Quantity>1</Quantity><Net>108</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383593279933</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>20</Code></Observation>
+</Activity>
+</Claim>
+
+</Claim.Submission>

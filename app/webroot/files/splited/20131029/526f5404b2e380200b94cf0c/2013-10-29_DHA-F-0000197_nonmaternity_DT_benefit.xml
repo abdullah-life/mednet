@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000197</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 20:02</TransactionDate>
+    <RecordCount>4</RecordCount>
+  </Header>
+  <Claim>
+    <ID>OPC-R-2013-045231</ID>
+    <MemberID>462029</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>637</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>637</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008796</PatientID>
+      <Start>08/09/2013 10:55</Start>
+      <End>08/09/2013 12:06</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M22.42</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M67.52</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M67.88</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.562</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0286430839</ID>
+      <Start>08/09/2013 11:21</Start>
+      <End>08/09/2013 11:21</End>
+      <Code>70010</Code>
+      <Type>3</Type>
+      <Quantity>3</Quantity>
+      <Net>165</Net>
+      <Clinician>DHA-P-0251210</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD105</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>X-RAY (PER VIEW)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-044387</ID>
+    <MemberID>0971100890045368101</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>521.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>521.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0001008651</PatientID>
+      <Start>02/09/2013 14:42</Start>
+      <End>02/09/2013 15:42</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.281A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M25.561</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0280140839</ID>
+      <Start>02/09/2013 15:13</Start>
+      <End>02/09/2013 15:13</End>
+      <Code>70010</Code>
+      <Type>3</Type>
+      <Quantity>2</Quantity>
+      <Net>165</Net>
+      <Clinician>DHA-P-0034872</Clinician>
+      <PriorAuthorizationID>275296</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD105</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>X-RAY (PER VIEW)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-046202</ID>
+    <MemberID>382576</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1309</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>1309</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000204151</PatientID>
+      <Start>15/09/2013 08:43</Start>
+      <End>15/09/2013 08:43</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M25.562</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S83.282A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0294280805</ID>
+      <Start>15/09/2013 08:43</Start>
+      <End>15/09/2013 08:43</End>
+      <Code>70540</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>1870</Net>
+      <Clinician>DHA-P-0251210</Clinician>
+      <PriorAuthorizationID>272791</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD071</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>MRI ONE PART</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>OPC-R-2013-046326</ID>
+    <MemberID>456452</MemberID>
+    <PayerID>INS089</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>637</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>637</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>1</Type>
+      <PatientID>0000067336</PatientID>
+      <Start>15/09/2013 16:58</Start>
+      <End>15/09/2013 16:58</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M79.641</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>BILXX0295160839</ID>
+      <Start>15/09/2013 16:58</Start>
+      <End>15/09/2013 16:58</End>
+      <Code>70010</Code>
+      <Type>3</Type>
+      <Quantity>3</Quantity>
+      <Net>165</Net>
+      <Clinician>DHA-P-0034872</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD105</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>X-RAY (PER VIEW)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

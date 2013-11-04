@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 09:36</TransactionDate>
+    <RecordCount>2</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30063677</ID>
+    <IDPayer>221569_31165_SC30063677</IDPayer>
+    <MemberID>0971 1080 00428122 01</MemberID>
+    <PayerID>A003</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>46.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>46.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1503947</PatientID>
+      <Start>12/02/2013 14:30</Start>
+      <End>12/02/2013 14:30</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>780.61</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>136.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>462</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>729.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>33869176</ID>
+      <Start>12/02/2013 14:30</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.000</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD5786</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>As per the patient's schedule of benefits and MEDNET guidelines, the resubmitted activities are covered. 96372 is an administration code for  medication VOLTAREN. As per coding guidelines these are separate services must be reported separately in conjunction with the given medication.  Kindly process. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Sagr National Insurance</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30063694</ID>
+    <IDPayer>221651_19064_SC30063694</IDPayer>
+    <MemberID>0971 1080 00427773 02</MemberID>
+    <PayerID>A003</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>598.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>598.00</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>1929885</PatientID>
+      <Start>21/02/2013 11:25</Start>
+      <End>21/02/2013 11:25</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>256.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>611.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>33869198</ID>
+      <Start>21/02/2013 11:25</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.000</Quantity>
+      <Net>598.00</Net>
+      <Clinician>D2941</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>As per the Mednet guidelines, the resubmitted diagnosis is covered since the service is not related to fertility as the patient already conceived and delivered by C/S 1.3 years. The resubmitted activity is medically justified as per good clinical practice for a patient with lower abdominal pain and irregular cycle. USG was done to investigate any abnormality in cervix, uterus and ovaries. Kindly process the claim.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Sagr National Insurance</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

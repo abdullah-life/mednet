@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Re Submission : CHECK NO 65547 PRODUCTION -->
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+	<Header>
+		<SenderID>MF394</SenderID>
+		<ReceiverID>C004</ReceiverID>
+		<TransactionDate>12/10/2013 16:38</TransactionDate>
+		<RecordCount>27</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+	<Claim>
+		<ID>AP13106281</ID>
+		<IDPayer>221370_101065_AP13106281</IDPayer>
+		<MemberID>097110040036447802</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>203.60</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>153.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G2738/1</PatientID>
+			<Start>06/03/2013 11:31</Start>
+			<End>06/03/2013 11:42</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>626.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>626.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>616.10</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>599.0</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00007AP13106281</ID>
+			<Start>06/03/2013 11:31</Start>
+			<Type>3</Type>
+			<Code>84443</Code>
+			<Quantity>1.00</Quantity>
+			<Net>96.00</Net>
+			<Clinician>D2437</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13106281</ID>
+			<Start>06/03/2013 11:31</Start>
+			<Type>3</Type>
+			<Code>85730</Code>
+			<Quantity>1.00</Quantity>
+			<Net>35.20</Net>
+			<Clinician>D2437</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106281</ID>
+			<Start>06/03/2013 11:31</Start>
+			<Type>3</Type>
+			<Code>85610</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>D2437</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity Level:
+			Please note that the patient is diagonised of  Irregular Menstrual  Cycle and Excessive Bleeding ,due to this 
+			reason the investigation  of  Thyroid stimulating hormone (84443),Prothrombin Time(85610) and Pratial
+			Thromboplastin Time(85730) was done since these test help to evaluate the reason for bleeding disorder and for
+			better treatment and management. Kindly settle the amount.
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106284</ID>
+		<IDPayer>221370_101065_AP13106284</IDPayer>
+		<MemberID>097110040032844302</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>136.40</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>86.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C82986/3</PatientID>
+			<Start>06/03/2013 12:57</Start>
+			<End>06/03/2013 13:10</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>626.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>250.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>244.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00004AP13106284</ID>
+			<Start>06/03/2013 13:10</Start>
+			<Type>3</Type>
+			<Code>84704</Code>
+			<Quantity>1.00</Quantity>
+			<Net>86.40</Net>
+			<Clinician>D2437</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level justification:
+			PLease note we per formed the test 84704(Beta Hcg) since the patient was having scanty periods with spotting since 
+			3 cycles, hence the above service was done to check whether patient was pregnant. Kindly conisder.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106345</ID>
+		<IDPayer>221370_101065_AP13106345</IDPayer>
+		<MemberID>097110040037443601</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>1092.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>1092.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G193/2</PatientID>
+			<Start>12/03/2013 18:02</Start>
+			<End>12/03/2013 18:02</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>786.50</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>721.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>V81.0</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13106345</ID>
+			<Start>12/03/2013 18:02</Start>
+			<Type>3</Type>
+			<Code>93306</Code>
+			<Quantity>1.00</Quantity>
+			<Net>1092.80</Net>
+			<Clinician>GD10699</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activiy level:
+			Please note service 93306 was done as patient with chief complain of chest pain and numbness. Hence for better
+			management of the condition the test was done.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106417</ID>
+		<IDPayer>221370_101065_AP13106417</IDPayer>
+		<MemberID>097110040039210202</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>142.80</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>92.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G3170/1</PatientID>
+			<Start>21/03/2013 12:05</Start>
+			<End>21/03/2013 13:08</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>716.99</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00008AP13106417</ID>
+			<Start>21/03/2013 12:11</Start>
+			<Type>3</Type>
+			<Code>86140</Code>
+			<Quantity>1.00</Quantity>
+			<Net>30.40</Net>
+			<Clinician>D4024</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106417</ID>
+			<Start>21/03/2013 12:11</Start>
+			<Type>3</Type>
+			<Code>81015</Code>
+			<Quantity>1.00</Quantity>
+			<Net>17.60</Net>
+			<Clinician>D4024</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106417</ID>
+			<Start>21/03/2013 12:11</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>D4024</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity Level
+			Please not that we have billed the service as per the agreed price list.Kindly settle the amount.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106466</ID>
+		<IDPayer>221370_101065_AP13106466</IDPayer>
+		<MemberID>097110040024488602</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>132.60</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>97.60</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>B77050/1</PatientID>
+			<Start>26/03/2013 09:12</Start>
+			<End>26/03/2013 10:06</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>461.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>790.21</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>244.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00004AP13106466</ID>
+			<Start>26/03/2013 09:24</Start>
+			<Type>3</Type>
+			<Code>82950</Code>
+			<Quantity>1.00</Quantity>
+			<Net>27.20</Net>
+			<Clinician>D3674</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106466</ID>
+			<Start>26/03/2013 10:06</Start>
+			<Type>3</Type>
+			<Code>87075</Code>
+			<Quantity>1.00</Quantity>
+			<Net>54.40</Net>
+			<Clinician>D3674</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00008AP13106466</ID>
+			<Start>26/03/2013 09:24</Start>
+			<Type>3</Type>
+			<Code>85652</Code>
+			<Quantity>1.00</Quantity>
+			<Net>16.00</Net>
+			<Clinician>D3674</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			Please note services were performed as patient was suffering from Acute bronchitis(466.0) and Hyperlipidemia 
+			due to this reason it was performed for better management and treatment.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106468</ID>
+		<IDPayer>221370_101065_AP13106468</IDPayer>
+		<MemberID>097110040035686302</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>196.00</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>161.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F39154/1</PatientID>
+			<Start>26/03/2013 20:15</Start>
+			<End>26/03/2013 20:15</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>620.2</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13106468</ID>
+			<Start>26/03/2013 20:15</Start>
+			<Type>3</Type>
+			<Code>99214</Code>
+			<Quantity>1.00</Quantity>
+			<Net>161.00</Net>
+			<Clinician>GD6844</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			PLease note as per the card policy the consultation is covered with deductible of aed 35.00, hence we billed 
+			correctly.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106512</ID>
+		<IDPayer>221370_12598_AP13106512</IDPayer>
+		<MemberID>097110030038352402</MemberID>
+		<PayerID>A009</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+		<Gross>412.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>412.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>AW143116/0</PatientID>
+			<Start>13/03/2013 08:55</Start>
+			<End>13/03/2013 08:55</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>571.8</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>275.41</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>250.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>721.0</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00009AP13106512</ID>
+			<Start>13/03/2013 08:55</Start>
+			<Type>3</Type>
+			<Code>83540</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>D3535</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106512</ID>
+			<Start>13/03/2013 08:55</Start>
+			<Type>3</Type>
+			<Code>82306</Code>
+			<Quantity>1.00</Quantity>
+			<Net>94.40</Net>
+			<Clinician>D3535</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00013AP13106512</ID>
+			<Start>13/03/2013 08:55</Start>
+			<Type>3</Type>
+			<Code>84443</Code>
+			<Quantity>1.00</Quantity>
+			<Net>96.00</Net>
+			<Clinician>D3535</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00010AP13106512</ID>
+			<Start>13/03/2013 08:55</Start>
+			<Type>3</Type>
+			<Code>84481</Code>
+			<Quantity>1.00</Quantity>
+			<Net>97.60</Net>
+			<Clinician>D3535</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106512</ID>
+			<Start>13/03/2013 08:55</Start>
+			<Type>3</Type>
+			<Code>83550</Code>
+			<Quantity>1.00</Quantity>
+			<Net>51.20</Net>
+			<Clinician>D3535</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00004AP13106512</ID>
+			<Start>13/03/2013 08:55</Start>
+			<Type>3</Type>
+			<Code>84479</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>D3535</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			Please note services were performed to check whether treatment provide was effevtive, abd which medications
+			were better for management. kindly consider.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13106515</ID>
+		<IDPayer>221370_101065_AP13106515</IDPayer>
+		<MemberID>097110040031580801</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>332.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>332.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G28106/1</PatientID>
+			<Start>04/03/2013 20:50</Start>
+			<End>13/03/2013 18:15</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>722.10</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00004AP13106515</ID>
+			<Start>13/03/2013 18:15</Start>
+			<Type>3</Type>
+			<Code>97110</Code>
+			<Quantity>1.00</Quantity>
+			<Net>92.80</Net>
+			<Clinician>D3993</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13106515</ID>
+			<Start>04/03/2013 20:50</Start>
+			<Type>3</Type>
+			<Code>97035</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>D3993</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00002AP13106515</ID>
+			<Start>04/03/2013 20:50</Start>
+			<Type>3</Type>
+			<Code>97110</Code>
+			<Quantity>1.00</Quantity>
+			<Net>92.80</Net>
+			<Clinician>D3993</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13106515</ID>
+			<Start>04/03/2013 20:50</Start>
+			<Type>3</Type>
+			<Code>97024</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>D3993</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13106515</ID>
+			<Start>13/03/2013 18:15</Start>
+			<Type>3</Type>
+			<Code>97035</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>D3993</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13106515</ID>
+			<Start>13/03/2013 18:15</Start>
+			<Type>3</Type>
+			<Code>97024</Code>
+			<Quantity>1.00</Quantity>
+			<Net>36.80</Net>
+			<Clinician>D3993</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity Level
+			Please note that as per the confirmation from Mednet Aprroval is not required for physiotherapy.
+			Kindly settle the amount.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157608</ID>
+		<IDPayer>221370_101065_AP13157608</IDPayer>
+		<MemberID>097110040041313201</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>109.20</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>59.20</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G37187/1</PatientID>
+			<Start>03/04/2013 09:40</Start>
+			<End>03/04/2013 09:48</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>787.91</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>789.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>787.02</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>784.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>724.5</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13157608</ID>
+			<Start>03/04/2013 09:48</Start>
+			<Type>3</Type>
+			<Code>87040</Code>
+			<Quantity>1.00</Quantity>
+			<Net>59.20</Net>
+			<Clinician>GD11996</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Diagnosis Level
+			Please note that the test cpt 87040 is necessary  to evaluate the patient complaint.also we added the icd 789.00
+			and 787.02 as per the patient&apos;s medical records.Kindly settle the amount.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157628</ID>
+		<IDPayer>221370_101065_AP13157628</IDPayer>
+		<MemberID>097110040018297701</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>123.00</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>88.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G37464/1</PatientID>
+			<Start>04/04/2013 16:18</Start>
+			<End>05/04/2013 12:24</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>401.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>272.4</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>790.21</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>791.0</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00003AP13157628</ID>
+			<Start>05/04/2013 12:24</Start>
+			<Type>3</Type>
+			<Code>85652</Code>
+			<Quantity>1.00</Quantity>
+			<Net>16.00</Net>
+			<Clinician>D3674</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00006AP13157628</ID>
+			<Start>05/04/2013 12:24</Start>
+			<Type>3</Type>
+			<Code>82950</Code>
+			<Quantity>1.00</Quantity>
+			<Net>27.20</Net>
+			<Clinician>D3674</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00005AP13157628</ID>
+			<Start>05/04/2013 12:24</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>D3674</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Diagnosis Level
+			Please note that we have done the lab tests for the evaluation of the diagnosis icd 401.9,272.4 and 790.21
+			Kindly settle the amount.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157648</ID>
+		<IDPayer>221370_101065_AP13157648</IDPayer>
+		<MemberID>097110040035723601</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>155.00</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>120.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>E60079/1</PatientID>
+			<Start>06/04/2013 09:16</Start>
+			<End>06/04/2013 10:28</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>788.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>724.5</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157648</ID>
+			<Start>06/04/2013 10:28</Start>
+			<Type>3</Type>
+			<Code>82565</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>GD10127</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14682-9</Code>
+				<Value>79.5600000</Value>
+				<ValueType>µmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Activity>
+			<ID>00004AP13157648</ID>
+			<Start>06/04/2013 10:28</Start>
+			<Type>3</Type>
+			<Code>87088</Code>
+			<Quantity>1.00</Quantity>
+			<Net>46.40</Net>
+			<Clinician>GD10127</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157648</ID>
+			<Start>06/04/2013 10:28</Start>
+			<Type>3</Type>
+			<Code>85025</Code>
+			<Quantity>1.00</Quantity>
+			<Net>44.80</Net>
+			<Clinician>GD10127</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			Please note services were performed patient was diagonsied with renal colic and backache, due to reason
+			 to known the function of kidneys these services were performed.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157650</ID>
+		<IDPayer>221370_101065_AP13157650</IDPayer>
+		<MemberID>097110040035686302</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>412.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>412.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F39154/1</PatientID>
+			<Start>06/04/2013 16:23</Start>
+			<End>06/04/2013 16:23</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>620.2</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13157650</ID>
+			<Start>06/04/2013 16:23</Start>
+			<Type>3</Type>
+			<Code>76856</Code>
+			<Quantity>1.00</Quantity>
+			<Net>412.80</Net>
+			<Clinician>GD6844</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Claim level:
+			Please note services are covered.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157653</ID>
+		<IDPayer>221370_101065_AP13157653</IDPayer>
+		<MemberID>097110040030760702</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>73.40</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>38.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C31218/1</PatientID>
+			<Start>06/04/2013 18:03</Start>
+			<End>06/04/2013 18:04</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>564.00</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>599.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157653</ID>
+			<Start>06/04/2013 18:04</Start>
+			<Type>3</Type>
+			<Code>87081</Code>
+			<Quantity>1.00</Quantity>
+			<Net>38.40</Net>
+			<Clinician>GD6129</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			PLease note service 87081(Thorat CULTURE SCREEN ) was done determine whether a person with a sore 
+			throat (pharyngitis -462) has a group A streptococcal infection.
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157684</ID>
+		<IDPayer>221370_101065_AP13157684</IDPayer>
+		<MemberID>097110040038891902</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>132.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>132.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F84417/1</PatientID>
+			<Start>11/04/2013 09:00</Start>
+			<End>11/04/2013 12:53</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>574.20</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>789.00</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157684</ID>
+			<Start>11/04/2013 12:53</Start>
+			<Type>3</Type>
+			<Code>87088</Code>
+			<Quantity>1.00</Quantity>
+			<Net>46.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157684</ID>
+			<Start>11/04/2013 12:53</Start>
+			<Type>3</Type>
+			<Code>84704</Code>
+			<Quantity>1.00</Quantity>
+			<Net>86.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			Please note the service was done as patient came with complain of prolonged stomach pain with presence of gall
+			bladder, due to reason service was per formed to check for germ tumuors.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157692</ID>
+		<IDPayer>221370_101065_AP13157692</IDPayer>
+		<MemberID>097110040030760101</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>89.40</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>54.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>B94968/3</PatientID>
+			<Start>12/04/2013 20:11</Start>
+			<End>12/04/2013 20:13</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>786.2</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13157692</ID>
+			<Start>12/04/2013 20:13</Start>
+			<Type>3</Type>
+			<Code>87075</Code>
+			<Quantity>1.00</Quantity>
+			<Net>54.40</Net>
+			<Clinician>GD15302</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Diagnosis Level:
+			Please note that since the patient have a case of Acute Pharyngitis(ICD 462) and cough(ICD 786.2) for 3 days, hence 
+			CPT87075-Culture-Sputum was done. Often, a sore throat is caused by a virus, but a throat culture will help to
+			determine if its definitely caused by strep bacteria so doctors can provide proper treatment.  Kindly settle the amount. 
+			
+		</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157712</ID>
+		<IDPayer>221370_101065_AP13157712</IDPayer>
+		<MemberID>097110040018341001</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>7.50</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>7.50</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C97100/1</PatientID>
+			<Start>15/04/2013 10:26</Start>
+			<End>15/04/2013 10:26</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>550.90</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13157712</ID>
+			<Start>15/04/2013 10:26</Start>
+			<Type>8</Type>
+			<Code>51-01</Code>
+			<Quantity>1.00</Quantity>
+			<Net>7.50</Net>
+			<Clinician>GD6606</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			PLease note we billed correctly.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157723</ID>
+		<IDPayer>221370_101065_AP13157723</IDPayer>
+		<MemberID>097110040032558102</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+		<Gross>1070.40</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>1070.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F39613/1</PatientID>
+			<Start>17/04/2013 10:00</Start>
+			<End>17/04/2013 10:00</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>363.21</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157723</ID>
+			<Start>17/04/2013 10:00</Start>
+			<Type>3</Type>
+			<Code>92134</Code>
+			<Quantity>1.00</Quantity>
+			<Net>267.20</Net>
+			<Clinician>GD15473</Clinician>
+			<PriorAuthorizationID>259131</PriorAuthorizationID>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157723</ID>
+			<Start>17/04/2013 10:00</Start>
+			<Type>3</Type>
+			<Code>92235</Code>
+			<Quantity>1.00</Quantity>
+			<Net>803.20</Net>
+			<Clinician>GD15473</Clinician>
+			<PriorAuthorizationID>259131</PriorAuthorizationID>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Diagonsis level:
+			PLease note the services were performed for better treatment and management of the diagonsis. Kindly settle.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157730</ID>
+		<IDPayer>221370_101065_AP13157730</IDPayer>
+		<MemberID>097110040039727902</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>67.00</Gross>
+		<PatientShare>38.20</PatientShare>
+		<Net>28.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>A29297/1</PatientID>
+			<Start>18/04/2013 20:10</Start>
+			<End>18/04/2013 20:10</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>729.1</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157730</ID>
+			<Start>18/04/2013 20:10</Start>
+			<Type>5</Type>
+			<Code>2026-2714-002</Code>
+			<Quantity>1.00</Quantity>
+			<Net>28.80</Net>
+			<Clinician>D4024</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			Please note as per the card copy services are covered</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157765</ID>
+		<IDPayer>221370_101065_AP13157765</IDPayer>
+		<MemberID>097110040035686302</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>111.80</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>76.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F39154/1</PatientID>
+			<Start>23/04/2013 21:32</Start>
+			<End>23/04/2013 21:34</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>788.42</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>787.91</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>564.1</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>535.50</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>465.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00006AP13157765</ID>
+			<Start>23/04/2013 21:34</Start>
+			<Type>3</Type>
+			<Code>87046</Code>
+			<Quantity>1.00</Quantity>
+			<Net>54.40</Net>
+			<Clinician>GD6714</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00003AP13157765</ID>
+			<Start>23/04/2013 21:34</Start>
+			<Type>3</Type>
+			<Code>82947</Code>
+			<Quantity>1.00</Quantity>
+			<Net>22.40</Net>
+			<Clinician>GD6714</Clinician>
+			<PriorAuthorizationID/>
+			<Observation>
+				<Type>LOINC</Type>
+				<Code>14749-6</Code>
+				<Value>4.55100</Value>
+				<ValueType>mmol/l</ValueType>
+			</Observation>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Diagonsis level Justification:
+			Please note 82947(Random blood sugar ) was done for given diagonsis 788.42 - Polyuria to check if abnormally
+			sugar was presented because patient was also overweight with 105.00 kgs and service 87046 (Stool Culture
+			and sensitivity) was done as patient was suffering from diarrhea and IBS hence service was done to Susceptibility
+			 testing is used to determine which antimicrobials will inhibit the growth of the bacteria or fungi causing a specific
+			 infection. The results from this test will help a health practitioner determine which drugs are likely to be most 
+			effective in treating a person&apos;s infection.
+			
+		</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157766</ID>
+		<IDPayer>221667_100663_AP13157766</IDPayer>
+		<MemberID>09710100400037478601</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>60.40</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>60.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F11449/1</PatientID>
+			<Start>23/04/2013 19:34</Start>
+			<End>23/04/2013 19:37</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>461.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157766</ID>
+			<Start>23/04/2013 19:34</Start>
+			<Type>3</Type>
+			<Code>70210</Code>
+			<Quantity>1.00</Quantity>
+			<Net>10.40</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>00001AP13157766</ID>
+			<Start>23/04/2013 19:37</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1.00</Quantity>
+			<Net>50.00</Net>
+			<Clinician>D5584</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Claim Level:
+			Kindly note that as per the card presented by the patient/member, co-pay or deductible is not applicable .
+			Kindly settle the amount.
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157804</ID>
+		<IDPayer>221370_101065_AP13157804</IDPayer>
+		<MemberID>097110040036447802</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>136.40</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>86.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G2738/1</PatientID>
+			<Start>28/04/2013 12:00</Start>
+			<End>28/04/2013 12:40</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>626.2</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00002AP13157804</ID>
+			<Start>28/04/2013 12:00</Start>
+			<Type>3</Type>
+			<Code>84704</Code>
+			<Quantity>1.00</Quantity>
+			<Net>86.40</Net>
+			<Clinician>D2437</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level;
+			Please note excessive or frequent mensutration may be cause of fibiorids , hence beta hcg test is done to find
+			gestational trophoblastic disease or germ cell tumors
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP13157811</ID>
+		<IDPayer>221370_101065_AP13157811</IDPayer>
+		<MemberID>097110040026691001</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>73.40</Gross>
+		<PatientShare>35.00</PatientShare>
+		<Net>38.40</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>B25739/3</PatientID>
+			<Start>29/04/2013 17:46</Start>
+			<End>29/04/2013 17:53</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>528.00</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>00001AP13157811</ID>
+			<Start>29/04/2013 17:53</Start>
+			<Type>3</Type>
+			<Code>87081</Code>
+			<Quantity>1.00</Quantity>
+			<Net>38.40</Net>
+			<Clinician>GD6129</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Diagonsis level correction:
+			Please note culture swab was done as the patient suffering from acute pharynigitis</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP1319714</ID>
+		<IDPayer>221368_100524_AP1319714</IDPayer>
+		<MemberID>097110040017697101</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>76.04</Gross>
+		<PatientShare>56.60</PatientShare>
+		<Net>19.44</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G25774/1</PatientID>
+			<Start>26/01/2013 11:22</Start>
+			<End>26/01/2013 13:09</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>847.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>536.8</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>E885.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>AP1319714000003</ID>
+			<Start>26/01/2013 11:22</Start>
+			<Type>3</Type>
+			<Code>71010</Code>
+			<Quantity>1.00</Quantity>
+			<Net>6.91</Net>
+			<Clinician>GD15397</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>AP1319714000002</ID>
+			<Start>26/01/2013 11:22</Start>
+			<Type>3</Type>
+			<Code>72100</Code>
+			<Quantity>1.00</Quantity>
+			<Net>12.53</Net>
+			<Clinician>GD15397</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Claim level:
+			Please note deductible of Aed 35.00 and co-pay of 10% is applicable for the patient as per the card copy, 
+			which is been collected from the patient.Kindly consider.
+			</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP1366275</ID>
+		<IDPayer>221368_100524_AP1366275</IDPayer>
+		<MemberID>097110040040423001</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>44.80</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>44.80</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G25576/1</PatientID>
+			<Start>02/02/2013 13:55</Start>
+			<End>02/02/2013 14:19</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>461.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>466.0</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>780.60</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>462</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>000007AP1366275</ID>
+			<Start>02/02/2013 13:55</Start>
+			<Type>3</Type>
+			<Code>94010</Code>
+			<Quantity>1.00</Quantity>
+			<Net>20.80</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>000003AP1366275</ID>
+			<Start>02/02/2013 14:19</Start>
+			<Type>3</Type>
+			<Code>87040</Code>
+			<Quantity>1.00</Quantity>
+			<Net>5.92</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>000002AP1366275</ID>
+			<Start>02/02/2013 14:04</Start>
+			<Type>3</Type>
+			<Code>71010</Code>
+			<Quantity>1.00</Quantity>
+			<Net>7.68</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>000001AP1366275</ID>
+			<Start>02/02/2013 14:04</Start>
+			<Type>3</Type>
+			<Code>70210</Code>
+			<Quantity>1.00</Quantity>
+			<Net>10.40</Net>
+			<Clinician>GD10181</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Claim level:
+			PLease note as per the card copy no deductible is to collected on the lab and radiology services. Kindly 
+			settle.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP1366330</ID>
+		<IDPayer>221368_100524_AP1366330</IDPayer>
+		<MemberID>097110040024678902</MemberID>
+		<PayerID>A012</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>116.95</Gross>
+		<PatientShare>82.36</PatientShare>
+		<Net>34.59</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>C47290/3</PatientID>
+			<Start>08/02/2013 18:27</Start>
+			<End>11/02/2013 17:57</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>346.10</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>244.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>493.82</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>268.9</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>796.2</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>280.9</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>000012AP1366330</ID>
+			<Start>11/02/2013 15:26</Start>
+			<Type>3</Type>
+			<Code>80061</Code>
+			<Quantity>1.00</Quantity>
+			<Net>9.65</Net>
+			<Clinician>D5054</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>000010AP1366330</ID>
+			<Start>11/02/2013 15:26</Start>
+			<Type>3</Type>
+			<Code>82164</Code>
+			<Quantity>1.00</Quantity>
+			<Net>7.63</Net>
+			<Clinician>D5054</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>000003AP1366330</ID>
+			<Start>08/02/2013 18:27</Start>
+			<Type>3</Type>
+			<Code>93000</Code>
+			<Quantity>1.00</Quantity>
+			<Net>10.40</Net>
+			<Clinician>D5054</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Activity>
+			<ID>000005AP1366330</ID>
+			<Start>11/02/2013 17:57</Start>
+			<Type>3</Type>
+			<Code>71010</Code>
+			<Quantity>1.00</Quantity>
+			<Net>6.91</Net>
+			<Clinician>D5054</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Claim level:
+			Please note co-pay of 10% is to be collected as per the card copy which is already collected.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP1366423</ID>
+		<IDPayer>221368_300_AP1366423</IDPayer>
+		<MemberID>097110800042779002</MemberID>
+		<PayerID>A003</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>100.00</Gross>
+		<PatientShare>50.00</PatientShare>
+		<Net>50.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>F58260/2</PatientID>
+			<Start>18/02/2013 12:38</Start>
+			<End>18/02/2013 21:40</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>654.23</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>643.10</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>000004AP1366423</ID>
+			<Start>18/02/2013 21:40</Start>
+			<Type>3</Type>
+			<Code>96372</Code>
+			<Quantity>2.00</Quantity>
+			<Net>50.00</Net>
+			<Clinician>GD6623</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Activity level:
+			Please note we billed correctly the service 96372 as the injection Zantac 50mg/2ml and Inj. Premperan are
+			IM administation hence qty for service is 2 with each qty Aed 32.00. Hence we billed correctly.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+	<Claim>
+		<ID>AP1366462</ID>
+		<IDPayer>221368_300_AP1366462</IDPayer>
+		<MemberID>097110800042773802</MemberID>
+		<PayerID>A003</PayerID>
+		<ProviderID>MF394</ProviderID>
+		<EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+		<Gross>50.00</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>50.00</Net>
+		<Encounter>
+			<FacilityID>MF394</FacilityID>
+			<Type>1</Type>
+			<PatientID>G24862/1</PatientID>
+			<Start>22/02/2013 11:38</Start>
+			<End>22/02/2013 11:38</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			<TransferSource/>
+			<TransferDestination/>
+		</Encounter>
+		<Diagnosis>
+			<Type>Principal</Type>
+			<Code>078.12</Code>
+		</Diagnosis>
+		<Diagnosis>
+			<Type>Secondary</Type>
+			<Code>686.8</Code>
+		</Diagnosis>
+		<Activity>
+			<ID>000002AP1366462</ID>
+			<Start>22/02/2013 11:38</Start>
+			<Type>3</Type>
+			<Code>17110</Code>
+			<Quantity>1.00</Quantity>
+			<Net>50.00</Net>
+			<Clinician>D4759</Clinician>
+			<PriorAuthorizationID/>
+		</Activity>
+		<Resubmission>
+			<Type>internal complaint</Type>
+			<Comment>Claim level:
+			PLease note as per the card policy deductible of aed 50.00 is to collected on consultation only. Kindly settle.</Comment>
+			<Attachment/>
+		</Resubmission>
+		<Contract>
+			<PackageName>MEDNET UAE</PackageName>
+		</Contract>
+	</Claim>
+</Claim.Submission>

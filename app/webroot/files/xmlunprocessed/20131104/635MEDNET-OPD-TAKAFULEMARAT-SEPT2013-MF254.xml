@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>MF254</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>14/10/2013 20:56</TransactionDate>
+<RecordCount>5</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>OP271450</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1042 00468337 01</MemberID>
+<PayerID>A035</PayerID>
+<ProviderID>MF254</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>428.42</Gross>
+<PatientShare>50</PatientShare>
+<Net>378.42</Net>
+<Encounter>
+<FacilityID>MF254</FacilityID>
+<Type>1</Type>
+<PatientID>158634</PatientID>
+<Start>26/09/2013 00:00</Start>
+<End>26/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.07</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>1241911</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1279-3684-003</Code>
+<Quantity>2</Quantity>
+<Net>23.26</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241912</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1417-4398-003</Code>
+<Quantity>2</Quantity>
+<Net>3.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241914</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>94640</Code>
+<Quantity>1</Quantity>
+<Net>64</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241915</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>40</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241935</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>135</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241936</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>111.5</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241937</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1556-4476-004</Code>
+<Quantity>1</Quantity>
+<Net>1.6</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>TAKAFUL EMARAT</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>OP271451</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1042 00468338 02</MemberID>
+<PayerID>A035</PayerID>
+<ProviderID>MF254</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>381.82</Gross>
+<PatientShare>50</PatientShare>
+<Net>331.82</Net>
+<Encounter>
+<FacilityID>MF254</FacilityID>
+<Type>1</Type>
+<PatientID>156410</PatientID>
+<Start>26/09/2013 00:00</Start>
+<End>26/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.07</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>599.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>041.6</Code>
+</Diagnosis>
+<Activity>
+<ID>1241917</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>81001</Code>
+<Quantity>1</Quantity>
+<Net>22</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241918</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>87088</Code>
+<Quantity>1</Quantity>
+<Net>58</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241919</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>94640</Code>
+<Quantity>1</Quantity>
+<Net>64</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241920</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1417-4398-003</Code>
+<Quantity>2</Quantity>
+<Net>3.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241921</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1279-3684-003</Code>
+<Quantity>2</Quantity>
+<Net>23.26</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241938</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>87184</Code>
+<Quantity>1</Quantity>
+<Net>50</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241939</ID>
+<Start>26/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>111.5</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>TAKAFUL EMARAT</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>OP271453</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1042 00468337 01</MemberID>
+<PayerID>A035</PayerID>
+<ProviderID>MF254</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>260.12</Gross>
+<PatientShare>0</PatientShare>
+<Net>260.12</Net>
+<Encounter>
+<FacilityID>MF254</FacilityID>
+<Type>1</Type>
+<PatientID>158634</PatientID>
+<Start>27/09/2013 00:00</Start>
+<End>27/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.07</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>1241926</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1417-4398-003</Code>
+<Quantity>2</Quantity>
+<Net>3.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241927</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1279-3684-002</Code>
+<Quantity>2</Quantity>
+<Net>18.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241940</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1392-3838-001</Code>
+<Quantity>1</Quantity>
+<Net>135</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241941</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>40</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241942</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>94640</Code>
+<Quantity>1</Quantity>
+<Net>64</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>TAKAFUL EMARAT</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>OP271452</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1042 00468338 02</MemberID>
+<PayerID>A035</PayerID>
+<ProviderID>MF254</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>85.12</Gross>
+<PatientShare>0</PatientShare>
+<Net>85.12</Net>
+<Encounter>
+<FacilityID>MF254</FacilityID>
+<Type>1</Type>
+<PatientID>156410</PatientID>
+<Start>27/09/2013 00:00</Start>
+<End>27/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.07</Code>
+</Diagnosis>
+<Activity>
+<ID>1241923</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1417-4398-003</Code>
+<Quantity>2</Quantity>
+<Net>3.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241924</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1279-3684-002</Code>
+<Quantity>2</Quantity>
+<Net>18.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241943</ID>
+<Start>27/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>94640</Code>
+<Quantity>1</Quantity>
+<Net>64</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>TAKAFUL EMARAT</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>OP271454</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1042 00468337 01</MemberID>
+<PayerID>A035</PayerID>
+<ProviderID>MF254</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>90.32</Gross>
+<PatientShare>0</PatientShare>
+<Net>90.32</Net>
+<Encounter>
+<FacilityID>MF254</FacilityID>
+<Type>1</Type>
+<PatientID>158634</PatientID>
+<Start>28/09/2013 00:00</Start>
+<End>28/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.07</Code>
+</Diagnosis>
+<Activity>
+<ID>1241929</ID>
+<Start>28/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1417-4398-003</Code>
+<Quantity>2</Quantity>
+<Net>3.06</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241930</ID>
+<Start>28/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1279-3684-003</Code>
+<Quantity>2</Quantity>
+<Net>23.26</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>1241931</ID>
+<Start>28/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>94640</Code>
+<Quantity>1</Quantity>
+<Net>64</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>TAKAFUL EMARAT</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

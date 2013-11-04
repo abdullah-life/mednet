@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF899</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>03/11/2013 13:21</TransactionDate> 
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>Y6-OP-A020-OCTOBER2013-SUBMISSION-1</ID><MemberID>097110330044158002</MemberID><PayerID>A020</PayerID><ProviderID>MF899</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>345</Gross><PatientShare>0</PatientShare><Net>345</Net><Encounter>
+<FacilityID>MF899</FacilityID><Type>1</Type><PatientID>6519</PatientID><Start>22/10/2013 15:45</Start><End>22/10/2013 16:45</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>521.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>22/10/2013 15:45</Start><Type>6</Type><Code>01205</Code><Quantity>1</Quantity><Net>100</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383594280062</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>29</Code></Observation>
+</Activity>
+<Activity>
+<ID>2</ID><Start>22/10/2013 15:45</Start><Type>6</Type><Code>23312</Code><Quantity>1</Quantity><Net>200</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383594280062</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>29</Code></Observation>
+</Activity>
+<Activity>
+<ID>3</ID><Start>22/10/2013 15:45</Start><Type>6</Type><Code>02111</Code><Quantity>1</Quantity><Net>45</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383594280062</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>29</Code></Observation>
+</Activity>
+</Claim>
+<Claim>
+<ID>Y6-OP-A020-OCTOBER2013-SUBMISSION-2</ID><MemberID>0971 10 33 00408891 02</MemberID><PayerID>A020</PayerID><ProviderID>MF899</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>810</Gross><PatientShare>50</PatientShare><Net>760</Net><Encounter>
+<FacilityID>MF899</FacilityID><Type>1</Type><PatientID>6540</PatientID><Start>27/10/2013 15:41</Start><End>27/10/2013 16:41</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>V22.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>27/10/2013 15:41</Start><Type>3</Type><Code>99203</Code><Quantity>1</Quantity><Net>234</Net><Clinician>D4324</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>27/10/2013 15:41</Start><Type>3</Type><Code>76801</Code><Quantity>1</Quantity><Net>526</Net><Clinician>D4324</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

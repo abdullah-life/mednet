@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>MF2124</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>06/10/2013 11:05</TransactionDate>
+<RecordCount>6</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>SM-233038</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00403223 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF2124</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>133</Gross>
+<PatientShare>50</PatientShare>
+<Net>83</Net>
+<Encounter>
+<FacilityID>MF2124</FacilityID>
+<Type>1</Type>
+<PatientID>77663</PatientID>
+<Start>12/08/2013 18:01</Start>
+<StartType>1</StartType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>722.93</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>722.91</Code>
+</Diagnosis>
+<Activity>
+<ID>937381</ID>
+<Start>12/08/2013 18:01</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>83</Net>
+<Clinician>GD6344</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>@Arab Oriant Insurance Company</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>SM-233039</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00403223 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF2124</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>137.2</Gross>
+<PatientShare>50</PatientShare>
+<Net>87.2</Net>
+<Encounter>
+<FacilityID>MF2124</FacilityID>
+<Type>1</Type>
+<PatientID>77663</PatientID>
+<Start>12/08/2013 18:03</Start>
+<StartType>1</StartType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>372.05</Code>
+</Diagnosis>
+<Activity>
+<ID>937382</ID>
+<Start>12/08/2013 18:03</Start>
+<Type>3</Type>
+<Code>99202</Code>
+<Quantity>1</Quantity>
+<Net>87.2</Net>
+<Clinician>GD15919</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>@Arab Oriant Insurance Company</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>SM-233238</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00432130 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF2124</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>133</Gross>
+<PatientShare>50</PatientShare>
+<Net>83</Net>
+<Encounter>
+<FacilityID>MF2124</FacilityID>
+<Type>1</Type>
+<PatientID>23297</PatientID>
+<Start>14/08/2013 18:04</Start>
+<StartType>1</StartType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>461.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>493.90</Code>
+</Diagnosis>
+<Activity>
+<ID>937792</ID>
+<Start>14/08/2013 18:04</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>83</Net>
+<Clinician>D2256</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>@Arab Oriant Insurance Company</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>SM-233240</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00432132 02</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF2124</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>133</Gross>
+<PatientShare>50</PatientShare>
+<Net>83</Net>
+<Encounter>
+<FacilityID>MF2124</FacilityID>
+<Type>1</Type>
+<PatientID>79762</PatientID>
+<Start>14/08/2013 18:06</Start>
+<StartType>1</StartType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>782.1</Code>
+</Diagnosis>
+<Activity>
+<ID>937794</ID>
+<Start>14/08/2013 18:06</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>83</Net>
+<Clinician>D2348</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>@Arab Oriant Insurance Company</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>SM-233245</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00458675 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF2124</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>133</Gross>
+<PatientShare>50</PatientShare>
+<Net>83</Net>
+<Encounter>
+<FacilityID>MF2124</FacilityID>
+<Type>1</Type>
+<PatientID>44502</PatientID>
+<Start>14/08/2013 11:34</Start>
+<StartType>1</StartType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>461.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Activity>
+<ID>937800</ID>
+<Start>14/08/2013 11:34</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>83</Net>
+<Clinician>D2256</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>@Arab Oriant Insurance Company</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>SM-233241</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00423471 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF2124</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>133</Gross>
+<PatientShare>50</PatientShare>
+<Net>83</Net>
+<Encounter>
+<FacilityID>MF2124</FacilityID>
+<Type>1</Type>
+<PatientID>5566</PatientID>
+<Start>18/08/2013 18:06</Start>
+<StartType>1</StartType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>487.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>412</Code>
+</Diagnosis>
+<Activity>
+<ID>937795</ID>
+<Start>18/08/2013 18:06</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>83</Net>
+<Clinician>GD10244</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>@Arab Oriant Insurance Company</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

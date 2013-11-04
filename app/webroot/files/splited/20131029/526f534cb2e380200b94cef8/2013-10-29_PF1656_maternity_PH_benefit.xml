@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>PF1656</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>24/10/2013 11:10</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>PF1656-PH-AUG13-MEDNET-AOIC-1</ID>
+    <MemberID>420966</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>PF1656</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>7.6</Gross>
+    <PatientShare>0.76</PatientShare>
+    <Net>6.84</Net>
+    <Encounter>
+      <FacilityID>PF1656</FacilityID>
+      <Type>1</Type>
+      <PatientID>123</PatientID>
+      <Start>13/08/2013 00:00</Start>
+      <End>13/08/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>564.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.01</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>V22.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>1</ID>
+      <Start>13/08/2013 00:00</Start>
+      <End>13/08/2013 00:00</End>
+      <Code>1471-4483-001</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>8.00</Net>
+      <Clinician>D1965</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

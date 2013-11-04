@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>PF1489</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>12/10/2013 12:09</TransactionDate>
+    <RecordCount>2</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SP30211765</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00294070 01</MemberID>
+    <PayerID>A019</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>42.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>42.50</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>1814391</PatientID>
+      <Start>19/09/2013 22:38</Start>
+      <End>19/09/2013 22:38</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564882</ID>
+      <Start>19/09/2013 22:38</Start>
+      <Type>5</Type>
+      <Code>1475-2259-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>9.50</Net>
+      <Clinician>GD11436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564883</ID>
+      <Start>19/09/2013 22:38</Start>
+      <Type>5</Type>
+      <Code>1472-1058-011</Code>
+      <Quantity>1.00</Quantity>
+      <Net>6.50</Net>
+      <Clinician>GD11436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564884</ID>
+      <Start>19/09/2013 22:38</Start>
+      <Type>5</Type>
+      <Code>1472-1319-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>26.50</Net>
+      <Clinician>GD11436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arabia Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30211766</ID>
+    <IDPayer />
+    <MemberID>0971 1004 00418767 01</MemberID>
+    <PayerID>A019</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>24.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>24.00</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>110091866</PatientID>
+      <Start>19/09/2013 22:41</Start>
+      <End>19/09/2013 22:41</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>460</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39564885</ID>
+      <Start>19/09/2013 22:41</Start>
+      <Type>5</Type>
+      <Code>1472-1058-007</Code>
+      <Quantity>1.00</Quantity>
+      <Net>6.50</Net>
+      <Clinician>GD11436</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39564886</ID>
+      <Start>19/09/2013 22:41</Start>
+      <Type>5</Type>
+      <Code>1711-4572-007</Code>
+      <Quantity>1.00</Quantity>
+      <Net>17.50</Net>
+      <Clinician>GD11436</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Arabia Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:39</TransactionDate>
+    <RecordCount>4</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30158428</ID>
+    <IDPayer>223081_19099_SC30158428</IDPayer>
+    <MemberID>0971 1004 00438020 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>892.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>842.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110119491</PatientID>
+      <Start>21/05/2013 10:03</Start>
+      <End>21/05/2013 10:03</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>616.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>626.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>36235001</ID>
+      <Start>21/05/2013 10:03</Start>
+      <Type>3</Type>
+      <Code>76830</Code>
+      <Quantity>1.000</Quantity>
+      <Net>598.00</Net>
+      <Clinician>GD15274</Clinician>
+    </Activity>
+    <Activity>
+      <ID>36235002</ID>
+      <Start>21/05/2013 10:03</Start>
+      <Type>3</Type>
+      <Code>99202</Code>
+      <Quantity>1.000</Quantity>
+      <Net>244.00</Net>
+      <Clinician>GD15274</Clinician>
+    </Activity>
+    <Resubmission>
+      <Type>correction</Type>
+      <Comment>The principal diagnosis foe cervicitis &amp; endo cervicitis are covered as per patients schedule of benefits. Principal diagnosis was corrected from 256.4 to 616.0. Kindly process. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30051853</ID>
+    <IDPayer>223081_19099_SL30051853</IDPayer>
+    <MemberID>0971 1004 00438020 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>404.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>404.80</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110119491</PatientID>
+      <Start>22/05/2013 00:00</Start>
+      <End>22/05/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>626.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>36235085</ID>
+      <Start>22/05/2013 00:00</Start>
+      <Type>3</Type>
+      <Code>88141</Code>
+      <Quantity>1.000</Quantity>
+      <Net>236.90</Net>
+      <Clinician>GD15274</Clinician>
+    </Activity>
+    <Activity>
+      <ID>36235086</ID>
+      <Start>22/05/2013 00:00</Start>
+      <Type>3</Type>
+      <Code>88143</Code>
+      <Quantity>1.000</Quantity>
+      <Net>167.90</Net>
+      <Clinician>GD15274</Clinician>
+    </Activity>
+    <Resubmission>
+      <Type>correction</Type>
+      <Comment>Corrected the principal diagnosis as per the patient documentation.The resubmitted activities(thin preparation PAP) are done to isolate infectious organism as the patient is having cervicitis and vaginitis. Please process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SL30051860</ID>
+    <IDPayer>223081_19099_SL30051860</IDPayer>
+    <MemberID>0971 1004 00438020 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>759.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>759.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110119491</PatientID>
+      <Start>29/05/2013 09:12</Start>
+      <End>29/05/2013 09:12</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>626.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>36235104</ID>
+      <Start>29/05/2013 09:12</Start>
+      <Type>3</Type>
+      <Code>81000</Code>
+      <Quantity>1.000</Quantity>
+      <Net>25.30</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>36235105</ID>
+      <Start>29/05/2013 09:12</Start>
+      <Type>3</Type>
+      <Code>83001</Code>
+      <Quantity>1.000</Quantity>
+      <Net>154.10</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>36235106</ID>
+      <Start>29/05/2013 09:12</Start>
+      <Type>3</Type>
+      <Code>83002</Code>
+      <Quantity>1.000</Quantity>
+      <Net>154.10</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>36235107</ID>
+      <Start>29/05/2013 09:12</Start>
+      <Type>3</Type>
+      <Code>83525</Code>
+      <Quantity>1.000</Quantity>
+      <Net>94.30</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>36235108</ID>
+      <Start>29/05/2013 09:12</Start>
+      <Type>3</Type>
+      <Code>84144</Code>
+      <Quantity>1.000</Quantity>
+      <Net>172.50</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Activity>
+      <ID>36235109</ID>
+      <Start>29/05/2013 09:12</Start>
+      <Type>3</Type>
+      <Code>84146</Code>
+      <Quantity>1.000</Quantity>
+      <Net>158.70</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>correction</Type>
+      <Comment>Principal diagnosis corrected. As per the patient's schedule of benefits and/or communicated Insurance guidelines, the resubmitted diagnosis is covered, as the patient has visited for the complaints of menstrual problem x 6 months with unconfirmed diagnosis.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SX30024271</ID>
+    <IDPayer>223081_19099_SX30024271</IDPayer>
+    <MemberID>0971 1004 00438020 02</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>627.90</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>627.90</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>110119491</PatientID>
+      <Start>23/05/2013 09:11</Start>
+      <End>23/05/2013 09:11</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>256.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>616.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>626.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>36235125</ID>
+      <Start>23/05/2013 09:11</Start>
+      <Type>3</Type>
+      <Code>76770</Code>
+      <Quantity>1.000</Quantity>
+      <Net>627.90</Net>
+      <Clinician>GD15274</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>correction</Type>
+      <Comment>Principal diagnosis corrected. As per the patient's schedule of benefits and/or communicated Insurance guidelines, the resubmitted diagnosis is covered, as the patient has visited with complaints of menstrual problem x 6 months with unconfirmed diagnosis.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

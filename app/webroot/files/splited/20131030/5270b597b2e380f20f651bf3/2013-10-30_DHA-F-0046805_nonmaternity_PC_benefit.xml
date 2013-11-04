@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0046805</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>29/10/2013 19:14</TransactionDate>
+    <RecordCount>4</RecordCount>
+  </Header>
+  <Claim>
+    <ID>II390886</ID>
+    <MemberID>09711004004495801</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0046805</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>133.70</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>133.70</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046805</FacilityID>
+      <Type>1</Type>
+      <PatientID>RG689864</PatientID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <StartType>1</StartType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>T78.40XD</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>15</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>96373</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>61.00</Net>
+      <Clinician>DHA-P-0241581</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GNTRINTM</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>II395442</ID>
+    <MemberID>281038</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0046805</ProviderID>
+    <EmiratesIDNumber>784-1900-0000000-0</EmiratesIDNumber>
+    <Gross>216.80</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>216.80</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046805</FacilityID>
+      <Type>1</Type>
+      <PatientID>RG372870</PatientID>
+      <Start>17/09/2013 00:00</Start>
+      <End>17/09/2013 00:00</End>
+      <StartType>1</StartType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N76.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N39.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>D50.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>36</ID>
+      <Start>17/09/2013 00:00</Start>
+      <End>17/09/2013 00:00</End>
+      <Code>96374</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0252627</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GNTRINTV</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>II395445</ID>
+    <MemberID>356351</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0046805</ProviderID>
+    <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+    <Gross>259.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>259.50</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046805</FacilityID>
+      <Type>1</Type>
+      <PatientID>RG591785</PatientID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <StartType>1</StartType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H66.93</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>40</ID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <Code>96365</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GNTRIVFL</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>41</ID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <Code>96374</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GNTRINTV</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>II395447</ID>
+    <MemberID>344324</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>DHA-F-0046805</ProviderID>
+    <EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber>
+    <Gross>289.00</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>239.00</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046805</FacilityID>
+      <Type>1</Type>
+      <PatientID>RG496341</PatientID>
+      <Start>02/09/2013 00:00</Start>
+      <End>02/09/2013 00:00</End>
+      <StartType>1</StartType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I15.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E08.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E78.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>44</ID>
+      <Start>02/09/2013 00:00</Start>
+      <End>02/09/2013 00:00</End>
+      <Code>9</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>90.00</Net>
+      <Clinician>DHA-P-0003461</Clinician>
+      <PriorAuthorizationID/>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GPCNC01</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

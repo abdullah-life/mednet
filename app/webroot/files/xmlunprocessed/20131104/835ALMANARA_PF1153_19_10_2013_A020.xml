@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1153</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>19/10/2013 11:18</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>ALMANARA_PF1153_19_10_2013_A020-1</ID><MemberID>416452</MemberID><PayerID>A020</PayerID><ProviderID>PF1153</ProviderID><EmiratesIDNumber>222-2222-2222222-2</EmiratesIDNumber><Gross>231.57</Gross><PatientShare>0</PatientShare><Net>231.57</Net><Encounter>
+<FacilityID>PF1153</FacilityID><Type>1</Type><PatientID>33029</PatientID><Start>03/09/2013 11:31</Start><End>03/09/2013 11:31</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>338.19</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>463</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>465.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>530.81</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>03/09/2013 11:31</Start><Type>5</Type><Code>1750-4545-012</Code><Quantity>2</Quantity><Net>194.37</Net><Clinician>GD2817</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>03/09/2013 11:31</Start><Type>5</Type><Code>1417-1033-003</Code><Quantity>1</Quantity><Net>14.88</Net><Clinician>GD2817</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>03/09/2013 11:31</Start><Type>5</Type><Code>1241-1457-013</Code><Quantity>1</Quantity><Net>22.32</Net><Clinician>GD2817</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

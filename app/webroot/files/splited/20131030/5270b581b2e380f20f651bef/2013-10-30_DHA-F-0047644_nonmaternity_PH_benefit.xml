@@ -1,0 +1,2838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0047644</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>29/10/2013 16:37</TransactionDate>
+    <RecordCount>48</RecordCount>
+  </Header>
+  <Claim>
+    <ID>ISLMZ1323376</ID>
+    <MemberID>423519</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>252.00</Gross>
+    <PatientShare>11.98</PatientShare>
+    <Net>227.41</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323376</PatientID>
+      <Start>01/09/2013 00:00</Start>
+      <End>01/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R05</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>1</ID>
+      <Start>01/09/2013 00:00</Start>
+      <End>01/09/2013 00:00</End>
+      <Code>0268-171902-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>2</ID>
+      <Start>01/09/2013 00:00</Start>
+      <End>01/09/2013 00:00</End>
+      <Code>0139-116206-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>122</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>3</ID>
+      <Start>01/09/2013 00:00</Start>
+      <End>01/09/2013 00:00</End>
+      <Code>0016-181302-1172</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>4</ID>
+      <Start>01/09/2013 00:00</Start>
+      <End>01/09/2013 00:00</End>
+      <Code>0070-124404-2061</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323521</ID>
+    <MemberID>437001</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>99.00</Gross>
+    <PatientShare>4.71</PatientShare>
+    <Net>89.33</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323521</PatientID>
+      <Start>02/09/2013 00:00</Start>
+      <End>02/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J45.909</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>5</ID>
+      <Start>02/09/2013 00:00</Start>
+      <End>02/09/2013 00:00</End>
+      <Code>0006-126004-1393</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>77</Net>
+      <Clinician>DHA-P-0247828</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>6</ID>
+      <Start>02/09/2013 00:00</Start>
+      <End>02/09/2013 00:00</End>
+      <Code>0005-106704-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>6</Net>
+      <Clinician>DHA-P-0247828</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>7</ID>
+      <Start>02/09/2013 00:00</Start>
+      <End>02/09/2013 00:00</End>
+      <Code>0027-128801-1971</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0247828</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323599</ID>
+    <MemberID>225313</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>1533.00</Gross>
+    <PatientShare>72.81</PatientShare>
+    <Net>1383.51</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323599</PatientID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E78.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>I25.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N41.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K21.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>8</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0090-204901-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>295</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>9</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0006-126701-1481</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>150</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>10</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0071-164203-2001</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>76</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>11</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>1007-124204-0342</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>19</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>12</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0137-338302-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>197</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>13</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0188-155602-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>132</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>14</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0415-243002-1171</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>92</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>15</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0688-211501-1451</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>40</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>16</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0027-131702-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>17</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0030-121401-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>115</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>18</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0516-188101-2191</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>181</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323615</ID>
+    <MemberID>431364</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>20.00</Gross>
+    <PatientShare>0.95</PatientShare>
+    <Net>18.05</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323615</PatientID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L30.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>19</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0006-149801-0151</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>20</Net>
+      <Clinician>DHA-P-0245142</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323616</ID>
+    <MemberID>182190</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>42.71</Gross>
+    <PatientShare>2.03</PatientShare>
+    <Net>38.54</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323616</PatientID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S63.592A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>20</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>0207-112401-1171</Code>
+      <Type>5</Type>
+      <Quantity>0.25</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0244840</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>21</ID>
+      <Start>03/09/2013 00:00</Start>
+      <End>03/09/2013 00:00</End>
+      <Code>1217-373201-2401</Code>
+      <Type>5</Type>
+      <Quantity>0.33</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0244840</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323643</ID>
+    <MemberID>318879</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>203.50</Gross>
+    <PatientShare>9.67</PatientShare>
+    <Net>183.65</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323643</PatientID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R10.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N86</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N77.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>22</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0005-140201-1451</Code>
+      <Type>5</Type>
+      <Quantity>4</Quantity>
+      <Net>34</Net>
+      <Clinician>DHA-P-0248003</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>23</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0118-140403-2741</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>13</Net>
+      <Clinician>DHA-P-0248003</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>24</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0031-132001-0151</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0248003</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>25</ID>
+      <Start>04/09/2013 00:00</Start>
+      <End>04/09/2013 00:00</End>
+      <Code>0138-116604-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>37</Net>
+      <Clinician>DHA-P-0248003</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323769</ID>
+    <MemberID>363118</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>71.50</Gross>
+    <PatientShare>3.40</PatientShare>
+    <Net>64.52</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323769</PatientID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R10.30</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>26</ID>
+      <Start>05/09/2013 00:00</Start>
+      <End>05/09/2013 00:00</End>
+      <Code>1291-170901-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>71</Net>
+      <Clinician>DHA-P-0248003</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323901</ID>
+    <MemberID>353442</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>264.00</Gross>
+    <PatientShare>12.54</PatientShare>
+    <Net>238.26</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323901</PatientID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K21.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>27</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>0031-127002-1451</Code>
+      <Type>5</Type>
+      <Quantity>3</Quantity>
+      <Net>33</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>28</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>0031-127002-1451</Code>
+      <Type>5</Type>
+      <Quantity>5</Quantity>
+      <Net>33</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323945</ID>
+    <MemberID>439298</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>28.00</Gross>
+    <PatientShare>1.33</PatientShare>
+    <Net>25.27</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323945</PatientID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>L30.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>29</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>0430-213601-0152</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>28</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1323955</ID>
+    <MemberID>395651</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>309.50</Gross>
+    <PatientShare>14.70</PatientShare>
+    <Net>279.31</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1323955</PatientID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R50.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K21.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>30</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>0268-171902-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>31</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>1302-193305-0361</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>43</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>32</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>0227-174201-1452</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>200</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>33</ID>
+      <Start>07/09/2013 00:00</Start>
+      <End>07/09/2013 00:00</End>
+      <Code>0098-128802-2061</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>24</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324054</ID>
+    <MemberID>425856</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>176.25</Gross>
+    <PatientShare>8.38</PatientShare>
+    <Net>159.05</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324054</PatientID>
+      <Start>08/09/2013 00:00</Start>
+      <End>08/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J45.41</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34</ID>
+      <Start>08/09/2013 00:00</Start>
+      <End>08/09/2013 00:00</End>
+      <Code>0006-124511-2071</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>61</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>35</ID>
+      <Start>08/09/2013 00:00</Start>
+      <End>08/09/2013 00:00</End>
+      <Code>0188-135907-2441</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>180</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>36</ID>
+      <Start>08/09/2013 00:00</Start>
+      <End>08/09/2013 00:00</End>
+      <Code>0774-236601-1971</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>33</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>37</ID>
+      <Start>08/09/2013 00:00</Start>
+      <End>08/09/2013 00:00</End>
+      <Code>0205-123704-1631</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>22</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324163</ID>
+    <MemberID>181947</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>259.50</Gross>
+    <PatientShare>12.33</PatientShare>
+    <Net>234.19</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324163</PatientID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K29.70</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K59.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>A06.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>38</ID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <Code>0195-174201-1451</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>79</Net>
+      <Clinician>DHA-P-0243566</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>39</ID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <Code>0102-103201-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>68</Net>
+      <Clinician>DHA-P-0243566</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>40</ID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <Code>0701-141605-1111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0243566</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>41</ID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <Code>0170-116609-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>18</Net>
+      <Clinician>DHA-P-0243566</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324170</ID>
+    <MemberID>314722</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>190.00</Gross>
+    <PatientShare>9.03</PatientShare>
+    <Net>171.47</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324170</PatientID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B36.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>L73.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>42</ID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <Code>0415-140401-0151</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>16</Net>
+      <Clinician>DHA-P-0012371</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>43</ID>
+      <Start>09/09/2013 00:00</Start>
+      <End>09/09/2013 00:00</End>
+      <Code>0186-140201-1451</Code>
+      <Type>5</Type>
+      <Quantity>4</Quantity>
+      <Net>43</Net>
+      <Clinician>DHA-P-0012371</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324194</ID>
+    <MemberID>408532</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>921.50</Gross>
+    <PatientShare>43.78</PatientShare>
+    <Net>831.64</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324194</PatientID>
+      <Start>10/09/2013 00:00</Start>
+      <End>10/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J30.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J34.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J34.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K21.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H60.313</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>44</ID>
+      <Start>10/09/2013 00:00</Start>
+      <End>10/09/2013 00:00</End>
+      <Code>1308-232401-1452</Code>
+      <Type>5</Type>
+      <Quantity>4</Quantity>
+      <Net>88</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275317</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>45</ID>
+      <Start>10/09/2013 00:00</Start>
+      <End>10/09/2013 00:00</End>
+      <Code>0227-174201-1452</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>200</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275317</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>46</ID>
+      <Start>10/09/2013 00:00</Start>
+      <End>10/09/2013 00:00</End>
+      <Code>0070-124404-2061</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275317</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>47</ID>
+      <Start>10/09/2013 00:00</Start>
+      <End>10/09/2013 00:00</End>
+      <Code>0070-390001-0151</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>22</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275317</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324345</ID>
+    <MemberID>412750</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>227.30</Gross>
+    <PatientShare>10.80</PatientShare>
+    <Net>205.12</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324345</PatientID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>G54.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>48</ID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <Code>1217-373201-2401</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>49</ID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <Code>0183-142201-2401</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>59</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>50</ID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <Code>0016-188402-1451</Code>
+      <Type>5</Type>
+      <Quantity>0.28</Quantity>
+      <Net>175</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>51</ID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <Code>0195-121101-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>46</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324375</ID>
+    <MemberID>359265</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>474.50</Gross>
+    <PatientShare>22.54</PatientShare>
+    <Net>428.23</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324375</PatientID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J45.20</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>52</ID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <Code>1137-114003-2011</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>84</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275515</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>53</ID>
+      <Start>11/09/2013 00:00</Start>
+      <End>11/09/2013 00:00</End>
+      <Code>0013-395402-0081</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275515</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324473</ID>
+    <MemberID>363118</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>92.00</Gross>
+    <PatientShare>4.37</PatientShare>
+    <Net>83.03</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324473</PatientID>
+      <Start>12/09/2013 00:00</Start>
+      <End>12/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K52.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K58.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>54</ID>
+      <Start>12/09/2013 00:00</Start>
+      <End>12/09/2013 00:00</End>
+      <Code>0998-346801-0391</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>46</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID>275515</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324542</ID>
+    <MemberID>360828</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>848.50</Gross>
+    <PatientShare>40.31</PatientShare>
+    <Net>765.76</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324542</PatientID>
+      <Start>14/09/2013 00:00</Start>
+      <End>14/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J45.20</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>55</ID>
+      <Start>14/09/2013 00:00</Start>
+      <End>14/09/2013 00:00</End>
+      <Code>0009-368802-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>56</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275769</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>56</ID>
+      <Start>14/09/2013 00:00</Start>
+      <End>14/09/2013 00:00</End>
+      <Code>0090-265901-1171</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>238</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275769</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>57</ID>
+      <Start>14/09/2013 00:00</Start>
+      <End>14/09/2013 00:00</End>
+      <Code>0070-124404-2061</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275769</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>58</ID>
+      <Start>14/09/2013 00:00</Start>
+      <End>14/09/2013 00:00</End>
+      <Code>0205-290301-0391</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275769</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>59</ID>
+      <Start>14/09/2013 00:00</Start>
+      <End>14/09/2013 00:00</End>
+      <Code>0098-128802-2061</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>24</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>275769</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324646</ID>
+    <MemberID>314712</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>53.00</Gross>
+    <PatientShare>10.07</PatientShare>
+    <Net>40.28</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324646</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K04.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>60</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0139-116204-2151</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0243799</Clinician>
+      <PriorAuthorizationID>275824</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>61</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0278-107904-1162</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>12</Net>
+      <Clinician>DHA-P-0243799</Clinician>
+      <PriorAuthorizationID>275824</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324688</ID>
+    <MemberID>225313</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>1487.00</Gross>
+    <PatientShare>70.64</PatientShare>
+    <Net>1342.01</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324688</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J45.31</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K58.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>62</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0098-112101-2061</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>53</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID>275927</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>63</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0035-107704-1362</Code>
+      <Type>5</Type>
+      <Quantity>10</Quantity>
+      <Net>135</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID>275927</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>64</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0459-151701-0083</Code>
+      <Type>5</Type>
+      <Quantity>4</Quantity>
+      <Net>21</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID>275927</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324710</ID>
+    <MemberID>407758</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>78.50</Gross>
+    <PatientShare>3.73</PatientShare>
+    <Net>70.84</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324710</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R19.7</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N39.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>65</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0444-348905-0971</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>78</Net>
+      <Clinician>DHA-P-0252627</Clinician>
+      <PriorAuthorizationID>275927</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324733</ID>
+    <MemberID>314925</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>157.00</Gross>
+    <PatientShare>7.46</PatientShare>
+    <Net>141.69</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324733</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>66</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0444-348905-0971</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>78</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID>275927</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324737</ID>
+    <MemberID>246878</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>71.50</Gross>
+    <PatientShare>3.40</PatientShare>
+    <Net>64.52</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324737</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N92.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>67</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>1291-170901-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>71</Net>
+      <Clinician>DHA-P-0006589</Clinician>
+      <PriorAuthorizationID>275927</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324765</ID>
+    <MemberID>439298</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>40.50</Gross>
+    <PatientShare>1.92</PatientShare>
+    <Net>36.54</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324765</PatientID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R11.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J02.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>68</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0005-106602-2231</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>64</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>69</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>0415-168202-1111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>16</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>70</ID>
+      <Start>15/09/2013 00:00</Start>
+      <End>15/09/2013 00:00</End>
+      <Code>1086-123702-1381</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>17</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324812</ID>
+    <MemberID>097110040031887001A</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>151.50</Gross>
+    <PatientShare>7.19</PatientShare>
+    <Net>136.73</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324812</PatientID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M13.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>71</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0027-378802-0433</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>51</Net>
+      <Clinician>DHA-P-0248002</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>72</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0788-106616-2001</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0248002</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>73</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0090-122303-0392</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>171</Net>
+      <Clinician>DHA-P-0248002</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324861</ID>
+    <MemberID>181947</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>15.00</Gross>
+    <PatientShare>0.71</PatientShare>
+    <Net>13.54</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324861</PatientID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>A06.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N20.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>74</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0189-109805-1171</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0243566</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1324893</ID>
+    <MemberID>178407</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>918.00</Gross>
+    <PatientShare>43.61</PatientShare>
+    <Net>828.49</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1324893</PatientID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B37.84</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H61.21</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K21.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>75</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>1308-232401-1452</Code>
+      <Type>5</Type>
+      <Quantity>4</Quantity>
+      <Net>88</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>276118</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>76</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0031-132001-0151</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>276118</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>77</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0005-103201-0391</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>75</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>276118</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>78</ID>
+      <Start>16/09/2013 00:00</Start>
+      <End>16/09/2013 00:00</End>
+      <Code>0227-174201-1452</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>200</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID>276118</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325091</ID>
+    <MemberID>355123</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>210.50</Gross>
+    <PatientShare>10.00</PatientShare>
+    <Net>189.97</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325091</PatientID>
+      <Start>18/09/2013 00:00</Start>
+      <End>18/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J20.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>79</ID>
+      <Start>18/09/2013 00:00</Start>
+      <End>18/09/2013 00:00</End>
+      <Code>1161-274301-0392</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>137</Net>
+      <Clinician>DHA-P-0017801</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>80</ID>
+      <Start>18/09/2013 00:00</Start>
+      <End>18/09/2013 00:00</End>
+      <Code>0155-132303-1451</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>52</Net>
+      <Clinician>DHA-P-0017801</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>81</ID>
+      <Start>18/09/2013 00:00</Start>
+      <End>18/09/2013 00:00</End>
+      <Code>0459-151701-0083</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>21</Net>
+      <Clinician>DHA-P-0017801</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325326</ID>
+    <MemberID>318870</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>59.00</Gross>
+    <PatientShare>2.80</PatientShare>
+    <Net>53.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325326</PatientID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N20.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>82</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>1356-111705-0251</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0017801</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325412</ID>
+    <MemberID>181947</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>370.50</Gross>
+    <PatientShare>17.60</PatientShare>
+    <Net>334.37</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325412</PatientID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N20.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>83</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0942-249004-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>341</Net>
+      <Clinician>DHA-P-0003147</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>84</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>1356-111705-0251</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0003147</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325429</ID>
+    <MemberID>439298</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>48.00</Gross>
+    <PatientShare>2.28</PatientShare>
+    <Net>43.31</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325429</PatientID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>85</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0006-124511-2071</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>61</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>86</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>1086-123702-1381</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>17</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325430</ID>
+    <MemberID>439299</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>173.00</Gross>
+    <PatientShare>8.22</PatientShare>
+    <Net>156.11</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325430</PatientID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J45.41</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J18.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>87</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0006-124511-2071</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>61</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>88</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0152-119813-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>42</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>89</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0053-148608-0462</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>38</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>90</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0774-236601-1971</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>33</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>91</ID>
+      <Start>21/09/2013 00:00</Start>
+      <End>21/09/2013 00:00</End>
+      <Code>0005-106605-2232</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>6</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325451</ID>
+    <MemberID>191852</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>49.00</Gross>
+    <PatientShare>2.33</PatientShare>
+    <Net>44.22</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325451</PatientID>
+      <Start>22/09/2013 00:00</Start>
+      <End>22/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M54.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>92</ID>
+      <Start>22/09/2013 00:00</Start>
+      <End>22/09/2013 00:00</End>
+      <Code>0701-180401-0431</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>17</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>93</ID>
+      <Start>22/09/2013 00:00</Start>
+      <End>22/09/2013 00:00</End>
+      <Code>0195-142201-0111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>32</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325493</ID>
+    <MemberID>439299</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>574.50</Gross>
+    <PatientShare>27.29</PatientShare>
+    <Net>518.48</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325493</PatientID>
+      <Start>22/09/2013 00:00</Start>
+      <End>22/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J45.41</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J18.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>94</ID>
+      <Start>22/09/2013 00:00</Start>
+      <End>22/09/2013 00:00</End>
+      <Code>0090-265903-0461</Code>
+      <Type>5</Type>
+      <Quantity>3</Quantity>
+      <Net>191</Net>
+      <Clinician>DHA-P-0038068</Clinician>
+      <PriorAuthorizationID>276771</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325624</ID>
+    <MemberID>182297</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>78.50</Gross>
+    <PatientShare>3.73</PatientShare>
+    <Net>70.84</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325624</PatientID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>95</ID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <Code>0444-348905-0971</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>78</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325625</ID>
+    <MemberID>314738</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>106.50</Gross>
+    <PatientShare>5.06</PatientShare>
+    <Net>96.11</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325625</PatientID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E58</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>96</ID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <Code>0444-348905-0971</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>78</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>97</ID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <Code>0311-106201-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>28</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325645</ID>
+    <MemberID>426219</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>155.83</Gross>
+    <PatientShare>7.41</PatientShare>
+    <Net>140.62</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325645</PatientID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M54.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>98</ID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <Code>1217-373201-2401</Code>
+      <Type>5</Type>
+      <Quantity>0.33</Quantity>
+      <Net>73</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>99</ID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <Code>0090-122303-0392</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>171</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>100</ID>
+      <Start>23/09/2013 00:00</Start>
+      <End>23/09/2013 00:00</End>
+      <Code>0006-112401-1172</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>92</Net>
+      <Clinician>DHA-P-0026416</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325712</ID>
+    <MemberID>191852</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>15.50</Gross>
+    <PatientShare>0.74</PatientShare>
+    <Net>13.98</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325712</PatientID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M54.5</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>101</ID>
+      <Start>24/09/2013 00:00</Start>
+      <End>24/09/2013 00:00</End>
+      <Code>0016-181302-1172</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1325922</ID>
+    <MemberID>191852</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>61.50</Gross>
+    <PatientShare>2.92</PatientShare>
+    <Net>55.50</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1325922</PatientID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M54.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>102</ID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <Code>0383-173601-2611</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>29</Net>
+      <Clinician>DHA-P-0248002</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>103</ID>
+      <Start>26/09/2013 00:00</Start>
+      <End>26/09/2013 00:00</End>
+      <Code>0195-142201-0111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>32</Net>
+      <Clinician>DHA-P-0248002</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326060</ID>
+    <MemberID>313597</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>77.00</Gross>
+    <PatientShare>3.67</PatientShare>
+    <Net>69.47</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326060</PatientID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>104</ID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <Code>0219-142903-0852</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>37</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>105</ID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <Code>0005-116901-2471</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>6</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>106</ID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <Code>0788-106604-1111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>107</ID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <Code>0070-148702-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>26</Net>
+      <Clinician>DHA-P-0021788</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326067</ID>
+    <MemberID>314924</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>777.50</Gross>
+    <PatientShare>36.93</PatientShare>
+    <Net>701.69</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326067</PatientID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>K21.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>G43.009</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>108</ID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <Code>0415-243002-1171</Code>
+      <Type>5</Type>
+      <Quantity>8</Quantity>
+      <Net>92</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID>277411</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>109</ID>
+      <Start>28/09/2013 00:00</Start>
+      <End>28/09/2013 00:00</End>
+      <Code>0027-149903-2231</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID>277411</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326252</ID>
+    <MemberID>357197</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>136.50</Gross>
+    <PatientShare>6.48</PatientShare>
+    <Net>123.18</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326252</PatientID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>110</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0268-171902-0391</Code>
+      <Type>5</Type>
+      <Quantity>0.5</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>111</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0397-116206-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>89</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>112</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0042-114504-2481</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>16</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>113</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0788-107203-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>10</Net>
+      <Clinician>DHA-P-0247571</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326318</ID>
+    <MemberID>225313</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>1289.00</Gross>
+    <PatientShare>61.22</PatientShare>
+    <Net>1163.31</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326318</PatientID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E10.65</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E78.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N41.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>114</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0090-204901-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>295</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>115</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0006-126701-1481</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>150</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>116</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0071-164203-2001</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>76</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>117</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0137-338302-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>197</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>118</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0188-155602-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>132</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>119</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0027-131702-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>120</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0030-121401-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>115</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>121</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0516-188101-2191</Code>
+      <Type>5</Type>
+      <Quantity>0.67</Quantity>
+      <Net>181</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>122</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0516-188101-2191</Code>
+      <Type>5</Type>
+      <Quantity>0.33</Quantity>
+      <Net>181</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326322</ID>
+    <MemberID>314525</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>173.25</Gross>
+    <PatientShare>8.22</PatientShare>
+    <Net>156.36</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326322</PatientID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N39.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N76.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>123</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0003-213902-2711</Code>
+      <Type>5</Type>
+      <Quantity>3</Quantity>
+      <Net>21</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>124</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0095-187902-1451</Code>
+      <Type>5</Type>
+      <Quantity>1.5</Quantity>
+      <Net>14</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>125</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0186-140201-1451</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>43</Net>
+      <Clinician>DHA-P-0245117</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326343</ID>
+    <MemberID>320818</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>242.50</Gross>
+    <PatientShare>11.52</PatientShare>
+    <Net>218.84</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326343</PatientID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J03.90</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>K21.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>126</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0788-106711-1171</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>11</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>127</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0009-368802-1171</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>56</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>128</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0030-183201-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>26</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>129</ID>
+      <Start>29/09/2013 00:00</Start>
+      <End>29/09/2013 00:00</End>
+      <Code>0671-208402-1451</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>92</Net>
+      <Clinician>DHA-P-0244428</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326356</ID>
+    <MemberID>363118</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>71.50</Gross>
+    <PatientShare>3.40</PatientShare>
+    <Net>64.52</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326356</PatientID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N92.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>130</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>1291-170901-0391</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>71</Net>
+      <Clinician>DHA-P-0248003</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326365</ID>
+    <MemberID>358265</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>125.50</Gross>
+    <PatientShare>5.97</PatientShare>
+    <Net>113.23</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326365</PatientID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J30.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J02.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>131</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0219-142903-0852</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>37</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>132</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0006-124511-2071</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>61</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>133</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0005-124502-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>134</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0005-103901-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>6</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>135</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0005-108603-2021</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>5</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>136</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0788-106604-1111</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>ISLMZ1326506</ID>
+    <MemberID>352037</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>DHA-F-0047644</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>59.00</Gross>
+    <PatientShare>2.81</PatientShare>
+    <Net>53.22</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0047644</FacilityID>
+      <Type>1</Type>
+      <PatientID>ISLMZ1326506</PatientID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J20.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>137</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0219-142903-0852</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>37</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>138</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0005-106602-2232</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>139</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0005-103901-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>6</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+    <Activity>
+      <ID>140</ID>
+      <Start>30/09/2013 00:00</Start>
+      <End>30/09/2013 00:00</End>
+      <Code>0067-124502-1161</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0250379</Clinician>
+      <PriorAuthorizationID/>
+    </Activity>
+  </Claim>
+</Claim.Submission>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF215</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>05/10/2013 09:54</TransactionDate> 
+<RecordCount>15</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-1</ID><MemberID>272469</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>394.8</Gross><PatientShare>0</PatientShare><Net>394.8</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:106604</PatientID><Start>02/09/2013 17:50</Start><End>02/09/2013 18:50</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>250.00</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>486</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>490</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>729.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>71010</Code><Quantity>1</Quantity><Net>67.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>80061</Code><Quantity>1</Quantity><Net>93.8</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>47210-0</Code><Value>2.1</Value><ValueType>mmol/L</ValueType></Observation>
+<Observation>
+<Type>LOINC</Type><Code>12772-0</Code><Value>0.8</Value><ValueType>mmol/L</ValueType></Observation>
+<Observation>
+<Type>LOINC</Type><Code>18261-8</Code><Value>2.3</Value><ValueType>mmol/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>3</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>85651</Code><Quantity>1</Quantity><Net>18.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>83036</Code><Quantity>1</Quantity><Net>49</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>17855-8</Code><Value>5.2</Value><ValueType>%</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>5</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>82947</Code><Quantity>1</Quantity><Net>19.6</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>14996-3</Code><Value>5.2</Value><ValueType>mmol/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>6</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>81000</Code><Quantity>1</Quantity><Net>15.4</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>7</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>85025</Code><Quantity>1</Quantity><Net>39.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>8</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>82565</Code><Quantity>1</Quantity><Net>25.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>9</ID><Start>02/09/2013 17:50</Start><Type>3</Type><Code>86738</Code><Quantity>1</Quantity><Net>67.2</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-2</ID><MemberID>421909</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>406</Gross><PatientShare>0</PatientShare><Net>406</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107208</PatientID><Start>08/09/2013 18:42</Start><End>08/09/2013 19:42</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.2</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>573.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>729.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>783.5</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>784.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>08/09/2013 18:42</Start><Type>3</Type><Code>76700</Code><Quantity>1</Quantity><Net>406</Net><Clinician>GD7296</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-3</ID><MemberID>180639</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>327.6</Gross><PatientShare>0</PatientShare><Net>327.6</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107203</PatientID><Start>08/09/2013 18:37</Start><End>08/09/2013 19:37</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>250.00</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.2</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>401.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>564.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>83036</Code><Quantity>1</Quantity><Net>49</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>17855-8</Code><Value>11.5</Value><ValueType>%</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>2</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>81000</Code><Quantity>1</Quantity><Net>15.4</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>80061</Code><Quantity>1</Quantity><Net>93.8</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>47210-0</Code><Value>3.0</Value><ValueType>mmol/L</ValueType></Observation>
+<Observation>
+<Type>LOINC</Type><Code>12772-0</Code><Value>0.9</Value><ValueType>mmol/L</ValueType></Observation>
+<Observation>
+<Type>LOINC</Type><Code>18261-8</Code><Value>3.9</Value><ValueType>mmol/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>4</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>84460</Code><Quantity>1</Quantity><Net>26.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>82947</Code><Quantity>1</Quantity><Net>19.6</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>14996-3</Code><Value>18.3</Value><ValueType>mmol/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>6</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>82043</Code><Quantity>1</Quantity><Net>29.4</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>32294-1</Code><Value>43.0</Value><ValueType>Mg/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>7</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>82565</Code><Quantity>1</Quantity><Net>25.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>8</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>84520</Code><Quantity>1</Quantity><Net>19.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>9</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>84450</Code><Quantity>1</Quantity><Net>26.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>10</ID><Start>08/09/2013 18:37</Start><Type>3</Type><Code>84550</Code><Quantity>1</Quantity><Net>22.4</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-4</ID><MemberID>364916</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>382.2</Gross><PatientShare>0</PatientShare><Net>382.2</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107680</PatientID><Start>14/09/2013 17:45</Start><End>14/09/2013 18:45</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>592.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>789.09</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>14/09/2013 17:45</Start><Type>3</Type><Code>76770</Code><Quantity>1</Quantity><Net>382.2</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-5</ID><MemberID>410748</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>43.4</Gross><PatientShare>0</PatientShare><Net>43.4</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107436</PatientID><Start>10/09/2013 17:56</Start><End>10/09/2013 18:56</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>463</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.4</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>10/09/2013 17:56</Start><Type>3</Type><Code>87070</Code><Quantity>1</Quantity><Net>43.4</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-6</ID><MemberID>410748</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>109.2</Gross><PatientShare>0</PatientShare><Net>109.2</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107436</PatientID><Start>11/09/2013 17:57</Start><End>11/09/2013 18:57</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>463</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>698.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>995.3</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>11/09/2013 17:57</Start><Type>3</Type><Code>85025</Code><Quantity>1</Quantity><Net>39.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>11/09/2013 17:57</Start><Type>3</Type><Code>86140</Code><Quantity>1</Quantity><Net>26.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>11/09/2013 17:57</Start><Type>3</Type><Code>83518</Code><Quantity>1</Quantity><Net>43.4</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-7</ID><MemberID>358725</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>351.4</Gross><PatientShare>0</PatientShare><Net>351.4</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107237</PatientID><Start>08/09/2013 11:41</Start><End>08/09/2013 12:41</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>240.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>780.79</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>785.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>08/09/2013 11:41</Start><Type>3</Type><Code>76536</Code><Quantity>1</Quantity><Net>351.4</Net><Clinician>GD7296</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-8</ID><MemberID>385401</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>810.6</Gross><PatientShare>0</PatientShare><Net>810.6</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107211</PatientID><Start>08/09/2013 11:44</Start><End>08/09/2013 12:44</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>599.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>623.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>634.00</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>667.10</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>789.04</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>08/09/2013 11:44</Start><Type>3</Type><Code>87088</Code><Quantity>1</Quantity><Net>40.6</Net><Clinician>GD7296</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>08/09/2013 11:44</Start><Type>3</Type><Code>76700</Code><Quantity>1</Quantity><Net>406</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>08/09/2013 11:44</Start><Type>3</Type><Code>76830</Code><Quantity>1</Quantity><Net>364</Net><Clinician>GD7296</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-9</ID><MemberID>379751</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>51.8</Gross><PatientShare>0</PatientShare><Net>51.8</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107994</PatientID><Start>17/09/2013 10:44</Start><End>17/09/2013 11:44</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>250.00</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>583.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>17/09/2013 10:44</Start><Type>3</Type><Code>82570</Code><Quantity>1</Quantity><Net>26.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>17/09/2013 10:44</Start><Type>3</Type><Code>82565</Code><Quantity>1</Quantity><Net>25.2</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-10</ID><MemberID>339564</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>309.4</Gross><PatientShare>0</PatientShare><Net>309.4</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:108004</PatientID><Start>17/09/2013 10:47</Start><End>17/09/2013 11:47</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>571.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>574.20</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>17/09/2013 10:47</Start><Type>3</Type><Code>76705</Code><Quantity>1</Quantity><Net>309.4</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-11</ID><MemberID>227883</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>103.6</Gross><PatientShare>0</PatientShare><Net>103.6</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:109094</PatientID><Start>28/09/2013 12:03</Start><End>28/09/2013 13:03</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>465.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>729.1</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>28/09/2013 12:03</Start><Type>3</Type><Code>85025</Code><Quantity>1</Quantity><Net>39.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>28/09/2013 12:03</Start><Type>3</Type><Code>81000</Code><Quantity>1</Quantity><Net>15.4</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>28/09/2013 12:03</Start><Type>3</Type><Code>87207</Code><Quantity>1</Quantity><Net>30.8</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>28/09/2013 12:03</Start><Type>3</Type><Code>85651</Code><Quantity>1</Quantity><Net>18.2</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-12</ID><MemberID>439355</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>434</Gross><PatientShare>0</PatientShare><Net>434</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:109054</PatientID><Start>28/09/2013 12:06</Start><End>28/09/2013 13:06</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>244.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>268.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>275.40</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>28/09/2013 12:06</Start><Type>3</Type><Code>82652</Code><Quantity>1</Quantity><Net>194.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>28/09/2013 12:06</Start><Type>3</Type><Code>82310</Code><Quantity>1</Quantity><Net>25.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>28/09/2013 12:06</Start><Type>3</Type><Code>84443</Code><Quantity>1</Quantity><Net>84</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>28/09/2013 12:06</Start><Type>3</Type><Code>84439</Code><Quantity>1</Quantity><Net>44.8</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>28/09/2013 12:06</Start><Type>3</Type><Code>84481</Code><Quantity>1</Quantity><Net>85.4</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-13</ID><MemberID>439354</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>875</Gross><PatientShare>0</PatientShare><Net>875</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:109053</PatientID><Start>28/09/2013 12:18</Start><End>28/09/2013 13:18</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>268.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>600.01</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>719.40</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>784.91</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>788.41</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>V58.69</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>80061</Code><Quantity>1</Quantity><Net>93.8</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>47210-0</Code><Value>1.1</Value><ValueType>mmol/L</ValueType></Observation>
+<Observation>
+<Type>LOINC</Type><Code>12772-0</Code><Value>1.1</Value><ValueType>mmol/L</ValueType></Observation>
+<Observation>
+<Type>LOINC</Type><Code>18261-8</Code><Value>3.8</Value><ValueType>mmol/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>2</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>80076</Code><Quantity>1</Quantity><Net>240.8</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>82947</Code><Quantity>1</Quantity><Net>19.6</Net><Clinician>D1001</Clinician><Observation>
+<Type>LOINC</Type><Code>14996-3</Code><Value>5.9</Value><ValueType>mmol/L</ValueType></Observation>
+</Activity>
+<Activity>
+<ID>4</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>82310</Code><Quantity>1</Quantity><Net>25.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>84550</Code><Quantity>1</Quantity><Net>22.4</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>6</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>82271</Code><Quantity>1</Quantity><Net>16.8</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>7</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>82652</Code><Quantity>1</Quantity><Net>194.6</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>8</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>87169</Code><Quantity>1</Quantity><Net>21</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>9</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>84443</Code><Quantity>1</Quantity><Net>84</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>10</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>84153</Code><Quantity>1</Quantity><Net>92.4</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>11</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>85025</Code><Quantity>1</Quantity><Net>39.2</Net><Clinician>D1001</Clinician></Activity>
+<Activity>
+<ID>12</ID><Start>28/09/2013 12:18</Start><Type>3</Type><Code>82565</Code><Quantity>1</Quantity><Net>25.2</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-14</ID><MemberID>463323</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>15.4</Gross><PatientShare>0</PatientShare><Net>15.4</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:109090</PatientID><Start>28/09/2013 09:59</Start><End>28/09/2013 10:59</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>V22.0</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>28/09/2013 09:59</Start><Type>3</Type><Code>86900</Code><Quantity>1</Quantity><Net>15.4</Net><Clinician>D1001</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>DAR AL MOUASAH-MF215-05-10-2013-OP-ORIENT-15</ID><MemberID>379751</MemberID><PayerID>A012</PayerID><ProviderID>MF215</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>406</Gross><PatientShare>0</PatientShare><Net>406</Net><Encounter>
+<FacilityID>MF215</FacilityID><Type>1</Type><PatientID>DMDC:107994</PatientID><Start>30/09/2013 12:34</Start><End>30/09/2013 13:34</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>250.41</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>250.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.4</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>30/09/2013 12:34</Start><Type>3</Type><Code>76700</Code><Quantity>1</Quantity><Net>406</Net><Clinician>GD7296</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

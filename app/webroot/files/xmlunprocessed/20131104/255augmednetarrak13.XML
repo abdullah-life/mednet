@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+  <SenderID>PF1047</SenderID>
+  <ReceiverID>C004</ReceiverID>
+  <TransactionDate>08/10/2013 12:21</TransactionDate>
+  <RecordCount>1</RecordCount>
+  <DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>10D14764</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1003 00381168 01</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1047</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>35.7</Gross>
+ <PatientShare>7</PatientShare>
+ <Net>28.7</Net>
+<Encounter>
+<FacilityID>PF1047</FacilityID>
+<Type>1</Type>
+<PatientID>10D14764</PatientID>
+<Start>20/08/2013 21:05</Start>
+<End>20/08/2013 21:05</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>1</ID>
+<Start>20/08/2013 21:05</Start>
+<Type>5</Type>
+<Code>2423-5283-002</Code>
+<Quantity>0.08</Quantity>
+<Net>28.7</Net>
+<Clinician>GD10660</Clinician>
+<PriorAuthorizationID>E-CLAIM</PriorAuthorizationID>
+</Activity>
+ </Claim>
+</Claim.Submission>

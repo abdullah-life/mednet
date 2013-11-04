@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="US-ASCII"?><Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+<SenderID>MF771</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>30/10/2013 17:21</TransactionDate>
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>APM-994061</ID>
+<IDPayer/>
+<MemberID>097110040017996801</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF771</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>86.4</Gross>
+<PatientShare>0</PatientShare>
+<Net>86.4</Net>
+<Encounter>
+<FacilityID>MF771</FacilityID>
+<Type>1</Type>
+<PatientID>4993</PatientID>
+<Start>28/09/2013 00:00</Start>
+<End>28/09/2013 00:00</End>
+<StartType>8</StartType>
+<EndType>1</EndType>
+<TransferSource>MF983</TransferSource>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>274.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Activity>
+<ID>5369396</ID>
+<Start>28/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>85652</Code>
+<Quantity>1.0</Quantity>
+<Net>16.0</Net>
+<Clinician>GD12899</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>5369397</ID>
+<Start>28/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>85025</Code>
+<Quantity>1.0</Quantity>
+<Net>44.8</Net>
+<Clinician>GD12899</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>5369398</ID>
+<Start>28/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>84550</Code>
+<Quantity>1.0</Quantity>
+<Net>25.6</Net>
+<Clinician>GD12899</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Contract>
+<PackageName>Arab Orient - MedNet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>APM-995608</ID>
+<IDPayer/>
+<MemberID>097110040044817602</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF771</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>412.8</Gross>
+<PatientShare>0</PatientShare>
+<Net>412.8</Net>
+<Encounter>
+<FacilityID>MF771</FacilityID>
+<Type>1</Type>
+<PatientID>142299</PatientID>
+<Start>21/09/2013 00:00</Start>
+<End>21/09/2013 00:00</End>
+<StartType>8</StartType>
+<EndType>1</EndType>
+<TransferSource>MF1133</TransferSource>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>620.2</Code>
+</Diagnosis>
+<Activity>
+<ID>5384112</ID>
+<Start>21/09/2013 00:00</Start>
+<Type>3</Type>
+<Code>76856</Code>
+<Quantity>1.0</Quantity>
+<Net>412.8</Net>
+<Clinician>D4965</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Contract>
+<PackageName>Arab Orient - MedNet</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

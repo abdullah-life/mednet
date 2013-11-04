@@ -1,0 +1,758 @@
+nj@charset "utf-8";
+/* CSS Document */
+* {
+	margin:0;
+	padding:0;
+}
+body{/*background:#fff url("../img/lg_BG.jpg") repeat-x 0 0;*/}
+form div {
+    padding:0;
+    margin-bottom:0;
+}
+form div.submit {
+    margin:0;
+   margin:  0 122px 0 0
+}
+#wrapper_adminLogin {
+	width:100%;
+	height:auto;
+	float:left;
+	position:relative;
+	/*background:#EBEBEB;*/ /*background:url(../img/lg_theme.jpg) no-repeat 55px 72px;background:url(../img/jh_logo.png) no-repeat 55px 72px;*/
+}
+
+#wrapper_adminLogin h1 {
+        font-size:31px;
+
+	color:#FFF;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	text-align:left;
+
+	background:none;
+
+	/*++++++++++*/
+
+	width:300px;
+        height:160px; 
+        display:block; 
+        float:left; 
+        overflow:hidden; 
+        text-indent:-10000px;
+       
+        margin-top:220px; 
+        position:absolute; 
+        margin:26px 0 0 45px; 
+        left:40%;
+}
+
+#wrapper_adminLogin h1 span { font-size:12px; font-weight:bold; }
+
+.logo_adminLogin {
+
+
+
+	width:226px;
+
+
+
+	height:164px;
+
+
+
+	margin:20px auto;
+
+
+
+}
+
+
+
+.login_outer {
+
+
+
+	width:628px;
+
+
+
+	height:auto;
+
+
+
+	margin:18px auto;
+
+
+
+	text-align:center;
+
+
+
+}
+
+
+
+.loginArea {
+
+
+
+	width:562px;
+
+
+
+	height:274px;
+
+
+
+	float:left;
+
+
+
+	position:relative;
+
+
+
+	background:url(../img/bg_adminLogin.png) no-repeat center;
+
+
+
+	padding:24px 33px 0 33px;
+
+
+
+	margin:0 0 95px 0;
+
+	/*++++++++*/
+
+	color:#333333; font:italic 14px/14px Arial,Helvetica,sans-serif; background:url(../img/loginform.gif) no-repeat;margin:0 0 15px 0;
+
+
+
+}
+
+
+
+.warning_adminLogin {
+
+
+
+	width:111px;
+
+
+
+	height:62px;
+
+
+
+	float:left;
+
+
+
+	position:relative;
+
+
+
+	background:url(../img/bg_warningLogin.gif) no-repeat left top;
+
+
+
+	padding:89px 17px 0 22px;
+
+
+
+	text-align:center;
+
+
+
+	color:#FFF;
+
+
+
+	font-size:11px;
+
+
+
+	font-family:Arial, Helvetica, sans-serif;
+
+
+
+	margin:0 0 0 20px;
+
+
+
+	font-weight:normal;
+
+
+
+}
+
+
+
+.formArea {
+
+
+
+	width:385px;
+
+
+
+	height:2px;
+
+
+
+	float:left;
+
+
+
+	position:relative;
+
+
+
+	text-align:left;
+
+
+
+	padding-bottom:4px;
+
+
+
+	/*display:none;*/
+
+	float:right; padding-right:10px;
+
+
+
+}
+
+
+
+.inputArea {
+
+
+
+	width:385px;
+
+
+
+	height:68px;
+
+
+
+	float:left;
+
+
+
+	position:relative;
+
+
+
+	text-align:left;
+
+
+
+	padding-bottom:4px;
+
+
+
+}
+
+
+
+ a.forgotPwd {
+
+
+
+	color:#FFFFFF;
+
+
+
+	float:left;
+
+
+
+	font-weight:normal;
+
+
+
+	position:relative;
+
+
+
+	text-decoration:none;
+
+
+
+	font-family:Arial, Helvetica, sans-serif;
+
+
+
+	text-shadow:1px 1px #3D566A;
+
+
+
+	font-size:12px;
+
+
+
+	line-height:14px;
+
+
+
+}
+
+
+
+ a.forgotPwd:hover {
+
+
+
+	 text-decoration:underline;
+
+
+
+ }
+
+
+
+
+
+
+
+form#AdminUserLoginForm .inputArea div.submit {
+
+
+
+	float:right;
+
+
+
+	position:relative;
+
+
+
+}
+
+
+
+
+
+
+
+*+html table {
+
+
+
+	padding:0;
+
+
+
+	margin:0;
+
+
+
+}
+
+
+
+.loginArea input[type="text"] {
+
+
+
+	clear:both;
+
+
+
+	padding:0;
+
+
+
+	margin:0;
+
+
+
+	/*width:377px;*/ width:327px;
+
+
+
+	height:44px;
+
+
+
+	background:url(../img/textbox_adminLogin.png) no-repeat center;
+
+
+
+	border:none;
+
+
+
+/*	padding:17px 10px 0 45px;*/
+
+
+
+	font-size:14px;
+
+
+
+	line-height:34px;
+
+	/*++++*/
+
+	font:italic 14px/34px Arial, Helvetica, sans-serif; padding-left:50px; color:#668C9E; font-style:normal; font-weight:bold;
+
+	background:#fff url(../img/log_kk.gif) no-repeat 9px center; border:1px solid #D6E6EF; -moz-border-radius:5px; border-radius:5px; height:42px; width:325px;
+
+
+
+}
+
+
+
+.loginArea input[type="password"] {
+
+
+
+	clear:both;
+
+
+
+	padding:0;
+
+
+
+	margin:0;
+
+
+
+	width:320px;
+
+ 
+
+	/*height:35px;*/ height:53px;
+
+
+
+	background:url(../img/pwd_adminLogin.png) no-repeat center;
+
+
+
+	border:none;
+
+
+
+	padding:0 10px 0 47px; background:#fff url(../img/log_lk.gif) no-repeat 9px center; border:1px solid #D6E6EF; -moz-border-radius:5px; border-radius:5px; width:318px; height:51px;
+
+	/*+++++++++*/
+
+
+
+}
+
+
+
+form#AdminUserLoginForm input[type="submit"] {
+
+
+
+	width:101px;
+
+
+
+	height:36px;
+
+
+
+	float:right;
+
+
+
+	position:relative;
+
+
+
+	background:url(../img/btn_login.jpg) no-repeat center top;
+
+
+
+	border:none;
+
+
+
+	-webkit-border-radius:0;
+
+
+
+	-moz-border-radius:0;
+
+
+
+	border-radius:0;
+
+
+
+	text-indent:-1500px;
+
+
+
+	cursor:pointer;
+
+
+
+	padding:0;
+
+
+
+	margin:3px 0;
+
+
+
+	margin-right:8px;
+
+
+
+}
+
+
+
+form#AdminUserLoginForm input[type="submit"]:hover {
+
+	background:url(../img/btn_login.jpg) no-repeat center bottom;
+
+}
+
+
+
+
+
+*+html form#AdminUserLoginForm input[type="submit"] {
+
+
+
+	font-size:0;
+
+
+
+	line-height:0;
+
+
+
+}
+
+
+
+
+
+
+
+.loginArea label {
+
+
+
+	padding:0;
+
+
+
+	margin-bottom:0;
+
+
+
+	font-family:Arial, Helvetica, sans-serif;
+
+
+
+	font-size:13px;
+
+
+
+	/*color:#FFF;*/
+
+
+
+	/*text-shadow:1px 1px #3D566A;*/
+
+
+
+	font-weight:normal;
+
+	/*++++++++++++++++*/
+
+	text-align:left; margin-left:7px;
+
+
+
+}
+
+
+
+.login_outer div.flash_failure {
+	width:111px;
+	height:62px;
+	float:left;
+	position:absolute;
+	background:url(../img/bg_warningLogin.png) no-repeat left top;
+	padding:89px 17px 0 22px;
+	text-align:center;
+	color:#333;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0 0 0 33px;
+	font-weight:normal;
+	top:220px;
+	left:810px;
+	z-index:100;
+	/*+++++++++++++++++++*/
+	top:130px; 
+	left:733px;
+}
+
+.login_outer div.flash_success {
+	width:111px;
+	height:62px;
+	float:left;
+	position:absolute;
+	background:url(../img/bg_warningLogin.png) no-repeat left top;
+	padding:89px 17px 0 22px;
+	text-align:center;
+	color:#333;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0 0 0 33px;
+	font-weight:normal;
+	top:220px;
+	left:810px;
+	z-index:100;
+	/*+++++++++++++++++++*/
+	top:130px; 
+	left:733px;
+}
+
+
+
+*+html .login_outer div.flash_failure {
+	top:200px;
+}
+
+*+html .login_outer div.flash_success {
+	top:200px;
+}
+
+
+
+.login_outer div.error-message {
+
+
+
+	display:none;
+
+
+
+}
+
+
+
+
+
+
+
+form#AdminUserLoginForm input[type=text] {
+
+
+
+	padding:0; 
+
+
+
+	margin:0;
+
+
+
+	width:324px;
+
+
+
+	height:31px;
+
+
+
+	padding:14px 10px 0 45px;
+
+
+
+}
+
+
+
+form#AdminUserLoginForm input[type=password] {
+
+
+
+	padding:0;
+
+
+
+	margin:0;
+
+
+
+	width:316px;
+
+
+
+	height:31px;
+
+
+
+	padding:14px 10px 0 53px;	
+
+
+
+}
+
+
+
+
+
+
+
+*:first-child+html form#AdminUserLoginForm input[type=text] { 
+
+
+
+	padding:5px 10px 0 45px;
+
+
+
+	height:40px;
+
+
+
+}
+
+
+
+*:first-child+html form#AdminUserLoginForm input[type=password]{
+
+
+
+	padding-left:53px;
+
+
+
+}
+
+
+
+/*+++++++++++++++++++++++++++++++*/
+
+.loginArea .submit{text-align:right;}
+
+.loginArea .submit input[type="submit"]{width:145px; height:30px; margin-top:40px; font:bold 18px/30px Arial, Helvetica, sans-serif; color:#fff; text-shadow:1px 1px 1px #333; background:url(../img/lg_sbmtAll.jpg) no-repeat 0 0; border:none; cursor:pointer;}
+
+.loginArea .submit input[type="submit"]:hover{background:url(../img/lg_sbmtAll.jpg) no-repeat 0 -60px;}
+
+.loginArea .submit input[type="submit"]:active{background:url(../img/lg_sbmtAll.jpg) no-repeat 0 -30px;}
+
+.loginArea .inputArea{text-align:right;}
+
+.loginArea a.forgotPwd{clear:both;color:#999;float:none;font-size:11px;font-style:normal;text-shadow:none;}

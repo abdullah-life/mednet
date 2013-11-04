@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF118</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 10:30</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30093684</ID>
+    <IDPayer>221569_31165_SC30093684</IDPayer>
+    <MemberID>0971 1004 00396502 01</MemberID>
+    <PayerID>A012</PayerID>
+    <ProviderID>MF118</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1430.40</Gross>
+    <PatientShare>50.00</PatientShare>
+    <Net>1380.40</Net>
+    <Encounter>
+      <FacilityID>MF118</FacilityID>
+      <Type>1</Type>
+      <PatientID>383866</PatientID>
+      <Start>04/03/2013 13:19</Start>
+      <End>04/03/2013 13:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>372.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>490</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>783.21</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>786.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>789.07</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>997.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34650336</ID>
+      <Start>04/03/2013 13:19</Start>
+      <Type>3</Type>
+      <Code>93000</Code>
+      <Quantity>1.000</Quantity>
+      <Net>149.50</Net>
+      <Clinician>D1288</Clinician>
+    </Activity>
+    <Activity>
+      <ID>34650337</ID>
+      <Start>04/03/2013 13:19</Start>
+      <Type>3</Type>
+      <Code>93307</Code>
+      <Quantity>1.000</Quantity>
+      <Net>995.90</Net>
+      <Clinician>D1288</Clinician>
+    </Activity>
+    <Activity>
+      <ID>34650338</ID>
+      <Start>04/03/2013 13:19</Start>
+      <Type>3</Type>
+      <Code>99213</Code>
+      <Quantity>1.000</Quantity>
+      <Net>235.00</Net>
+      <Clinician>D1288</Clinician>
+    </Activity>
+    <Resubmission>
+      <Type>correction</Type>
+      <Comment>ICD 401.9 added as secondary diagnosis. ICD 93306 changed to 93307.
+The resubmitted activities are medically justified as per good clinical practice for a patient with HLP and HTN. Echo cardiography was done to assess the heart structure and hemodynamics to rule out secondary cardiovascular disorder. kindly process. </Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Arab Orient Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

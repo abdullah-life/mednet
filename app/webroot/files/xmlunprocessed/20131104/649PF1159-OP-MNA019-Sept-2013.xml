@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>PF1159</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>31/10/2013 15:24</TransactionDate>
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>THP-CI189122</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040031698001</MemberID>
+<PayerID>A019</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>1459.82</Gross>
+<PatientShare>0</PatientShare>
+<Net>1459.82</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000001548</PatientID>
+<Start>01/09/2013 00:00</Start>
+<End>01/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>414.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>692.9</Code>
+</Diagnosis>
+<Activity>
+<ID>433077</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1531-4675-002</Code>
+<Quantity>2</Quantity>
+<Net>554.6</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID>274211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>433078</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1527-1721-001</Code>
+<Quantity>2</Quantity>
+<Net>44.18</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID>274211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>433079</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1635-3564-001</Code>
+<Quantity>2</Quantity>
+<Net>575.28</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID>274211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>433080</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1120-1271-005</Code>
+<Quantity>2</Quantity>
+<Net>36.66</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID>274211</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>433081</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1280-1752-001</Code>
+<Quantity>2</Quantity>
+<Net>249.1</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID>274211</PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Arabian Ins Co</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>THP-CI189123</ID>
+<IDPayer></IDPayer>
+<MemberID>097110040031698001</MemberID>
+<PayerID>A019</PayerID>
+<ProviderID>PF1159</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>223.25</Gross>
+<PatientShare>0</PatientShare>
+<Net>223.25</Net>
+<Encounter>
+<FacilityID>PF1159</FacilityID>
+<Type>1</Type>
+<PatientID>000000001548</PatientID>
+<Start>01/09/2013 00:00</Start>
+<End>01/09/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>414.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>692.9</Code>
+</Diagnosis>
+<Activity>
+<ID>433082</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1431-2068-001</Code>
+<Quantity>2</Quantity>
+<Net>138.18</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>433083</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1635-4157-004</Code>
+<Quantity>2</Quantity>
+<Net>63.92</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>433084</ID>
+<Start>01/09/2013 00:00</Start>
+<Type>5</Type>
+<Code>1650-2881-002</Code>
+<Quantity>1</Quantity>
+<Net>21.15</Net>
+<Clinician>D3172</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Mn Arabian Ins Co</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

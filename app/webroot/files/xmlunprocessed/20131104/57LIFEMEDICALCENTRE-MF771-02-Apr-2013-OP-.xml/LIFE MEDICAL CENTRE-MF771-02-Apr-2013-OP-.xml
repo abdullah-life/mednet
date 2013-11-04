@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="US-ASCII"?><Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+<SenderID>MF771</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>27/10/2013 16:21</TransactionDate>
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>APM-814365</ID>
+<IDPayer>814365</IDPayer>
+<MemberID>097110330041947802</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF771</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>46.4</Gross>
+<PatientShare>0</PatientShare>
+<Net>46.4</Net>
+<Encounter>
+<FacilityID>MF771</FacilityID>
+<Type>1</Type>
+<PatientID>74028</PatientID>
+<Start>02/04/2013 00:00</Start>
+<End>02/04/2013 00:00</End>
+<StartType>8</StartType>
+<EndType>1</EndType>
+<TransferSource>MF2121</TransferSource>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>623.5</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>536.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>599.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>614.9</Code>
+</Diagnosis>
+<Activity>
+<ID>4354288</ID>
+<Start>02/04/2013 00:00</Start>
+<Type>3</Type>
+<Code>87088</Code>
+<Quantity>1.0</Quantity>
+<Net>46.4</Net>
+<Clinician>GD15310</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>87088:the member presented with a valid card expired on July 2013, and we are a network provider with Mednet. please reprocess the case as per agreement</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Salama-Mednet </PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

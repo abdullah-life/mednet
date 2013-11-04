@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF151</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>06/10/2013 13:23</TransactionDate> 
+<RecordCount>3</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>MF151-ARABORIENT-MEDNET-AUG-2013-CLIN-1</ID><MemberID>0971 1004 00453909 01</MemberID><PayerID>A012</PayerID><ProviderID>MF151</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>137.6</Gross><PatientShare>35</PatientShare><Net>102.6</Net><Encounter>
+<FacilityID>MF151</FacilityID><Type>1</Type><PatientID>205924</PatientID><Start>02/08/2013 21:54</Start><End>02/08/2013 22:54</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>724.5</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>729.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>02/08/2013 21:54</Start><Type>5</Type><Code>1556-4476-009</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D805</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>02/08/2013 21:54</Start><Type>3</Type><Code>99202</Code><Quantity>1</Quantity><Net>82.6</Net><Clinician>D805</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>02/08/2013 21:54</Start><Type>3</Type><Code>96372</Code><Quantity>1</Quantity><Net>20</Net><Clinician>D805</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>MF151-ARABORIENT-MEDNET-AUG-2013-CLIN-2</ID><MemberID>0971 1004 00420349 01</MemberID><PayerID>A012</PayerID><ProviderID>MF151</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>117.6</Gross><PatientShare>35</PatientShare><Net>82.6</Net><Encounter>
+<FacilityID>MF151</FacilityID><Type>1</Type><PatientID>206555</PatientID><Start>23/08/2013 18:58</Start><End>23/08/2013 19:58</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>111.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>692.9</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>23/08/2013 18:58</Start><Type>3</Type><Code>99202</Code><Quantity>1</Quantity><Net>82.6</Net><Clinician>GD6703</Clinician></Activity>
+</Claim>
+<Claim>
+<ID>MF151-ARABORIENT-MEDNET-AUG-2013-CLIN-3</ID><MemberID>0971 1004 00451353 02</MemberID><PayerID>A012</PayerID><ProviderID>MF151</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>114</Gross><PatientShare>50</PatientShare><Net>64</Net><Encounter>
+<FacilityID>MF151</FacilityID><Type>1</Type><PatientID> 187617</PatientID><Start>29/08/2013 08:57</Start><End>29/08/2013 09:57</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>460</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>466.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>780.60</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>786.2</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>29/08/2013 08:57</Start><Type>3</Type><Code>99213</Code><Quantity>1</Quantity><Net>64</Net><Clinician>D3043</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

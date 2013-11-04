@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Created on 03-Oct-2013 17:23:46 by Greenrain Submission version 6.0 (http://www.greenrain.biz/connect) -->
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+  <SenderID>MF1954</SenderID>
+  <ReceiverID>C004</ReceiverID>
+  <TransactionDate>03/10/2013 17:24</TransactionDate>
+  <RecordCount>2</RecordCount>
+  <DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+  <ID>VST1150609</ID>
+  <IDPayer>223080_6135_VST1150609</IDPayer>
+  <MemberID>0971 1035 00443244 01</MemberID>
+  <PayerID>@DARALTAKAFUL</PayerID>
+  <ProviderID>MF1954</ProviderID>
+  <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+  <Gross>31.17</Gross>
+  <PatientShare>25</PatientShare>
+  <Net>6.17</Net>
+  <Encounter>
+    <FacilityID>MF1954</FacilityID>
+    <Type>1</Type>
+    <PatientID>LLA113655</PatientID>
+    <Start>16/05/2013 00:00</Start>
+    <End>16/05/2013 00:00</End>
+    <StartType>1</StartType>
+  </Encounter>
+  <Diagnosis>
+    <Type>Principal</Type>
+    <Code>726.61</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>530.81</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>726.71</Code>
+  </Diagnosis>
+  <Activity>
+    <ID>491</ID>
+    <Start>16/05/2013 00:00</Start>
+    <Type>5</Type>
+    <Code>1508-3763-001</Code>
+    <Quantity>10</Quantity>
+    <Net>6.17</Net>
+    <Clinician>D4299</Clinician>
+  </Activity>
+  <Resubmission>
+    <Type>internal complaint</Type>
+    <Comment>please  note  this  patient  has bursitis  and  tendinitis ,  soo  reparil  is  given  as  anti inflamatory  and  the  service  is  covered  , kindly  reconsider the  claim for  settlement</Comment>
+  </Resubmission>
+</Claim>
+<Claim>
+  <ID>VST1156264</ID>
+  <IDPayer>223080_103331_VST1156264</IDPayer>
+  <MemberID>0971 1004 00366543 01</MemberID>
+  <PayerID>A012</PayerID>
+  <ProviderID>MF1954</ProviderID>
+  <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+  <Gross>372.8</Gross>
+  <PatientShare>50</PatientShare>
+  <Net>322.8</Net>
+  <Encounter>
+    <FacilityID>MF1954</FacilityID>
+    <Type>1</Type>
+    <PatientID>LLA214275</PatientID>
+    <Start>21/05/2013 00:00</Start>
+    <End>22/05/2013 00:00</End>
+    <StartType>1</StartType>
+  </Encounter>
+  <Diagnosis>
+    <Type>Principal</Type>
+    <Code>466.0</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>780.60</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>401.9</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>477.9</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>789.00</Code>
+  </Diagnosis>
+  <Diagnosis>
+    <Type>Secondary</Type>
+    <Code>558.2</Code>
+  </Diagnosis>
+  <Activity>
+    <ID>145</ID>
+    <Start>21/05/2013 00:00</Start>
+    <Type>3</Type>
+    <Code>99203</Code>
+    <Quantity>1</Quantity>
+    <Net>177.2</Net>
+    <Clinician>GD6180</Clinician>
+  </Activity>
+  <Activity>
+    <ID>147</ID>
+    <Start>21/05/2013 00:00</Start>
+    <Type>3</Type>
+    <Code>96374</Code>
+    <Quantity>1</Quantity>
+    <Net>32</Net>
+    <Clinician>GD6180</Clinician>
+  </Activity>
+  <Activity>
+    <ID>148</ID>
+    <Start>21/05/2013 00:00</Start>
+    <Type>3</Type>
+    <Code>96360</Code>
+    <Quantity>1</Quantity>
+    <Net>113.6</Net>
+    <Clinician>GD6180</Clinician>
+  </Activity>
+  <Resubmission>
+    <Type>internal complaint</Type>
+    <Comment>Please note that LLH Hospital can accept silver premium network of Mednet card and services performed by network provider only.Kindly reconsider the claim/invoice for settlement.</Comment>
+  </Resubmission>
+</Claim>
+</Claim.Submission>

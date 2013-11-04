@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+  <SenderID>PF1444</SenderID>
+  <ReceiverID>C004</ReceiverID>
+  <TransactionDate>03/11/2013 14:51</TransactionDate>
+  <RecordCount>1</RecordCount>
+  <DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>ACS28179</ID>
+<IDPayer></IDPayer>
+<MemberID>097110050032375601</MemberID>
+<PayerID>A036</PayerID>
+<ProviderID>PF1444</ProviderID>
+ <EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+ <Gross>682.65</Gross>
+ <PatientShare>0</PatientShare>
+ <Net>682.65</Net>
+<Encounter>
+<FacilityID>PF1444</FacilityID>
+<Type>1</Type>
+<PatientID>ACS28179</PatientID>
+<Start>10/10/2013 14:17</Start>
+<End>10/10/2013 14:17</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>455.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>338.19</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>564.00</Code>
+</Diagnosis>
+<Activity>
+<ID>1</ID>
+<Start>10/10/2013 14:17</Start>
+<Type>5</Type>
+<Code>1300-1614-005</Code>
+<Quantity>2</Quantity>
+<Net>339.3</Net>
+<Clinician>D4841</Clinician>
+<PriorAuthorizationID>278914</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>2</ID>
+<Start>10/10/2013 14:17</Start>
+<Type>5</Type>
+<Code>2214-2228-007</Code>
+<Quantity>1</Quantity>
+<Net>16.2</Net>
+<Clinician>D4841</Clinician>
+<PriorAuthorizationID>278914</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>3</ID>
+<Start>10/10/2013 14:17</Start>
+<Type>5</Type>
+<Code>1552-3628-001</Code>
+<Quantity>1</Quantity>
+<Net>16.2</Net>
+<Clinician>D4841</Clinician>
+<PriorAuthorizationID>278914</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>4</ID>
+<Start>10/10/2013 14:17</Start>
+<Type>5</Type>
+<Code>1583-1553-003</Code>
+<Quantity>1</Quantity>
+<Net>161.1</Net>
+<Clinician>D4841</Clinician>
+<PriorAuthorizationID>278914</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5</ID>
+<Start>10/10/2013 14:17</Start>
+<Type>5</Type>
+<Code>1550-3084-001</Code>
+<Quantity>3</Quantity>
+<Net>149.85</Net>
+<Clinician>D4841</Clinician>
+<PriorAuthorizationID>278914</PriorAuthorizationID>
+</Activity>
+ </Claim>
+</Claim.Submission>

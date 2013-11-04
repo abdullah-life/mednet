@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>24/10/2013 05:32</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>IP-3000036012</ID>
+    <IDPayer>227063_808_IP-3000036012</IDPayer>
+    <MemberID>0971 1033 00398828 02</MemberID>
+    <PayerID>A020</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>500.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>500.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>3</Type>
+      <PatientID>1843801</PatientID>
+      <Start>25/04/2013 13:00</Start>
+      <End>28/04/2013 15:30</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>654.21</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>663.11</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>648.91</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>614.6</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>659.61</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V27.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>35342407</ID>
+      <Start>25/04/2013 13:00</Start>
+      <Type>9</Type>
+      <Code>146101</Code>
+      <Quantity>1.000</Quantity>
+      <Net>500.00</Net>
+      <Clinician>GD6217</Clinician>
+      <PriorAuthorizationID>198651</PriorAuthorizationID>
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>The resubmitted DRG was submitted as per agreed price list and tarrifs for  applicable on the date of service after deducting 500dhm.Kindly process.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Salama Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

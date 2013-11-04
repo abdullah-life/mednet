@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="US-ASCII"?><Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+<SenderID>MF464</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>31/10/2013 16:23</TransactionDate>
+<RecordCount>4</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>APM-893314</ID>
+<IDPayer>893314</IDPayer>
+<MemberID>097110040040792402</MemberID>
+<PayerID>@Orient</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>64.85</Gross>
+<PatientShare>46.7</PatientShare>
+<Net>18.15</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>91108/01</PatientID>
+<Start>01/06/2013 00:00</Start>
+<End>01/06/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>052.8</Code>
+</Diagnosis>
+<Activity>
+<ID>5306037</ID>
+<Start>01/06/2013 00:00</Start>
+<Type>5</Type>
+<Code>1472-2884-005</Code>
+<Quantity>28.0</Quantity>
+<Net>18.15</Net>
+<Clinician>D1578</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>1472-2884-005:Applied the correct copay/deductible in medicines as per policy.  Kindly pay the remaining amount.</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Orient - Mednet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>APM-893316</ID>
+<IDPayer>893316</IDPayer>
+<MemberID>097110040017725501</MemberID>
+<PayerID>@Orient</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>556.6</Gross>
+<PatientShare>0</PatientShare>
+<Net>556.6</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>63832/01</PatientID>
+<Start>02/06/2013 00:00</Start>
+<End>02/06/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>535.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>599.70</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Activity>
+<ID>5306016</ID>
+<Start>02/06/2013 00:00</Start>
+<Type>3</Type>
+<Code>83013</Code>
+<Quantity>1.0</Quantity>
+<Net>556.6</Net>
+<Clinician>GD11341</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>83013:Patient is diagnosed of ESOPHAGEAL REFLUX and Acute Gastritis.  To determine if there is evidence of this infection when someone is experiencing gastrointestinal pain, GERD and symptoms of an ulcer and dyspepsia.   Kindly reconsider.</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Orient - Mednet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>APM-893319</ID>
+<IDPayer>893319</IDPayer>
+<MemberID>097110040024693302</MemberID>
+<PayerID>@Orient</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>6.11</Gross>
+<PatientShare>4.8</PatientShare>
+<Net>1.31</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>28175/05</PatientID>
+<Start>03/06/2013 00:00</Start>
+<End>03/06/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>723.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>723.4</Code>
+</Diagnosis>
+<Activity>
+<ID>5306108</ID>
+<Start>03/06/2013 00:00</Start>
+<Type>5</Type>
+<Code>1562-4494-002</Code>
+<Quantity>2.0</Quantity>
+<Net>1.31</Net>
+<Clinician>GD8060</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>1562-4494-002:Applied the correct copay/deductible in medicines as per policy.  Kindly pay the remaining amount.</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Orient - Mednet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>APM-893322</ID>
+<IDPayer>893322</IDPayer>
+<MemberID>097110040027635802</MemberID>
+<PayerID>@Orient</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>71.68</Gross>
+<PatientShare>51.7</PatientShare>
+<Net>19.98</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>82177/01</PatientID>
+<Start>03/06/2013 00:00</Start>
+<End>03/06/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>052.8</Code>
+</Diagnosis>
+<Activity>
+<ID>5306030</ID>
+<Start>03/06/2013 00:00</Start>
+<Type>5</Type>
+<Code>1472-2884-005</Code>
+<Quantity>28.0</Quantity>
+<Net>18.15</Net>
+<Clinician>D1578</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Activity>
+<ID>5306033</ID>
+<Start>03/06/2013 00:00</Start>
+<Type>5</Type>
+<Code>1650-1644-002</Code>
+<Quantity>1.0</Quantity>
+<Net>1.83</Net>
+<Clinician>D1578</Clinician>
+<PriorAuthorizationID/>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>1472-2884-005:Applied the correct copay/deductible in medicines as per policy.  Kindly pay the remaining amount. 
+&#13;
+1650-1644-002:Applied the correct copay/deductible in medicines as per policy.  Kindly pay the remaining amount.</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Orient - Mednet</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

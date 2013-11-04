@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>MF2270</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>10/10/2013 09:36</TransactionDate>
+    <RecordCount>2</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SC30050550</ID>
+    <IDPayer>217480_31173_SC30050550</IDPayer>
+    <MemberID>0971 1080 00427569 01</MemberID>
+    <PayerID>A003</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>46.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>46.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>2</Type>
+      <PatientID>1707818</PatientID>
+      <Start>15/02/2013 07:58</Start>
+      <End>15/02/2013 07:58</End>
+      <StartType>2</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>592.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>599.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>787.02</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34054662</ID>
+      <Start>15/02/2013 07:58</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.000</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD10991</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Code 96372 is an injection code used in the administration of Voltaren (paid activity) thru IM injection. These must be reported separately as per the coding guidelines in conjunction with an IM medication. Kindly process the claim.</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Sagr National Insurance</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SC30050557</ID>
+    <IDPayer>217480_31173_SC30050557</IDPayer>
+    <MemberID>0971 1080 00427655 02</MemberID>
+    <PayerID>A003</PayerID>
+    <ProviderID>MF2270</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>46.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>46.00</Net>
+    <Encounter>
+      <FacilityID>MF2270</FacilityID>
+      <Type>1</Type>
+      <PatientID>1599901</PatientID>
+      <Start>21/02/2013 09:51</Start>
+      <End>21/02/2013 09:51</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>915.6</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>709.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E849.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E920.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>34054680</ID>
+      <Start>21/02/2013 09:51</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1.000</Quantity>
+      <Net>46.00</Net>
+      <Clinician>GD6677</Clinician>
+      <PriorAuthorizationID />
+    </Activity>
+    <Resubmission>
+      <Type>internal complaint</Type>
+      <Comment>Code 96372 is an injection code used in the administration of Voltaren (paid activity) thru IM injection. This must be reported separately as per the coding guidelines in conjunction with an IM medication. Kindly process the claim.
+</Comment>
+    </Resubmission>
+    <Contract>
+      <PackageName>Al Sagr National Insurance</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

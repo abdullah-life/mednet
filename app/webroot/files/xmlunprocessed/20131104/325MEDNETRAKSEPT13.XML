@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+  <SenderID>PF1252</SenderID>
+  <ReceiverID>C004</ReceiverID>
+  <TransactionDate>14/10/2013 17:26</TransactionDate>
+  <RecordCount>3</RecordCount>
+  <DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>10C72780</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1003 00381033 02</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1252</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>63.65</Gross>
+ <PatientShare>12.73</PatientShare>
+ <Net>50.92</Net>
+<Encounter>
+<FacilityID>PF1252</FacilityID>
+<Type>1</Type>
+<PatientID>10C72780</PatientID>
+<Start>10/09/2013 22:00</Start>
+<End>10/09/2013 22:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>V22.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>765.25</Code>
+</Diagnosis>
+<Activity>
+<ID>1</ID>
+<Start>10/09/2013 22:00</Start>
+<Type>5</Type>
+<Code>1732-3442-002</Code>
+<Quantity>1</Quantity>
+<Net>21.28</Net>
+<Clinician>GD7124</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>2</ID>
+<Start>10/09/2013 22:00</Start>
+<Type>5</Type>
+<Code>1732-4855-002</Code>
+<Quantity>1</Quantity>
+<Net>29.64</Net>
+<Clinician>GD7124</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+ </Claim>
+<Claim>
+<ID>10C73138</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1003 00381033 02</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1252</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>42.75</Gross>
+ <PatientShare>8.55</PatientShare>
+ <Net>34.2</Net>
+<Encounter>
+<FacilityID>PF1252</FacilityID>
+<Type>1</Type>
+<PatientID>10C73138</PatientID>
+<Start>12/09/2013 12:57</Start>
+<End>12/09/2013 12:57</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>463</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>473.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.1</Code>
+</Diagnosis>
+<Activity>
+<ID>3</ID>
+<Start>12/09/2013 12:57</Start>
+<Type>5</Type>
+<Code>2209-6110-001</Code>
+<Quantity>1</Quantity>
+<Net>4.94</Net>
+<Clinician>GD9807</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>4</ID>
+<Start>12/09/2013 12:57</Start>
+<Type>5</Type>
+<Code>1490-2753-002</Code>
+<Quantity>1</Quantity>
+<Net>11.02</Net>
+<Clinician>GD9807</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5</ID>
+<Start>12/09/2013 12:57</Start>
+<Type>5</Type>
+<Code>1983-5223-001</Code>
+<Quantity>1</Quantity>
+<Net>18.24</Net>
+<Clinician>GD9807</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+ </Claim>
+<Claim>
+<ID>10C74605</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1003 00383369 02</MemberID>
+<PayerID>A009</PayerID>
+<ProviderID>PF1252</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>55.58</Gross>
+ <PatientShare>11.12</PatientShare>
+ <Net>44.46</Net>
+<Encounter>
+<FacilityID>PF1252</FacilityID>
+<Type>1</Type>
+<PatientID>10C74605</PatientID>
+<Start>18/09/2013 20:07</Start>
+<End>18/09/2013 20:07</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>268.9</Code>
+</Diagnosis>
+<Activity>
+<ID>6</ID>
+<Start>18/09/2013 20:07</Start>
+<Type>5</Type>
+<Code>2169-6742-001</Code>
+<Quantity>1</Quantity>
+<Net>44.46</Net>
+<Clinician>GD7124</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+ </Claim>
+</Claim.Submission>

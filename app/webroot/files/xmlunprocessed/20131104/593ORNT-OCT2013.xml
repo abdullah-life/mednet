@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF238</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>03/11/2013 19:04</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>ORNT-OCT2013-1</ID><MemberID>0971-1004-00400050-01</MemberID><PayerID>A012</PayerID><ProviderID>MF238</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>242</Gross><PatientShare>50</PatientShare><Net>192</Net><Encounter>
+<FacilityID>MF238</FacilityID><Type>1</Type><PatientID>1363</PatientID><Start>24/10/2013 17:27</Start><End>24/10/2013 18:27</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>380.22</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>380.4</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>24/10/2013 17:27</Start><Type>3</Type><Code>69210</Code><Quantity>1</Quantity><Net>122</Net><Clinician>D105</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>24/10/2013 17:27</Start><Type>3</Type><Code>99202</Code><Quantity>1</Quantity><Net>70</Net><Clinician>D105</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

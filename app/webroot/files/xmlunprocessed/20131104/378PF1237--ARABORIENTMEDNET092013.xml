@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>PF1237</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>01/10/2013 10:20</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>PF1237-ARAB ORIENT MEDNET 092013-1</ID><MemberID>0971-1004-00276836-01</MemberID><PayerID>A012</PayerID><ProviderID>PF1237</ProviderID><EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber><Gross>1087.18</Gross><PatientShare>0</PatientShare><Net>1087.18</Net><Encounter>
+<FacilityID>PF1237</FacilityID><Type>1</Type><PatientID>3002</PatientID><Start>07/09/2013 17:52</Start><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Secondary</Type><Code>041.9</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>272.4</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>466.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>477.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Principal</Type><Code>493.90</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>680.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>682.0</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>691.8</Code></Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type><Code>789.1</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1750-4545-012</Code><Quantity>2</Quantity><Net>194.37</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1531-3975-001</Code><Quantity>1</Quantity><Net>221.34</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>2325-1140-004</Code><Quantity>1</Quantity><Net>280.4</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1710-4508-002</Code><Quantity>1</Quantity><Net>67.89</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1279-3684-003</Code><Quantity>1</Quantity><Net>216.23</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>6</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1552-2198-002</Code><Quantity>1</Quantity><Net>17.21</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>7</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1279-3784-002</Code><Quantity>1</Quantity><Net>66.96</Net><Clinician>GD9836</Clinician></Activity>
+<Activity>
+<ID>8</ID><Start>07/09/2013 17:52</Start><Type>5</Type><Code>1650-1943-002</Code><Quantity>1</Quantity><Net>22.78</Net><Clinician>GD9836</Clinician></Activity>
+</Claim>
+
+</Claim.Submission>

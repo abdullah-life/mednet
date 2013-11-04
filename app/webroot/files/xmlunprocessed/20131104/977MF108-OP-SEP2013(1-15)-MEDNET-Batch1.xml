@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" > 
+<Header>
+<SenderID>MF108</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>28/10/2013 15:13</TransactionDate>
+<RecordCount>32</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>MU-3385835</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00455687 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>152</Gross>
+<PatientShare>35</PatientShare>
+<Net>117</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>218737</PatientID>
+<Start>12/09/2013 12:23</Start>
+<End>12/09/2013 12:42</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>788.42</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554050</ID>
+<Start>12/09/2013 12:42</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>117</Net>
+<Clinician>GD5890</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385836</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00455687 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>218737</PatientID>
+<Start>14/09/2013 12:46</Start>
+<End>14/09/2013 12:55</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554054</ID>
+<Start>14/09/2013 12:55</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD5890</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385837</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00318268 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>259.038</Gross>
+<PatientShare>35.3038</PatientShare>
+<Net>223.7342</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>270317</PatientID>
+<Start>01/09/2013 08:37</Start>
+<End>01/09/2013 09:06</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Activity>
+<ID>9554055</ID>
+<Start>01/09/2013 09:06</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>189</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554056</ID>
+<Start>01/09/2013 09:06</Start>
+<Type>5</Type>
+<Code>1360-1907-009</Code>
+<Quantity>1</Quantity>
+<Net>2.7342</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9621893</ID>
+<Start>01/09/2013 09:06</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>32</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385838</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00204155 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>348.8</Gross>
+<PatientShare>35</PatientShare>
+<Net>313.8</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>272264</PatientID>
+<Start>07/09/2013 11:39</Start>
+<End>07/09/2013 11:54</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>380.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>388.70</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>380.13</Code>
+</Diagnosis>
+<Activity>
+<ID>9554057</ID>
+<Start>07/09/2013 11:54</Start>
+<Type>3</Type>
+<Code>99204</Code>
+<Quantity>1</Quantity>
+<Net>313.8</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385839</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00204155 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>195.2</Gross>
+<PatientShare>0</PatientShare>
+<Net>195.2</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>272264</PatientID>
+<Start>10/09/2013 11:13</Start>
+<End>10/09/2013 12:03</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>380.4</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>388.70</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>380.13</Code>
+</Diagnosis>
+<Activity>
+<ID>9554058</ID>
+<Start>10/09/2013 12:03</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554059</ID>
+<Start>10/09/2013 12:03</Start>
+<Type>3</Type>
+<Code>69210</Code>
+<Quantity>1</Quantity>
+<Net>195.2</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385840</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00307804 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>401.438</Gross>
+<PatientShare>35.3038</PatientShare>
+<Net>366.1342</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>305752</PatientID>
+<Start>07/09/2013 13:42</Start>
+<End>07/09/2013 14:11</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>737.20</Code>
+</Diagnosis>
+<Activity>
+<ID>9554060</ID>
+<Start>07/09/2013 14:11</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>192.2</Net>
+<Clinician>GD5890</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554061</ID>
+<Start>07/09/2013 14:11</Start>
+<Type>3</Type>
+<Code>72100</Code>
+<Quantity>1</Quantity>
+<Net>139.2</Net>
+<Clinician>GD5890</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554062</ID>
+<Start>07/09/2013 14:11</Start>
+<Type>5</Type>
+<Code>1360-1907-009</Code>
+<Quantity>1</Quantity>
+<Net>2.7342</Net>
+<Clinician>GD5890</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9621897</ID>
+<Start>07/09/2013 14:11</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>32</Net>
+<Clinician>GD5890</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385841</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00343279 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>227.2</Gross>
+<PatientShare>25</PatientShare>
+<Net>202.2</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>311565</PatientID>
+<Start>07/09/2013 18:19</Start>
+<End>07/09/2013 18:57</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>787.22</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>472.1</Code>
+</Diagnosis>
+<Activity>
+<ID>9554063</ID>
+<Start>07/09/2013 18:57</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>202.2</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Islamic Arab InsCo(SALAMA)</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385842</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00343279 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>224</Gross>
+<PatientShare>25</PatientShare>
+<Net>199</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>311565</PatientID>
+<Start>14/09/2013 18:25</Start>
+<End>14/09/2013 18:38</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>787.22</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>472.1</Code>
+</Diagnosis>
+<Activity>
+<ID>9554065</ID>
+<Start>14/09/2013 18:38</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>199</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Islamic Arab InsCo(SALAMA)</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385843</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00177829 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>189.2234</Gross>
+<PatientShare>35.5223</PatientShare>
+<Net>153.7011</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>318245</PatientID>
+<Start>04/09/2013 11:50</Start>
+<End>04/09/2013 12:07</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Activity>
+<ID>9554066</ID>
+<Start>04/09/2013 12:07</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>117</Net>
+<Clinician>D4483</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554067</ID>
+<Start>04/09/2013 12:07</Start>
+<Type>5</Type>
+<Code>1526-3225-001</Code>
+<Quantity>1</Quantity>
+<Net>4.7011</Net>
+<Clinician>D4483</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9621904</ID>
+<Start>04/09/2013 12:07</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>32</Net>
+<Clinician>D4483</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385844</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00312155 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>328</Gross>
+<PatientShare>35</PatientShare>
+<Net>293</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>319100</PatientID>
+<Start>03/09/2013 10:54</Start>
+<End>03/09/2013 11:13</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>473.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554068</ID>
+<Start>03/09/2013 11:13</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>189</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554072</ID>
+<Start>03/09/2013 11:13</Start>
+<Type>3</Type>
+<Code>70210</Code>
+<Quantity>1</Quantity>
+<Net>104</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385845</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00312155 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>319100</PatientID>
+<Start>09/09/2013 19:41</Start>
+<End>09/09/2013 20:04</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>473.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>493.10</Code>
+</Diagnosis>
+<Activity>
+<ID>9554073</ID>
+<Start>09/09/2013 20:04</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385846</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00177143 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>224</Gross>
+<PatientShare>35</PatientShare>
+<Net>189</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>319651</PatientID>
+<Start>08/09/2013 18:39</Start>
+<End>08/09/2013 19:18</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Activity>
+<ID>9554074</ID>
+<Start>08/09/2013 19:18</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>189</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385847</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00204213 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>156.8</Gross>
+<PatientShare>35</PatientShare>
+<Net>121.8</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>321462</PatientID>
+<Start>05/09/2013 09:38</Start>
+<End>05/09/2013 10:01</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>465.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554075</ID>
+<Start>05/09/2013 10:01</Start>
+<Type>3</Type>
+<Code>99202</Code>
+<Quantity>1</Quantity>
+<Net>121.8</Net>
+<Clinician>D4483</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385848</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00323499 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>224</Gross>
+<PatientShare>35</PatientShare>
+<Net>189</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>325594</PatientID>
+<Start>02/09/2013 08:41</Start>
+<End>02/09/2013 09:37</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>110.3</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>564.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>786.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Activity>
+<ID>9554076</ID>
+<Start>02/09/2013 09:37</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>189</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385849</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00323499 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>325594</PatientID>
+<Start>03/09/2013 08:49</Start>
+<End>03/09/2013 09:10</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>466.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>780.4</Code>
+</Diagnosis>
+<Activity>
+<ID>9554077</ID>
+<Start>03/09/2013 09:10</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385850</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00322840 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>227.2</Gross>
+<PatientShare>35</PatientShare>
+<Net>192.2</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>337113</PatientID>
+<Start>03/09/2013 08:37</Start>
+<End>03/09/2013 09:01</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>787.22</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>472.1</Code>
+</Diagnosis>
+<Activity>
+<ID>9554078</ID>
+<Start>03/09/2013 09:01</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>192.2</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385851</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00190082 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>152</Gross>
+<PatientShare>35</PatientShare>
+<Net>117</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>337169</PatientID>
+<Start>10/09/2013 20:28</Start>
+<End>10/09/2013 20:44</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>460</Code>
+</Diagnosis>
+<Activity>
+<ID>9554079</ID>
+<Start>10/09/2013 20:44</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>117</Net>
+<Clinician>GD15893</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385852</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00317843 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>224</Gross>
+<PatientShare>35</PatientShare>
+<Net>189</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>341599</PatientID>
+<Start>12/09/2013 16:13</Start>
+<End>12/09/2013 16:38</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>478.19</Code>
+</Diagnosis>
+<Activity>
+<ID>9554080</ID>
+<Start>12/09/2013 16:38</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>189</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385853</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00264565 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>152</Gross>
+<PatientShare>35</PatientShare>
+<Net>117</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>392322</PatientID>
+<Start>03/09/2013 09:50</Start>
+<End>03/09/2013 10:02</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>372.30</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>372.40</Code>
+</Diagnosis>
+<Activity>
+<ID>9554081</ID>
+<Start>03/09/2013 10:02</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>117</Net>
+<Clinician>GD5630</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385854</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00047880 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>241.6</Gross>
+<PatientShare>35</PatientShare>
+<Net>206.6</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>415801</PatientID>
+<Start>02/09/2013 12:03</Start>
+<End>02/09/2013 12:16</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>272.2</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>401.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Activity>
+<ID>9554082</ID>
+<Start>02/09/2013 12:16</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>189</Net>
+<Clinician>D4483</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554083</ID>
+<Start>02/09/2013 12:16</Start>
+<Type>3</Type>
+<Code>82948</Code>
+<Quantity>1</Quantity>
+<Net>17.6</Net>
+<Clinician>D4483</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385855</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00412827 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>430559</PatientID>
+<Start>02/09/2013 11:54</Start>
+<End>02/09/2013 12:03</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>380.15</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>382.3</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>388.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>388.70</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>682.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>380.13</Code>
+</Diagnosis>
+<Activity>
+<ID>9554084</ID>
+<Start>02/09/2013 12:03</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385856</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00413391 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>348.8</Gross>
+<PatientShare>25</PatientShare>
+<Net>323.8</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>436522</PatientID>
+<Start>09/09/2013 09:02</Start>
+<End>09/09/2013 09:48</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>372.30</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>379.91</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>379.93</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>E914</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>371.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554085</ID>
+<Start>09/09/2013 09:48</Start>
+<Type>3</Type>
+<Code>99204</Code>
+<Quantity>1</Quantity>
+<Net>323.8</Net>
+<Clinician>GD5630</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385857</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00413391 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>436522</PatientID>
+<Start>10/09/2013 10:10</Start>
+<End>10/09/2013 10:18</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>372.30</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>371.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554086</ID>
+<Start>10/09/2013 10:18</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD5630</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385858</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00413391 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>436522</PatientID>
+<Start>14/09/2013 12:05</Start>
+<End>14/09/2013 12:19</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>372.30</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>374.82</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>379.91</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>379.93</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>371.9</Code>
+</Diagnosis>
+<Activity>
+<ID>9554087</ID>
+<Start>14/09/2013 12:19</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD5630</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385859</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00397347 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>224</Gross>
+<PatientShare>25</PatientShare>
+<Net>199</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>436758</PatientID>
+<Start>09/09/2013 08:38</Start>
+<End>09/09/2013 08:57</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>250.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>493.20</Code>
+</Diagnosis>
+<Activity>
+<ID>9554088</ID>
+<Start>09/09/2013 08:57</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>199</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385860</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1005 00319886 01</MemberID>
+<PayerID>@Al Itihad Al Watani Ins.Co.</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>224</Gross>
+<PatientShare>50</PatientShare>
+<Net>174</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>437935</PatientID>
+<Start>01/09/2013 09:08</Start>
+<End>01/09/2013 11:13</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>472.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>787.22</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>787.24</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Activity>
+<ID>9554091</ID>
+<Start>01/09/2013 11:13</Start>
+<Type>3</Type>
+<Code>99214</Code>
+<Quantity>1</Quantity>
+<Net>174</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Al Ittihad Al Watani Insurance Company</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385861</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00347504 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>152</Gross>
+<PatientShare>35</PatientShare>
+<Net>117</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>438166</PatientID>
+<Start>13/09/2013 17:02</Start>
+<End>13/09/2013 17:54</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>041.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>462</Code>
+</Diagnosis>
+<Activity>
+<ID>9554092</ID>
+<Start>13/09/2013 17:54</Start>
+<Type>3</Type>
+<Code>99213</Code>
+<Quantity>1</Quantity>
+<Net>117</Net>
+<Clinician>GD15893</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385862</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00252596 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>331.2</Gross>
+<PatientShare>35</PatientShare>
+<Net>296.2</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>439860</PatientID>
+<Start>02/09/2013 15:58</Start>
+<End>02/09/2013 16:47</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>473.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>477.8</Code>
+</Diagnosis>
+<Activity>
+<ID>9554093</ID>
+<Start>02/09/2013 16:47</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>192.2</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554097</ID>
+<Start>02/09/2013 16:47</Start>
+<Type>3</Type>
+<Code>70210</Code>
+<Quantity>1</Quantity>
+<Net>104</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385863</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00252596 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>0</Gross>
+<PatientShare>0</PatientShare>
+<Net>0</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>439860</PatientID>
+<Start>07/09/2013 18:45</Start>
+<End>07/09/2013 19:21</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>473.9</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>478.11</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>784.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>477.8</Code>
+</Diagnosis>
+<Activity>
+<ID>9554098</ID>
+<Start>07/09/2013 19:21</Start>
+<Type>3</Type>
+<Code>99211</Code>
+<Quantity>1</Quantity>
+<Net>0</Net>
+<Clinician>GD6427</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385864</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00380524 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>227.2</Gross>
+<PatientShare>50</PatientShare>
+<Net>177.2</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>440017</PatientID>
+<Start>05/09/2013 18:50</Start>
+<End>05/09/2013 19:32</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>530.81</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>564.00</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>569.42</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>692.89</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>782.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>455.0</Code>
+</Diagnosis>
+<Activity>
+<ID>9554099</ID>
+<Start>05/09/2013 19:32</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>177.2</Net>
+<Clinician>D4766</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Islamic Arab InsCo(SALAMA)</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385865</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00354845 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>191.838</Gross>
+<PatientShare>35.3038</PatientShare>
+<Net>156.5342</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>440096</PatientID>
+<Start>07/09/2013 18:21</Start>
+<End>07/09/2013 18:50</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>E927.8</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>847.2</Code>
+</Diagnosis>
+<Activity>
+<ID>9554100</ID>
+<Start>07/09/2013 18:50</Start>
+<Type>3</Type>
+<Code>99202</Code>
+<Quantity>1</Quantity>
+<Net>121.8</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554101</ID>
+<Start>07/09/2013 18:50</Start>
+<Type>5</Type>
+<Code>1360-1907-009</Code>
+<Quantity>1</Quantity>
+<Net>2.7342</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9621928</ID>
+<Start>07/09/2013 18:50</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>32</Net>
+<Clinician>D3376</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>MU-3385866</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1004 00451389 01</MemberID>
+<PayerID>A012</PayerID>
+<ProviderID>MF108</ProviderID>
+<EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+<Gross>262.238</Gross>
+<PatientShare>25</PatientShare>
+<Net>237.238</Net>
+<Encounter>
+<FacilityID>MF108</FacilityID>
+<Type>1</Type>
+<PatientID>440522</PatientID>
+<Start>14/09/2013 21:36</Start>
+<End>14/09/2013 22:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>729.1</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>724.5</Code>
+</Diagnosis>
+<Activity>
+<ID>9554102</ID>
+<Start>14/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>99203</Code>
+<Quantity>1</Quantity>
+<Net>202.2</Net>
+<Clinician>GD15893</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9554103</ID>
+<Start>14/09/2013 22:00</Start>
+<Type>5</Type>
+<Code>1360-1907-009</Code>
+<Quantity>1</Quantity>
+<Net>3.038</Net>
+<Clinician>GD15893</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>9621939</ID>
+<Start>14/09/2013 22:00</Start>
+<Type>3</Type>
+<Code>96372</Code>
+<Quantity>1</Quantity>
+<Net>32</Net>
+<Clinician>GD15893</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Contract>
+<PackageName>Arab Orient Insco</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

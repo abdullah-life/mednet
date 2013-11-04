@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0046879</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 11:15</TransactionDate>
+    <RecordCount>6</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>69021 - Mednet-DubaiNational-Oct-11-20-2013 - 1</ID>
+    <MemberID>097110110028660401</MemberID>
+    <PayerID>INS007</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>96521</PatientID>
+      <Start>19/10/2013 10:14</Start>
+      <End>19/10/2013 10:44</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S62.606A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297524</ID>
+      <Start>19/10/2013 10:14</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>PAIN AND SWELLING RIGHT LITTLE FINGER
+FRACTURE MIDDLE PHALANX RT LITTLE FINGER</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30387/2013-14 - Mednet-DubaiNational-Oct-11-20-2013 - 2</ID>
+    <MemberID>097110110028660401</MemberID>
+    <PayerID>INS007</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>260</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>260</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>96521</PatientID>
+      <Start>19/10/2013 10:16</Start>
+      <End>19/10/2013 10:46</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S62.606A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297530</ID>
+      <Start>19/10/2013 10:16</Start>
+      <Type>3</Type>
+      <Code>29280</Code>
+      <Quantity>1</Quantity>
+      <Net>260</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37431/2013-14 - Mednet-DubaiNational-Oct-11-20-2013 - 3</ID>
+    <MemberID>097110110028660401</MemberID>
+    <PayerID>INS007</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>25.6</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>25.6</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>96521</PatientID>
+      <Start>19/10/2013 10:18</Start>
+      <End>19/10/2013 10:48</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S62.606A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297536</ID>
+      <Start>19/10/2013 10:18</Start>
+      <Type>5</Type>
+      <Code>0077-258502-1171</Code>
+      <Quantity>1</Quantity>
+      <Net>25.6</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69001 - Mednet-DubaiNational-Oct-11-20-2013 - 4</ID>
+    <MemberID>097110110028660401</MemberID>
+    <PayerID>INS007</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>245</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>195</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>96521</PatientID>
+      <Start>18/10/2013 09:38</Start>
+      <End>18/10/2013 10:08</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S66.306A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297539</ID>
+      <Start>18/10/2013 09:38</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>PAIN IN THE RIGHT HAND LITTLE FINGER AFTER TRAUMA PLAYING CRICKET</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30344/2013-14 - Mednet-DubaiNational-Oct-11-20-2013 - 5</ID>
+    <MemberID>097110110028660401</MemberID>
+    <PayerID>INS007</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>195</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>195</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>96521</PatientID>
+      <Start>18/10/2013 10:05</Start>
+      <End>18/10/2013 10:35</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S66.306A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297547</ID>
+      <Start>18/10/2013 10:05</Start>
+      <Type>3</Type>
+      <Code>73140</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37366/2013-14 - Mednet-DubaiNational-Oct-11-20-2013 - 6</ID>
+    <MemberID>097110110028660401</MemberID>
+    <PayerID>INS007</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>12</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>12</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>96521</PatientID>
+      <Start>18/10/2013 10:06</Start>
+      <End>18/10/2013 10:36</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S66.306A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4297550</ID>
+      <Start>18/10/2013 10:06</Start>
+      <Type>5</Type>
+      <Code>0278-107904-1162</Code>
+      <Quantity>1</Quantity>
+      <Net>12</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

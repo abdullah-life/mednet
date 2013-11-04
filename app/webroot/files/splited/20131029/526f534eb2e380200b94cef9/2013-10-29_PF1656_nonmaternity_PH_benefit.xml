@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>PF1656</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>24/10/2013 11:07</TransactionDate>
+    <RecordCount>2</RecordCount>
+  </Header>
+  <Claim>
+    <ID>PF1656-PH-AUG13-MEDNET-AIAW-1</ID>
+    <MemberID>352980</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1656</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>501.12</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>501.12</Net>
+    <Encounter>
+      <FacilityID>PF1656</FacilityID>
+      <Type>1</Type>
+      <PatientID>5781</PatientID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>246.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>536.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.49</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>1</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1283-1143-003</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>62.50</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273217</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>2</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1528-2401-005</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>14.50</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273217</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>3</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1556-5596-001</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>373.50</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273217</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>PF1656-PH-AUG13-MEDNET-AIAW-2</ID>
+    <MemberID>328902</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>PF1656</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>963.3</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>963.3</Net>
+    <Encounter>
+      <FacilityID>PF1656</FacilityID>
+      <Type>1</Type>
+      <PatientID>5889</PatientID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <StartType/>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>246.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>414.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>536.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>719.49</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>V58.69</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>1</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1574-1926-002</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>28.00</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273219</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>2</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1317-3001-001</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>119.50</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273219</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>3</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1283-1143-002</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>44.50</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273219</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>4</ID>
+      <Start>23/08/2013 00:00</Start>
+      <End>23/08/2013 00:00</End>
+      <Code>1576-2822-003</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>315.00</Net>
+      <Clinician>GD10303</Clinician>
+      <PriorAuthorizationID>273219</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+</Claim.Submission>

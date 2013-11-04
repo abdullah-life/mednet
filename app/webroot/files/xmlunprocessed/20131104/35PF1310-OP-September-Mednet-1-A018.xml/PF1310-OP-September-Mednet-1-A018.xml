@@ -1,0 +1,977 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>PF1310</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>09/10/2013 10:48</TransactionDate>
+    <RecordCount>17</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SP30201671</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00040594 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>812.00</Gross>
+    <PatientShare>81.20</PatientShare>
+    <Net>730.80</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>217049</PatientID>
+      <Start>04/09/2013 13:27</Start>
+      <End>04/09/2013 13:27</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.81</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599542</ID>
+      <Start>04/09/2013 13:27</Start>
+      <Type>5</Type>
+      <Code>1499-1748-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>264.60</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274605</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599543</ID>
+      <Start>04/09/2013 13:27</Start>
+      <Type>5</Type>
+      <Code>1710-4508-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>65.70</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274605</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599544</ID>
+      <Start>04/09/2013 13:27</Start>
+      <Type>5</Type>
+      <Code>1279-3234-003</Code>
+      <Quantity>2.00</Quantity>
+      <Net>198.00</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274605</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599545</ID>
+      <Start>04/09/2013 13:27</Start>
+      <Type>5</Type>
+      <Code>1587-3302-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>189.90</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274605</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599546</ID>
+      <Start>04/09/2013 13:27</Start>
+      <Type>5</Type>
+      <Code>1528-2401-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>12.60</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274605</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201672</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00377995 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>386.00</Gross>
+    <PatientShare>38.60</PatientShare>
+    <Net>347.40</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100007655</PatientID>
+      <Start>04/09/2013 17:00</Start>
+      <End>04/09/2013 17:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>478.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>380.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>784.99</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>388.70</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>470</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>477.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.50</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599547</ID>
+      <Start>04/09/2013 17:00</Start>
+      <Type>5</Type>
+      <Code>1300-1299-003</Code>
+      <Quantity>1.00</Quantity>
+      <Net>120.60</Net>
+      <Clinician>GD12853</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39599548</ID>
+      <Start>04/09/2013 17:00</Start>
+      <Type>5</Type>
+      <Code>1531-3975-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>214.20</Net>
+      <Clinician>GD12853</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39599549</ID>
+      <Start>04/09/2013 17:00</Start>
+      <Type>5</Type>
+      <Code>1552-4417-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>12.60</Net>
+      <Clinician>GD12853</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201673</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00432479 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>308.00</Gross>
+    <PatientShare>30.80</PatientShare>
+    <Net>277.20</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100124400</PatientID>
+      <Start>07/09/2013 10:20</Start>
+      <End>07/09/2013 10:20</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599550</ID>
+      <Start>07/09/2013 10:20</Start>
+      <Type>5</Type>
+      <Code>1256-2791-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>116.10</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274866</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599551</ID>
+      <Start>07/09/2013 10:20</Start>
+      <Type>5</Type>
+      <Code>1499-1748-003</Code>
+      <Quantity>2.00</Quantity>
+      <Net>161.10</Net>
+      <Clinician>D1064</Clinician>
+      <PriorAuthorizationID>274866</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201674</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00384241 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>81.00</Gross>
+    <PatientShare>8.10</PatientShare>
+    <Net>72.90</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100083106</PatientID>
+      <Start>08/09/2013 21:33</Start>
+      <End>08/09/2013 21:33</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>388.8</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>931</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.4</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599552</ID>
+      <Start>08/09/2013 21:33</Start>
+      <Type>5</Type>
+      <Code>2341-1388-005</Code>
+      <Quantity>1.00</Quantity>
+      <Net>72.90</Net>
+      <Clinician>GD12853</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201675</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00384241 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>124.50</Gross>
+    <PatientShare>12.45</PatientShare>
+    <Net>112.05</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100083106</PatientID>
+      <Start>08/09/2013 21:37</Start>
+      <End>08/09/2013 21:37</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>009.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599553</ID>
+      <Start>08/09/2013 21:37</Start>
+      <Type>5</Type>
+      <Code>1300-1614-004</Code>
+      <Quantity>1.00</Quantity>
+      <Net>112.05</Net>
+      <Clinician>GD9531</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201676</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00401182 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>36.00</Gross>
+    <PatientShare>3.60</PatientShare>
+    <Net>32.40</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100059576</PatientID>
+      <Start>08/09/2013 23:28</Start>
+      <End>08/09/2013 23:28</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>995.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>708.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599554</ID>
+      <Start>08/09/2013 23:28</Start>
+      <Type>5</Type>
+      <Code>1552-2198-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>16.65</Net>
+      <Clinician>GD6761</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39599555</ID>
+      <Start>08/09/2013 23:28</Start>
+      <Type>5</Type>
+      <Code>1711-4572-007</Code>
+      <Quantity>1.00</Quantity>
+      <Net>15.75</Net>
+      <Clinician>GD6761</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201677</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00293748 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>43.00</Gross>
+    <PatientShare>4.30</PatientShare>
+    <Net>38.70</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100139842</PatientID>
+      <Start>09/09/2013 08:52</Start>
+      <End>09/09/2013 08:52</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>372.14</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599556</ID>
+      <Start>09/09/2013 08:52</Start>
+      <Type>5</Type>
+      <Code>1719-1121-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>38.70</Net>
+      <Clinician>D1025</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201678</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00356223 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>41.50</Gross>
+    <PatientShare>4.15</PatientShare>
+    <Net>37.35</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100013173</PatientID>
+      <Start>09/09/2013 21:11</Start>
+      <End>09/09/2013 21:11</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>371.42</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599557</ID>
+      <Start>09/09/2013 21:11</Start>
+      <Type>5</Type>
+      <Code>1253-4425-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>37.35</Net>
+      <Clinician>D1025</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30201679</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00447797 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>22.00</Gross>
+    <PatientShare>2.20</PatientShare>
+    <Net>19.80</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>1651039</PatientID>
+      <Start>10/09/2013 11:51</Start>
+      <End>10/09/2013 11:51</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>374.05</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>373.11</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599558</ID>
+      <Start>10/09/2013 11:51</Start>
+      <Type>5</Type>
+      <Code>1252-3358-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>7.65</Net>
+      <Clinician>GD6285</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39599559</ID>
+      <Start>10/09/2013 11:51</Start>
+      <Type>5</Type>
+      <Code>1464-3408-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>12.15</Net>
+      <Clinician>GD6285</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30213108</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00041988 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>60.00</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>60.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>243894</PatientID>
+      <Start>18/09/2013 09:25</Start>
+      <End>18/09/2013 09:25</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>686.09</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599560</ID>
+      <Start>18/09/2013 09:25</Start>
+      <Type>5</Type>
+      <Code>1671-1331-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>60.00</Net>
+      <Clinician>GD7343</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30213109</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00324841 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>220.00</Gross>
+    <PatientShare>22.00</PatientShare>
+    <Net>198.00</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100010143</PatientID>
+      <Start>24/09/2013 15:57</Start>
+      <End>24/09/2013 15:57</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>009.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.11</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>564.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599561</ID>
+      <Start>24/09/2013 15:57</Start>
+      <Type>5</Type>
+      <Code>1279-3234-003</Code>
+      <Quantity>2.00</Quantity>
+      <Net>198.00</Net>
+      <Clinician>D4224</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220663</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00043803 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1257.50</Gross>
+    <PatientShare>125.75</PatientShare>
+    <Net>1131.75</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>240786</PatientID>
+      <Start>28/09/2013 11:40</Start>
+      <End>28/09/2013 11:40</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>268.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599562</ID>
+      <Start>28/09/2013 11:40</Start>
+      <Type>5</Type>
+      <Code>2423-6613-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>70.65</Net>
+      <Clinician>D3675</Clinician>
+      <PriorAuthorizationID>277412</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599563</ID>
+      <Start>28/09/2013 11:40</Start>
+      <Type>5</Type>
+      <Code>1635-1223-002</Code>
+      <Quantity>2.00</Quantity>
+      <Net>279.00</Net>
+      <Clinician>D3675</Clinician>
+      <PriorAuthorizationID>277412</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599564</ID>
+      <Start>28/09/2013 11:40</Start>
+      <Type>5</Type>
+      <Code>1759-3323-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>29.70</Net>
+      <Clinician>D3675</Clinician>
+      <PriorAuthorizationID>277412</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599565</ID>
+      <Start>28/09/2013 11:40</Start>
+      <Type>5</Type>
+      <Code>1556-5596-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>672.30</Net>
+      <Clinician>D3675</Clinician>
+      <PriorAuthorizationID>277412</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599566</ID>
+      <Start>28/09/2013 11:40</Start>
+      <Type>5</Type>
+      <Code>1283-1143-002</Code>
+      <Quantity>2.00</Quantity>
+      <Net>80.10</Net>
+      <Clinician>D3675</Clinician>
+      <PriorAuthorizationID>277412</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220664</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00105164 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1235.00</Gross>
+    <PatientShare>123.50</PatientShare>
+    <Net>1111.50</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>365033</PatientID>
+      <Start>28/09/2013 16:07</Start>
+      <End>28/09/2013 16:07</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.00</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599567</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>2319-2822-008</Code>
+      <Quantity>2.00</Quantity>
+      <Net>290.70</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277460</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599568</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1529-1750-002</Code>
+      <Quantity>2.00</Quantity>
+      <Net>212.40</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277460</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599569</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1528-5598-003</Code>
+      <Quantity>4.00</Quantity>
+      <Net>138.60</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277460</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599570</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1531-2679-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>469.80</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277460</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220665</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00105163 01</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>2581.00</Gross>
+    <PatientShare>258.10</PatientShare>
+    <Net>2322.90</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>359303</PatientID>
+      <Start>28/09/2013 16:07</Start>
+      <End>28/09/2013 16:07</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>272.4</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>530.81</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>724.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>564.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>401.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>362.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>250.02</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599571</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1635-3564-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>550.80</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599572</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>2319-2822-008</Code>
+      <Quantity>2.00</Quantity>
+      <Net>290.70</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599573</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1129-2012-002</Code>
+      <Quantity>2.00</Quantity>
+      <Net>94.50</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599574</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1465-3492-003</Code>
+      <Quantity>2.00</Quantity>
+      <Net>165.60</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599575</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1529-1750-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>416.70</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599576</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1499-1891-002</Code>
+      <Quantity>4.00</Quantity>
+      <Net>273.60</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>39599577</ID>
+      <Start>28/09/2013 16:07</Start>
+      <Type>5</Type>
+      <Code>1531-4675-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>531.00</Net>
+      <Clinician>D5513</Clinician>
+      <PriorAuthorizationID>277461</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220666</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00334790 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>55.50</Gross>
+    <PatientShare>5.55</PatientShare>
+    <Net>49.95</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>1949900</PatientID>
+      <Start>28/09/2013 18:00</Start>
+      <End>28/09/2013 18:00</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>463</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>780.60</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599578</ID>
+      <Start>28/09/2013 18:00</Start>
+      <Type>5</Type>
+      <Code>1523-4583-001</Code>
+      <Quantity>2.00</Quantity>
+      <Net>44.10</Net>
+      <Clinician>GD15564</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39599579</ID>
+      <Start>28/09/2013 18:00</Start>
+      <Type>5</Type>
+      <Code>1472-1058-011</Code>
+      <Quantity>1.00</Quantity>
+      <Net>5.85</Net>
+      <Clinician>GD15564</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220667</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00398723 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>16.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>16.50</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100143857</PatientID>
+      <Start>28/09/2013 21:13</Start>
+      <End>28/09/2013 21:13</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>690.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599580</ID>
+      <Start>28/09/2013 21:13</Start>
+      <Type>5</Type>
+      <Code>1417-1395-004</Code>
+      <Quantity>1.00</Quantity>
+      <Net>16.50</Net>
+      <Clinician>D4907</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+  <Claim>
+    <ID>SP30220668</ID>
+    <IDPayer />
+    <MemberID>0971 1087 00432484 02</MemberID>
+    <PayerID>A018</PayerID>
+    <ProviderID>PF1310</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>48.50</Gross>
+    <PatientShare>4.85</PatientShare>
+    <Net>43.65</Net>
+    <Encounter>
+      <FacilityID>PF1310</FacilityID>
+      <Type>1</Type>
+      <PatientID>100102851</PatientID>
+      <Start>29/09/2013 23:18</Start>
+      <End>29/09/2013 23:18</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>009.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>691.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>465.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39599581</ID>
+      <Start>29/09/2013 23:18</Start>
+      <Type>5</Type>
+      <Code>1957-4845-004</Code>
+      <Quantity>3.00</Quantity>
+      <Net>33.75</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Activity>
+      <ID>39599582</ID>
+      <Start>29/09/2013 23:18</Start>
+      <Type>5</Type>
+      <Code>1472-3480-001</Code>
+      <Quantity>1.00</Quantity>
+      <Net>9.90</Net>
+      <Clinician>D5197</Clinician>
+    </Activity>
+    <Contract>
+      <PackageName>Al Fujairah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>

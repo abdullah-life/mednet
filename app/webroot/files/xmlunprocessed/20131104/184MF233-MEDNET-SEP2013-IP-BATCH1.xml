@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF233</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>22/10/2013 11:32</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>MF233-MEDNET-SEP 2013-IP-BATCH 1-1</ID><MemberID>0971 1033 00379593 01</MemberID><PayerID>A020</PayerID><ProviderID>MF233</ProviderID><EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber><Gross>5620.9</Gross><PatientShare>0</PatientShare><Net>5620.9</Net><Encounter>
+<FacilityID>MF233</FacilityID><Type>3</Type><PatientID>102862</PatientID><Start>18/09/2013 08:30</Start><End>18/09/2013 21:30</End><StartType>1</StartType><EndType>1</EndType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>456.4</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>18/09/2013 08:30</Start><Type>5</Type><Code>1289-1286-003</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>2</ID><Start>18/09/2013 08:30</Start><Type>3</Type><Code>00840</Code><Quantity>6</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>3</ID><Start>18/09/2013 08:30</Start><Type>5</Type><Code>1508-3763-001</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>4</ID><Start>18/09/2013 08:30</Start><Type>8</Type><Code>20-03</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>5</ID><Start>18/09/2013 08:30</Start><Type>5</Type><Code>1583-1553-003</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>6</ID><Start>18/09/2013 08:30</Start><Type>8</Type><Code>17-23</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>7</ID><Start>18/09/2013 08:30</Start><Type>5</Type><Code>1748-4860-002</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>8</ID><Start>18/09/2013 08:30</Start><Type>3</Type><Code>96361</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>9</ID><Start>18/09/2013 08:30</Start><Type>3</Type><Code>96360</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>10</ID><Start>18/09/2013 08:30</Start><Type>3</Type><Code>55535</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician><PriorAuthorizationID>56062</PriorAuthorizationID></Activity>
+<Activity>
+<ID>11</ID><Start>18/09/2013 08:30</Start><Type>5</Type><Code>1513-4850-003</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>12</ID><Start>18/09/2013 08:30</Start><Type>8</Type><Code>20-02</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>13</ID><Start>18/09/2013 08:30</Start><Type>8</Type><Code>17-04</Code><Quantity>1</Quantity><Net>0</Net><Clinician>D3781</Clinician><PriorAuthorizationID>56062</PriorAuthorizationID></Activity>
+<Activity>
+<ID>14</ID><Start>18/09/2013 08:30</Start><Type>5</Type><Code>2220-5153-034</Code><Quantity>2</Quantity><Net>0</Net><Clinician>D3781</Clinician></Activity>
+<Activity>
+<ID>DRG_SERVICE_01</ID><Start>18/09/2013 08:30</Start><Type>9</Type><Code>121121</Code><Quantity>1</Quantity><Net>5620.9</Net><Clinician>D3781</Clinician><Observation>
+<Type>Text</Type><Code>5620.9</Code><Value>Currency of UAE</Value><ValueType>AED</ValueType></Observation>
+</Activity>
+</Claim>
+
+</Claim.Submission>

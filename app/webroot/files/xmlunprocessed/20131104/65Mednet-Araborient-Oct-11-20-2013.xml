@@ -1,0 +1,2786 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0046879</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 10:57</TransactionDate>
+    <RecordCount>53</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>68959 - Mednet-Araborient-Oct-11-20-2013 - 1</ID>
+    <MemberID>097110040031976001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>60</PatientShare>
+    <Net>290</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>81765</PatientID>
+      <Start>17/10/2013 11:31</Start>
+      <End>17/10/2013 12:01</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.511A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S83.241A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296863</ID>
+      <Start>17/10/2013 11:31</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>290</Net>
+      <Clinician>DHA-P-0250512</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>RIGHT KNEE NONFUNCTIONING ACL
+MEDIAL MENISCAL TEAR
+TIBIAL INCISION TENDERNESS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68768 - Mednet-Araborient-Oct-11-20-2013 - 2</ID>
+    <MemberID>097110040030931501</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>245</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>245</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>90313</PatientID>
+      <Start>15/10/2013 11:42</Start>
+      <End>15/10/2013 12:12</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S61.411A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296867</ID>
+      <Start>15/10/2013 11:42</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>245</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>SKIN LACERATION ON HAND</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68434 - Mednet-Araborient-Oct-11-20-2013 - 3</ID>
+    <MemberID>097110040039564902</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100220</PatientID>
+      <Start>12/10/2013 11:50</Start>
+      <End>12/10/2013 12:20</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M25.822</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296869</ID>
+      <Start>12/10/2013 11:50</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>LEFT ELBOW PAINFUL ON MOVEMENTS SINCE 2 MONTHS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69225 - Mednet-Araborient-Oct-11-20-2013 - 4</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>92567</PatientID>
+      <Start>20/10/2013 14:55</Start>
+      <End>20/10/2013 15:25</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296870</ID>
+      <Start>20/10/2013 14:55</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>LEFT SIDED NECK PAIN SINCE ONE DAY</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30617/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 5</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>526.5</Gross>
+    <PatientShare>52.65</PatientShare>
+    <Net>473.85</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>92567</PatientID>
+      <Start>20/10/2013 15:30</Start>
+      <End>20/10/2013 16:00</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296871</ID>
+      <Start>20/10/2013 15:30</Start>
+      <Type>3</Type>
+      <Code>83906</Code>
+      <Quantity>1</Quantity>
+      <Net>58.5</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296872</ID>
+      <Start>20/10/2013 15:30</Start>
+      <Type>3</Type>
+      <Code>85027</Code>
+      <Quantity>1</Quantity>
+      <Net>93.6</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296873</ID>
+      <Start>20/10/2013 15:30</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1</Quantity>
+      <Net>78.97</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296874</ID>
+      <Start>20/10/2013 15:30</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1</Quantity>
+      <Net>58.5</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH028</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296875</ID>
+      <Start>20/10/2013 15:30</Start>
+      <Type>3</Type>
+      <Code>84560</Code>
+      <Quantity>1</Quantity>
+      <Net>43.88</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAB284</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296876</ID>
+      <Start>20/10/2013 15:30</Start>
+      <Type>3</Type>
+      <Code>86431</Code>
+      <Quantity>1</Quantity>
+      <Net>140.4</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37801/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 6</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>192.58</Gross>
+    <PatientShare>19.26</PatientShare>
+    <Net>173.32</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>92567</PatientID>
+      <Start>20/10/2013 15:40</Start>
+      <End>20/10/2013 16:10</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296877</ID>
+      <Start>20/10/2013 15:40</Start>
+      <Type>5</Type>
+      <Code>0090-122301-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>153.97</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296878</ID>
+      <Start>20/10/2013 15:40</Start>
+      <Type>5</Type>
+      <Code>0015-149901-0431</Code>
+      <Quantity>1</Quantity>
+      <Net>19.35</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69175 - Mednet-Araborient-Oct-11-20-2013 - 7</ID>
+    <MemberID>097110040033960001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>60</PatientShare>
+    <Net>290</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>90863</PatientID>
+      <Start>19/10/2013 15:48</Start>
+      <End>19/10/2013 16:18</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>H46.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R42</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296879</ID>
+      <Start>19/10/2013 15:48</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>290</Net>
+      <Clinician>DHA-P-0242916</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>VERTIGO ON TURNING NECK
+</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37796/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 8</ID>
+    <MemberID>097110040033960001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>98</Gross>
+    <PatientShare>9.8</PatientShare>
+    <Net>88.2</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>90863</PatientID>
+      <Start>20/10/2013 16:03</Start>
+      <End>20/10/2013 16:33</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>H46.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R42</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296880</ID>
+      <Start>20/10/2013 16:03</Start>
+      <Type>5</Type>
+      <Code>0321-100604-1171</Code>
+      <Quantity>2</Quantity>
+      <Net>39.6</Net>
+      <Clinician>DHA-P-0242916</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296881</ID>
+      <Start>20/10/2013 16:03</Start>
+      <Type>5</Type>
+      <Code>1291-380701-1171</Code>
+      <Quantity>0.66</Quantity>
+      <Net>48.6</Net>
+      <Clinician>DHA-P-0242916</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68546 - Mednet-Araborient-Oct-11-20-2013 - 9</ID>
+    <MemberID>097110040034307401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>60</PatientShare>
+    <Net>290</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100109</PatientID>
+      <Start>12/10/2013 16:16</Start>
+      <End>12/10/2013 16:46</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.241A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S83.242A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S83.281A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S76.111A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>S76.112A</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M65.861</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296882</ID>
+      <Start>12/10/2013 16:16</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>290</Net>
+      <Clinician>DHA-P-0250512</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>BILATERAL KNEE MEDIAL MENISCAL TEAR
+PATELLAR CARTILAGE TEAR
+SYNOVITIS
+</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29835/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 10</ID>
+    <MemberID>097110040034307401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>422.5</Gross>
+    <PatientShare>42.25</PatientShare>
+    <Net>380.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100109</PatientID>
+      <Start>13/10/2013 16:24</Start>
+      <End>13/10/2013 16:54</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.241D</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z47.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296883</ID>
+      <Start>13/10/2013 16:24</Start>
+      <Type>3</Type>
+      <Code>97139</Code>
+      <Quantity>2</Quantity>
+      <Net>380.25</Net>
+      <Clinician>DHA-P-0252016</Clinician>
+      <PriorAuthorizationID>277228</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PHY003</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29713/2012-14 - Mednet-Araborient-Oct-11-20-2013 - 11</ID>
+    <MemberID>097110040042249401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>744.25</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>744.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101419</PatientID>
+      <Start>12/10/2013 17:02</Start>
+      <End>12/10/2013 17:32</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M60.232</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296884</ID>
+      <Start>12/10/2013 17:02</Start>
+      <Type>3</Type>
+      <Code>85027</Code>
+      <Quantity>1</Quantity>
+      <Net>104</Net>
+      <Clinician>DHA-P-0002711</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296885</ID>
+      <Start>12/10/2013 17:02</Start>
+      <Type>3</Type>
+      <Code>85348</Code>
+      <Quantity>1</Quantity>
+      <Net>357.5</Net>
+      <Clinician>DHA-P-0002711</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH020</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296886</ID>
+      <Start>12/10/2013 17:02</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1</Quantity>
+      <Net>87.75</Net>
+      <Clinician>DHA-P-0002711</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296887</ID>
+      <Start>12/10/2013 17:02</Start>
+      <Type>3</Type>
+      <Code>73100</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0002711</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68527 - Mednet-Araborient-Oct-11-20-2013 - 12</ID>
+    <MemberID>097110040040182001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101461</PatientID>
+      <Start>12/10/2013 17:09</Start>
+      <End>12/10/2013 17:39</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M46.92</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M51.27</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296888</ID>
+      <Start>12/10/2013 17:09</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>LOW BACK ACHE
+NECK PAIN</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29761/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 13</ID>
+    <MemberID>097110040040182001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>390</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>390</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101461</PatientID>
+      <Start>12/10/2013 17:11</Start>
+      <End>12/10/2013 17:41</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M46.92</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M51.27</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296889</ID>
+      <Start>12/10/2013 17:11</Start>
+      <Type>3</Type>
+      <Code>72040</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAX049</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296890</ID>
+      <Start>12/10/2013 17:11</Start>
+      <Type>3</Type>
+      <Code>72100</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAX059</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36558/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 14</ID>
+    <MemberID>097110040040182001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>218.04</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>218.04</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101461</PatientID>
+      <Start>12/10/2013 17:16</Start>
+      <End>12/10/2013 17:46</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M46.92</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M51.27</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296891</ID>
+      <Start>12/10/2013 17:16</Start>
+      <Type>5</Type>
+      <Code>0009-101701-1171</Code>
+      <Quantity>1</Quantity>
+      <Net>44</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296892</ID>
+      <Start>12/10/2013 17:16</Start>
+      <Type>5</Type>
+      <Code>0005-174202-1451</Code>
+      <Quantity>1</Quantity>
+      <Net>155.54</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296893</ID>
+      <Start>12/10/2013 17:16</Start>
+      <Type>5</Type>
+      <Code>0095-149901-0431</Code>
+      <Quantity>1</Quantity>
+      <Net>18.5</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29782/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 15</ID>
+    <MemberID>097110040025372002 </MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>633.75</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>633.75</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100354</PatientID>
+      <Start>12/10/2013 17:21</Start>
+      <End>12/10/2013 17:51</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>O36.5122</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>O99.282</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z3A.28</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296894</ID>
+      <Start>12/10/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>85027</Code>
+      <Quantity>1</Quantity>
+      <Net>104</Net>
+      <Clinician>DHA-P-0045363</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296895</ID>
+      <Start>12/10/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>87070</Code>
+      <Quantity>1</Quantity>
+      <Net>146.25</Net>
+      <Clinician>DHA-P-0045363</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAM258</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296896</ID>
+      <Start>12/10/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>84439</Code>
+      <Quantity>1</Quantity>
+      <Net>143</Net>
+      <Clinician>DHA-P-0045363</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296897</ID>
+      <Start>12/10/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>84443</Code>
+      <Quantity>1</Quantity>
+      <Net>201.5</Net>
+      <Clinician>DHA-P-0045363</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAE061</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296898</ID>
+      <Start>12/10/2013 17:21</Start>
+      <Type>3</Type>
+      <Code>81001</Code>
+      <Quantity>1</Quantity>
+      <Net>39</Net>
+      <Clinician>DHA-P-0045363</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAM436</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68695 - Mednet-Araborient-Oct-11-20-2013 - 16</ID>
+    <MemberID>097110040039267302</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>350</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>83737</PatientID>
+      <Start>13/10/2013 09:47</Start>
+      <End>13/10/2013 10:17</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J31.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296899</ID>
+      <Start>13/10/2013 09:47</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>350</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>RUNNING NOSE
+COLD
+RHINITIS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36780/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 17</ID>
+    <MemberID>097110040039267302</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>55</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>55</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>83737</PatientID>
+      <Start>13/10/2013 09:49</Start>
+      <End>13/10/2013 10:19</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J31.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296900</ID>
+      <Start>13/10/2013 09:49</Start>
+      <Type>5</Type>
+      <Code>0414-203702-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>30</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296901</ID>
+      <Start>13/10/2013 09:49</Start>
+      <Type>5</Type>
+      <Code>0771-107904-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>14</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296902</ID>
+      <Start>13/10/2013 09:49</Start>
+      <Type>5</Type>
+      <Code>0837-277601-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>11</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68919 - Mednet-Araborient-Oct-11-20-2013 - 18</ID>
+    <MemberID>097110040046427801</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>100</PatientShare>
+    <Net>250</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>97892</PatientID>
+      <Start>17/10/2013 10:08</Start>
+      <End>17/10/2013 10:38</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>H61.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H60.92</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296903</ID>
+      <Start>17/10/2013 10:08</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>250</Net>
+      <Clinician>DHA-P-0034507</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>IMPACTED CERUMEN
+OTITIS EXTERNA</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30261/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 19</ID>
+    <MemberID>097110040046427801</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>260</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>260</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>97892</PatientID>
+      <Start>17/10/2013 10:11</Start>
+      <End>17/10/2013 10:41</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>H61.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H60.92</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296904</ID>
+      <Start>17/10/2013 10:11</Start>
+      <Type>3</Type>
+      <Code>69399</Code>
+      <Quantity>1</Quantity>
+      <Net>97.5</Net>
+      <Clinician>DHA-P-0034507</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ENO024</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296905</ID>
+      <Start>17/10/2013 10:11</Start>
+      <Type>3</Type>
+      <Code>69210</Code>
+      <Quantity>1</Quantity>
+      <Net>162.5</Net>
+      <Clinician>DHA-P-0034507</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ENO060</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37231/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 20</ID>
+    <MemberID>097110040046427801</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>26.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>26.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>97892</PatientID>
+      <Start>17/10/2013 10:13</Start>
+      <End>17/10/2013 10:43</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>H61.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>H60.92</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296906</ID>
+      <Start>17/10/2013 10:13</Start>
+      <Type>5</Type>
+      <Code>0085-239201-0371</Code>
+      <Quantity>1</Quantity>
+      <Net>26.5</Net>
+      <Clinician>DHA-P-0034507</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69280 - Mednet-Araborient-Oct-11-20-2013 - 21</ID>
+    <MemberID>097110040045338001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>98358</PatientID>
+      <Start>20/10/2013 09:28</Start>
+      <End>20/10/2013 09:58</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J34.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J34.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>G47.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J32.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296907</ID>
+      <Start>20/10/2013 09:28</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0034507</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>NASAL CONGESTION
+obstructive sleep apnea</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30691/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 22</ID>
+    <MemberID>097110040045338001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>520</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>520</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>98358</PatientID>
+      <Start>20/10/2013 09:37</Start>
+      <End>20/10/2013 10:07</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J34.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J34.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>G47.33</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J32.8</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296908</ID>
+      <Start>20/10/2013 09:37</Start>
+      <Type>3</Type>
+      <Code>31231</Code>
+      <Quantity>1</Quantity>
+      <Net>520</Net>
+      <Clinician>DHA-P-0034507</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ENO049</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68367 - Mednet-Araborient-Oct-11-20-2013 - 23</ID>
+    <MemberID>097110040023474301</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>420</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>370</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>92263</PatientID>
+      <Start>12/10/2013 09:43</Start>
+      <End>12/10/2013 10:13</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I82.409</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E11.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296909</ID>
+      <Start>12/10/2013 09:43</Start>
+      <Type>8</Type>
+      <Code>11</Code>
+      <Quantity>1</Quantity>
+      <Net>370</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>DIABETES MELLITUS
+deep vein thrombosis
+FOLLOWUP</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36366/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 24</ID>
+    <MemberID>097110040023474301</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1537.04</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>1537.04</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>92263</PatientID>
+      <Start>12/10/2013 09:48</Start>
+      <End>12/10/2013 10:18</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I82.409</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E11.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296910</ID>
+      <Start>12/10/2013 09:48</Start>
+      <Type>5</Type>
+      <Code>0042-341503-1501</Code>
+      <Quantity>2</Quantity>
+      <Net>946.8</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+      <PriorAuthorizationID>279057</PriorAuthorizationID>
+    </Activity>
+    <Activity>
+      <ID>4296911</ID>
+      <Start>12/10/2013 09:48</Start>
+      <Type>5</Type>
+      <Code>0090-204901-0391</Code>
+      <Quantity>2</Quantity>
+      <Net>590.24</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+      <PriorAuthorizationID>279057</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30139/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 25</ID>
+    <MemberID>097110040023474301</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>503.75</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>503.75</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>92263</PatientID>
+      <Start>17/10/2013 09:55</Start>
+      <End>17/10/2013 10:25</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I82.409</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E11.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296912</ID>
+      <Start>17/10/2013 09:55</Start>
+      <Type>3</Type>
+      <Code>82947</Code>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAB159</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296913</ID>
+      <Start>17/10/2013 09:55</Start>
+      <Type>3</Type>
+      <Code>83037</Code>
+      <Quantity>1</Quantity>
+      <Net>130</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296914</ID>
+      <Start>17/10/2013 09:55</Start>
+      <Type>3</Type>
+      <Code>80061</Code>
+      <Quantity>1</Quantity>
+      <Net>260</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296915</ID>
+      <Start>17/10/2013 09:55</Start>
+      <Type>3</Type>
+      <Code>84560</Code>
+      <Quantity>1</Quantity>
+      <Net>48.75</Net>
+      <Clinician>DHA-P-0250677</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAB284</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68536 - Mednet-Araborient-Oct-11-20-2013 - 26</ID>
+    <MemberID>097110040046892601</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>85706</PatientID>
+      <Start>12/10/2013 10:16</Start>
+      <End>12/10/2013 10:46</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N13.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N13.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>I10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296916</ID>
+      <Start>12/10/2013 10:16</Start>
+      <Type>8</Type>
+      <Code>11</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>PAIN ABDOMEN
+LAP BILATERAL URETEROLGIA DONE</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29771/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 27</ID>
+    <MemberID>097110040046892601</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1556.75</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>1556.75</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>85706</PatientID>
+      <Start>12/10/2013 10:20</Start>
+      <End>12/10/2013 10:50</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N13.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N13.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>I10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296917</ID>
+      <Start>12/10/2013 10:20</Start>
+      <Type>3</Type>
+      <Code>85027</Code>
+      <Quantity>1</Quantity>
+      <Net>104</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296918</ID>
+      <Start>12/10/2013 10:20</Start>
+      <Type>3</Type>
+      <Code>80061</Code>
+      <Quantity>1</Quantity>
+      <Net>260</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296919</ID>
+      <Start>12/10/2013 10:20</Start>
+      <Type>3</Type>
+      <Code>84153</Code>
+      <Quantity>1</Quantity>
+      <Net>243.75</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAB249</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296920</ID>
+      <Start>12/10/2013 10:20</Start>
+      <Type>3</Type>
+      <Code>80069</Code>
+      <Quantity>1</Quantity>
+      <Net>325</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296921</ID>
+      <Start>12/10/2013 10:20</Start>
+      <Type>3</Type>
+      <Code>81001</Code>
+      <Quantity>1</Quantity>
+      <Net>39</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAM436</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296922</ID>
+      <Start>12/10/2013 10:20</Start>
+      <Type>3</Type>
+      <Code>76700</Code>
+      <Quantity>1</Quantity>
+      <Net>585</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAU002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36568/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 28</ID>
+    <MemberID>097110040046892601</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>223.48</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>223.48</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>85706</PatientID>
+      <Start>12/10/2013 10:26</Start>
+      <End>12/10/2013 10:56</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N13.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N13.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>I10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296923</ID>
+      <Start>12/10/2013 10:26</Start>
+      <Type>5</Type>
+      <Code>0090-155401-1171</Code>
+      <Quantity>1</Quantity>
+      <Net>117.88</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296924</ID>
+      <Start>12/10/2013 10:26</Start>
+      <Type>5</Type>
+      <Code>0186-115902-1451</Code>
+      <Quantity>1</Quantity>
+      <Net>105.6</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37500/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 29</ID>
+    <MemberID>097110040046892601</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>33</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>33</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>85706</PatientID>
+      <Start>19/10/2013 10:29</Start>
+      <End>19/10/2013 10:59</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N13.5</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>N13.30</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>I10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E55.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296925</ID>
+      <Start>19/10/2013 10:29</Start>
+      <Type>5</Type>
+      <Code>0281-238902-1481</Code>
+      <Quantity>1</Quantity>
+      <Net>33</Net>
+      <Clinician>DHA-P-0011165</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>APPROVED BY IAN</Value>
+        <ValueType>Description</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68627 - Mednet-Araborient-Oct-11-20-2013 - 30</ID>
+    <MemberID>097110040047158802</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>245</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>195</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>60307</PatientID>
+      <Start>13/10/2013 10:36</Start>
+      <End>13/10/2013 11:06</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J39.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296926</ID>
+      <Start>13/10/2013 10:36</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>COUGH
+BODY ACHE
+COLD
+CONGESTED PHARYNGEAL
+</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29902/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 31</ID>
+    <MemberID>097110040047158802</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>146.25</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>146.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>60307</PatientID>
+      <Start>13/10/2013 10:40</Start>
+      <End>13/10/2013 11:10</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J39.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296927</ID>
+      <Start>13/10/2013 10:40</Start>
+      <Type>3</Type>
+      <Code>94664</Code>
+      <Quantity>1</Quantity>
+      <Net>146.25</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PUL007</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30022/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 32</ID>
+    <MemberID>097110040047158802</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>146.25</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>146.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>60307</PatientID>
+      <Start>14/10/2013 10:33</Start>
+      <End>14/10/2013 11:03</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J39.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296928</ID>
+      <Start>14/10/2013 10:33</Start>
+      <Type>3</Type>
+      <Code>94664</Code>
+      <Quantity>1</Quantity>
+      <Net>146.25</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PUL007</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36687/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 33</ID>
+    <MemberID>097110040047158802</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>11.71</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>11.71</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>60307</PatientID>
+      <Start>13/10/2013 10:44</Start>
+      <End>13/10/2013 11:14</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J39.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296929</ID>
+      <Start>13/10/2013 10:44</Start>
+      <Type>5</Type>
+      <Code>0042-152502-2073</Code>
+      <Quantity>0.1</Quantity>
+      <Net>2.68</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296930</ID>
+      <Start>13/10/2013 10:44</Start>
+      <Type>5</Type>
+      <Code>0188-135907-2441</Code>
+      <Quantity>0.05</Quantity>
+      <Net>9.03</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36688/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 34</ID>
+    <MemberID>097110040047158802</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>203.67</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>203.67</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>60307</PatientID>
+      <Start>13/10/2013 10:52</Start>
+      <End>13/10/2013 11:22</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J39.2</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296931</ID>
+      <Start>13/10/2013 10:52</Start>
+      <Type>5</Type>
+      <Code>0030-183202-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>34.05</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296932</ID>
+      <Start>13/10/2013 10:52</Start>
+      <Type>5</Type>
+      <Code>0248-135501-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>10.5</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296933</ID>
+      <Start>13/10/2013 10:52</Start>
+      <Type>5</Type>
+      <Code>0042-152502-2073</Code>
+      <Quantity>2</Quantity>
+      <Net>53.6</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296934</ID>
+      <Start>13/10/2013 10:52</Start>
+      <Type>5</Type>
+      <Code>0006-106601-0394</Code>
+      <Quantity>1</Quantity>
+      <Net>5.52</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296935</ID>
+      <Start>13/10/2013 10:52</Start>
+      <Type>5</Type>
+      <Code>0139-116207-1171</Code>
+      <Quantity>1</Quantity>
+      <Net>100</Net>
+      <Clinician>DHA-P-0055024</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30048/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 35</ID>
+    <MemberID>097110040047158802</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>146.25</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>146.25</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>60307</PatientID>
+      <Start>14/10/2013 10:57</Start>
+      <End>14/10/2013 11:27</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J32.9</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>J00</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296936</ID>
+      <Start>14/10/2013 10:57</Start>
+      <Type>3</Type>
+      <Code>94664</Code>
+      <Quantity>1</Quantity>
+      <Net>146.25</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PUL007</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68694 - Mednet-Araborient-Oct-11-20-2013 - 36</ID>
+    <MemberID>097110040040483102</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>350</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>83840</PatientID>
+      <Start>13/10/2013 11:27</Start>
+      <End>13/10/2013 11:57</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J31.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296937</ID>
+      <Start>13/10/2013 11:27</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>350</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>RUNNING NOSE
+COUGH
+RHINITIS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36783/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 37</ID>
+    <MemberID>097110040040483102</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>75</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>75</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>83840</PatientID>
+      <Start>13/10/2013 11:33</Start>
+      <End>13/10/2013 12:03</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J31.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296938</ID>
+      <Start>13/10/2013 11:33</Start>
+      <Type>5</Type>
+      <Code>0027-128801-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>15.5</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296939</ID>
+      <Start>13/10/2013 11:33</Start>
+      <Type>5</Type>
+      <Code>0005-206401-0151</Code>
+      <Quantity>1</Quantity>
+      <Net>11</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296940</ID>
+      <Start>13/10/2013 11:33</Start>
+      <Type>5</Type>
+      <Code>0837-277601-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>11</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296941</ID>
+      <Start>13/10/2013 11:33</Start>
+      <Type>5</Type>
+      <Code>0414-203702-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>30</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296942</ID>
+      <Start>13/10/2013 11:33</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.5</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30077/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 38</ID>
+    <MemberID>097110040030931501</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>130</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>130</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>90313</PatientID>
+      <Start>15/10/2013 11:53</Start>
+      <End>15/10/2013 12:23</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S61.411A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296943</ID>
+      <Start>15/10/2013 11:53</Start>
+      <Type>3</Type>
+      <Code>97597</Code>
+      <Quantity>1</Quantity>
+      <Net>130</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ORO063</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36963/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 39</ID>
+    <MemberID>097110040030931501</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>62</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>62</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>90313</PatientID>
+      <Start>15/10/2013 11:55</Start>
+      <End>15/10/2013 12:25</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S61.411A</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296944</ID>
+      <Start>15/10/2013 11:55</Start>
+      <Type>5</Type>
+      <Code>0027-149904-0341</Code>
+      <Quantity>1</Quantity>
+      <Net>62</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29677/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 40</ID>
+    <MemberID>097110040039564902</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>526.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>526.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100220</PatientID>
+      <Start>12/10/2013 11:58</Start>
+      <End>12/10/2013 12:28</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M25.822</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296945</ID>
+      <Start>12/10/2013 11:58</Start>
+      <Type>3</Type>
+      <Code>83906</Code>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296946</ID>
+      <Start>12/10/2013 11:58</Start>
+      <Type>3</Type>
+      <Code>85027</Code>
+      <Quantity>1</Quantity>
+      <Net>104</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH008</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296947</ID>
+      <Start>12/10/2013 11:58</Start>
+      <Type>3</Type>
+      <Code>86140</Code>
+      <Quantity>1</Quantity>
+      <Net>87.75</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296948</ID>
+      <Start>12/10/2013 11:58</Start>
+      <Type>3</Type>
+      <Code>85651</Code>
+      <Quantity>1</Quantity>
+      <Net>65</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAH028</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296949</ID>
+      <Start>12/10/2013 11:58</Start>
+      <Type>3</Type>
+      <Code>86431</Code>
+      <Quantity>1</Quantity>
+      <Net>156</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296950</ID>
+      <Start>12/10/2013 11:58</Start>
+      <Type>3</Type>
+      <Code>84560</Code>
+      <Quantity>1</Quantity>
+      <Net>48.75</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>LAB284</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29673/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 41</ID>
+    <MemberID>097110040039564902</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>390</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>390</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100220</PatientID>
+      <Start>12/10/2013 12:01</Start>
+      <End>12/10/2013 12:31</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M25.822</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296951</ID>
+      <Start>12/10/2013 12:01</Start>
+      <Type>3</Type>
+      <Code>73070</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296952</ID>
+      <Start>12/10/2013 12:01</Start>
+      <Type>3</Type>
+      <Code>72070</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0241033</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69033 - Mednet-Araborient-Oct-11-20-2013 - 42</ID>
+    <MemberID>097110040018330901</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>60</PatientShare>
+    <Net>290</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>98433</PatientID>
+      <Start>19/10/2013 12:03</Start>
+      <End>19/10/2013 12:33</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>I25.10</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>E11.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296953</ID>
+      <Start>19/10/2013 12:03</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>290</Net>
+      <Clinician>DHA-P-0056887</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>coronary artery disease
+DIABETES MELLITUS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>69207 - Mednet-Araborient-Oct-11-20-2013 - 43</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>245</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>195</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>92567</PatientID>
+      <Start>19/10/2013 12:06</Start>
+      <End>19/10/2013 12:36</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296954</ID>
+      <Start>19/10/2013 12:06</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>PAIN IN NECK
+UNABLE TO MOVE THE NECK ON LEFT SIDE</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30592/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 44</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>243.75</Gross>
+    <PatientShare>24.38</PatientShare>
+    <Net>219.37</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>92567</PatientID>
+      <Start>19/10/2013 14:56</Start>
+      <End>19/10/2013 15:26</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296955</ID>
+      <Start>19/10/2013 14:56</Start>
+      <Type>3</Type>
+      <Code>72040</Code>
+      <Quantity>1</Quantity>
+      <Net>175.5</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAX049 </Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296956</ID>
+      <Start>19/10/2013 14:56</Start>
+      <Type>3</Type>
+      <Code>96372</Code>
+      <Quantity>1</Quantity>
+      <Net>43.87</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MIS006</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4296957</ID>
+      <Start>19/10/2013 14:56</Start>
+      <Type>5</Type>
+      <Code>0027-149902-0511</Code>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37634/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 45</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>10.8</Gross>
+    <PatientShare>1.08</PatientShare>
+    <Net>9.72</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>92567</PatientID>
+      <Start>19/10/2013 15:30</Start>
+      <End>19/10/2013 16:00</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296958</ID>
+      <Start>19/10/2013 15:30</Start>
+      <Type>5</Type>
+      <Code>0027-149902-0511</Code>
+      <Quantity>0.2</Quantity>
+      <Net>9.72</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68696 - Mednet-Araborient-Oct-11-20-2013 - 46</ID>
+    <MemberID>097110040039267202</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>350</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>36562</PatientID>
+      <Start>13/10/2013 15:34</Start>
+      <End>13/10/2013 16:04</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J31.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R11.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296959</ID>
+      <Start>13/10/2013 15:34</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>350</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>RUNNING NOSE
+VOMITING</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36779/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 47</ID>
+    <MemberID>097110040039267202</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>46.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>46.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>36562</PatientID>
+      <Start>13/10/2013 15:41</Start>
+      <End>13/10/2013 16:11</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J31.0</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>R11.10</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296960</ID>
+      <Start>13/10/2013 15:41</Start>
+      <Type>5</Type>
+      <Code>0415-168202-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>16.5</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296961</ID>
+      <Start>13/10/2013 15:41</Start>
+      <Type>5</Type>
+      <Code>0414-203702-1971</Code>
+      <Quantity>1</Quantity>
+      <Net>30</Net>
+      <Clinician>DHA-P-0248492</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/29648/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 48</ID>
+    <MemberID>097110040034307401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>211.25</Gross>
+    <PatientShare>21.13</PatientShare>
+    <Net>190.12</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>100109</PatientID>
+      <Start>12/10/2013 16:23</Start>
+      <End>12/10/2013 16:53</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>S83.241D</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>Z47.89</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296962</ID>
+      <Start>12/10/2013 16:23</Start>
+      <Type>3</Type>
+      <Code>97139</Code>
+      <Quantity>1</Quantity>
+      <Net>190.12</Net>
+      <Clinician>DHA-P-0015237</Clinician>
+      <PriorAuthorizationID>277228</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PHY003</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68475 - Mednet-Araborient-Oct-11-20-2013 - 49</ID>
+    <MemberID>097110040042249401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>350</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101419</PatientID>
+      <Start>12/10/2013 16:49</Start>
+      <End>12/10/2013 17:19</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M60.232</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296963</ID>
+      <Start>12/10/2013 16:49</Start>
+      <Type>8</Type>
+      <Code>10</Code>
+      <Quantity>1</Quantity>
+      <Net>300</Net>
+      <Clinician>DHA-P-0002711</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>PAIN AND SWELLING LEFT WRIST SINCE 2 WEEKS</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>68765 - Mednet-Araborient-Oct-11-20-2013 - 50</ID>
+    <MemberID>097110040042249401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>245</Gross>
+    <PatientShare>50</PatientShare>
+    <Net>195</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>101419</PatientID>
+      <Start>15/10/2013 17:02</Start>
+      <End>15/10/2013 17:32</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R51</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296964</ID>
+      <Start>15/10/2013 17:02</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>195</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>HEADACHE
+COUGH</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>CON002</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/36958/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 51</ID>
+    <MemberID>097110040042249401</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>41</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>41</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>101419</PatientID>
+      <Start>15/10/2013 17:08</Start>
+      <End>15/10/2013 17:38</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>R51</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296965</ID>
+      <Start>15/10/2013 17:08</Start>
+      <Type>5</Type>
+      <Code>0095-149907-1143</Code>
+      <Quantity>1</Quantity>
+      <Net>16</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296966</ID>
+      <Start>15/10/2013 17:08</Start>
+      <Type>5</Type>
+      <Code>0027-265802-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>25</Net>
+      <Clinician>DHA-P-0035463</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>DG/30558/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 52</ID>
+    <MemberID>097110040040182001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>1300</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>1300</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>1</Type>
+      <PatientID>101461</PatientID>
+      <Start>19/10/2013 17:17</Start>
+      <End>19/10/2013 17:47</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M46.92</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M51.27</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296967</ID>
+      <Start>19/10/2013 17:17</Start>
+      <Type>3</Type>
+      <Code>72148</Code>
+      <Quantity>1</Quantity>
+      <Net>1300</Net>
+      <Clinician>DHA-P-0247369</Clinician>
+      <PriorAuthorizationID>279298</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAM021</Value>
+        <ValueType>Non-Standard-Code</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>MS/37636/2013-14 - Mednet-Araborient-Oct-11-20-2013 - 53</ID>
+    <MemberID>097110040038983001</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0046879</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>52</Gross>
+    <PatientShare>5.2</PatientShare>
+    <Net>46.8</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0046879</FacilityID>
+      <Type>2</Type>
+      <PatientID>92567</PatientID>
+      <Start>20/10/2013 10:41</Start>
+      <End>20/10/2013 11:11</End>
+      <StartType>2</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.82</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4296968</ID>
+      <Start>20/10/2013 10:41</Start>
+      <Type>5</Type>
+      <Code>0095-149907-1143</Code>
+      <Quantity>1</Quantity>
+      <Net>14.4</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4296969</ID>
+      <Start>20/10/2013 10:41</Start>
+      <Type>5</Type>
+      <Code>0717-226501-2401</Code>
+      <Quantity>1</Quantity>
+      <Net>32.4</Net>
+      <Clinician>DHA-P-0046813</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

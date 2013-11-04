@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0000173</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>02/11/2013 11:57</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>688 - DHA-F-0000173-MEDNET-OCT1-31 - 1</ID>
+    <MemberID>0971100400449808</MemberID>
+    <PayerID>INS008</PayerID>
+    <ProviderID>DHA-F-0000173</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>115</Gross>
+    <PatientShare>60</PatientShare>
+    <Net>43</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000173</FacilityID>
+      <Type>1</Type>
+      <PatientID>2350</PatientID>
+      <Start>10/10/2013 19:35</Start>
+      <End>10/10/2013 20:05</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>N39.0</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4298941</ID>
+      <Start>10/10/2013 19:35</Start>
+      <Type>8</Type>
+      <Code>9</Code>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0250863</Clinician>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Presenting-Complaint</Code>
+        <Value>asymptomatic</Value>
+        <ValueType>Presenting-Complaint</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>4298943</ID>
+      <Start>10/10/2013 19:35</Start>
+      <Type>3</Type>
+      <Code>81015</Code>
+      <Quantity>1</Quantity>
+      <Net>28</Net>
+      <Clinician>DHA-P-0250863</Clinician>
+    </Activity>
+  </Claim>
+</Claim.Submission>

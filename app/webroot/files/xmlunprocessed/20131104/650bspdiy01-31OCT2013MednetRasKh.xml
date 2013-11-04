@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <SenderID>DHA-F-0045824</SenderID>
+    <ReceiverID>TPA009</ReceiverID>
+    <TransactionDate>01/11/2013 16:46</TransactionDate>
+    <RecordCount>2</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>7100 - bspdiy 01-31 OCT 2013 Mednet Ras Kh - 1</ID>
+    <MemberID>0971 1007 00468477 02</MemberID>
+    <PayerID>INS014</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+    <Gross>204.5</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>194.29</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>3498</PatientID>
+      <Start>09/10/2013 13:11</Start>
+      <End>09/10/2013 13:41</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>J06.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292290</ID>
+      <Start>09/10/2013 13:11</Start>
+      <Type>5</Type>
+      <Code>0027-128801-2021</Code>
+      <Quantity>1</Quantity>
+      <Net>17.1</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292291</ID>
+      <Start>09/10/2013 13:11</Start>
+      <Type>5</Type>
+      <Code>0027-124302-1162</Code>
+      <Quantity>1</Quantity>
+      <Net>38.48</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292292</ID>
+      <Start>09/10/2013 13:11</Start>
+      <Type>5</Type>
+      <Code>0788-106604-1111</Code>
+      <Quantity>1</Quantity>
+      <Net>7.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292293</ID>
+      <Start>09/10/2013 13:11</Start>
+      <Type>5</Type>
+      <Code>0135-238504-0852</Code>
+      <Quantity>1</Quantity>
+      <Net>121.13</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292294</ID>
+      <Start>09/10/2013 13:11</Start>
+      <Type>5</Type>
+      <Code>0837-277601-1161</Code>
+      <Quantity>1</Quantity>
+      <Net>10.45</Net>
+      <Clinician>DHA-P-0239639</Clinician>
+    </Activity>
+  </Claim>
+  <Claim>
+    <ID>345334 - bspdiy 01-31 OCT 2013 Mednet Ras Kh - 2</ID>
+    <MemberID>0971 1003 00381115 01</MemberID>
+    <PayerID>INS014</PayerID>
+    <ProviderID>DHA-F-0045824</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>737.5</Gross>
+    <PatientShare>140.14</PatientShare>
+    <Net>560.5</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0045824</FacilityID>
+      <Type>1</Type>
+      <PatientID>1083</PatientID>
+      <Start>08/10/2013 09:39</Start>
+      <End>08/10/2013 10:09</End>
+      <StartType>1</StartType>
+      <TransferSource />
+      <TransferDestination />
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>B35.3</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>B35.6</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>4292295</ID>
+      <Start>08/10/2013 09:39</Start>
+      <Type>5</Type>
+      <Code>0027-109204-1171</Code>
+      <Quantity>2</Quantity>
+      <Net>404.32</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292296</ID>
+      <Start>08/10/2013 09:39</Start>
+      <Type>5</Type>
+      <Code>0068-278801-0152</Code>
+      <Quantity>1</Quantity>
+      <Net>16.34</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292297</ID>
+      <Start>08/10/2013 09:39</Start>
+      <Type>5</Type>
+      <Code>0027-109206-2621</Code>
+      <Quantity>2</Quantity>
+      <Net>93.48</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+    </Activity>
+    <Activity>
+      <ID>4292298</ID>
+      <Start>08/10/2013 09:39</Start>
+      <Type>5</Type>
+      <Code>0070-108101-0391</Code>
+      <Quantity>1</Quantity>
+      <Net>46.36</Net>
+      <Clinician>DHA-P-0240439</Clinician>
+      <PriorAuthorizationID>278638</PriorAuthorizationID>
+    </Activity>
+  </Claim>
+</Claim.Submission>

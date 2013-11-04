@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <SenderID>DHA-F-0000197</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+    <TransactionDate>26/10/2013 20:58</TransactionDate>
+    <RecordCount>1</RecordCount>
+  </Header>
+  <Claim>
+    <ID>IPC-R-2013-001735</ID>
+    <IDPayer/>
+    <MemberID>437554</MemberID>
+    <PayerID>A036</PayerID>
+    <ProviderID>DHA-F-0000197</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>46803.17</Gross>
+    <PatientShare>0</PatientShare>
+    <Net>46803.17</Net>
+    <Encounter>
+      <FacilityID>DHA-F-0000197</FacilityID>
+      <Type>3</Type>
+      <PatientID>0000102294</PatientID>
+      <Start>09/09/2013 12:55</Start>
+      <End>10/09/2013 14:19</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Contract>
+      <PackageName/>
+    </Contract>
+    <Resubmission/>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>M50.22</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>M54.2</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>PBLXX034349P231</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>0014-245502-0511</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>30</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PET100</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PETHIDINE 100MG/2ML AMP</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034297K058</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0666-128601-0432</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>10</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>KYJE42</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>K-Y JELLY 42GM TUBE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034297G213</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0128-192201-0511</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>350</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GLYCOP</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GLYCOPYROLATE 0.2 MG 1 ML VIAL</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343455320</ID>
+      <Start>10/09/2013 09:23</Start>
+      <End>10/09/2013 09:23</End>
+      <Code>A4930</Code>
+      <Type>4</Type>
+      <Quantity>5</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1710</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GLOVES NITRATEX NITRLE MICROTOUCH SMALL  700112</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348G034</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A6216</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1246</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GAUZE SPONGE 2X2 8 PLY NON STERILE 100PCS/PK</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343488027</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4931</Code>
+      <Type>4</Type>
+      <Quantity>3</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0189</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PROBE COVERS THERMOSCAN # PC 200 BRAUN WELCHALLYN</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343821290</ID>
+      <Start>10/09/2013 12:21</Start>
+      <End>10/09/2013 12:21</End>
+      <Code>0139-116206-1171</Code>
+      <Type>5</Type>
+      <Quantity>14</Quantity>
+      <Net>122</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>AUGTB02</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>AUGMENTIN 1GM TAB 14 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034382R130</ID>
+      <Start>10/09/2013 12:21</Start>
+      <End>10/09/2013 12:21</End>
+      <Code>0077-258502-1171</Code>
+      <Type>5</Type>
+      <Quantity>30</Quantity>
+      <Net>25</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>REPTB0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>REPARIL-DRAGEES 20MG TAB 40 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034308D169</ID>
+      <Start>09/09/2013 18:16</Start>
+      <End>09/09/2013 18:16</End>
+      <Code>0248-122107-1021</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>251</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>DEXAM0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>DEXAMETHASONE SOD 8MG /2ML AMP 100 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034364b188</ID>
+      <Start>10/09/2013 10:54</Start>
+      <End>10/09/2013 10:54</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>SI1411</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>BONE PASTE OSIQ 1.0CC # 4913110, KYERON</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0342968117</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0056-166503-0322</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>134</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PROVA0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PROPOFOL 1% FRESENIUS 20ML 5 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034296F087</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0072-171106-0512</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>15</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>FENAM0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>FENTANYL 0.05 MG/ML 2ML</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034297S334</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0439-264601-1931</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>555</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>SVFL25</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SEVOFLURANE INHALATION 250 ML</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034330K120</ID>
+      <Start>10/09/2013 08:36</Start>
+      <End>10/09/2013 08:36</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0602</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>KIDNEY TRAY PLASTIC DISPOSABLE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034345B057</ID>
+      <Start>10/09/2013 09:23</Start>
+      <End>10/09/2013 09:23</End>
+      <Code>A6413</Code>
+      <Type>4</Type>
+      <Quantity>3</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1838</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>BAND AID STRIP BROPLAST 19 X 75MM BROSCO</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348D366</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>T4535</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0740</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>DISPOSABLE BRIEFS/PANTIES - 50PCS/BOX</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343485321</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4930</Code>
+      <Type>4</Type>
+      <Quantity>10</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1712</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GLOVES NITRATEX NITRLE MICROTOUCH LARGE 700114</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>SVRXX004155P007</ID>
+      <Start>09/09/2013 12:55</Start>
+      <End>09/09/2013 12:55</End>
+      <Code>10</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>303</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ANA001</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PREANESTHETIST CONSULTATION</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034298R427</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD4229</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ROUND FLUTED BUR, ELITE 4.5MM STRYKER REF 5820-10-45</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034298N305</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>J7040</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>38</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0067</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>NORMAL SALINE 500ML</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343827109</ID>
+      <Start>10/09/2013 12:21</Start>
+      <End>10/09/2013 12:21</End>
+      <Code>0005-225601-1172</Code>
+      <Type>5</Type>
+      <Quantity>14</Quantity>
+      <Net>7</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MSCDLT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>MUSCADOL TAB 20 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034308M277</ID>
+      <Start>09/09/2013 18:16</Start>
+      <End>09/09/2013 18:16</End>
+      <Code>0095-107701-0802</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MES100</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>MESPORIN 1000 MG I.V</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034297M277</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0095-107701-0802</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>41</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MES100</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>MESPORIN 1000 MG I.V</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0342978394</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0063-111903-0492</Code>
+      <Type>5</Type>
+      <Quantity>5</Quantity>
+      <Net>10</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>SODAM03</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SODIUM CHLORIDE 0.9% 10 ML INJ 50S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034345I265</ID>
+      <Start>10/09/2013 09:23</Start>
+      <End>10/09/2013 09:23</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0043</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IV INFUSION SET VENTED LUERLOCK 20DROPS/ML 21G X 1.5 #IVIN-20 BROMED 50/BOX</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348T116</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A6257</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1270</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>TEGADERM I.V. 7 CM X 8.5 CM 1681/1633 3M TRANSPARENT DRESSING 100PCS/BO</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348C464</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>5</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD2357</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>COMBI STOPPER #04495101 B BRAUN</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>SURXX001914A001</ID>
+      <Start>09/09/2013 12:55</Start>
+      <End>09/09/2013 12:55</End>
+      <Code>63075</Code>
+      <Type>3</Type>
+      <Quantity>1</Quantity>
+      <Net>16500</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>NER022</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ANTERIOR CERVICL MICRODISECTOMY</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343821137</ID>
+      <Start>10/09/2013 12:21</Start>
+      <End>10/09/2013 12:21</End>
+      <Code>0090-122302-0391</Code>
+      <Type>5</Type>
+      <Quantity>14</Quantity>
+      <Net>42</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ARCTB0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ARCOXIA 120MG TAB 7 S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034345K120</ID>
+      <Start>10/09/2013 09:23</Start>
+      <End>10/09/2013 09:23</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>3</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0602</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>KIDNEY TRAY PLASTIC DISPOSABLE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348K120</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0602</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>KIDNEY TRAY PLASTIC DISPOSABLE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348L052</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4259</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0343</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>LANCETS THIN 28GAUGE FOR GLUCOMETER 200PC/BOX ABBOTT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034296G083</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0252-120205-0511</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>68</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GENAM0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GENTAMICIN 80MG/2ML AMP SANDOZ</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034297E396</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>0154-176901-1021</Code>
+      <Type>5</Type>
+      <Quantity>1</Quantity>
+      <Net>298</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>ESMVA0</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ESMERON 50MG/5 ML 10`S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343483009</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4346</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1396</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>3 WAY BD CONNECTA 7 CM REF.# 394945 (50/PACK)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348I019</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A9900</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD2964</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ID BAND ADULT WRISTLET  # IBDA - 01 BROSCO INTERNATIONAL INC</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348R228</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>J7120</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PH0003</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>RINGER LACTATE 500ML</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348I251</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1594</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IV CANNULA 20 GA - 1.0X32MM PINK #391452 BD VENFLON</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348T115</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A6257</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1271</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>TEGADERM I.V. 5 CM X 5.7 CM 1610 3M TRANSPARENT DRESSING</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034349W075</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>0002-357201-0552</Code>
+      <Type>5</Type>
+      <Quantity>2</Quantity>
+      <Net>1</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>WATER1</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>WATER FOR INJECTION 10ML 50S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343308024</ID>
+      <Start>10/09/2013 08:36</Start>
+      <End>10/09/2013 08:36</End>
+      <Code>A4931</Code>
+      <Type>4</Type>
+      <Quantity>10</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD1482</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>PROBE COVER ORAL THERMOMETER  # 05031 WELCH ALLYN 250/BOX</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034345*205</ID>
+      <Start>10/09/2013 09:23</Start>
+      <End>10/09/2013 09:23</End>
+      <Code>A4213</Code>
+      <Type>4</Type>
+      <Quantity>3</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0441</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>SYRINGE 5 ML 23G 1 1/4 HMD UNOLOK (100/BOX)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348I265</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0043</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>IV INFUSION SET VENTED LUERLOCK 20DROPS/ML 21G X 1.5 #IVIN-20 BROMED 50/BOX</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348G190</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4253</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD2231</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>GLUCOMETER STRIPS OPTIUM XCEED 100 STRIP/BOX  ABBOTT</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>RMRXX0014200033</ID>
+      <Start>10/09/2013 14:19</Start>
+      <End>10/09/2013 14:19</End>
+      <Code>17.05</Code>
+      <Type>8</Type>
+      <Quantity>1</Quantity>
+      <Net>550</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RMC003</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ROOM CHARGE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>SURXX001913A001</ID>
+      <Start>09/09/2013 12:55</Start>
+      <End>09/09/2013 12:55</End>
+      <Code>63075</Code>
+      <Type>3</Type>
+      <Quantity>3</Quantity>
+      <Net>16500</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>NER502</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ANTERIOR CERVICL MICRODISECTOMY</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>BILXX0288390838</ID>
+      <Start>09/09/2013 16:37</Start>
+      <End>09/09/2013 16:37</End>
+      <Code>77003</Code>
+      <Type>3</Type>
+      <Quantity>2</Quantity>
+      <Net>330</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>RAD104</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>C-ARM CHARGES (PER HALF HOUR)</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034368K120</ID>
+      <Start>10/09/2013 11:11</Start>
+      <End>10/09/2013 11:11</End>
+      <Code>A4649</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>82</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0602</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>KIDNEY TRAY PLASTIC DISPOSABLE</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034298R228</ID>
+      <Start>09/09/2013 16:49</Start>
+      <End>09/09/2013 16:49</End>
+      <Code>J7120</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>PH0003</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>RINGER LACTATE 500ML</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034364c267</ID>
+      <Start>10/09/2013 10:54</Start>
+      <End>10/09/2013 10:54</End>
+      <Code>C1821</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>SI1367</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CERVICAL CAGE 14X13X05MM # SQP-CP-141305S, OSD</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034330D366</ID>
+      <Start>10/09/2013 08:36</Start>
+      <End>10/09/2013 08:36</End>
+      <Code>T4535</Code>
+      <Type>4</Type>
+      <Quantity>5</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0740</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>DISPOSABLE BRIEFS/PANTIES - 50PCS/BOX</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX0343303219</ID>
+      <Start>10/09/2013 08:36</Start>
+      <End>10/09/2013 08:36</End>
+      <Code>E0167</Code>
+      <Type>4</Type>
+      <Quantity>2</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0493</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>COMMODE PAN (DISPOSABLE) 200PC/BOX  CAT NO. 111AA200</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348N360</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A9270</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>GC0207</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>NURSES CAP (BLUE/WHITE) 100PC/PACK.</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034364c364</ID>
+      <Start>10/09/2013 10:54</Start>
+      <End>10/09/2013 10:54</End>
+      <Code>C1821</Code>
+      <Type>4</Type>
+      <Quantity>1</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>SI1520</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>CERVICAL CAGE 14X13X06MM REF: SQP-CP-141306S</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+    <Activity>
+      <ID>PBLXX034348A256</ID>
+      <Start>10/09/2013 09:30</Start>
+      <End>10/09/2013 09:30</End>
+      <Code>A4554</Code>
+      <Type>4</Type>
+      <Quantity>4</Quantity>
+      <Net>0</Net>
+      <Clinician>DHA-P-0011589</Clinician>
+      <PriorAuthorizationID>57123</PriorAuthorizationID>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Non-Standard-Code</Code>
+        <Value>MD0425</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+      <Observation>
+        <Type>Text</Type>
+        <Code>Description</Code>
+        <Value>ALCOHOL PREP PADS 200PC/PACK</Value>
+        <ValueType>Other</ValueType>
+      </Observation>
+    </Activity>
+  </Claim>
+</Claim.Submission>

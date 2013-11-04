@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="US-ASCII"?><Claim.Submission xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header>
+<SenderID>MF464</SenderID>
+<ReceiverID>C004</ReceiverID>
+<TransactionDate>31/10/2013 16:23</TransactionDate>
+<RecordCount>2</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>APM-798048</ID>
+<IDPayer>798048</IDPayer>
+<MemberID>097110170025404801</MemberID>
+<PayerID>A019</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>1383.5</Gross>
+<PatientShare>537.5</PatientShare>
+<Net>846</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>78985/01</PatientID>
+<Start>12/03/2013 00:00</Start>
+<End>12/03/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>521.02</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>522.0</Code>
+</Diagnosis>
+<Activity>
+<ID>4269387</ID>
+<Start>12/03/2013 00:00</Start>
+<Type>6</Type>
+<Code>02601</Code>
+<Quantity>1.0</Quantity>
+<Net>18.0</Net>
+<Clinician>GD5703</Clinician>
+<PriorAuthorizationID>256323</PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>4269388</ID>
+<Start>12/03/2013 00:00</Start>
+<Type>6</Type>
+<Code>23323</Code>
+<Quantity>2.0</Quantity>
+<Net>520.0</Net>
+<Clinician>GD5703</Clinician>
+<PriorAuthorizationID>256323</PriorAuthorizationID>
+<Observation>
+<Type>Universal Dental</Type>
+<Code>30</Code>
+<Value>NA</Value>
+<ValueType>NA</ValueType>
+</Observation>
+<Observation>
+<Type>Universal Dental</Type>
+<Code>31</Code>
+<Value>NA</Value>
+<ValueType>NA</ValueType>
+</Observation>
+</Activity>
+<Activity>
+<ID>4269389</ID>
+<Start>12/03/2013 00:00</Start>
+<Type>6</Type>
+<Code>27201</Code>
+<Quantity>1.0</Quantity>
+<Net>232.8</Net>
+<Clinician>GD5703</Clinician>
+<PriorAuthorizationID>256323</PriorAuthorizationID>
+<Observation>
+<Type>Universal Dental</Type>
+<Code>31</Code>
+<Value>NA</Value>
+<ValueType>NA</ValueType>
+</Observation>
+</Activity>
+<Activity>
+<ID>4269390</ID>
+<Start>12/03/2013 00:00</Start>
+<Type>6</Type>
+<Code>33131</Code>
+<Quantity>1.0</Quantity>
+<Net>75.2</Net>
+<Clinician>GD5703</Clinician>
+<PriorAuthorizationID>256323</PriorAuthorizationID>
+<Observation>
+<Type>Universal Dental</Type>
+<Code>31</Code>
+<Value>NA</Value>
+<ValueType>NA</ValueType>
+</Observation>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>02601:copayment was collected correctly, 20% on the gross which reflect the amount after discount. please reprocess the rejected amount&#13;
+23323:kindly be informed that the code 23323 was approved within the approval letter we received from your end, therefore it was grantee of coverage and payment, please reprocess the case accordingly&#13;
+27201:copayment was collected correctly, 20% on the gross which reflect the amount after discount. please reprocess the rejected amount&#13;
+33131:copayment was collected correctly, 20% on the gross which reflect the amount after discount. please reprocess the rejected amount</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Arabia Insurance - MedNet</PackageName>
+</Contract>
+</Claim>
+<Claim>
+<ID>APM-798104</ID>
+<IDPayer>798104</IDPayer>
+<MemberID>097110170025404801</MemberID>
+<PayerID>A019</PayerID>
+<ProviderID>MF464</ProviderID>
+<EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber>
+<Gross>680</Gross>
+<PatientShare>136</PatientShare>
+<Net>544</Net>
+<Encounter>
+<FacilityID>MF464</FacilityID>
+<Type>1</Type>
+<PatientID>79985/01</PatientID>
+<Start>20/03/2013 00:00</Start>
+<End>20/03/2013 00:00</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+<TransferSource/>
+<TransferDestination/>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>521.02</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>523.10</Code>
+</Diagnosis>
+<Activity>
+<ID>4270489</ID>
+<Start>20/03/2013 00:00</Start>
+<Type>6</Type>
+<Code>23314</Code>
+<Quantity>2.0</Quantity>
+<Net>544.0</Net>
+<Clinician>GD5703</Clinician>
+<PriorAuthorizationID>257073</PriorAuthorizationID>
+<Observation>
+<Type>Universal Dental</Type>
+<Code>8</Code>
+<Value>NA</Value>
+<ValueType>NA</ValueType>
+</Observation>
+<Observation>
+<Type>Universal Dental</Type>
+<Code>9</Code>
+<Value>NA</Value>
+<ValueType>NA</ValueType>
+</Observation>
+</Activity>
+<Resubmission>
+<Type>internal complaint</Type>
+<Comment>23314:Missing payments on remittances , kindly reprocess.</Comment>
+</Resubmission>
+<Contract>
+<PackageName>Arabia Insurance - MedNet</PackageName>
+</Contract>
+</Claim>
+</Claim.Submission>

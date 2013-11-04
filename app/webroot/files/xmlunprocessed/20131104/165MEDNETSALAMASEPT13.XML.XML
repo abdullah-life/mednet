@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+  <SenderID>PF1252</SenderID>
+  <ReceiverID>C004</ReceiverID>
+  <TransactionDate>14/10/2013 18:11</TransactionDate>
+  <RecordCount>3</RecordCount>
+  <DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>10C73472</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00452988 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1252</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>48.46</Gross>
+ <PatientShare>0</PatientShare>
+ <Net>48.46</Net>
+<Encounter>
+<FacilityID>PF1252</FacilityID>
+<Type>1</Type>
+<PatientID>10C73472</PatientID>
+<Start>14/09/2013 18:19</Start>
+<End>14/09/2013 18:19</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>477.9</Code>
+</Diagnosis>
+<Activity>
+<ID>1</ID>
+<Start>14/09/2013 18:19</Start>
+<Type>5</Type>
+<Code>1711-4572-007</Code>
+<Quantity>1</Quantity>
+<Net>16.63</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>2</ID>
+<Start>14/09/2013 18:19</Start>
+<Type>5</Type>
+<Code>1829-4834-001</Code>
+<Quantity>1</Quantity>
+<Net>31.83</Net>
+<Clinician>D5920</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+ </Claim>
+<Claim>
+<ID>10C74700</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1078 00453397 01</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1252</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>43.24</Gross>
+ <PatientShare>0</PatientShare>
+ <Net>43.24</Net>
+<Encounter>
+<FacilityID>PF1252</FacilityID>
+<Type>1</Type>
+<PatientID>10C74700</PatientID>
+<Start>19/09/2013 10:28</Start>
+<End>19/09/2013 10:28</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>780.60</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>599.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>691.0</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>460</Code>
+</Diagnosis>
+<Activity>
+<ID>3</ID>
+<Start>19/09/2013 10:28</Start>
+<Type>5</Type>
+<Code>1592-1540-001</Code>
+<Quantity>1</Quantity>
+<Net>19.48</Net>
+<Clinician>GD6329</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>4</ID>
+<Start>19/09/2013 10:28</Start>
+<Type>5</Type>
+<Code>1472-1058-001</Code>
+<Quantity>1</Quantity>
+<Net>6.18</Net>
+<Clinician>GD6329</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>5</ID>
+<Start>19/09/2013 10:28</Start>
+<Type>5</Type>
+<Code>1268-1215-002</Code>
+<Quantity>1</Quantity>
+<Net>6.18</Net>
+<Clinician>GD6329</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+<Activity>
+<ID>6</ID>
+<Start>19/09/2013 10:28</Start>
+<Type>5</Type>
+<Code>1465-1800-001</Code>
+<Quantity>1</Quantity>
+<Net>11.4</Net>
+<Clinician>GD6329</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+ </Claim>
+<Claim>
+<ID>10C75613</ID>
+<IDPayer></IDPayer>
+<MemberID>0971 1033 00416784 02</MemberID>
+<PayerID>A020</PayerID>
+<ProviderID>PF1252</ProviderID>
+ <EmiratesIDNumber>111-1111-1111111-1</EmiratesIDNumber>
+ <Gross>36.58</Gross>
+ <PatientShare>0</PatientShare>
+ <Net>36.58</Net>
+<Encounter>
+<FacilityID>PF1252</FacilityID>
+<Type>1</Type>
+<PatientID>10C75613</PatientID>
+<Start>23/09/2013 13:13</Start>
+<End>23/09/2013 13:13</End>
+<StartType>1</StartType>
+<EndType>1</EndType>
+</Encounter>
+<Diagnosis>
+<Type>Principal</Type>
+<Code>380.16</Code>
+</Diagnosis>
+<Diagnosis>
+<Type>Secondary</Type>
+<Code>477.8</Code>
+</Diagnosis>
+<Activity>
+<ID>7</ID>
+<Start>23/09/2013 13:13</Start>
+<Type>5</Type>
+<Code>1465-2837-001</Code>
+<Quantity>1</Quantity>
+<Net>36.58</Net>
+<Clinician>GD9807</Clinician>
+<PriorAuthorizationID></PriorAuthorizationID>
+</Activity>
+ </Claim>
+</Claim.Submission>

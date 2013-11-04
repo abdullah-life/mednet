@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/DataDictionary.xsd">
+<Header>
+<SenderID>MF899</SenderID> 
+<ReceiverID>C004</ReceiverID> 
+<TransactionDate>03/11/2013 13:19</TransactionDate> 
+<RecordCount>1</RecordCount>
+<DispositionFlag>PRODUCTION</DispositionFlag>
+</Header>
+<Claim>
+<ID>Y6-OP-A009-OCTOBER2013-SUBMISSION-1</ID><MemberID>097110030040879401</MemberID><PayerID>A009</PayerID><ProviderID>MF899</ProviderID><EmiratesIDNumber>000-0000-0000000-0</EmiratesIDNumber><Gross>225</Gross><PatientShare>45</PatientShare><Net>180</Net><Encounter>
+<FacilityID>MF899</FacilityID><Type>1</Type><PatientID>87104</PatientID><Start>12/10/2013 15:57</Start><End>12/10/2013 16:57</End><StartType>1</StartType></Encounter>
+<Diagnosis>
+<Type>Principal</Type><Code>521.00</Code></Diagnosis>
+<Activity>
+<ID>1</ID><Start>12/10/2013 15:57</Start><Type>6</Type><Code>21213</Code><Quantity>1</Quantity><Net>180</Net><Clinician>D2053</Clinician><PriorAuthorizationID>S2383595278979</PriorAuthorizationID><Observation>
+<Type>Universal Dental</Type><Code>12</Code></Observation>
+</Activity>
+</Claim>
+
+</Claim.Submission>

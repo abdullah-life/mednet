@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Claim.Submission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+  <Header>
+    <SenderID>PF1489</SenderID>
+    <ReceiverID>C004</ReceiverID>
+    <TransactionDate>24/10/2013 04:28</TransactionDate>
+    <RecordCount>1</RecordCount>
+    <DispositionFlag>PRODUCTION</DispositionFlag>
+  </Header>
+  <Claim>
+    <ID>SP30232808</ID>
+    <IDPayer />
+    <MemberID>0971 1003 00379831 02</MemberID>
+    <PayerID>A009</PayerID>
+    <ProviderID>PF1489</ProviderID>
+    <EmiratesIDNumber>999-9999-9999999-9</EmiratesIDNumber>
+    <Gross>990.50</Gross>
+    <PatientShare>0.00</PatientShare>
+    <Net>990.50</Net>
+    <Encounter>
+      <FacilityID>PF1489</FacilityID>
+      <Type>1</Type>
+      <PatientID>110144835</PatientID>
+      <Start>16/09/2013 19:45</Start>
+      <End>16/09/2013 19:45</End>
+      <StartType>1</StartType>
+      <EndType>1</EndType>
+    </Encounter>
+    <Diagnosis>
+      <Type>Principal</Type>
+      <Code>617.1</Code>
+    </Diagnosis>
+    <Diagnosis>
+      <Type>Secondary</Type>
+      <Code>617.9</Code>
+    </Diagnosis>
+    <Activity>
+      <ID>39994228</ID>
+      <Start>16/09/2013 19:45</Start>
+      <Type>5</Type>
+      <Code>1461-1821-002</Code>
+      <Quantity>1.00</Quantity>
+      <Net>990.50</Net>
+      <Clinician>GD11164</Clinician>
+      <PriorAuthorizationID>276099</PriorAuthorizationID>
+    </Activity>
+    <Contract>
+      <PackageName>Ras Al Khaimah Ins Mednet</PackageName>
+    </Contract>
+  </Claim>
+</Claim.Submission>
